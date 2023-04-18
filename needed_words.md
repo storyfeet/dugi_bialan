@@ -10,6 +10,11 @@ Lightning/Electric
 Metal
 Vehicle
 kind/type
+Wolf/Tiger
+Cover
+Top
+
+
 
 Adjectives/Comparables
 ---------
