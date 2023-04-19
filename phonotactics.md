@@ -1,7 +1,7 @@
 Phonotactics
 =============
 
-word : C? (Va F? C)? Vb F?
+word : C? (Va F? C)* Vb F?
 
 C (Consonant) : [w,t,p,s,l,f,h,k,ch,n,m]
 
