@@ -13,7 +13,8 @@ kind/type
 Wolf/Tiger
 Cover
 Top
-
+Sheet
+Random
 
 
 Adjectives/Comparables
