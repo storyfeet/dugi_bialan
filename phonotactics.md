@@ -5,11 +5,11 @@ word : C? (Va F? C)* Vb F?
 
 C (Consonant) : [w,t,p,s,l,f,h,k,ch,n,m]
 
-Va (Vowel a) : [a, e  ,u, ai, eu , oi ]
+Va (Vowel a) : [a, e  ,u, ai, oi ]
 
-Vb (Vowel b) : [i, o, io,  iu, ei, ia ]
+Vb (Vowel b) : [i, o, io, ei, ia, au ]
 
-F (Final) : [n,s,t] 
+F (Final) : [n,s]
 
 notes
 ----
@@ -27,7 +27,7 @@ alasa -> alasi
 ale -> uli 
 anpa -> anpia
 ante -> antei 
-anu -> iu
+anu -> au 
 awen -> awein
 esun -> esin
 ijo -> chio
