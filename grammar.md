@@ -25,12 +25,16 @@ do subject = The subject is a verb
 subject do = The subject is a doer of the verb
 do object = the object is a verb
 
-Verbs act on everything before them.
+There is no strict order on a a sentence, even verbs. 
+If no particle is given, the first item is assumed to be the subject.
 
 EN:I like swimming
 TB:-SUB i -DO -OB go water -V like
+mi li punia taung
 
 Subject Marker can be ignored at beginning of sentence
+
+mi 
 
 Questions
 ---------
