@@ -43,32 +43,32 @@ aus [particle]
 Questions
 ---------
 
-The key particle for questions is "ga"
+The key particle for questions is "agi"
 
-"ga" At the start of a sentence makes it a question. 
+"agi" At the start of a sentence makes it a question. 
 If no question words (semi/ani) the question is boolean.
 
--- ga sina li bonia daum mi? 
+-- agi sina li bonia daum mi? 
 .. do you like me? (Are you good from me?)
 
 
-To ask an information question, "ga" is followed by the particle you wish to know, then put "semi" belonging to that particle. 
+To ask an information question, "agi" is followed by the particle you wish to know, then put "semi" belonging to that particle. 
 Again if that particle would be the subject, the marker "i". it is not needed
 
--- ga lon semi?    
+-- agi lon semi?    
 .. Where
 
--- ga i semi li dawi?
+-- agi semi li dawi?
 .. Who is going?
 
--- ga daun semi i sin wei zion.
+-- agi daun semi i sin wei zion.
 .. how do you know?
 
--- ga wei semi i sin gin elein lawau mi
+-- agi wei semi i sin gin elein lawau mi
 .. What are you doing with my hat?
 ?? QN DO what SUB you WITH hat me
 
--- ga gin nasin semi wei pali ei bengo
+-- agi gin nasin semi wei pali ei bengo
 .. How does one make a car
 ?? QN WITH way what DO make OB vehicle?
 
