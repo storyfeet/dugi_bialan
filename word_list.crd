@@ -6,7 +6,6 @@ alasa alasi
 ale uli 
 anpa anpia
 ante antei 
-anu au 
 apeja apei
 awen awein
 esun esin
@@ -67,9 +66,11 @@ monsi
 .back : mon
 .bum : lamon
 monsuta mansuto
-mu
-mun
-musi
+mu : mau
+mun muni
+musi 
+.play : musi
+.art : zansi
 mute
 namako
 nanpa
@@ -86,7 +87,7 @@ olin
 open
 pakala
 pake
-pali
+pali bali
 palisa
 pan
 pilin
@@ -96,7 +97,8 @@ pipi
 poka
 poki
 pona
-.good punia
+.good bunia
+.skilled lebuni
 pu
 sama
 seli
@@ -107,6 +109,7 @@ sike
 sin 
 sinpin
 sitelen
+sona zion
 soweli sow
 .fluffy: tawipo
 .fierce: chian
@@ -117,11 +120,16 @@ supa
 suwi
 tan
 taso
-tawa tawin
-telo telo
+tawa dawin
+telo
+.water : delo
+.oil : deli
 tenpo tin
-toki
+toki dugi
 tomo
+.building : mengi
+.room : doimo
+.vehicle : bengo
 tonsi
 tu
 unpa
