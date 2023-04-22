@@ -1,0 +1,222 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2023, Matthew Stoodley
+UComments: "2023-4-21: Created with FontForge (http://fontforge.org)+AAoACgAA-A font primarily for Tugi Balain, a simplistic language of Balance.+AAoACgAA-Chars should start at u+-E100+AAoACgAA-words at u+-e130+AAoA"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 281 1886307050 7559614]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1682106083
+ModificationTime: 1682108466
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 57538 26 10
+BeginPrivate: 0
+EndPrivate
+BeginChars: 1114112 5
+
+StartChar: uniE100
+Encoding: 57600 57600 0
+Width: 1000
+InSpiro: 1
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+520 0 m 1024
+  Spiro
+    520 0 {
+    0 0 z
+  EndSpiro
+390 660 m 0
+ 388 0 l 0
+ 520 0 l 0
+ 512 802 l 0
+ 396 795 l 0
+ 169 606 l 0
+ 244 510 l 0
+ 390 660 l 0
+  Spiro
+    390 660 v
+    388 0 v
+    520 0 v
+    512 802 v
+    396 795 v
+    169 606 v
+    244 510 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+
+StartChar: uniE101
+Encoding: 57601 57601 1
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+211 0 m 1024
+  Spiro
+    211 0 {
+    0 0 z
+  EndSpiro
+341 660 m 0
+ 343 0 l 0
+ 211 0 l 0
+ 219 802 l 0
+ 335 795 l 0
+ 562 606 l 0
+ 487 510 l 0
+ 341 660 l 0
+  Spiro
+    341 660 v
+    343 0 v
+    211 0 v
+    219 802 v
+    335 795 v
+    562 606 v
+    487 510 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+
+StartChar: uniE102
+Encoding: 57602 57602 2
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+400 796 m 1024
+  Spiro
+    400 796 {
+    0 0 z
+  EndSpiro
+530 136 m 0
+ 532 796 l 0
+ 400 796 l 0
+ 408 -6 l 0
+ 524 1 l 0
+ 751 190 l 0
+ 676 286 l 0
+ 530 136 l 0
+  Spiro
+    530 136 v
+    532 796 v
+    400 796 v
+    408 -6 v
+    524 1 v
+    751 190 v
+    676 286 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+
+StartChar: uniE103
+Encoding: 57603 57603 3
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+557 799 m 1028
+  Spiro
+    557 799 {
+    0 0 z
+  EndSpiro
+427 139 m 4
+ 425 799 l 4
+ 557 799 l 4
+ 549 -3 l 4
+ 433 4 l 4
+ 206 193 l 4
+ 281 289 l 4
+ 427 139 l 4
+  Spiro
+    427 139 v
+    425 799 v
+    557 799 v
+    549 -3 v
+    433 4 v
+    206 193 v
+    281 289 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+
+StartChar: uniE104
+Encoding: 57604 57604 4
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+456 538 m 1024
+  Spiro
+    456 538 {
+    0 0 z
+  EndSpiro
+520 0 m 1024
+  Spiro
+    520 0 {
+    0 0 z
+  EndSpiro
+390 660 m 0
+ 388 0 l 0
+ 520 0 l 0
+ 512 802 l 0
+ 396 795 l 0
+ 169 606 l 0
+ 244 510 l 0
+ 390 660 l 0
+  Spiro
+    390 660 v
+    388 0 v
+    520 0 v
+    512 802 v
+    396 795 v
+    169 606 v
+    244 510 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
