@@ -16,6 +16,7 @@ Top
 Sheet
 Random
 Bean
+--exit
 
 
 Adjectives/Comparables

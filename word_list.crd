@@ -42,8 +42,8 @@ leko lego
 len elein
 lete letei
 lili
-.small leli
-.child 
+.small : leli
+.child : zi
 linja lania
 lipu lebo
 loje loizi
@@ -64,7 +64,8 @@ moli mali
 monsi
 .back : mon
 .bum : lamon
-monsuta mansuto
+.exit : zugo
+monsuta mansudo
 mu : mau
 mun muni
 musi 
@@ -112,7 +113,7 @@ selo selo
 sewi zewi
 sijelo soizio
 sike segei
-sin zin
+sin zian
 sinpin senbin
 sitelen sedelin
 sona zion
@@ -142,14 +143,20 @@ tomo
 .vehicle : bengo
 tonsi : denso
 unpa unpia
-uta 
-utala
-walo
-wan
+uta unman
+utala udali
+walo walo
 waso
+.wing: wasis
+.bird: waso
 wawa
-weka
+.mighty: wawi
+.electric: bawi
+weka: wekia
 wile
+.want welei
+.must zeli
+
 
 
 
