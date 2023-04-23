@@ -5,9 +5,9 @@ Every word in Toki Pona will be needed, though the words may not be the same.
 
 Nouns/Verbs
 ----
-Self
+--Self
 Lightning/Electric
-Metal
+--Metal
 Vehicle
 kind/type
 Wolf/Tiger
@@ -15,16 +15,18 @@ Cover
 Top
 Sheet
 Random
+Bean
 
 
 Adjectives/Comparables
 ---------
 Opposite 
 
+
 big
 wide
 round
-
+full
 
 
 Particles

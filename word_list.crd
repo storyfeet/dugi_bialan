@@ -83,43 +83,53 @@ noka
 .leg leig
 oko oigos
 olin lian
-open begin
+open
+.start : begin
+.open : oibin
 pakala pakial
 pake bakei
 pali bali
 palisa belesi
-pan  
+pan bein
 pilin
-pimeja
-pini
-pipi
-poka
-poki
+.core : gulin
+.heart: pelin
+pimeja pemia
+pini beni
+pipi bubi
+poka biog
+poki bugi
 pona
 .good bunia
 .skilled lebuni
 .balanced balian
-pu
-sama
-seli
-selo
-sewi
-sijelo
-sike
-sin 
-sinpin
-sitelen
+pu 
+.tokipona bubusi
+.dugibalian bubumi
+sama samia
+seli zio
+selo selo
+sewi zewi
+sijelo soizio
+sike segei
+sin zin
+sinpin senbin
+sitelen sedelin
 sona zion
 soweli sow
 .fluffy: tawipo
 .fierce: chian
 .docile: saweli
-suli
-suno
+suli suli
+suno suno
 supa
-suwi
-tan
-taso
+.ontop : subi
+.over : munin
+.platform 
+suwi 
+.sweet suwi
+.salty sadei
+.bitter bubabo
 tawa dawin
 telo
 .water : delo
@@ -130,10 +140,9 @@ tomo
 .building : mengi
 .room : doimo
 .vehicle : bengo
-tonsi
-tu
-unpa
-uta
+tonsi : denso
+unpa unpia
+uta 
 utala
 walo
 wan
