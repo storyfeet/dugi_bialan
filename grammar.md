@@ -88,6 +88,15 @@ Verb that happened to subject
 .. Once, there was a person
 ?? AT time one DO AT SUB person
 
+### iala : Not
+"iala" after a particle, says the whole coming particle is false.
+
+-- mi wei iala giawin
+.. I'm not going / I don't go
+
+-- is i li iala buna
+.. She is not good
+
 
 
 The Pronoun "is"
