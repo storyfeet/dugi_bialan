@@ -15,6 +15,9 @@ Vb (Vowel b) : [i, o, io, ei, a  ]
 F (Final) : [n,s]
 
 
+Words cannot start with "a"
+
+
 Particles
 ---------
 
