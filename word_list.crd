@@ -1,136 +1,137 @@
 @param main
-a ia
-akesi akei
-ala alio
+a a
+akesi iagei
+ala iala
 alasa alasi
-anpa anpia
-ante antei 
-apeja apei
-awen awein
+anpa ianba
+ante undei 
+apeja upei
+awen uwein
 esun esin
 ijo zio
-ike eki
+ike egi
 ilo elio
 insa ensi
-jaki aki
-jan ian
-jelo alo 
+jaki iagi
+jan an
+jelo ulo 
 jo io
-kala kalei
-kalama kalami
-kama kamo
-kasi kasi
-ken kein
-kepeken kepin
-kili keli
-kipisi kepesi
+kala galei
+kalama gelumi
+kama gamo
+kasi giasi
+ken gein
+kepeken gebin
+kili geli
+kipisi gebesi
 kiwen
-.hard: kion
-.metal : chin
-.tooth : keki
-ko ko
-kon kon
-kule kulei 
-kute kut
+.hard: gion
+.metal : zin
+.tooth : gegi
+ko go
+kon gon
+kule gulei 
+kute gutei
 lanpan
-lape lapei
+lape liabei
 laso 
 .green : uso
-.blue : laso
-lawa lawau
+.blue : liaso
+lawa liawa
 leko lego
 len elein
 lete letei
 lili
 .small : leli
 .child : zi
-linja lania
+linja liana
 lipu lebo
 loje loizi
 lon lon
-luka lakei
+luka luga
 lukin lukin
 lupa luli
 ma man
 majuno mazuni
-mama mia
-mani mani
+mama ma
+mani miani
 meli min
-meso memaso
+meso memuso
 mije mon
-misikeke masagegi
-moku mion
-moli mali
+misikeke miasegegi
+moku mugo
+moli moili
 monsi
 .back : mon
-.bum : lamon
+.bum : liamon
 .exit : zugo
-monsuta mansudo
-mu : mau
+monsuta moinseda
+mu muwa
 mun muni
 musi 
 .play : musi
-.art : zansi
-namako namago
+.art : ziansi
+namako niamego
 nanpa numio
 nasa
 .random: pusi
-.mad: nasau
-nasin nasin
+.mad: niasa
+nasin niasin
 nena nein
 nimi nom
 noka 
-.foot nog
-.leg leig
+.foot noiga
+.leg lei
 oko oigos
-olin lian
+olin lin
 open
 .start : begin
-.open : oibin
-pakala pakial
-pake bakei
+.open : ubin
+pakala biagela
+pake biagei
 pali bali
 palisa belesi
 pan bein
 pilin
 .core : gulin
 .heart: pelin
-pimeja pemia
+pimeja pemewa
 pini beni
 pipi bubi
 poka biog
 poki bugi
 pona
-.good bunia
+.good buna
 .skilled lebuni
-.balanced balian
+.balanced bialan
 pu 
 .tokipona bubusi
-.dugibalian bubumi
-sama samia
+.dugibialan bubumi
+sama siama
 seli zio
 selo selo
 sewi zewi
 sijelo soizio
 sike segei
-sin zian
+sin zan
 sinpin senbin
 sitelen sedelin
 sona zion
 soweli sow
-.fluffy: tawipo
+.fluffy: tewipo
 .fierce: chian
-.docile: saweli
+.docile: siali
 suli suli
 suno suno
 supa
 .ontop : subi
 .over : munin
-.platform 
+.surface : zugi
+.cover : siala
 suwi 
 .sweet suwi
-.salty sadei
-.bitter bubabo
+.salty siadei
+.bitter bubiabo
 tawa dawin
 telo
 .water : delo
@@ -142,7 +143,7 @@ tomo
 .room : doimo
 .vehicle : bengo
 tonsi : denso
-unpa unpia
+unpa unba
 uta unman
 utala udali
 walo walo
@@ -151,7 +152,7 @@ waso
 .bird: waso
 wawa
 .mighty: wawi
-.electric: bawi
+.electric: biawi
 weka: wekia
 wile
 .want welei

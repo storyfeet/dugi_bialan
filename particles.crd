@@ -4,7 +4,7 @@ subject i
 object ei 
 is li
 "for,to" dia
-"from,because" daun
+"from,because" dan
 "with,using" gin
 "at" lon
 "of,pi" bi
@@ -25,7 +25,7 @@ escape_particle badago
 # Pronouns
 Me mi
 You sin
-they_part aus
+they_part as
 they_main wi
 this ni
 that nio
@@ -50,11 +50,11 @@ unit nin
 #measurable
 Opposite/lack zasi
 
-distance dau
+distance da
 time tin
-mass zau
+mass za
 brightness suni
-current dabawi
+current debiawi
 
 
 
