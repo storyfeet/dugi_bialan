@@ -39,9 +39,7 @@ If no particle is given, the first item is assumed to be the subject.
 .. I like swimming
 ?? i AT water AM happy
 
-Subject Marker can be ignored at beginning of sentence
 
-aus [particle] 
 
 Questions
 ---------
@@ -74,4 +72,32 @@ Again if that particle would be the subject, the marker "i". it is not needed
 -- agi gin nasin semi wei pali ei bengo
 .. How does one make a car
 ?? QN WITH way what DO make OB vehicle?
+
+particle combination
+-----------
+
+### li wei : passive form
+
+Verb that happened to subject
+
+-- mi li wei mugo
+.. I am eaten
+
+### wei lon : Exist
+-- lon tin won wei lon i zan 
+.. Once, there was a person
+?? AT time one DO AT SUB person
+
+
+
+The Pronoun "is"
+--------------
+"is" is the general pronoun for anyone or anything in a previous sentence. It is always followed by a particle, to mark which person from the last sentence we are talking about.
+
+-- Zan leli li dugi da zan suli. is i li belin buna.
+.. The child speaks to the adult. The child is happy.
+
+-- Zan leli li dugi da zan suli. is da li belin buna.
+.. The child speaks to the adult. The adult is happy.
+
 
