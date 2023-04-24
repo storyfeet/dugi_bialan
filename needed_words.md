@@ -6,15 +6,15 @@ Every word in Toki Pona will be needed, though the words may not be the same.
 Nouns/Verbs
 ----
 --Self
-Lightning/Electric
+--Lightning/Electric
 --Metal
-Vehicle
+--Vehicle
 kind/type
-Wolf/Tiger
+--Wolf/Tiger
 Cover
 Top
 Sheet
-Random
+--Random
 Bean
 --exit
 
