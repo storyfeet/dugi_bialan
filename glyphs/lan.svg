@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="giasi.svg"
+   sodipodi:docname="lan.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="94.715597"
-     inkscape:cy="94.715597"
+     inkscape:cx="94.488189"
+     inkscape:cy="101.08303"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,13 +40,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke:none;stroke-width:0.510524;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 23.612405,5.8525061 0.249034,30.1763949 c -4.16128,-7.246684 -6.822068,-7.909476 -9.720072,-8.948441 l -1.435722,3.937891 c 5.739542,2.110003 9.130174,9.239934 12.175671,17.107464 l 3.938632,0.042 -0.895063,-44.0903581 z"
-       id="path289"
-       sodipodi:nodetypes="cccccccc" />
-    <path
+       id="path883"
        style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 29.964145,25.861453 7.738528,-9.114437 -2.219892,-3.396219 -5.821979,7.404982 z"
-       id="path291" />
+       d="M 17.320054,6.7256547 4.8024705,17.308471 4.5471895,24.495629 12.599411,17.05629 C 16.39883,37.553092 11.404265,43.784711 25.858264,43.496703 40.312262,43.208695 44.174575,24.460099 42.992431,9.854501 l -5.087583,0.690037 c 0,0 -0.92722,29.176774 -11.979876,29.102704 C 14.872317,39.573172 17.320054,6.7256547 17.320054,6.7256547 Z"
+       sodipodi:nodetypes="cccczcczc" />
   </g>
 </svg>
