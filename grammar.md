@@ -4,7 +4,7 @@ Grammar
 Phonotactics
 ----------
 
-word : C? (Va F? C)* Vb F?
+word : (?!a) C? (Va F? C)* Vb F?
 
 C (Consonant) : [w,d,b,s,l,dz(z),g,n,m]
 
