@@ -8,9 +8,9 @@ word : (?!a) C? (Va F? C)* Vb F?
 
 C (Consonant) : [w,d,b,s,l,dz(z),g,n,m]
 
-Va (Vowel a) : [ e ,ia,  oi, u ]
+Va (Vowel a) : [ e, oi ,ia, u ]
 
-Vb (Vowel b) : [i, o, io, ei, a  ]
+Vb (Vowel b) : [ ei, o, a , i, io,  ]
 
 F (Final) : [n,s]
 
