@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="94.488189"
-     inkscape:cy="94.488189"
+     inkscape:cx="94.715597"
+     inkscape:cy="94.715597"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,19 +40,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 20.664336,24.641643 4.358455,1.354052 C 40.433938,22.876741 11.802817,7.9674407 30.143555,4.2671184 L 25.971611,2.8862854 C 5.8968922,5.6661468 37.375391,18.974762 20.664336,24.641643 Z"
-       id="path1068"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 13.588717,33.332224 c 8.203277,5.032134 16.406554,5.476244 24.609832,-0.60716"
+       id="path11474"
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 4.1137449,19.162743 5.9324681,-1.453469 c 2.851943,5.601424 5.302561,18.184119 -3.4105971,26.997538 L 2.4858198,42.258424 C 7.3464969,34.718769 11.497874,27.153012 4.1137449,19.162743 Z"
-       id="path1089"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 10.764045,27.852205 c 11.099077,6.599821 21.288448,7.003321 32.418081,-0.692187 l 1.957111,5.822608 C 34.429264,39.488343 22.018059,42.952489 9.2390749,33.310045 Z"
-       id="path1091"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 26.290387,27.573128 C 16.746976,21.097136 36.748161,15.499931 25.760622,6.8965203"
+       id="path13711"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
