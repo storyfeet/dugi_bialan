@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="belesa.svg"
+   sodipodi:docname="akesi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.170414"
-     inkscape:cy="95.170414"
+     inkscape:cx="132.92021"
+     inkscape:cy="81.753319"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,8 +40,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 11.503597,31.594078 v -8.460762 l 27.516254,-0.03808"
-       id="path7041" />
+       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 16.780693,3.4705907 c 0,0 -10.4053142,24.5433593 9.06013,24.2900863 C 45.306268,27.507404 35.249132,3.3490016 35.249132,3.3490016 L 41.9634,1.2350693 c 0,0 7.590635,32.6007797 -16.421695,33.0272527 C 1.5293749,34.688795 10.615406,1.3281394 10.615406,1.3281394 Z"
+       id="path633"
+       sodipodi:nodetypes="czcczcc" />
+    <path
+       id="path1441"
+       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 28.188977,32.501892 -4.418852,0.254765 c 1.431818,5.228564 -2.509755,7.872573 -5.139221,11.265462 l 4.776453,0.22686 c 1.129971,-1.448807 2.251739,-2.902355 3.129008,-4.490682 0.550289,1.626877 1.274617,3.181869 2.500106,4.531506 l 3.616833,-0.391191 C 28.770686,41.501363 28.251877,38.14935 28.303182,33.662028 28.155356,33.446086 28.212111,32.794527 28.188977,32.501892 Z"
+       sodipodi:nodetypes="ccccccccc" />
   </g>
 </svg>
