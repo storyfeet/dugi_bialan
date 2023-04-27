@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="116.5468"
-     inkscape:cy="88.120754"
+     inkscape:cx="116.77421"
+     inkscape:cy="88.348162"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,17 +40,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 18.748541,7.0059811 4.228433,0.25361 0.485424,30.9779679 -2.657519,0.0232 z"
-       id="path363" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 26.815869,18.655925 c -3.873,-0.522797 -10.06617,7.129387 -7.94183,11.612703 2.12433,4.483316 9.76727,4.346132 12.47974,0.41447 2.71247,-3.931658 -0.6649,-11.504376 -4.53791,-12.027173 z"
+       id="path14478"
+       sodipodi:nodetypes="zzzz" />
     <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 26.708448,7.3149157 0.345759,30.9072813 2.405409,-0.08819 0.324845,-30.8757827 z"
-       id="path365" />
+       style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 23.18691,12.381787 -0.01483,24.7956"
+       id="path1525" />
     <path
-       id="path465"
-       style="fill:#000000;stroke:none;stroke-width:0.574658;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 25.851712,11.016582 C 18.337915,10.50828 10.18403,24.439188 13.883723,30.422949 c 3.699693,5.983762 16.324711,5.087526 20.129337,-0.440817 3.804627,-5.528343 -0.647551,-18.457246 -8.161348,-18.96555 z m -0.354097,5.226873 c 5.648286,1.083677 8.575151,7.259927 5.009969,12.06686 -3.565183,4.806933 -10.378282,4.159805 -13.232605,-1.153813 -2.854324,-5.313617 2.574351,-11.996724 8.222636,-10.913047 z"
-       sodipodi:nodetypes="zzzzzzzz" />
+       style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 27.250442,38.19807 28.22626,13.315711"
+       id="path1527" />
   </g>
 </svg>

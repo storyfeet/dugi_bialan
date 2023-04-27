@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="102.9023"
-     inkscape:cy="99.263765"
+     inkscape:cx="100.40081"
+     inkscape:cy="67.881407"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,13 +40,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 5.2619094,9.1986727 18.600581,3.113691 16.315403,41.072933 42.445446,41.23844 42.55374,46.513891 9.2767134,46.044395 13.944569,9.9415744 5.1635134,14.675116 Z"
-       id="path1283"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 21.065065,31.096963 -0.617722,5.760577 21.802546,0.21441 -0.33147,-5.15194 z"
-       id="path1290" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 7.717688,15.813055 14.537433,8.0093154 14.28177,38.620545 42.592421,38.313825"
+       id="path25584"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="6.2188274"
-     inkscape:cx="102.02888"
-     inkscape:cy="89.96873"
+     inkscape:zoom="3.2142681"
+     inkscape:cx="61.444782"
+     inkscape:cy="108.73393"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,18 +40,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path465"
-       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 25.551132,2.3800958 C 19.174966,1.9266338 12.255624,14.354553 15.395163,19.692734 18.534702,25.030915 29.248222,24.231373 32.476807,19.299476 35.705392,14.367579 31.927298,2.8335588 25.551132,2.3800958 Z m -0.300485,4.662952 c 4.793104,0.96676 7.276826,6.4766622 4.251432,10.7649812 -3.025394,4.288319 -8.806952,3.711009 -11.229115,-1.029329 -2.422163,-4.740338 2.18458,-10.7024132 6.977683,-9.7356522 z"
-       sodipodi:nodetypes="zzzzzzzz" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 17.8783,18.105532 C 18.62284,29.373418 40.72028,15.67774 28.88382,9.4395268 20.76488,5.1605518 14.0564,13.925098 18.34312,21.761139 c 4.86679,8.896397 -0.77858,18.046835 -1.29511,17.980775"
+       id="path14457"
+       sodipodi:nodetypes="cssc" />
     <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 15.355931,19.405274 c 2.679456,9.117734 4.38184,18.041569 -0.664811,25.62606 l 2.765772,2.866705 c 5.0191,-9.584474 4.76428,-19.935429 1.406152,-29.858945 z"
-       id="path391"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke-width:0.567971;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 30.600397,22.593047 -1.436843,5.998274 -1.691187,-4.856211 -2.393842,0.341357 4.417076,9.488758 3.252617,-12.630201 z"
-       id="path1161" />
+       style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 31.901015,20.016079 -2.21972,7.999304 -3.507277,-4.138548"
+       id="path2699" />
   </g>
 </svg>

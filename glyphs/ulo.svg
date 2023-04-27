@@ -40,13 +40,26 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path465"
-       style="fill:#000000;stroke:none;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 25.437764,10.487722 C 19.061598,10.03426 12.142256,22.462179 15.281795,27.80036 c 3.139539,5.338181 13.853059,4.538639 17.081644,-0.393258 3.228585,-4.931897 -0.549509,-16.465917 -6.925675,-16.91938 z m -0.300485,4.662952 c 4.793104,0.96676 7.276826,6.476662 4.251432,10.764981 -3.025394,4.288319 -8.806952,3.711009 -11.229115,-1.029329 -2.422163,-4.740338 2.18458,-10.702413 6.977683,-9.735652 z"
-       sodipodi:nodetypes="zzzzzzzz" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 26.312349,13.428538 c -3.873,-0.522797 -10.06617,7.129387 -7.94183,11.612703 2.12433,4.483316 9.76727,4.346132 12.47974,0.41447 2.71247,-3.931658 -0.6649,-11.504376 -4.53791,-12.027173 z"
+       id="path14478"
+       sodipodi:nodetypes="zzzz" />
     <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 5.2312931,35.614189 43.918305,35.753381 44.04734,40.071469 4.2651932,39.000303 Z"
-       id="path2063" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 8.8995478,42.676136 16.1049582,-9.756857 13.9856,9.734782"
+       id="path9972" />
+    <g
+       id="g4581">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         d="M 7.8965663,3.4318504 7.7237693,21.421222"
+         id="path4148"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         d="M 3.3912647,8.0362348 24.135037,7.6964502"
+         id="path4150"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
 </svg>

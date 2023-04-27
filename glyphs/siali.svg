@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="94.715597"
-     inkscape:cy="94.715597"
+     inkscape:cx="94.943006"
+     inkscape:cy="94.943006"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,19 +40,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;stroke:none;stroke-width:0.436143;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 17.000815,14.381573 c 0,0 -9.3649732,20.749254 8.154282,20.535133 17.519256,-0.21412 8.46765,-20.637926 8.46765,-20.637926 l 6.042964,-1.787143 c 0,0 6.83171,27.561093 -14.779825,27.921639 C 3.2743499,40.773821 11.451944,12.570319 11.451944,12.570319 Z"
-       id="path633"
-       sodipodi:nodetypes="czcczcc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 17.175575,19.849891 c 0,0 -4.748873,20.326564 -0.360838,22.194066 4.388037,1.8675 10.678949,2.012228 15.801767,-0.518675 5.122815,-2.530901 -2.588977,-21.751044 -2.588977,-21.751044"
+       id="path563"
+       sodipodi:nodetypes="czzc" />
     <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 5.0107898,27.557086 10.115501,31.90212 10.70427,44.183896 6.2513935,44.728267 Z"
-       id="path708"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#000000;stroke-width:0.499999;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 40.855764,31.890459 5.027108,-3.679433 0.891014,16.795954 -4.452876,0.544371 z"
-       id="path708-6"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 12.361948,10.158393 3.179181,7.215222 16.61115,-0.381721 2.41385,-7.0167454"
+       id="path9987" />
   </g>
 </svg>
