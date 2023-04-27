@@ -1,118 +1,105 @@
-@param main
-a ba
-akesi iagei
-ala iala
-alasa eliasi
-anpa ianda
-ante endei 
-apeja ubei
-awen
-.stand: uwein
-."rest,peace": uwiani
-esun esin
-ijo zio
-ike egi
-ilo elio
-insa ensa
-jaki iagi
-jan zan
-jelo ulo 
-jo io
-kala galei
-kalama giama
-kama guma
-kasi
-.tree giasi
-.flower giala
-ken gein
-kepeken gebin
-kili 
-.fruit geli
-.veg beba
-kipisi gebesi
-kiwen
-.hard: gion
-.metal : zin
-.tooth : besi
-ko goigo
-kon gon
-kule gulei 
-kute gudei
-lanpan leban
-lape liabei
-laso 
-.green : uso
-.blue : liaso
-lawa liawa
-leko lego
-len elein
-lete letei
-lili
-.small : leli
-.child : zi
-linja liana
-lipu lebo
-loje loizi
-lon lon
-luka luga
-lukin lugin
-lupa luli
-ma man
-majuno mazuni
-mama ma
-mani miani
-meli min
-meso memuso
-mije mon
-misikeke miasegegi
-moku mugo
-moli moili
-monsi
-.back : mon
-.bum : liamon
-.exit : zugo
-monsuta moinseda
-mu muwa
-mun muni
-musi 
-.play : musi
-.art : ziansi
-namako niamego
-nanpa numio
-nasa
-.random: pusi
-.mad: niasa
-nasin niasin
-nena nein
-nimi nom
-noka 
-.foot noiga
-.leg lei
-olin lin
-open
-.start : begin
-.open : ubin
-pakala biagela
-pake biagei
-pali buli
-palisa belesa
-pan bein
-pana bena
-pilin
-.core : gulin
-.heart: belin
-pimeja bemei
-pini beni
-pipi bubi
-poka biog
-poki bugi
-pona
-.good buna
-.skilled lebuni
-.balanced bialan
-pu 
-.tokipona bubusi
-.dugibialan bubumi
+@param en tags
+ba [ah] [exclaim,a] 
+egesi [reptile] [animal,akesi]
+iala [not,none] [ala]
+eliasi [hunt,search] [alasa]
+unda [under,down] [prep,anpa]
+endei [different] [ante] 
+ubei [shame,guilt] [apeja] 
+uwein [stand,wait] [awen]
+wiani [rest,peace] [awen,lape] 
+esin [trade,buy,sell] [esin]
+zio [thing] [ijo]
+egi [bad] [ike]
+elio [tool] [ilo]
+ensa [inside] [ensa]
+iagi [yucky,"bad tasting"] [jaki]
+zan [person] [jan]
+ulo [yellow] [jelo]
+io [have,hold] [jo]
+galei [fish] [kala]
+giama [noise] [fish]
+guma [come,become,arrive] [kama]
+giasi [tree] [kasi]
+giala [flower] [kasi]
+gein [can,able] [ken]
+gebin [use] [kepeken]
+geli [fruit] [kili]
+beba [vegetable] [kili]
+din [cut, divide] [kipisi]
+gion [hard,rock] [kiwen]
+zin [metal] [kiwen]
+gedin [tooth,horn] [kiwen]
+goigo [clay,dirt,earth] [ko]
+gon [air,breath] [kon]
+gulei [color] [kule]
+gudei [listen,hear,obey] [kute]
+leban [take] [lanpan]
+laibei [sleep] [lape]
+uso [green] [laso]
+liaso [blue] [laso]
+liawa [head,control] [lawa]
+lego [brick] [leko]
+elein [cloth] [len]
+letei [cold] [lete]
+leli [small] [lili]
+zi [child,offspring] [lili]
+liana [line,cord,string] [linja]
+lebo [book,document] [lipu]
+loizi [red] [loje]
+lon [in,at] [lon,particle]
+luga [hand] [luka]
+lugin [look,see,eye] [lukin,oko]
+luli [hole,door,entrance] [luli]
+man [place] [ma]
+mazuni [old,ancient] [majuno]
+ma [parent] [mama]
+miani [money,wealth] [mani]
+min [female,feminine] [meli] 
+memuso [average] [meso,measure]
+mon [male] [mije]
+miasegegi [medicine] [misikeke]
+mugo [food,consume] [moku]
+moili [die,death] [moli]
+moni [back] [monsi]
+liamon [bum,ass] [monsi]
+zugo [exit] [monsi,weka]
+moinseda [monster,fear,scary] [monsuta]
+muwa [moo,"animal noise"] [mu]
+muni [moon] [mun]
+musi [play] [musi]
+ziansi [art] [musi]
+niamego [spicy,interesting,flavour,type] [namako]
+numio [number] [nanpa]
+pusi [random] [nasa]
+niasa [mad,wild] [nasa]
+niasin [way,path] [nasin]
+nein [hill,bump] [nein]
+nom [name,word] [nimi]
+noiga [foot] [noka]
+lei [leg] [noka]
+lin [love] [olin]
+begin [start,begin] [open]
+ubin [open] [open]
+biagela [broken] [pakala]
+biage [stop] [pake]
+buli [make,do,build] [pali]
+belesa [stick,rod] [palisa]
+bein [bread,grain] [pan]
+bena [give] [pana]
+gulin [core,gut] [pilin,insa]
+belin [heart,feeling] [pilin]
+bemei [dark,night,black] [pimeja]
+beni [finish] [pini]
+bubi [bug,insect] [pipi]
+biog [beside,with] [poka]
+bugo [container] [poki]
+buna [good,simple] [pona]
+lebuni [skilled] [pona]
+bialan [balanced] [pona]
+bubusi ["interact with toki pona"] [pu,ku]
+bubumi ["interact with dugi bialan"] [pu,ku]
+
 sama siama
 seli zio
 selo selo
@@ -135,9 +122,9 @@ supa
 .surface : zugi
 .cover : siala
 suwi 
-.sweet suwi
-.salty siadei
-.bitter bubiabo
+.sweet: suwi
+.salty: siadei
+.bitter: bubiabo
 tawa giawin
 telo
 .water : delo
@@ -152,8 +139,8 @@ tonsi : denso
 unpa unba
 uta unman
 utala
-.fight udiali
-.compete uli
+.fight: udiali
+.compete: uli
 walo walo
 wiaso
 .wing: wiasis
@@ -163,8 +150,8 @@ wawa
 .electric: biawi
 weka: wegia
 wile
-.want welei
-.must zeli
+.want: welei
+.must: zeli
 
 # Particles
  
@@ -185,21 +172,21 @@ while on
 then la
 
 what semi 
-question iagi
+question mugi
 or iani
 
-escape_particle bediago
+"escape particle" bediago
 quote go
 
 # Pronouns
 Me mi
 You sin
-they_part is
-they_main wi
+"they_part" is
+"they_main" wi
 this ni
 that nio
 self bagi
-main_character zezi
+"main character" zezi
 
 # Amounts / numbers
 one won
@@ -218,7 +205,7 @@ all muli
 unit nin
 
 #measurable
-Opposite/lack zasi
+"Oppositelack" ziasi
 
 distance da
 time tin
