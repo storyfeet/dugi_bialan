@@ -99,120 +99,111 @@ lebuni [skilled] [pona]
 bialan [balanced] [pona]
 bubusi ["interact with toki pona"] [pu,ku]
 bubumi ["interact with dugi bialan"] [pu,ku]
+siama [same,equal] [sama]
+zewi [sky,heaven] [seli]
+selo [skin,peal,cover] [selo]
+sio [hot,fire] [seli]
+soijio [body] [sijelo]
+segei [round,ball] [segei]
+sis [new,young,again] [sin]
+senbin [face,front] [senbin]
+sedelin [writing,drawing,image] [sitelen]
+zion [know] [sona]
+sowi [animal] [soweli]
+tewipo [fluffy,"fluffy animal",tribble] [soweli]
+ezan [fierce,"fierce animal",wolf] [soweli]
+siali [docile,"docile animal"] [soweli]
+suli [big,much] [suli]
+suno [sun,bright,day] [suno]
+subi ["on top"] [supa]
+munin ["over"] [supa]
+zugi [surface,counter,table] [supa]
+siala [cover,lid,door] [supa,nena]
+suwi [sweet] [suwi,flavour]
+siadei [salty] [flavour]
+bubiado [bitter] [flavour]
+giawin [go] [tawa]
+delo [water] [telo]
+deli [oil] [deli]
+don [time,hour] [tenpo]
+dugi [talk,speak,communicate] [toki]
+mengi [building,build] [tomo,pali]
+doimo [room,area] [tomo,ma]
+bengo [vehicle] [tomo,tawa]
+denso ["non binary"] [tonsi]
+unba [under,down] [unpa]
+una [mouth] [uta]
+udiali [fight] [utala]
+uli [compete] [utala]
+giali [excercise] [utala]
+walo [white] [walo]
+wiasis [wing] [waso,kon]
+wiasa [bird] [waso]
+wiawi [mighty,strong] [wawa]
+biawi [electric] [wawa]
+wegia [yeet,away,gone] [weka]
+weli [want] [wile]
+zeli [must] [wile]
 
-sama siama
-seli zio
-selo selo
-sewi zewi
-sijelo soizio
-sike segei
-sin sis
-sinpin senbin
-sitelen sedelin
-sona zion
-soweli sowi
-.fluffy: tewipo
-.fierce: ezan
-.docile: siali
-suli suli
-suno suno
-supa
-.ontop : subi
-.over : munin
-.surface : zugi
-.cover : siala
-suwi 
-.sweet: suwi
-.salty: siadei
-.bitter: bubiabo
-tawa giawin
-telo
-.water : delo
-.oil : deli
-tenpo tin
-toki dugi
-tomo
-.building : mengi
-.room : doimo
-.vehicle : bengo
-tonsi : denso
-unpa unba
-uta unman
-utala
-.fight: udiali
-.compete: uli
-walo walo
-wiaso
-.wing: wiasis
-.bird: wiasa
-wawa
-.mighty: wawi
-.electric: biawi
-weka: wegia
-wile
-.want: welei
-.must: zeli
-
-# Particles
  
-subject i
-object ei 
-is li
-"for,to" da
-"from,because" dan
-"with,using" gin
-"at" lon
-"of,pi" bi
+i [subject] [particle,en]
+ei [object] [particle,e]
+li [is,be] [particle,li]
+da [for,"in order to"] [particle,tawa]
+dan [from,because] [particle,tan]
+gin [with,using] [particle,kin]
+lon [at,in] [particle,lon]
+bi [of] [particle,pi]
+wei [do,verb] [particle,li]
+o [imperetive] [particle,o]
+si [if] [particle,la]
+on [while] [particle,la]
+la [then,context] [particle,la]
 
-do wei
-imperative o
-
-If si
-while on
-then la
-
-what semi 
-question mugi
-or iani
-
-"escape particle" bediago
-quote go
+semi [what] [question,seme]
+mugi [unknown,some] [question,seme]
+iani [or] [question,anu]
+bediago ["escape particle"] [particle,quote]
+go [quote] [particle,quote]
 
 # Pronouns
-Me mi
-You sin
-"they_part" is
-"they_main" wi
-this ni
-that nio
-self bagi
-"main character" zezi
+mi [me,i,my] [pronoun,mi]
+sin [you,your] [pronoun,sina]
+is [they] [pronoun, ona,particle]
+zezi [they,"main character"] [pronoun,particle,ona]
+susa [they,"main character"] [pronoun,particle,ona]
+
+ni [this] [pronoun,ni]
+nio [that] [pronoun,ni]
+bagi [self] [pronoun,particle,ona,mi,sina]
 
 # Amounts / numbers
-one won
-two di
-three ban
-four mo
-five lan
-twenty undi
-hundred ziaza
 
-more utei
-several mutei
-shitloads zeleli
-all muli
+won [one] [wan,number]
+di [two] [tu,number]
+san [three] [san,"tu wan",number]
+mo [four] [po,number]
+lan [five] [luka,number]
+undi [twenty] [mute,number]
+ziaza [hundred] [mute,ali,number]
 
-unit nin
+utei [more] [mute,amount]
+mutei [several] [mute,amount]
+zeleli [shitloads] [mute,ali,amount]
+zelula [too,much,many] [mute,amount]
+muli [all,every] [ali,ale,amount]
+
+
+nin [unit] [wan]
 
 #measurable
-"Oppositelack" ziasi
+ziasi [opposite,lack] [amount,ante]
 
-distance da
-time tin
-mass za
-brightness suni
-current debiawi
-frequency oiban
+megi [distance] [measure,weka]
+za [mass] [measure,suli]
+suni [brightness] [measure,suno]
+debiawi [current,electricity] [measure,suno]
+oiban [frequency] [measure]
 
 
 
