@@ -70,6 +70,7 @@ muni [moon] [mun]
 musi [play] [musi]
 ziansi [art] [musi]
 niamego [spicy,interesting,flavour,type] [namako]
+bialedi [type,variety] [namako]
 numio [number] [nanpa]
 pusi [random] [nasa]
 niasa [mad,wild] [nasa]
@@ -86,6 +87,7 @@ biage [stop] [pake]
 buli [make,do,build] [pali]
 belesa [stick,rod] [palisa]
 bein [bread,grain] [pan]
+bunin [bean,seed] [sike]
 bena [give] [pana]
 gulin [core,gut] [pilin,insa]
 belin [heart,feeling] [pilin]
@@ -145,6 +147,7 @@ wegia [yeet,away,gone] [weka]
 weli [want] [wile]
 zeli [must] [wile]
 
+ziana [flat,sheet,paper,leaf] [supa,lipu]
  
 i [subject] [particle,en]
 ei [object] [particle,e]
@@ -205,6 +208,8 @@ suni [brightness] [measure,suno]
 debiawi [current,electricity] [measure,suno]
 oiban [frequency] [measure]
 
+wiada [width,thickness] [suli,measure]
+belas [full] [suli,measure]
 
 
 

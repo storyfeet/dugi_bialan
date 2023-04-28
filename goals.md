@@ -27,14 +27,17 @@ An Eng/Inter lang. A language with a minimal ish word list, but a grammar precis
 
 Minimal Word Set
 ----------------
-Take advantage of 
+Take advantage of toki pona's word set and expand it but not more than double
 
 Common Words must be short
 --------------------
+To make building meaning more pleasant, long words should not be needed all the time.
 
 Unique Grammar Particles
 -----------------------------
 No other words can be mistaken for the particle roots.
+
+(This was met in the end by making all words follow a phonetic structure, that makes it impossible to overlay two words on another)
 
 
 Pronouns match previous word position.
