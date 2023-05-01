@@ -151,7 +151,8 @@ ziana [flat,sheet,paper,leaf] [supa,lipu]
  
 i [subject] [particle,en]
 ei [object] [particle,e]
-li [is,be] [particle,li]
+li [is,be,adjective] [particle,li]
+zoili [is,be,thing] [particle,li]
 da [for,"in order to"] [particle,tawa]
 dan [from,because] [particle,tan]
 gin [with,using] [particle,kin]
@@ -168,6 +169,10 @@ mugi [unknown,some] [question,seme]
 iani [or] [question,anu]
 bediago ["escape particle"] [particle,quote]
 go [quote] [particle,quote]
+zubi [crash,hit] [pakala]
+gelubi [group,meeting] [kulupu]
+geluba [connection] [kulupu]
+
 
 # Pronouns
 mi [me,i,my] [pronoun,mi]
@@ -210,7 +215,7 @@ oiban [frequency] [measure]
 
 wiada [width,thickness] [suli,measure]
 belas [full] [suli,measure]
-
+biaga [speed,fast] [tenpo,lili]
 
 
 
