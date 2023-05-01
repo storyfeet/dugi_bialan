@@ -12,4 +12,5 @@ suno won la, ma min zezi wei dugi go "o da mengi bi ma ma min ei mugo delo zio n
 numio won la, o na wega dan niasin
 numio di la, o na dugi gin ezan eliasi"
 
+zezi wei giawin wei giawin munin lon niasin
 
