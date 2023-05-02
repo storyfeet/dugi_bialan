@@ -1,5 +1,7 @@
 def to_pic [] {
-	$"<img src=\"glyphs/($in).svg\" />" 
+	if ($in == ($in | str capitalize) and (not ($in | str starts-with "_"))) {$in}  else 	{
+		$"<img src=\"../glyphs/($in).svg\" class=\"glyph\" />" 
+	}
 }
 
 def convert_row [] {
@@ -20,7 +22,7 @@ def convert_page [] {
 
 
 def main [...args] {
-	$args | each {open |convert_page }
+	$args | each {open |convert_page } | str join " "
 }
 
 
