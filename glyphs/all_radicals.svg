@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.4602966"
-     inkscape:cx="336.34156"
-     inkscape:cy="1005.3666"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="396.46153"
+     inkscape:cy="561.25984"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -95,8 +95,9 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 99.773909,47.628427 3.179181,7.215222 16.61115,-0.381721 2.41385,-7.016745"
-       id="path9987" />
+       d="m 98.959483,55.656835 0.293449,-8.211653 21.781878,0.381721 -0.15444,9.656818"
+       id="path9987"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
        d="m 136.04972,57.427816 -3.61867,-5.966584 c 8.19459,3.676695 16.55405,6.32289 26.28503,0.396184"
@@ -109,7 +110,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 57.042025,85.643827 c 3.872641,6.081853 3.639303,11.084122 -0.546503,14.886213"
+       d="m 57.042025,85.11466 c 3.872641,6.081853 3.639303,11.084122 -0.546503,14.88621"
        id="path12949"
        sodipodi:nodetypes="cc" />
     <g
@@ -158,7 +159,7 @@
        sodipodi:nodetypes="zzzz" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 26.583977,128.18113 27.090746,-0.0804"
+       d="m 26.583977,127.65196 27.090746,-0.0804"
        id="path16682" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
