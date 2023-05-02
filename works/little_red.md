@@ -18,12 +18,17 @@ giawin la zezi wei munin.
 
 suno wei suno, i waso wei beliami ziansi lon zewi.
 
-zizi wei beliami siama.
+zezi wei beliami siama.
 
-deso la ezan eliasa suli egi wei lugin ei zizi. is i susa la
+deso la, ezan eliasa suli egi wei lugin ei zizi. is i susa la
 
 susa wei weli mugo ei zezi. susa wei boig ei zezi wei boilio io ei zezi lon luga susa.
 
-deso la lon don egesa ni. zezi wei unda da wei loigo ei liana bi elein noiga.
+deso la, lon don egesa ni. zezi wei unda da wei loigo ei liana bi elein noiga.
 
+susa wei na kama leban ei zezi
+
+zan Elenoizi wei giawin uwein lon niasin.
+
+ezan ni wei dugi da zezi go "sin da semi?"
 
