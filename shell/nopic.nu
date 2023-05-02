@@ -1,6 +1,11 @@
 
 def words [] {
-	open word_list.crd | lines | each {|it| split words} | each {select 0} | flatten
+	open word_list.crd | lines | each {split words} | filter {|n| ($n |length) > 1 } 
 }
 
-words
+
+def nopic [ww] {
+	$ww | filter {|w| not ($"glyphs/($w.0).svg" | path exists ) }
+}
+
+nopic (words) | each {str join " "}
