@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="siama.svg"
+   sodipodi:docname="unda.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.5260721"
-     inkscape:cx="40.180959"
-     inkscape:cy="141.52407"
+     inkscape:zoom="4.397375"
+     inkscape:cx="131.32835"
+     inkscape:cy="116.77421"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -41,13 +41,12 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 11.430712,23.103155 0.324576,-7.616714 25.849408,0.5926 0.01049,7.774745"
-       id="path9987"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 24.895668,19.001608 0.165627,15.939443"
-       id="path2624"
+       d="M 18.322952,35.13604 C 11.030428,23.93033 36.545579,22.47411 28.723976,35.14844"
+       id="path22577"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 9.7884321,27.475431 V 19.014669 L 37.304686,18.976589"
+       id="path7041" />
   </g>
 </svg>
