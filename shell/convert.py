@@ -75,8 +75,10 @@ def get_glyphs(fname):
 
 
 def try_pic(s,paths):
-    if paths.contains(s):
-        pass
+    if s in paths:
+        print('<img src="../glyphs/{}.svg" title="{}"/>'.format(s,s))
+    else:
+        print(' {} '.format(s))
 
 
 if __name__ == "__main__":
@@ -84,5 +86,11 @@ if __name__ == "__main__":
 
     s = open("works/little_red.md").read();
     for t in tokenize(s):
+        if t.kind == TokenType.Word :
+            try_pic(t.string,paths)
+        elif t.kind == TokenType.NewLine :
+            print ("<br>")
+        else :
+            print(t.string)
 
 
