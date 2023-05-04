@@ -4,7 +4,7 @@ lon don won, wei lon i zan leli min bi enom Elenoizi.
 
 #once there was a little girl called Elenoizi
 
-is i, li buna. is i lon elein liawa bi loizi suno, lon don ali.
+is i, li buna li elein lon elein liawa bi loizi suno, lon don ali.
 
 zan Elenoizi zezi la, wei doimo bagi lon biog man giasi bemei.
 
