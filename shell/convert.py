@@ -7,6 +7,7 @@ class TokenType(Enum):
     Comma = 1
     Punct = 2
     NewLine = 3
+    Comment = 4
 
 
 class Token:
@@ -24,11 +25,22 @@ def tokenize(s):
     word_pos = 0
     line = 1
     cnum = 1
+    comment = False 
     def tk(wp):
         (line,cnum,wp)
     for p,c in enumerate(s):
         cnum += 1
-        if c.isalpha() :
+        if comment :
+            if word == "":
+                word_pos = p
+            if c == '#' or c == '\n' :
+                yield Token(TokenType.Comment,word,tk(word_pos))
+                comment = False
+            else :
+                word += c
+
+
+        elif c.isalpha() :
             if word == "":
                 word_pos = p
             word += c
@@ -38,6 +50,9 @@ def tokenize(s):
                 word = "";
             if c == ' ':
                 pass
+            elif c == '#':
+                comment = True
+                word == ""
             elif c == ',':
                 yield Token(TokenType.Comma,",",tk(p))
             elif c == '\n':
@@ -59,6 +74,9 @@ def get_glyphs(fname):
     return paths
 
 
+def try_pic(s,paths):
+    if paths.contains(s):
+        pass
 
 
 if __name__ == "__main__":
@@ -66,5 +84,5 @@ if __name__ == "__main__":
 
     s = open("works/little_red.md").read();
     for t in tokenize(s):
-        print (t)
+
 
