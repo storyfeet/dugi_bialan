@@ -1,6 +1,6 @@
 zan Elenoizi leli
 
-lon don won, wei lon i zan leli min bi nom Elenoizi.
+lon don won, wei lon i zan leli min bi enom Elenoizi.
 
 #once there was a little girl called Elenoizi
 
