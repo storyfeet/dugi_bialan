@@ -97,6 +97,11 @@ Verb that happened to subject
 -- is i li iala buna
 .. She is not good
 
+### lon wei : In the middle of
+
+-- mi lon wei dugi ...
+.. I'm in the middle of talking
+
 
 
 The Pronoun "is"
