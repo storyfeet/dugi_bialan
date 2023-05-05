@@ -183,7 +183,7 @@ mi [me,i,my] [pronoun,mi]
 vin [you,your] [pronoun,sina]
 is [they] [pronoun, ona,particle]
 zezi [they,"main character"] [pronoun,particle,ona]
-susa [they,"main character"] [pronoun,particle,ona]
+esusa [they,"main character"] [pronoun,particle,ona]
 
 dis [this] [pronoun,ni]
 das [that] [pronoun,ni]
@@ -215,7 +215,6 @@ ziasi [opposite,lack] [amount,ante]
 
 megi [distance] [measure,weka]
 za [mass] [measure,suli]
-suni [brightness] [measure,suno]
 debiawi [current,electricity] [measure,suno]
 oiban [frequency] [measure]
 
