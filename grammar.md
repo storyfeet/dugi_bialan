@@ -4,9 +4,9 @@ Grammar
 Phonotactics
 ----------
 
-word : (?![a,n]) C? (Va F? C)* Vb F?
+word : (?![a,n,s]) C? (Va F? C)* Vb F?
 
-C (Consonant) : [w,d,b,s,l,dz(z),g,n,m]
+C (Consonant) : [w,d,b,s,l,dz(z),g,n,m,v]
 
 Va (Vowel a) : [ e, oi ,ia, u ]
 
