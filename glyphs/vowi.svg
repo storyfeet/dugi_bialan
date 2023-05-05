@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="sowi.svg"
+   sodipodi:docname="vowi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.1122913"
-     inkscape:cx="118.5916"
-     inkscape:cy="69.829384"
+     inkscape:cx="119.06502"
+     inkscape:cy="70.302803"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -41,7 +41,7 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 15.632358,12.068841 c 0,0 8.328553,-0.49934 12.628289,-0.0331 19.20677,2.08272 10.496193,15.3938 -0.886324,13.3872 l -0.258347,13.56988"
+       d="m 8.1591879,5.7301361 c 0,0 12.1923301,-0.7290594 18.4867961,-0.048327 C 54.763145,8.722676 42.011563,28.157465 25.348477,25.227736 l -0.378198,19.812649"
        id="path1378"
        sodipodi:nodetypes="cscc" />
   </g>

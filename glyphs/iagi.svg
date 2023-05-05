@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.93960076"
-     inkscape:cx="166.5601"
-     inkscape:cy="100.57463"
+     inkscape:zoom="2.929186"
+     inkscape:cx="162.67318"
+     inkscape:cy="129.55818"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -39,19 +39,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g3639"
+       transform="matrix(1.3325788,0,0,1.3509691,-8.134024,-11.283023)"
+       style="stroke-width:0.745299">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.34256;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         d="m 14.445559,36.016662 c 8.203277,-5.032134 16.406554,-5.476244 24.609832,0.60716"
+         id="path11474"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.34256;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         d="m 10.661971,27.795748 c 3.872641,6.081853 3.639303,11.084122 -0.546503,14.886213"
+         id="path12949"
+         sodipodi:nodetypes="cc" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 14.445559,36.016662 c 8.203277,-5.032134 16.406554,-5.476244 24.609832,0.60716"
-       id="path11474"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 10.661971,27.795748 c 3.872641,6.081853 3.639303,11.084122 -0.546503,14.886213"
-       id="path12949"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 27.700208,11.57996 c -3.873,-0.522797 -10.06617,7.129387 -7.94183,11.612703 2.12433,4.483316 9.76727,4.346132 12.47974,0.41447 2.71247,-3.931658 -0.6649,-11.504376 -4.53791,-12.027173 z"
+       d="m 26.068635,9.8115433 c -3.873,-0.522797 -10.06617,7.1293867 -7.94183,11.6127027 2.12433,4.483316 9.76727,4.346132 12.47974,0.41447 2.71247,-3.931658 -0.6649,-11.504376 -4.53791,-12.0271727 z"
        id="path14478"
        sodipodi:nodetypes="zzzz" />
     <path

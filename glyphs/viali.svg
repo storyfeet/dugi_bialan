@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="siali.svg"
+   sodipodi:docname="viali.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.170414"
-     inkscape:cy="95.170414"
+     inkscape:cx="95.397823"
+     inkscape:cy="95.397823"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -41,12 +41,12 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 7.769191,8.4809406 c 0,0 8.327846,-0.4927644 12.62829,-0.0331 15.914846,1.7011004 9.00467,15.2208944 -0.886324,13.3872004 l -0.258347,13.56988"
+       d="m 6.0383281,8.6010487 c 0,0 9.3396439,-0.2923582 14.1943649,-0.037526 24.856702,1.304765 15.99146,16.7307393 -0.99624,15.1773443 L 18.946067,39.12532"
        id="path1378"
        sodipodi:nodetypes="cscc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 26.622847,42.129955 c -4.3687,-5.493537 1.93643,-9.433545 6.12404,2.511666 -3.80115,-9.695886 2.80656,-29.583021 3.76262,-14.28348"
+       d="M 25.475986,40.708478 C 23.149053,34.086555 30.397242,32.43063 30.438594,45.08853 30.025156,34.682377 42.785776,18.059305 38.674708,32.827146"
        id="path4125"
        sodipodi:nodetypes="ccc" />
   </g>

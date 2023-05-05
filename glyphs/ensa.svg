@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="ensi.svg"
+   sodipodi:docname="ensa.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="104.03934"
-     inkscape:cy="99.491174"
+     inkscape:cx="88.802979"
+     inkscape:cy="89.940021"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -41,12 +41,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 25.783205,21.296846 0.10842,16.552701"
-       id="path2671" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 20.442567,24.642268 c -7.292524,-11.20571 18.222627,-12.66193 10.401024,0.0124"
+       d="M 20.781124,29.123381 C 13.529029,16.335206 38.902725,14.673339 31.124486,29.137532"
        id="path22577"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 6.9699663,20.952735 7.2029382,35.244433 45.063554,35.055076 45.404033,22.242896"
+       id="path9987"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

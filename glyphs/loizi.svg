@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="58.785071"
-     inkscape:cy="68.108815"
+     inkscape:cx="89.030387"
+     inkscape:cy="85.619261"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -41,21 +41,22 @@
      id="layer1">
     <g
        id="g4420"
-       transform="translate(0.41882315,0.23960659)">
+       transform="matrix(1.3087383,0,0,1.3137026,-1.6281258,-0.47751181)"
+       style="stroke-width:0.76265">
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:1.37354;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
          d="M 7.8965663,3.4318504 7.7237693,21.421222"
          id="path4148"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:1.37354;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
          d="M 3.3912647,8.0362348 24.135037,7.6964502"
          id="path4150"
          sodipodi:nodetypes="cc" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 14.753915,25.383607 c 8.203277,5.032134 16.406554,5.476244 24.609832,-0.60716"
+       d="m 13.340277,35.735249 c 10.735942,6.610728 21.471883,7.194156 32.207827,-0.797628"
        id="path11474"
        sodipodi:nodetypes="cc" />
   </g>
