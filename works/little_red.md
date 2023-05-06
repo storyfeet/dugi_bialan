@@ -147,3 +147,16 @@ go "ni li buna mudei da wei mugo ei vin"
 ezan wei giawin wiawa dan man liabei wei leban ei zezi, wei mugo ei zezi gin belas una won.
 
 # The wolf leapt from the bed, got hold of Elenoize, and gobbled her up in one mouthful
+
+beni la, usa wei liabei, wei geliama liabei suli
+
+# Once he finished, he went to sleep, and snored
+
+deso la, wei giawin lon biog mengi dis i zan bi din giasi 
+
+# However, Walking beside this house was a woodcutter.
+
+is i wei gudei ei geliama liabei dis wei esebin ei go "zan majuni dis wei va geliama mudei sama dis"
+
+# He heard the snoring and thought, "The old lady here doesn't snore this loud."
+
