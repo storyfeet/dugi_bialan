@@ -18,89 +18,148 @@ F (Final) : [n,s]
 Words cannot start with "a"
 
 
-Particles
+Primarty Particles
 ---------
 
-Particles come before the thing they introduce.
+Particles are how dugi bialan marks the beginning and end of compound items. They also declare the role of the following item in the sentence.
 
-Two particles together ct on the same subject
-do subject = The subject is a verb
-subject do = The subject is a doer of the verb
-do object = the object is a verb
+These are :
+* "i" - subject - followed by a noun.    
+dropped if sentence starts with subject
+* "wei" - do - followed by a verb
+* "li" - is - followed by an adjective, or noun.
+* "lon" - in/at - followed by a location, or a state of being
+* "ei" - direct object - followed by a noun
+* "da" - towards/to/for - followed by a noun
+* "dan" - because/from - followed by a noun or adjective
 
-There is no strict order on a a sentence, even verbs. 
+It is important to note that the same word can be a noun, verb or adjective.
+
+-- mi wei mugo
+.. I eat
+?? I DO food
+
+-- mi li mugo
+.. I am food
+
+-- mi wei vio ei vio
+.. I set alight a fire
+
+-- mi li vio
+.. I am hot
+
+-- mi li won vio
+.. I am a fire
+
+Sentence Structure
+--------------
+
+There is no strict order in a sentence. No particle is always required.
+
 If no particle is given, the first item is assumed to be the subject.
 
--- mi li bunia daun wei dawi delo
-.. i like swimming
-?? I AM good FROM DO go water
+The following sentence has no verb, but is acceptable in dugi bialan:
 
--- mi lon delo li bunia
-.. I like swimming
-?? i AT water AM happy
+-- mi da vin ei belesa
+.. I give you a stick.
+?? I TO you OBJECT stick
 
+Because the target "da" is defined, and the reciever "ei" is defined, the verb is not necessary, but "da" is not a verb.
 
+Combined Particles
+--------------
 
-Questions
----------
+Particles may be combined, to create a meaning new meaning
 
-The key particle for questions is "agi"
-
-"agi" At the start of a sentence makes it a question. 
-If no question words (semi/ani) the question is boolean.
-
--- agi sina li bonia daum mi? 
-.. do you like me? (Are you good from me?)
-
-
-To ask an information question, "agi" is followed by the particle you wish to know, then put "semi" belonging to that particle. 
-Again if that particle would be the subject, the marker "i". it is not needed
-
--- agi lon semi?    
-.. Where
-
--- agi semi li dawi?
-.. Who is going?
-
--- agi daun semi i sin wei zion.
-.. how do you know?
-
--- agi wei semi i sin gin elein lawau mi
-.. What are you doing with my hat?
-?? QN DO what SUB you WITH hat me
-
--- agi gin nasin semi wei pali ei bengo
-.. How does one make a car
-?? QN WITH way what DO make OB vehicle?
-
-particle combination
------------
-
-### li wei : passive form
+### "li wei" : passive form
 
 Verb that happened to subject
 
 -- mi li wei mugo
 .. I am eaten
 
-### wei lon : Exist
--- lon tin won wei lon i zan 
+### "wei lon" : Exists / There was / There is
+
+The following item exists, it is not the subject or object.
+
+-- lon don won wei lon zan 
 .. Once, there was a person
-?? AT time one DO AT SUB person
+?? AT time one DO AT person
 
-### iala : Not
-"iala" after a particle, says the whole coming particle is false.
-
--- mi wei iala giawin
-.. I'm not going / I don't go
-
--- is i li iala buna
-.. She is not good
 
 ### lon wei : In the middle of
 
--- mi lon wei dugi ...
+-- mi lon wei dugi 
 .. I'm in the middle of talking
+
+### dan wei : from doing / because did
+
+-- mi li buna dan wei giawin delo
+.. i like swimming
+?? I AM good FROM DO go water
+
+-- mi lon delo li buna
+.. I like swimming
+?? i AT water AM happy
+
+### da wei : to do / in order to
+
+-- zan ni wei mugo da wei guma wiawa
+.. this person eats to become strong
+?? person this DO food TO DO become strong
+
+Negation "va"
+------------
+
+"va" after a particle, says the whole coming particle is false.
+
+-- mi wei va giawin
+.. I'm not going / I don't go
+
+-- dis li va buna
+.. this is not good
+
+
+Yes or No Questions
+---------
+
+Yes or no questions, are asked by using the "particle not particle" structure
+
+-- vin li va li buna dan mi? 
+.. do you like me? 
+?? you ARE not ARE good FROM me
+
+"yes" in this case would be "li", and "no" would be "va" or "li va"
+
+-- vin wei va wei giawin?
+.. Are you going?
+?? you DO not DO go
+
+"yes in this case is "wei", and "no" is "va" or "wei va"
+
+information questions
+----------------
+
+To ask an information question, simply replace the information you with to know with "semi".
+
+If possible put "semi" in the first item of the sentence, though this is not a strict requirement.
+
+-- lon semi?    
+.. Where
+
+-- semi wei giawin?
+.. Who is going?
+
+-- dan semi i vin wei zion.
+.. how do you know?
+
+-- wei semi i vin gin elein liawa mi
+.. What are you doing with my hat?
+?? DO what SUB you WITH hat me
+
+-- gin iasin semi wei buli ei bengo
+.. How does one make a car
+?? WITH way what DO make OB vehicle?
 
 
 
