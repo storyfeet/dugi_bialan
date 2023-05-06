@@ -84,7 +84,7 @@ iasin bagi ezan li da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
-usa wei geliama zubi lon luba mengi, wei dugu gin dugi leli ei go "mi zoili zi zi vin, mi io ei mugo delo beba da vin" 
+usa wei geliama zubi lon luba mengi, wei dugu gin dugi leli ei go "mi li zi zi vin, mi io ei mugo delo beba da vin" 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 
@@ -104,7 +104,7 @@ zan Elenoizi wei giama la, usa lon buna.
 
 # When Elenoize arrived, he was ready.
 
-go "mi zoili zi zi min vin" wei dugi i zezi "mi da vin ei mugo delo beba"
+go "mi li zi zi min vin" wei dugi i zezi "mi da vin ei mugo delo beba"
 
 # "It's your granddaughter" she said, "I have brought you some vegetable soup"
 
