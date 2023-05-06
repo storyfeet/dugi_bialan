@@ -26,14 +26,16 @@ This is because of four main reasons.
 
 * Not enough pronouns.
 
-    I appreciate the aim of only 1 3rd person pronoun, but when there were two people in the last sentence, I wish to be able to work out which matters.
-    Also, "it was dark" should never use "ona". Especially immediately after a sentence introducing a character. This is not necessarily a problem with the limits of toki pona, but common usage defines how a language works.
+    I appreciate the aim of having only one 3rd person pronoun, but when there were two people in the last sentence, I wish to be able to work out which we are refering to. 
+
+    Also, "it was dark" should never use "ona" as "it". Especially after a sentence introducing a character. This is not necessarily a problem with the limits of toki pona, but common usage defines how a language works.
 
 The aim of Dugi Bialan is to address all of these problems while still maintaining as many of the language goals of toki pona as possible, especially these below
-    * A minimalist word set
-    * No automatic gendering/plurality especially in pronouns
-    * Non lexicalization
-        pairs of words not meaning a specific english word, but communicating their own ideas through combination.
+
+* A minimalist word set
+* No automatic gendering/plurality especially in pronouns
+* Non lexicalization
+    pairs of words not meaning a specific english word, but communicating their own ideas through combination.
 
 That said, I had to put dependent clauses back in, but in a way that holds onto the way of joining particles.
 
