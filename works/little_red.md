@@ -160,3 +160,14 @@ is i wei gudei ei geliama liabei dis wei esebin ei go "zan majuni dis wei va gel
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 
+is i wei lugin lon luli lugin wei lugin ei ezan bi wei liabei.
+
+# He looked in the window, and saw a wolf sleeping.
+
+is i wei ensa lon mengi, gin gin elio din is i wei din ei gulin ezan da di
+
+# he entered the house, and using his axe, cut the wolf in two.
+
+
+
+
