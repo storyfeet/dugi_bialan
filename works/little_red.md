@@ -1,16 +1,18 @@
-zan Elenoizi leli
+zan Elenuna leli
 
-lon don won, wei lon i zan leli min bi enom Elenoizi.
+# Little Redhood
 
-# Once there was a little girl called Elenoizi
+lon don won, wei lon i zan leli min bi enom Elenuna
 
-is i, li buna gin wei elein lon elein liawa bi loizi esuno, lon don ali.
+# Once there was a little girl called Elenuna
+
+is i, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
 
 # She was good, and wore a bright red hood all the time
 
-zan Elenoizi zezi la, wei doimo bagi lon biog man giasi bemei.
+zan Elenuna zezi la, wei doimo bagi lon biog man giasi bemei.
 
-# Elenoize, who we will call zezi, lived beside a dark forest
+# Elenuna, who we will call zezi, lived beside a dark forest
 
 esuno won la, ma min zezi wei dugi ei go "o da mengi bi ma ma min ei mugo delo beba dis. is bi li belin iagi" 
 
@@ -38,11 +40,11 @@ esuno wei esuno, i waso wei beliami ziansi lon zewi.
 
 zezi wei beliami viama.
 
-# she (Elenoizi) sang with them
+# She (Elenuna) sang with them
 
 deso la, ezan eliasa vuli egi wei lugin ei zizi. is i usa la
 
-# however, a big bad wolf was watching her. Him we will call "usa"
+# However, a big bad wolf was watching her. Him we will call "usa"
 
 usa wei weli mugo ei zezi. usa wei boig ei zezi wei boilio io ei zezi lon luga usa.
 
@@ -56,7 +58,7 @@ usa wei na kama leban ei zezi
 
 # The wolf didn't manage to grab her.
 
-zan Elenoizi wei giawin uwein lon iasin.
+zan Elenuna wei giawin uwein lon iasin.
 
 # Elenoize carried on along the path
 
@@ -100,7 +102,7 @@ usa wei elein lon elein is ei, wei ensa ei man liabei is ei, da wei lugin viama 
 
 # He put on her clothes, and got into her bed in order to look like her.
 
-zan Elenoizi wei giama la, usa lon buna.
+zan Elenuna wei giama la, usa lon buna.
 
 # When Elenoize arrived, he was ready.
 
@@ -176,9 +178,9 @@ is muli wei lugin ei mugo delo beba.
 
 # They all looked at the soup Elenoize had brought.
 
-go "vin di wei belin ei i delo ni li weli ei mugo ezan", zan Elenoizi wei dugi
+go "vin di wei belin ei i delo ni li weli ei mugo ezan", zan Elenuna wei dugi
 
-# "Do you think this soup would like some meat", suggested Elenoizi
+# "Do you think this soup would like some meat", suggested Elenuna
 
 
 
