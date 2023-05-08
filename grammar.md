@@ -18,21 +18,21 @@ F (Final) : [n,s]
 Words cannot start with "a"
 
 
-Primarty Particles
+Primary Particles
 ---------
 
 Particles are how dugi bialan marks the beginning and end of compound items. They also declare the role of the following item in the sentence.
 
 These are :
-* "i" - subject - followed by a noun.    
+* "i" : subject : followed by a noun.    
 dropped if sentence starts with subject
-* "wei" - do - followed by a verb
-* "li" - is - followed by an adjective, or noun.
-* "lon" - in/at - followed by a location, or a state of being
-* "ei" - direct object - followed by a noun
-* "da" - towards/to/for - followed by a noun
-* "dan" - because/from - followed by a noun or adjective
-* "weni" - done/complete/already - followed by a verb
+* "wei" : do : followed by a verb
+* "li" : is : followed by an adjective, or noun.
+* "lon" : in/at : followed by a location, or a state of being
+* "ei" : direct object : followed by a noun
+* "da" : towards/to/for : followed by a noun
+* "dan" : because/from : followed by a noun or adjective
+* "weni" : done/complete/already : followed by a verb
 
 It is important to note that the same word can be a noun, verb or adjective.
 
@@ -164,16 +164,49 @@ If possible put "semi" in the first item of the sentence, though this is not a s
 .. How does one make a car
 ?? WITH way what DO make OB vehicle?
 
+Secondary Particles
+----------------
+
+Secondary Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in writing it is appropriate to hyphenate the join.
+
+these are : 
+* is : pronoun 
+* ga : colour 
 
 
-The Pronoun "is"
---------------
+### The Pronoun "is"
+
 "is" is the general pronoun for anyone or anything in a previous sentence. It is always followed by a particle, to mark which person from the last sentence we are talking about.
 
--- Zan leli li dugi da zan suli. is i li belin buna.
+-- Zan leli li dugi da zan suli. is-i li belin buna.
 .. The child speaks to the adult. The child is happy.
 
--- Zan leli li dugi da zan suli. is da li belin buna.
+-- Zan leli li dugi da zan suli. is-da li belin buna.
 .. The child speaks to the adult. The adult is happy.
+
+
+### Colours with "ga"
+
+* ga-ga : colour
+* ga-gon : transparent
+* ga-va : black 
+* ga-esuno : yellow/orange
+* ga-delo : blue
+* ga-zewi : light-blue
+* ga-una : red
+* ga-beba : green
+* ga-goigo : brown
+* ga-mudei : Multicoloured
+* ga-muli : White
+
+If you wish to say, "all the colours" you can say "ga-ga muli"
+
+
+
+
+
+
+
+
 
 
