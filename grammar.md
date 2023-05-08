@@ -32,7 +32,7 @@ dropped if sentence starts with subject
 * "ei" - direct object - followed by a noun
 * "da" - towards/to/for - followed by a noun
 * "dan" - because/from - followed by a noun or adjective
-* "weli" - done/complete/already - followed by a verb
+* "weni" - done/complete/already - followed by a verb
 
 It is important to note that the same word can be a noun, verb or adjective.
 

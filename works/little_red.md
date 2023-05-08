@@ -166,7 +166,21 @@ is i wei lugin lon luli lugin wei lugin ei ezan bi wei liabei.
 
 is i wei ensa lon mengi, gin gin elio din is i wei din ei gulin ezan da di
 
-# he entered the house, and using his axe, cut the wolf in two.
+# he entered the house, and , using his axe cut the wolf in two.
+
+dan gulin ni wei zugo i zan Elenoize i ma ma min.
+
+# Out from his guts came Elenoize and Granny.
+
+is muli wei lugin ei mugo delo beba. 
+
+# They all looked at the soup Elenoize had brought.
+
+go "vin di wei belin ei i delo ni li weli ei mugo ezan", zan Elenoizi wei dugi
+
+# "Do you think this soup would like some meat", suggested Elenoizi
+
+
 
 
 
