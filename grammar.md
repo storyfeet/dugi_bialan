@@ -164,15 +164,52 @@ If possible put "semi" in the first item of the sentence, though this is not a s
 .. How does one make a car
 ?? WITH way what DO make OB vehicle?
 
+Numbers
+--------
+Build numbers use hyphens to show they are still the same number
+
+Number words are : 
+* won : 1
+* di : 2
+* van : 3
+* mo : 4
+* lan : 5
+* in : 20
+* ziaza : 100
+
+A low number before a higher number is a multiplies it.  100 multiplies by everything before it.
+
+
+
+1 - 4: won, di, van, mo 
+5 - 9 : lan, lan-won, lan-di, lan-van, lan-mo
+10 - 14 : di-lan, di-lan-won, di-lan-di , di-lan-van, di-lan-mo
+15 - 19 : van-lan, van-lan-won, van-lan-di, van-lan-van, van-lan-mo
+20 : in
+25 : in-lan
+30 : in-di-lan
+35 : in-van-lan
+40 : di-in
+45 : di-in-lan
+50 : di-in-di-lan
+55 : di-in-van-lan
+1225 : 2-5-2-100-20-5 (12 hundred and 25) = di-lan-di-ziaza-in-lan
+
+
+
 Secondary Particles
 ----------------
 
 Secondary Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in writing it is appropriate to hyphenate the join.
 
+Joined to themselves, they mean the concept they cover.
+
+
 these are : 
 * is : pronoun 
 * ga : colour 
 * geni : shape 
+* edin : atom 
 
 ### The Pronoun "is"
 
@@ -219,6 +256,14 @@ As with colours, these are guidelines.
 
 If you wish to say, "all the colours" you can say "ga-ga muli"
 
+### Atoms and molecules with edin
+
+If you want to be precise just use the atomic number
+
+* edin-won : Hydrogen
+* edin-di : Helium
+* edin-vein : Lithium
+* edin-mo : berylium
 
 
 
