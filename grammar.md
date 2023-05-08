@@ -172,7 +172,7 @@ Secondary Particles do not break the flow of meaning, but are always followed by
 these are : 
 * is : pronoun 
 * ga : colour 
-
+* geni : shape 
 
 ### The Pronoun "is"
 
@@ -187,7 +187,10 @@ these are :
 
 ### Colours with "ga"
 
+Describe colours how you like, but these are some good starters.
+
 * ga-ga : colour
+* ga-won : uniform colour
 * ga-gon : transparent
 * ga-va : black 
 * ga-esuno : yellow/orange
@@ -198,6 +201,21 @@ these are :
 * ga-goigo : brown
 * ga-mudei : Multicoloured
 * ga-muli : White
+
+### Shapes with geni
+
+As with colours, these are guidelines.
+
+* geni-geni : Shape
+* geni-esuno : circle
+* geni-din : pointy
+* geni-muni : crescent
+* geni-lego : Square/rectangle
+* geni-belesa : Stick shaped
+* geni-belin : Heart shaped 
+* geni-ledei : Snowflake shaped
+* geni-va : formless
+* geni-lugin : eye shaped/oval
 
 If you wish to say, "all the colours" you can say "ga-ga muli"
 
