@@ -32,6 +32,7 @@ dropped if sentence starts with subject
 * "ei" - direct object - followed by a noun
 * "da" - towards/to/for - followed by a noun
 * "dan" - because/from - followed by a noun or adjective
+* "weli" - done/complete/already - followed by a verb
 
 It is important to note that the same word can be a noun, verb or adjective.
 
@@ -64,7 +65,9 @@ The following sentence has no verb, but is acceptable in dugi bialan:
 .. I give you a stick.
 ?? I TO you OBJECT stick
 
-Because the target "da" is defined, and the reciever "ei" is defined, the verb is not necessary, but "da" is not a verb.
+"da" is not a verb, but prefixes the target.
+
+Because the target "da" is defined, and the reciever "ei" is defined, the verb can be easily implied.
 
 Combined Particles
 --------------
