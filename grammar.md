@@ -33,6 +33,7 @@ dropped if sentence starts with subject
 * "da" : towards/to/for : followed by a noun
 * "dan" : because/from : followed by a noun or adjective
 * "weni" : done/complete/already : followed by a verb
+* "go" : saying/quote : followed by the quoted clause (use "")
 
 It is important to note that the same word can be a noun, verb or adjective.
 
@@ -74,26 +75,11 @@ Combined Particles
 
 Particles may be combined, to create a meaning new meaning
 
-### "li wei" : passive form
+### da wei : to do / in order to
 
-Verb that happened to subject
-
--- mi li wei mugo
-.. I am eaten
-
-### "wei lon" : Exists / There was / There is
-
-The following item exists, it is not the subject or object.
-
--- lon don won wei lon zan 
-.. Once, there was a person
-?? AT time one DO AT person
-
-
-### lon wei : In the middle of
-
--- mi lon wei dugi 
-.. I'm in the middle of talking
+-- zan ni wei mugo da wei guma wiawa
+.. this person eats to become strong
+?? person this DO food TO DO become strong
 
 ### dan wei : from doing / because did
 
@@ -105,11 +91,32 @@ The following item exists, it is not the subject or object.
 .. I like swimming
 ?? i AT water AM happy
 
-### da wei : to do / in order to
+### gin gin : and with 
 
--- zan ni wei mugo da wei guma wiawa
-.. this person eats to become strong
-?? person this DO food TO DO become strong
+-- zezi wei dugi, gin gin luga bagi wei geliama
+.. (he/she) spoke, and with their hand, noised
+
+
+### "li wei" : passive form
+
+Verb that happened to subject
+
+-- mi li wei mugo
+.. I am eaten
+
+### lon wei : In the middle of
+
+-- mi lon wei dugi 
+.. I'm in the middle of talking
+
+### "wei lon" : Exists / There was / There is
+
+The following item exists, it is not the subject or object.
+
+-- lon don won wei lon zan 
+.. Once, there was a person
+?? AT time one DO AT person
+
 
 Negation "va"
 ------------
@@ -264,6 +271,7 @@ If you want to be precise just use the atomic number
 * edin-di : Helium
 * edin-vein : Lithium
 * edin-mo : berylium
+
 
 
 

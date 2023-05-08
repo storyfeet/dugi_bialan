@@ -6,27 +6,27 @@ lon don won, wei lon i zan leli min bi enom Elenuna
 
 # Once there was a little girl called Elenuna
 
-is i, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
+is-i, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
 
 # She was good, and wore a bright red hood all the time
 
-zan Elenuna zezi la, wei doimo bagi lon biog man giasi bemei.
+zan Elenuna zezi la, wei doimo lon biog man giasi ga-va
 
 # Elenuna, who we will call zezi, lived beside a dark forest
 
-esuno won la, ma min zezi wei dugi ei go "o da mengi bi ma ma min ei mugo delo beba dis. is bi li belin iagi" 
+esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-da li belin iagi" 
 
-# one day, her mother told her "go to grannies house with this vegetable soup
+# one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 
-"deso la, o na wega zion ei lebo liawa bi ma giasi : 
-numio won la, o na wega dan iasin
-numio di la, o na dugi lon don na gin ezan eliasi"
+"deso la, o va wega zion ei lebo liawa bi ma giasi : 
+unio won la, o va wega dan iasin
+unio di la, o va dugi, lon don va, gin ezan eliasi"
 
 # "but don't forget the rules of the forest:
 # number 1 : don't stray from the path
 # number 2: don't talk to wolves"
 
-go "mi wei weli" wei dugi i zezi wei giawin lon iasin.
+go "mi wei weli" i zezi gin wei begin lon iasin.
 
 # I will she replied as she set off along the path.
 
@@ -54,39 +54,43 @@ deso la, lon don egesa dis. zezi wei unda da wei loigo ei liana bi elein noiga.
 
 # However at that exact time, she bend down to tie her shoe laces.
 
-usa wei na kama leban ei zezi
+usa wei va guma leban ei zezi, wei zubi da giasi
 
-# The wolf didn't manage to grab her.
+# The wolf didn't manage to grab her, instead he hit a tree.
 
-zan Elenuna wei giawin uwein lon iasin.
+zan Elenuna wei giawin uwein lon iasin, wei va lugin sona.
 
-# Elenoize carried on along the path
+# Elenoize carried on along the path, she didn't notice.
 
-ezan dis wei dugi da zezi go "sin da semi?"
+mugi endei li zeli.
+
+# Something else was needed.
+
+ezan da zezi go "vin da semi?"
 
 # The wolf spoke to her "where are you going?"
 
-go "mi da mengi bi ma ma min mi lon boig ziasi bi ma giasi ei mugo delo beba dis. is bi li belin iagi"
+go "mi da ma ma min mi lon boig ziasi bi ma giasi ei mugo delo beba dis. is-da li belin iagi"
 
-# "I'm going to my grannies house on the other side of the woods with this vegetable soup. She's feeling sick"
+# "I'm going to my granny on the other side of the woods with this vegetable soup. She's feeling sick"
 
 zezi wei bena lugin ei mugo delo da ezan.
 
 # She showed the soup to the wolf 
 
-go "dan la vin o biaga. mi zion ei iasin leli" wei dugi i ezan
+go "dan dis la, vin o biaga. mi zion ei iasin leli" i ezan
 
 # "You'd better be quick then, I know a short cut" said the wolf
 
-usa wei bena lugin ei iasin lili wei giawin lon iasin bagi
+usa wei bena lugin ei iasin leli wei giawin lon iasin bagi
 
 # He showed her the short cut, then went on his own way.
 
-iasin bagi ezan li da mengi bi ma ma min.
+iasin ezan li da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
-usa wei geliama zubi lon luba mengi, wei dugu gin dugi leli ei go "mi li zi zi vin, mi io ei mugo delo beba da vin" 
+usa wei geliama zubi ei luba mengi, gin gin dugi leli ei go "mi li zi zi vin, mi io ei mugo delo beba da vin" 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 
@@ -98,7 +102,7 @@ ezan wei giama lon ensa, wei mugo ei ma ma ni gin belas una won.
 
 # The wolf came inside, and ate up this granny in one mouthful
 
-usa wei elein lon elein is ei, wei ensa ei man liabei is ei, da wei lugin viama is ei.
+usa wei elein lon elein is-ei, wei ensa ei man liabei is-ei, da wei lugin viama is-ei.
 
 # He put on her clothes, and got into her bed in order to look like her.
 
@@ -158,15 +162,15 @@ deso la, wei giawin lon biog mengi dis i zan bi din giasi
 
 # However, Walking beside this house was a woodcutter.
 
-is i wei gudei ei geliama liabei dis wei esebin ei go "zan majuni dis wei va geliama mudei sama dis"
+is-i wei gudei ei geliama liabei dis wei esebin ei go "zan majuni dis wei va geliama mudei sama dis"
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 
-is i wei lugin lon luli lugin wei lugin ei ezan bi wei liabei.
+is-i wei lugin lon luli lugin wei lugin ei ezan bi wei liabei.
 
 # He looked in the window, and saw a wolf sleeping.
 
-is i wei ensa lon mengi, gin gin elio din is i wei din ei gulin ezan da di
+is-i wei ensa lon mengi, gin gin elio din is-i wei din ei gulin ezan da di
 
 # he entered the house, and , using his axe cut the wolf in two.
 
@@ -174,7 +178,7 @@ dan gulin ni wei zugo i zan Elenoize i ma ma min.
 
 # Out from his guts came Elenoize and Granny.
 
-is muli wei lugin ei mugo delo beba. 
+is-muli wei lugin ei mugo delo beba. 
 
 # They all looked at the soup Elenoize had brought.
 
