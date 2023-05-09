@@ -1,5 +1,6 @@
-Goals for Dugi Bialan - A language of Balance
-===================
+{{export title="Goals for Dugi Bialan - A language of Balance"}}
+{{@md}}
+
 
 Reason To Exist
 ------------

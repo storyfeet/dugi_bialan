@@ -1,6 +1,8 @@
+#! /usr/bin/env python
 from pathlib import Path
 from enum import Enum
 import os
+import sys
 
 class TokenType(Enum):
     Word = 0
@@ -74,17 +76,19 @@ def get_glyphs(fname):
     return paths
 
 
-def try_pic(s,paths):
+def try_pic(s,paths,cname="g-base"):
     if s in paths:
-        print('<img src="../glyphs/{}.svg" title="{}"/>'.format(s,s))
+        print('<img src="/glyphs/{}.svg" title="{}" class="{}"/>'.format(s,s,cname))
     else:
         print(' {} '.format(s))
 
 
 if __name__ == "__main__":
-    paths = get_glyphs("glyphs/")
 
-    s = open("works/little_red.md").read();
+    print ("PYTHON DO CONVERT 2")
+    paths = get_glyphs("static/glyphs/")
+
+    s = sys.stdin.read();
     for t in tokenize(s):
         if t.kind == TokenType.Word :
             try_pic(t.string,paths)

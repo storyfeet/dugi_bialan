@@ -1,3 +1,5 @@
+{{export title="zan Elenuna leli"}}
+{{@exec_stdin "shell/convert.py" @ }}
 zan Elenuna leli
 
 # Little Redhood
