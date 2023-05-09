@@ -11,6 +11,10 @@ class TokenType(Enum):
     NewLine = 3
     Comment = 4
 
+class ReadState(Enum):
+    Ready = 0
+    Secondary = 1
+
 
 class Token:
     def __init__(self,k,s,l):
@@ -38,6 +42,7 @@ def tokenize(s):
             if c == '#' or c == '\n' :
                 yield Token(TokenType.Comment,word,tk(word_pos))
                 comment = False
+                word = ""
             else :
                 word += c
 
@@ -83,17 +88,36 @@ def try_pic(s,paths,cname="g-base"):
         print(' {} '.format(s))
 
 
-if __name__ == "__main__":
+def is_secondary(token):
+    return token.string in {"ga","geni","is"}
+         
 
+
+
+if __name__ == "__main__":
     print ("PYTHON DO CONVERT 2")
     paths = get_glyphs("static/glyphs/")
-
+    
+    
+    readstate = ReadState.Ready
     s = sys.stdin.read();
     for t in tokenize(s):
         if t.kind == TokenType.Word :
-            try_pic(t.string,paths)
+            if readstate == ReadState.Ready:
+                try_pic(t.string,paths)
+                if is_secondary(t):
+                    readstate = ReadState.Secondary
+            else :
+                try_pic(t.string,paths,cname="g-follow")
+                readstate = ReadState.Ready
         elif t.kind == TokenType.NewLine :
             print ("<br>")
+        elif t.string == "-":
+            if readstate == ReadState.Ready:
+                print(t.string)
+        elif t.kind == TokenType.Comment:
+            print(t.string)
+            print("<br>")
         else :
             print(t.string)
 
