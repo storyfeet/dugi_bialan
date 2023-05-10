@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="una.svg"
+   sodipodi:docname="belin.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.397375"
-     inkscape:cx="94.943006"
-     inkscape:cy="94.943006"
+     inkscape:zoom="1.2993323"
+     inkscape:cx="-9.6203258"
+     inkscape:cy="105.82358"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,9 +40,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 5.6428242,26.84679 C 19.406822,36.334666 33.170821,37.172017 46.934822,25.702015"
-       id="path11474"
-       sodipodi:nodetypes="cc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 24.905727,45.223508 C 50.159489,26.611624 45.634421,-3.1280996 26.002477,17.045548 8.530977,4.5017804 -3.726747,17.671827 24.905727,45.223508 Z"
+       id="path550"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
