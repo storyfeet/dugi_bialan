@@ -4,11 +4,11 @@ zan Elenuna leli
 
 # Little Redhood
 
-lon don won, wei lon i zan leli min bi enom Elenuna
+lon don won, wei lon zan leli min bi enom Elenuna
 
 # Once there was a little girl called Elenuna
 
-is-i, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
+is-lon, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
 
 # She was good, and wore a bright red hood all the time
 
@@ -16,7 +16,7 @@ zan Elenuna zezi la, wei doimo lon biog man giasi ga-va
 
 # Elenuna, who we will call zezi, lived beside a dark forest
 
-esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-da li belin iagi" 
+esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-da li belin egi" 
 
 # one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 
