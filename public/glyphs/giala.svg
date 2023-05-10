@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="giala.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#dce477"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.0793023"
+     inkscape:cx="71.213158"
+     inkscape:cy="97.933414"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1945"
+       transform="matrix(1.1694489,0,0,1.158926,-3.7159829,-6.1058759)"
+       style="stroke-width:0.858977">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.54733;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         d="m 26.683163,8.6036289 c -3.873,-0.522797 -10.066169,7.1293881 -7.94183,11.6127041 2.12433,4.483316 9.76727,4.346132 12.47974,0.41447 2.71247,-3.931658 -0.6649,-11.5043761 -4.53791,-12.0271741 z"
+         id="path14478"
+         sodipodi:nodetypes="zzzz" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.54733;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         d="m 18.056008,39.463771 c -1.985823,-6.732087 5.337455,-8.015804 4.732518,4.6277 0.118375,-10.41369 13.711026,-26.363605 8.851364,-11.824909"
+         id="path4125"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+</svg>
