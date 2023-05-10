@@ -115,6 +115,11 @@ if __name__ == "__main__":
         elif t.string == "-":
             if readstate == ReadState.Ready:
                 print(t.string)
+        elif t.string == "\"":
+            try_pic("_quote",paths)
+        elif t.string == ".":
+            try_pic("_stop",paths)
+            
         elif t.kind == TokenType.Comment:
             print(t.string)
             print("<br>")
