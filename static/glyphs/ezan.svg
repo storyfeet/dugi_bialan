@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.397823"
-     inkscape:cy="95.397823"
+     inkscape:cx="95.170414"
+     inkscape:cy="85.84667"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,24 +40,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.801;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 7.8217031,4.6672214 c 0,0 10.8858909,-0.065027 16.5516429,-0.041492 18.776965,0.077998 10.600577,18.0405316 -1.161687,16.7812686 l -0.338611,17.010264"
-       id="path1378"
-       sodipodi:nodetypes="cscc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.80136;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 30.716303,30.753521 c 2.644371,3.750168 1.906088,8.401041 1.058623,13.080988 2.475743,-3.978728 5.986237,-8.27061 7.311387,-13.020529"
-       id="path7779"
-       sodipodi:nodetypes="ccc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 29.024405,10.675451 C 27.10822,8.7676054 25.165718,8.6571899 23.195075,10.468825"
-       id="path1790"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 19.017785,10.763721 C 17.1016,8.8558756 15.159098,8.7454601 13.188455,10.557095"
-       id="path1790-6"
-       sodipodi:nodetypes="cc" />
+       d="M 12.564468,31.359942 C 7.9030814,32.585105 7.6066128,37.029136 6.0142123,40.517493 2.7027013,35.140948 4.6345521,29.778798 6.2950235,24.415902 18.38994,38.036642 27.754044,37.549246 43.454947,24.052992 c 3.878949,4.568258 3.323743,10.358509 3.91183,15.833683 -3.528299,-4.471473 -7.135644,-8.202247 -10.979793,-9.714072"
+       id="path444"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
