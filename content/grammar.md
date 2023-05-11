@@ -213,11 +213,11 @@ Secondary Particles do not break the flow of meaning, but are always followed by
 
 Joined to themselves, they mean the concept they cover.
 
-
 these are : 
 * is : pronoun 
 * ga : colour 
 * geni : shape 
+* vo : animal
 * edin : atom 
 
 ### The Pronoun "is"
@@ -274,6 +274,12 @@ If you want to be precise just use the atomic number
 * edin-vein : Lithium
 * edin-mo : berylium
 
+### Animals with vo
+
+* vo-vo : Animal
+* vo-ezan : Wolf/Tiger/hunting animal
+* vo-beba : Herbivore
+* vo-delo : Fish
 
 
 
