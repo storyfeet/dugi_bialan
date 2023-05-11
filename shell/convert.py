@@ -89,7 +89,7 @@ def try_pic(s,paths,cname="g-base"):
 
 
 def is_secondary(token):
-    return token.string in {"ga","geni","is"}
+    return token.string in {"ga","geni","is","vo","edin"}
          
 
 
@@ -104,11 +104,14 @@ if __name__ == "__main__":
     for t in tokenize(s):
         if t.kind == TokenType.Word :
             if readstate == ReadState.Ready:
-                try_pic(t.string,paths)
                 if is_secondary(t):
+                    try_pic(t.string,paths,"g-second")
                     readstate = ReadState.Secondary
+                else :
+                    try_pic(t.string,paths)
             else :
-                try_pic(t.string,paths,cname="g-follow")
+                cc = "g-s-follow" if is_secondary(t) else "g-follow" 
+                try_pic(t.string,paths,cname=cc)
                 readstate = ReadState.Ready
         elif t.kind == TokenType.NewLine :
             print ("<br>")
