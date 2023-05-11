@@ -106,18 +106,19 @@ Verb that happened to subject
 -- mi li wei mugo
 .. I am eaten
 
+### "lon li" : Exists / There was / There is
+
+The following item exists, it is not the subject or object.
+
+-- lon don won lon li zan 
+.. Once, there was a person
+?? AT time one AT is person
+
 ### lon wei : In the middle of
 
 -- mi lon wei dugi 
 .. I'm in the middle of talking
 
-### "wei lon" : Exists / There was / There is
-
-The following item exists, it is not the subject or object.
-
--- lon don won wei lon zan 
-.. Once, there was a person
-?? AT time one DO AT person
 
 
 Negation "va"
@@ -219,16 +220,25 @@ these are :
 * geni : shape 
 * vo : animal
 * edin : atom 
+* guli : body part
 
 ### The Pronoun "is"
 
-"is" is the general pronoun for anyone or anything in a previous sentence. It is always followed by a particle, to mark which person from the last sentence we are talking about.
+"is" is the general pronoun for anyone or anything in a previous sentence. It is always followed a clarifying word disambiguate, that may be a Primary particle. 
 
--- Zan leli li dugi da zan suli. is-i li belin buna.
+If a primare particle follows "is", then the most recent occurence of that particle is assumed to be the intended target.
+
+-- Zan leli li dugi da zan vuli. is-i li belin buna.
 .. The child speaks to the adult. The child is happy.
 
--- Zan leli li dugi da zan suli. is-da li belin buna.
+-- Zan leli li dugi da zan vuli. is-da li belin buna.
 .. The child speaks to the adult. The adult is happy.
+
+* is-is : he/she/they : the least specific pronoun possible
+* is-mudei : they : the group of people
+* is-ali : they all 
+* is-mi : my it  
+* is-zan : this/these person(s)
 
 
 ### Colours with "ga"
@@ -277,13 +287,23 @@ If you want to be precise just use the atomic number
 ### Animals with vo
 
 * vo-vo : Animal
-* vo-ezan : Wolf/Tiger/hunting animal
-* vo-beba : Herbivore
+* vo-ezan : Wolf/Tiger/fierce animal 
+* vo-beba : Herbivore/farm animal
 * vo-delo : Fish
+* vo-wewi : Cute animal.
+* vo-wiasa : Bird
+* vo-zewi : High flying bird
+* vo-usewi : Cute animal
+* vo-wiasa delo : duck
 
+### Body parts with guli
 
-
-
+* guli-guli : Body part / organ
+* guli-zion : brain
+* guli-mugo : gut
+* guli-delo : kidneys
+* guli-gon : lungs
+* guli-gein : muscles
 
 
 
