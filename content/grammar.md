@@ -236,7 +236,7 @@ If a primare particle follows "is", then the most recent occurence of that parti
 
 * is-is : he/she/they : the least specific pronoun possible
 * is-mudei : they : the group of people
-* is-ali : they all 
+* is-muli : they all 
 * is-mi : my it  
 * is-zan : this/these person(s)
 
@@ -298,12 +298,13 @@ If you want to be precise just use the atomic number
 
 ### Body parts with guli
 
-* guli-guli : Body part / organ
+* guli-guli : body
 * guli-zion : brain
 * guli-mugo : gut
 * guli-delo : kidneys
 * guli-gon : lungs
 * guli-gein : muscles
+* guli-lei : joint
 
 
 

@@ -28,9 +28,9 @@ unio di la, o va dugi, lon don va, gin vo-ezan eliasi"
 # number 1 : don't stray from the path
 # number 2: don't talk to wolves"
 
-go "mi wei weli" i zezi gin wei begin lon iasin.
+go "mi va" i zezi gin wei begin lon iasin.
 
-# I will she replied as she set off along the path.
+# I won't she replied as she set off along the path.
 
 giawin la zezi wei munin.
 
@@ -44,7 +44,7 @@ zezi wei beliami viama.
 
 # She (Elenuna) sang with them
 
-deso la, vo-ezan eliasi vuli egi wei lugin ei zizi. is i usa la
+deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is i usa la
 
 # However, a big bad wolf was watching her. Him we will call "usa"
 
@@ -60,7 +60,7 @@ usa wei va guma leban ei zezi, wei zubi da giasi
 
 # The wolf didn't manage to grab her, instead he hit a tree.
 
-zan Elenuna wei giawin uwein lon iasin, wei va lugin sona.
+zan Elenuna wei uwein giawin lon iasin, wei va lugin zion.
 
 # Elenoize carried on along the path, she didn't notice.
 
@@ -172,11 +172,11 @@ is-i wei lugin lon luli lugin wei lugin ei vo-ezan bi wei liabei.
 
 # He looked in the window, and saw a wolf sleeping.
 
-is-i wei ensa lon mengi, gin gin elio din is-i wei din ei gulin vo-ezan da di
+is-i wei ensa lon mengi, gin gin elio din is-i wei din ei guli-guli vo-ezan da di
 
 # he entered the house, and , using his axe cut the wolf in two.
 
-dan gulin ni wei zugo i zan Elenoize i ma ma min.
+dan guli-guli wei zugo i zan Elenoize i ma ma min.
 
 # Out from his guts came Elenoize and Granny.
 
