@@ -69,7 +69,7 @@ mugi endei li zeli.
 
 # Something else was needed.
 
-vo-ezan da zezi go "vin da semi?"
+vo-ezan da zezi go "vin da vemi?"
 
 # The wolf spoke to her "where are you going?"
 

@@ -339,6 +339,8 @@ If you want to be precise just use the atomic number
 * vo-zewi : High flying bird
 * vo-usewi : Cute animal
 * vo-wiasa delo : duck
+* vo-egesi : reptile
+* vo-goigo : bug / worm
 
 ### Body parts with guli
 
