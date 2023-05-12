@@ -95,7 +95,6 @@ def is_secondary(token):
 
 
 if __name__ == "__main__":
-    print ("PYTHON DO CONVERT 2")
     paths = get_glyphs("static/glyphs/")
     
     

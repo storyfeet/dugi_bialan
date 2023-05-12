@@ -1,5 +1,6 @@
 {{export title="zan Elenuna leli"}}
 {{@exec_stdin "shell/convert.py" @ }}
+
 zan Elenuna leli
 
 # Little Redhood
@@ -20,7 +21,7 @@ esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-da li bel
 
 # one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 
-"deso la, o va wega zion ei lebo liawa bi ma giasi : 
+"deso la, o va zion va ei lebo liawa bi ma giasi : 
 unio won la, o va wega dan iasin
 unio di la, o va dugi, lon don va, gin vo-ezan eliasi"
 
@@ -184,7 +185,7 @@ is-muli wei lugin ei mugo delo beba.
 
 # They all looked at the soup Elenoize had brought.
 
-go "vin di wei belin ei i delo ni li weli ei mugo vo-ezan", zan Elenuna wei dugi
+go "vin di wei belin ei i delo ni li weli ei mugo vo-vo", zan Elenuna wei dugi
 
 # "Do you think this soup would like some meat", suggested Elenuna
 

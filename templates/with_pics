@@ -1,0 +1,2 @@
+{{exec_stdin "shell/convert.py" $0}}
+{{$0}}<br>

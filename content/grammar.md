@@ -62,10 +62,14 @@ There is no strict order in a sentence. No particle is always required.
 
 If no particle is given, the first item is assumed to be the subject.
 
+Every particle acts on the following item, and there must always an item following each particle (or particle combination).
+
+Not every has a "verb" in the purist sense. The action can be implied by the other information.
+
 The following sentence has no verb, but is acceptable in dugi bialan:
 
 -- mi da vin ei belesa
-.. I give you a stick.
+.. I [give] to you a stick.
 ?? I TO you OBJECT stick
 
 "da" is not a verb, but prefixes the target.
@@ -76,6 +80,12 @@ Combined Particles
 --------------
 
 Particles may be combined, to create a meaning new meaning
+
+### da li : to be / in order to be
+
+-- mi wei mugo ei beba da li wiawa
+.. I eat vegetables to become strong
+?? I DO eat OBJECT vegetable TO BE strong
 
 ### da wei : to do / in order to
 
@@ -106,6 +116,7 @@ Verb that happened to subject
 -- mi li wei mugo
 .. I am eaten
 
+
 ### "lon li" : Exists / There was / There is
 
 The following item exists, it is not the subject or object.
@@ -120,6 +131,30 @@ The following item exists, it is not the subject or object.
 .. I'm in the middle of talking
 
 
+### wei gin : use
+
+Note below that there is no object marker 'ei', as wei gin requires it's own item
+
+-- vin wei gin mi 
+.. You use me
+
+You can use something to do something else.
+
+-- vin wei gin mi wei mengi ei mengi vin.
+.. You use me to build your house.
+?? you DO WITH me DO build OBJECT building you
+
+### wei li : become / turn into
+
+-- vin wei li vo-vo
+.. You become an animal
+
+-- vin wei li vo-vo ei mi
+.. you turn me into an animal
+
+
+
+
 
 Negation "va"
 ------------
@@ -131,6 +166,15 @@ Negation "va"
 
 -- dis li va buna
 .. this is not good
+
+"va" after the verb is equivelant to "un" in english
+
+-- mi wei zion va
+.. I unknow / I forget
+
+-- o va zion va
+.. don't forget
+
 
 
 Yes or No Questions
@@ -226,7 +270,7 @@ these are :
 
 "is" is the general pronoun for anyone or anything in a previous sentence. It is always followed a clarifying word disambiguate, that may be a Primary particle. 
 
-If a primare particle follows "is", then the most recent occurence of that particle is assumed to be the intended target.
+If a primary particle follows "is", then the most recent occurence of that particle is assumed to be the intended target.
 
 -- Zan leli li dugi da zan vuli. is-i li belin buna.
 .. The child speaks to the adult. The child is happy.
@@ -237,7 +281,7 @@ If a primare particle follows "is", then the most recent occurence of that parti
 * is-is : he/she/they : the least specific pronoun possible
 * is-mudei : they : the group of people
 * is-muli : they all 
-* is-mi : my it  
+* is-mi : mine
 * is-zan : this/these person(s)
 
 
