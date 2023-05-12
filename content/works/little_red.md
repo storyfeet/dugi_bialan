@@ -5,11 +5,11 @@ zan Elenuna leli
 
 # Little Redhood
 
-lon don won, lon li zan leli min bi enom Elenuna
+lon don won la, li io i zan leli min bi enom Elenuna
 
 # Once there was a little girl called Elenuna
 
-is-lon, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
+is-i, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
 
 # She was good, and wore a bright red hood all the time
 
@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is i usa la
 
 # However, a big bad wolf was watching her. Him we will call "usa"
 
-usa wei weli mugo ei zezi. usa wei boig ei zezi wei lugin i o ei zezi lon luga usa.
+usa wei weli mugo ei zezi. usa wei boig ei zezi wei lugin leban ei zezi lon luga usa.
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
@@ -89,7 +89,7 @@ usa wei bena lugin ei iasin leli wei giawin lon iasin bagi
 
 # He showed her the short cut, then went on his own way.
 
-iasin vo-ezan li da mengi bi ma ma min.
+iasin usa li da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
