@@ -65,7 +65,7 @@ zan Elenuna wei uwein giawin lon iasin, wei va lugin zion.
 
 # Elenoize carried on along the path, she didn't notice.
 
-mugi endei li zeli.
+mugi endei li weli.
 
 # Something else was needed.
 
