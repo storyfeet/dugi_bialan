@@ -251,10 +251,10 @@ A low number before a higher number is a multiplies it.  100 multiplies by every
 
 
 
-Secondary Particles
+Prefix Particles
 ----------------
 
-Secondary Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in writing it is appropriate to hyphenate the join.
+Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in writing it is appropriate to hyphenate the join.
 
 Joined to themselves, they mean the concept they cover.
 
@@ -265,6 +265,8 @@ these are :
 * vo : animal
 * edin : atom 
 * guli : body part
+* edi : taste
+
 
 ### The Pronoun "is"
 
@@ -352,7 +354,11 @@ If you want to be precise just use the atomic number
 * guli-gein : muscles
 * guli-lei : joint
 
-
+### Tastes with edi
+* edi-edi : taste
+* edi-gon : smell
+* edi-wewi : Sweet
+* edi-giala : Sweet
 
 
 

@@ -137,7 +137,7 @@ go "ni li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
-vo-ezan li dugi ei go "o giama lon biog mi, mi wile mugo leli ei mugo delo vin"
+vo-ezan li dugi ei go "o giama lon biog mi, mi wei weli mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
