@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is i usa la
 
 # However, a big bad wolf was watching her. Him we will call "usa"
 
-usa wei weli mugo ei zezi. usa wei boig ei zezi wei lugin leban ei zezi lon luga usa.
+usa wei belin da wei mugo ei zezi. usa wei boig ei zezi wei lugin leban ei zezi lon luga usa.
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
@@ -65,7 +65,7 @@ zan Elenuna wei uwein giawin lon iasin, wei va lugin zion.
 
 # Elenoize carried on along the path, she didn't notice.
 
-mugi endei li weli.
+mugi endei li wei belin.
 
 # Something else was needed.
 
@@ -137,7 +137,7 @@ go "ni li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
-vo-ezan li dugi ei go "o giama lon biog mi, mi wei weli mugo leli ei mugo delo vin"
+vo-ezan li dugi ei go "o giama lon biog mi, mi wei belin mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
@@ -185,7 +185,7 @@ is-muli wei lugin ei mugo delo beba.
 
 # They all looked at the soup Elenoize had brought.
 
-go "vin di wei belin ei i delo ni li weli ei mugo vo-vo", zan Elenuna wei dugi
+go "vin di wei belin ei i delo ni wei belin ei mugo vo-vo", zan Elenuna wei dugi
 
 # "Do you think this soup would like some meat", suggested Elenuna
 

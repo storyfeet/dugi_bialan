@@ -60,6 +60,11 @@ body {
     height: 30%;
 }
 
+.menu a {
+    padding:20px; 
+    background : grey;
+}
+
 @media print{
     .no-print, .no-print * {
         display:none; 
@@ -69,9 +74,11 @@ body {
 </style>
 </head>
 <body>
-    <div class="no-print">
+    <div class="no-print menu">
+        <a href="/">Home</a>
         <a href="/word_list">Word List</a>
         <a href="/grammar">Grammar</a>
+        <a href="/grammar_faq">Grammar Faq</a>
     </div>
     <h1>{{first .title "Dugi Bialan"}}</h1>
 {{$1}}

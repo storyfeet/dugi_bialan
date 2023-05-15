@@ -1,2 +1,1 @@
-{{exec_stdin "shell/convert.py" $0}}
-{{$0}}<br>
+{{exec_stdin "shell/convert.py" $0}}{{first $1 "<br>"}}{{$0}}\

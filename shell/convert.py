@@ -67,7 +67,10 @@ def tokenize(s):
                 line += 1
             else :
                 yield Token(TokenType.Punct,c,tk(p))
-                
+    
+    if word != "":
+        yield Token(TokenType.Word,word,tk(word_pos))
+
 
 
     
@@ -83,9 +86,9 @@ def get_glyphs(fname):
 
 def try_pic(s,paths,cname="g-base"):
     if s in paths:
-        print('<img src="/glyphs/{}.svg" title="{}" class="{}"/>'.format(s,s,cname))
+        print('<img src="/glyphs/{}.svg" title="{}" class="{}"/>'.format(s,s,cname),end="")
     else:
-        print(' {} '.format(s))
+        print(' {} '.format(s),end="")
 
 
 def is_secondary(token):
@@ -100,6 +103,7 @@ if __name__ == "__main__":
     
     readstate = ReadState.Ready
     s = sys.stdin.read();
+    #print("s = \"{}\"".format(s))
     for t in tokenize(s):
         if t.kind == TokenType.Word :
             if readstate == ReadState.Ready:
