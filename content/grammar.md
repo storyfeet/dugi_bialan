@@ -303,6 +303,9 @@ Describe colours how you like, but these are some good starters.
 * ga-goigo : brown
 * ga-mudei : Multicoloured
 * ga-muli : White
+* ga-zio : type / kind
+
+If you wish to say, "all the colours" you can say "ga-ga muli"
 
 ### Shapes with geni
 
@@ -319,7 +322,6 @@ As with colours, these are guidelines.
 * geni-va : formless
 * geni-lugin : eye shaped/oval
 
-If you wish to say, "all the colours" you can say "ga-ga muli"
 
 ### Atoms and molecules with edin
 
@@ -330,6 +332,8 @@ If you want to be precise just use the atomic number
 * edin-vein : Lithium
 * edin-mo : berylium
 
+* edin-duga : Molecule
+
 ### Animals with vo
 
 * vo-vo : Animal
@@ -339,10 +343,12 @@ If you want to be precise just use the atomic number
 * vo-wewi : Cute animal.
 * vo-wiasa : Bird
 * vo-zewi : High flying bird
-* vo-usewi : Cute animal
+* vo-wewi : Cute animal
 * vo-wiasa delo : duck
 * vo-egesi : reptile
 * vo-goigo : bug / worm
+* vo-bubiado : Poisonous / venemous animal
+* vo-elena : swarming animal
 
 ### Body parts with guli
 
