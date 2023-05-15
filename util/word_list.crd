@@ -61,7 +61,7 @@ muwa [moo,"animal noise"] [mu]
 muni [moon] [mun]
 musi [play] [musi]
 ziansi [art] [musi]
-liamego [spicy,interesting,flavour,type] [namako]
+liamego [spicy,interesting] [namako]
 unio [number] [nanpa]
 busi [random] [nasa]
 eniasa [mad,wild] [nasa]
@@ -149,12 +149,12 @@ lon [at,in] [PAR,lon]
 bi [of] [PAR,pi]
 wei [do,verb] [PAR,li]
 o [imperetive] [PAR,o]
-si [if] [PAR,la]
-la [then,context] [PAR,la]
 ga [colour] [PRE,kule]
-boina [before] [PAR,la]
 
-
+boina [before] [CON,la]
+devin [after,then] [CON,la]
+esi [if] [CON,la]
+la [then,context] [CON,la]
 
 vemi [what] [question,seme]
 mugi [unknown,some] [question,seme]
@@ -168,7 +168,7 @@ elena [dust,sand] []
 geva [partner,spouse] [kulupu,kin]
 
 
-deso [but, however] [taso]
+deso [but, however, except] [taso]
 
 # Pronouns
 mi [me,i,my] [pronoun,mi]
