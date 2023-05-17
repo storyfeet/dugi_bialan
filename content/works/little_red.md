@@ -5,11 +5,11 @@ zan Elenuna leli
 
 # Little Redhood
 
-don won wei io ei zan leli min bi enom Elenuna
+lon don won la, li io i zan leli min bi enom Elenuna
 
 # Once there was a little girl called Elenuna
 
-is-ei li buna, gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
+is-zan, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
 
 # She was good, and wore a bright red hood all the time
 
@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is i usa la
 
 # However, a big bad wolf was watching her. Him we will call "usa"
 
-usa wei belin da wei mugo ei zezi. usa wei boig ei zezi wei lugin leban ei zezi lon luga usa.
+usa wei weli mugo ei zezi. usa wei boig ei zezi wei lugin leban ei zezi lon luga usa.
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
@@ -65,7 +65,7 @@ zan Elenuna wei uwein giawin lon iasin, wei va lugin zion.
 
 # Elenoize carried on along the path, she didn't notice.
 
-mugi endei li wei belin.
+mugi endei li weli.
 
 # Something else was needed.
 
@@ -73,7 +73,7 @@ vo-ezan da zezi go "vin da vemi?"
 
 # The wolf spoke to her "where are you going?"
 
-go "mi da ma ma min mi lon boig ziasi bi ma giasi ei mugo delo beba dis. is-da li belin iagi"
+go "mi da ma ma min mi lon boig ziasi bi ma giasi ei mugo delo beba dis. is-ma li belin iagi"
 
 # "I'm going to my granny on the other side of the woods with this vegetable soup. She's feeling sick"
 
@@ -105,7 +105,7 @@ vo-ezan wei giama lon ensa, wei mugo ei ma ma ni gin belas una won.
 
 # The wolf came inside, and ate up this granny in one mouthful
 
-usa wei elein lon elein is-ei, wei ensa ei man liabei is-ei, da wei lugin viama is-ei.
+usa wei elein lon elein is-ma, wei ensa ei man liabei is-ma, da wei lugin viama is-ma.
 
 # He put on her clothes, and got into her bed in order to look like her.
 
@@ -137,7 +137,7 @@ go "ni li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
-vo-ezan li dugi ei go "o giama lon biog mi, mi wei belin mugo leli ei mugo delo vin"
+vo-ezan li dugi ei go "o giama lon biog mi, mi wile mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
@@ -165,19 +165,19 @@ deso la, wei giawin lon biog mengi dis i zan bi din giasi
 
 # However, Walking beside this house was a woodcutter.
 
-is-i wei gudei ei geliama liabei dis wei esebin ei go "zan majuni dis wei va geliama mudei sama dis"
+is-zan wei gudei ei geliama liabei dis wei esebin ei go "zan majuni dis wei va geliama mudei sama dis"
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 
-is-i wei lugin lon luli lugin wei lugin ei vo-ezan bi wei liabei.
+is-zan wei lugin lon luli lugin wei lugin ei vo-ezan bi wei liabei.
 
 # He looked in the window, and saw a wolf sleeping.
 
-is-i wei ensa lon mengi, gin gin elio din is-i wei din ei guli-vo-ezan da di
+is-zan wei ensa lon mengi, gin gin elio din is-bagi wei din ei guli-vo-ezan da di
 
 # he entered the house, and , using his axe cut the wolf in two.
 
-dan guli-dis wei zugo i zan Elenoize i ma ma min.
+dan guli-mugo wei zugo i zan Elenoize i ma ma min.
 
 # Out from his guts came Elenoize and Granny.
 
@@ -185,7 +185,7 @@ is-muli wei lugin ei mugo delo beba.
 
 # They all looked at the soup Elenoize had brought.
 
-go "vin di wei belin ei i delo ni wei belin ei mugo vo-vo", zan Elenuna wei dugi
+go "vin di wei belin ei i delo ni li weli ei mugo vo-vo", zan Elenuna wei dugi
 
 # "Do you think this soup would like some meat", suggested Elenuna
 

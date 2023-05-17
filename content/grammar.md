@@ -295,30 +295,25 @@ When joined to themselves, they mean the concept they cover.
 * is-is : general pronoun
 * ga-ga : Colour
 
-* When joined to each other the child particle is considered complete
+When joined to each other the child prefix has its own clarifier, but a Primary particles can break that.
 
-* ga-vo-ezan : Wolf-coloured
+* ga-(vo-ezan) : Wolf-coloured
 
 
 
 
 ### The Pronoun "is"
 
-"is" is the general pronoun for anyone or anything in a previous sentence. It is always followed a clarifying word disambiguate, that may be a Primary particle. 
-
-If a primary particle follows "is", then the most recent occurence of that particle is assumed to be the intended target.
-
--- Zan leli li dugi da zan vuli. is-i li belin buna.
-.. The child speaks to the adult. The child is happy.
-
--- Zan leli li dugi da zan vuli. is-da li belin buna.
-.. The child speaks to the adult. The adult is happy.
+"is" is the general pronoun for anyone or anything in a previous sentence. It is always followed a clarifying word disambiguate. 
+The clarifier doesn't have to be first/main word, just the least ambiguous.
 
 * is-is : he/she/they : the least specific pronoun possible
 * is-mudei : they : the group of people
 * is-muli : they all 
 * is-mi : mine
 * is-zan : this/these person(s)
+* is-leli : The small one
+* is-bagi : his/her/theirs // belonging to the subject
 
 
 ### Colours with "ga"
