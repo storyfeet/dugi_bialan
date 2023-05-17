@@ -5,7 +5,7 @@ zan Elenuna leli
 
 # Little Redhood
 
-lon don won la, li io i zan leli min bi enom Elenuna
+lon don won la, is-is wei io i zan leli min bi enom Elenuna
 
 # Once there was a little girl called Elenuna
 
@@ -17,7 +17,7 @@ zan Elenuna zezi la, wei doimo lon biog man giasi ga-va
 
 # Elenuna, who we will call zezi, lived beside a dark forest
 
-esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-da li belin egi" 
+esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-ma li belin egi" 
 
 # one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 

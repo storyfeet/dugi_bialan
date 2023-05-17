@@ -300,21 +300,31 @@ When joined to each other the child prefix has its own clarifier, but a Primary 
 * ga-(vo-ezan) : Wolf-coloured
 
 
-
-
 ### The Pronoun "is"
 
 "is" is the general pronoun for anyone or anything in a previous sentence. It is always followed a clarifying word disambiguate. 
 The clarifier doesn't have to be first/main word, just the least ambiguous.
 
-* is-is : he/she/they : the least specific pronoun possible
+#### Simple clarifiers
+
 * is-mudei : they : the group of people
 * is-muli : they all 
-* is-mi : mine
 * is-zan : this/these person(s)
 * is-leli : The small one
-* is-bagi : his/her/theirs // belonging to the subject
 
+#### General It*
+
+The general it of being, such as "It's raining" "It's dark" "there is" "It is required"
+
+* is-is : it / the sky / the world / generic it
+
+#### Possesive instances
+
+"Mine", as opposed to "My thing". Does not need an object specified as conversation already implies that.
+
+* is-mi : mine
+* is-vin : Yours
+* is-bagi : his/her/theirs / belonging to the subject
 
 ### Colours with "ga"
 
