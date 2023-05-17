@@ -282,8 +282,6 @@ Prefix Particles
 
 Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in writing it is appropriate to hyphenate the join.
 
-Joined to themselves, they mean the concept they cover.
-
 these are : 
 * is : pronoun 
 * ga : colour 
@@ -292,6 +290,16 @@ these are :
 * edin : atom 
 * guli : body part
 * edi : taste
+
+When joined to themselves, they mean the concept they cover.
+* is-is : general pronoun
+* ga-ga : Colour
+
+* When joined to each other the child particle is considered complete
+
+* ga-vo-ezan : Wolf-coloured
+
+
 
 
 ### The Pronoun "is"
@@ -363,7 +371,9 @@ If you want to be precise just use the atomic number
 ### Animals with vo
 
 * vo-vo : Animal
+* vo-zan : Monkey
 * vo-ezan : Wolf/Tiger/fierce animal 
+* vo-zion : cunning animal / fox
 * vo-beba : Herbivore/farm animal
 * vo-delo : Fish
 * vo-wewi : Cute animal.
@@ -378,7 +388,8 @@ If you want to be precise just use the atomic number
 
 ### Body parts with guli
 
-* guli-guli : body
+* guli-guli : organ
+* guli-zan : body
 * guli-zion : brain
 * guli-mugo : gut
 * guli-delo : kidneys

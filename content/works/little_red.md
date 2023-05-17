@@ -173,11 +173,11 @@ is-i wei lugin lon luli lugin wei lugin ei vo-ezan bi wei liabei.
 
 # He looked in the window, and saw a wolf sleeping.
 
-is-i wei ensa lon mengi, gin gin elio din is-i wei din ei guli-guli vo-ezan da di
+is-i wei ensa lon mengi, gin gin elio din is-i wei din ei guli-vo-ezan da di
 
 # he entered the house, and , using his axe cut the wolf in two.
 
-dan guli-guli wei zugo i zan Elenoize i ma ma min.
+dan guli-dis wei zugo i zan Elenoize i ma ma min.
 
 # Out from his guts came Elenoize and Granny.
 
