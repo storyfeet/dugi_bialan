@@ -286,6 +286,7 @@ these are :
 * is : pronoun 
 * ga : colour 
 * geni : shape 
+* ema : Sound
 * vo : animal
 * edin : atom 
 * guli : body part
@@ -298,6 +299,7 @@ When joined to themselves, they mean the concept they cover.
 When joined to each other the child prefix has its own clarifier, but a Primary particles can break that.
 
 * ga-(vo-ezan) : Wolf-coloured
+* ga-(vo-vo) : Animal colour
 
 
 ### The Pronoun "is"
@@ -407,6 +409,14 @@ If you want to be precise just use the atomic number
 * edi-gon : smell
 * edi-wewi : Sweet
 * edi-giala : Sweet
+
+### Sounds with ema
+
+* ema-ema : Sound
+* ema-zubi : Crash / drum 
+* ema-vo : Animal noise
+* ema-musi : Singing
+* ema-gon : wind noises
 
 
 

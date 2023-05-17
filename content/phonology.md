@@ -1,6 +1,22 @@
 {{export title="phonology"}}
 {{@md}}
 
+Formalized Phonotactics
+-------------
+
+word : (?![a,n,s]) C? (Va F? C)\* Vb F?
+
+loan-word : (?![a,n,s]) C? (Va F? C)\* \[Va,Vb] [(C ə)? , F ]
+
+C (Consonant) : [w,d,b,s,l,dz(z),g,n,m,v]
+
+Va (Vowel a) : [ e, oi ,ia, u ]
+
+Vb (Vowel b) : [ ei, o, a , i, io,  ]
+
+F (Final) : [n,s]
+
+
 Phonology
 --------
 
@@ -43,20 +59,6 @@ They may also end with any consonant, followed by a short 'ə' (shwa). This woul
 eg: America - emeigg (emeigə)
 
 
-Formalized Phonotactics
--------------
-
-word : (?![a,n,s]) C? (Va F? C)\* Vb F?
-
-loan-word : (?![a,n,s]) C? (Va F? C)\* \[Va,Vb] [(C 'ə')? , F ]
-
-C (Consonant) : [w,d,b,s,l,dz(z),g,n,m,v]
-
-Va (Vowel a) : [ e, oi ,ia, u ]
-
-Vb (Vowel b) : [ ei, o, a , i, io,  ]
-
-F (Final) : [n,s]
 
 
 

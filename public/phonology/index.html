@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>phonology</title>
+<style>
+
+body {
+    background-color:#aaaa77;
+}
+.g-base {
+    height:30px;
+    width:auto;
+}
+
+.g-second { 
+    height:18px;
+    width:auto;
+    padding-bottom:12px;
+}
+.g-follow { 
+    height: 25px;
+    width:auto;
+    margin-left:-13px;
+}
+.g-s-follow {
+    height:18px;
+    width:auto;
+    margin-left:-13px;
+}
+
+.glyph-box {
+    text-align:center;
+    height:55px;
+    width:60px;
+    border:1px solid black;
+    overflow:hidden;
+    float:left;
+}
+.glyph-box img {
+    width : 50%;
+    height: 50%;
+    background: #bbbbbb;
+}
+.glyph-box text {
+}
+
+.word-box {
+    text-align:center;
+    height:140px;
+    width:90px;
+    border:1px solid black;
+    page-break-inside:avoid;
+    overflow-y:hidden;
+    float:left;
+}
+.word-box img {
+    width : 30%;
+    height: 30%;
+}
+
+.menu a {
+    padding:20px; 
+    background : grey;
+}
+
+@media print{
+    .no-print, .no-print * {
+        display:none; 
+    }
+}
+
+</style>
+</head>
+<body>
+    <div class="no-print menu">
+        <a href="/">Home</a>
+        <a href="/word_list">Word List</a>
+        <a href="/grammar">Grammar</a>
+        <a href="/grammar_faq">Grammar Faq</a>
+        <a href="/phonology">Phonology</a>
+    </div>
+    <h1>phonology</h1>
+
+<h2>Formalized Phonotactics</h2>
+<p>word : (?![a,n,s]) C? (Va F? C)* Vb F?</p>
+<p>loan-word : (?![a,n,s]) C? (Va F? C)* [Va,Vb] [(C ə)? , F ]</p>
+<p>C (Consonant) : [w,d,b,s,l,dz(z),g,n,m,v]</p>
+<p>Va (Vowel a) : [ e, oi ,ia, u ]</p>
+<p>Vb (Vowel b) : [ ei, o, a , i, io,  ]</p>
+<p>F (Final) : [n,s]</p>
+<h2>Phonology</h2>
+<p>The sound system is designed to be easy to pronounce and destinguish and gentle to listen to.</p>
+<p>It deliberately uses the voiced consonants to distinguish itself from Toki Pona, so that people who learn both will be less confused, as the two languages have a lot in common.</p>
+<h2>Romanization</h2>
+<p>With the exception of the 'z', the letters are pronounced as in the ipa.
+'z' is pronounced as 'dz' in ipa
+so 'zan' meaning 'man', is pronounced like the beginning of 'January' in English</p>
+<p>glides are indicated by using both the from and to vowels.</p>
+<h2>Phonotactics</h2>
+<p>The phonotactics of the language are designed to avoid words being mixed up with combinations of others. </p>
+<p>Every word ends with a vowel from a specific set, maybe followed by one of 2 consonants. These endings cannot appear elsewhere in the word.</p>
+<p>This, combined with the fact words cannot start with &quot;a&quot;,&quot;n&quot;,or &quot;s&quot; means that no word can be made as a combination of any two others.</p>
+<ul>
+<li>Words may not start with 'a' 'n' or 's'</li>
+<li>Words may begin with a consonant.</li>
+<li>Starter vowels (Va) are separated by consonants, and maybe 'final's.</li>
+<li>At the end of each word is a final vowel (Vb) </li>
+<li>This may be followed by a 'final' consonant (F)</li>
+</ul>
+<h2>Loan Words</h2>
+<p>Loan words and proper-names are not required to end with a 'Vb', but if they do use one, there can be no 'Va' after it.</p>
+<p>They may also end with any consonant, followed by a short 'ə' (shwa). This would be written as a double consonant to mark it</p>
+<p>eg: America - emeigg (emeigə)</p>
+
+</body>
+</html>

@@ -5,7 +5,7 @@ zan Elenuna leli
 
 # Little Redhood
 
-lon don won la, is-is wei io i zan leli min bi enom Elenuna
+lon don won la, is-is wei io ei zan leli min bi enom Elenuna
 
 # Once there was a little girl called Elenuna
 
@@ -21,7 +21,7 @@ esuno won la, ma min zezi go "o da ma ma min ei mugo delo beba dis. is-ma li bel
 
 # one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 
-"deso la, o va zion va ei lebo liawa bi ma giasi : 
+"deso la, o va zion va ei lebo liawa bi man giasi dis : 
 unio won la, o va wega dan iasin
 unio di la, o va dugi, lon don va, gin vo-ezan eliasi"
 
@@ -37,15 +37,15 @@ giawin la zezi wei munin.
 
 # while going, she skipped
 
-esuno wei esuno, i waso wei beliami ziansi lon zewi.
+esuno wei esuno, gin i vo-wiasa wei ema-musi lon zewi.
 
 # The sun shone, the birds sang in the sky
 
-zezi wei beliami viama.
+zezi wei ema-musi egin.
 
 # She (Elenuna) sang with them
 
-deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is i usa la
+deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is-ezan li usa la
 
 # However, a big bad wolf was watching her. Him we will call "usa"
 
@@ -105,7 +105,7 @@ vo-ezan wei giama lon ensa, wei mugo ei ma ma ni gin belas una won.
 
 # The wolf came inside, and ate up this granny in one mouthful
 
-usa wei elein lon elein is-ma, wei ensa ei man liabei is-ma, da wei lugin viama is-ma.
+usa wei elein lon elein is-ma, wei ensa ei man liabei is-ma, da wei lugin egin is-ma.
 
 # He put on her clothes, and got into her bed in order to look like her.
 
