@@ -19,26 +19,6 @@ The language has 5 types of words.
 
 
 
-Phonotactics
-----------
-
-The phonotactics of the language are designed to avoid word combinations being mixed up with others. Every word ends with a vowel from a specific set (and sometimes one of 2 consonants after), these endings cannot appear elsewhere in the word. 
-
-This, combined with the fact words cannot start with "a","n",or "s" means that no word can be made as a combination of any two others.
-
-word : (?![a,n,s]) C? (Va F? C)\* Vb F?
-
-C (Consonant) : [w,d,b,s,l,dz(z),g,n,m,v]
-
-Va (Vowel a) : [ e, oi ,ia, u ]
-
-Vb (Vowel b) : [ ei, o, a , i, io,  ]
-
-
-F (Final) : [n,s]
-
-
-
 
 Primary Particles
 ---------
