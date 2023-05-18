@@ -13,8 +13,8 @@ To aid the listener each type of word is only used as 1 of these things, and doe
 The language has 5 types of words.
 * Particles (PAR)
 * Conjuctions (CON)
+* Auxiliary (AUX)
 * Prefixes (PRE)
-* Bi (of)
 * Everything else.
 
 
@@ -274,6 +274,34 @@ A low number before a higher number is a multiplies it.  100 multiplies by every
 50 : di-in-di-lan
 55 : di-in-van-lan
 1225 : 2-5-2-100-20-5 (12 hundred and 25) = di-lan-di-ziaza-in-lan
+
+Auxiliary Particles
+---------
+Auxiliary particles have a special job to do but their role is unlike any other character and have special rules for each of them.
+
+They are:
+* bi : of
+* deso : except / but / however
+* aini :  or
+
+### bi
+
+bi has two main jobs
+
+* Seperate items. 
+* Dependant clauses
+
+Normally a noun or adjective is defined as 
+
+A B C -> meaning (A of B) of C
+
+but if we add a 'bi' we get
+
+A bi B C -> A of (B of C)
+
+
+
+
 
 
 

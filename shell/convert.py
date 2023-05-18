@@ -92,7 +92,7 @@ def try_pic(s,paths,cname="g-base"):
 
 
 def is_secondary(token):
-    return token.string in {"ga","geni","is","vo","edin","guli"}
+    return token.string in {"ga","geni","is","vo","edin","guli","ema"}
          
 
 

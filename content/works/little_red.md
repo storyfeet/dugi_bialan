@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei zezi. is-ezan li usa la
 
 # However, a big bad wolf was watching her. Him we will call "usa"
 
-usa wei weli mugo ei zezi. usa wei boig ei zezi wei lugin leban ei zezi lon luga usa.
+usa wei weli mugo ei zezi. usa wei biog ei zezi wei lugin leban ei zezi lon luga usa.
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
@@ -73,7 +73,7 @@ vo-ezan da zezi go "vin da vemi?"
 
 # The wolf spoke to her "where are you going?"
 
-go "mi da ma ma min mi lon boig ziasi bi ma giasi ei mugo delo beba dis. is-ma li belin iagi"
+go "mi da ma ma min mi lon biog ziasi bi ma giasi ei mugo delo beba dis. is-ma li belin iagi"
 
 # "I'm going to my granny on the other side of the woods with this vegetable soup. She's feeling sick"
 
@@ -101,7 +101,7 @@ go "o giama lon ensa, i zi zi mi"
 
 # "O come inside my grandchild she said"
 
-vo-ezan wei giama lon ensa, wei mugo ei ma ma ni gin belas una won.
+vo-ezan wei giama lon ensa, wei mugo ei is-ma gin belas una won.
 
 # The wolf came inside, and ate up this granny in one mouthful
 
@@ -125,7 +125,7 @@ zezi wei giawin ensa wei lugin ei ma ma min zezi. go "ba ma ma min mi. lugin vin
 
 # She came inside and looked and her grandmother. "O granny, your eyes have gotten soo big"
 
-go "ni li buna mudei da wei lugin ei vin"
+go "dis li buna mudei da wei lugin ei vin"
 
 # "This is very good so I can look at you."
 
@@ -133,7 +133,7 @@ go "ba ma ma min mi. gudei vin li wei giama suli mudei"
 
 # "Oh my granny. your ears have gotten soo big"
 
-go "ni li buna mudei da wei gudei ei vin"
+go "dis li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
@@ -141,7 +141,7 @@ vo-ezan li dugi ei go "o giama lon biog mi, mi wile mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
-zezi wei giama, wei lugin boig udei.
+zezi wei giama, wei lugin biog udei.
 
 # She came closer, and looked closer.
 
@@ -149,7 +149,7 @@ go "ba ma ma min mi. gedin vin li wei giama suli mudei"
 
 # "O my granny. your teeth have gotten soo big"
 
-go "ni li buna mudei da wei mugo ei vin"
+go "dis li buna mudei da wei mugo ei vin"
 
 # "This is very good, so I can EAT you"
 
@@ -185,7 +185,7 @@ is-muli wei lugin ei mugo delo beba.
 
 # They all looked at the soup Elenoize had brought.
 
-go "vin di wei belin ei i delo ni li weli ei mugo vo-vo", zan Elenuna wei dugi
+go "vin di wei va wei esebin la i delo dis wei belin ei mugo vo-vo", zan Elenuna wei dugi
 
 # "Do you think this soup would like some meat", suggested Elenuna
 
