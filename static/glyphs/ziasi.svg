@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="25mm"
+   width="50mm"
    height="50mm"
-   viewBox="0 0 25 50"
+   viewBox="0 0 50 50"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="_stop.svg"
+   sodipodi:docname="ziasi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.625231"
-     inkscape:cy="96.307456"
+     inkscape:cx="134.05725"
+     inkscape:cy="85.164445"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,9 +40,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 11.871404,48.183123 c -5.8407099,0.155656 -5.0270441,-5.954107 0.172417,-5.576168 5.199461,0.377939 5.543282,4.617897 0.380164,5.488742"
-       id="path1290"
-       sodipodi:nodetypes="csc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 39.186212,30.787754 C 25.354622,39.887128 23.55716,8.050153 39.201522,17.809694"
+       id="path22577"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 9.8086513,17.809517 C 23.640243,8.7101429 25.437705,40.547118 9.7933513,30.787577"
+       id="path22577-3"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
