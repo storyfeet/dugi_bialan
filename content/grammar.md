@@ -411,10 +411,10 @@ If you want to be precise just use the atomic number
 * vo-zion : cunning animal / fox
 * vo-beba : Herbivore/farm animal
 * vo-delo : Fish
-* vo-wewi : Cute animal.
+* vo- : Cute animal.
 * vo-wiasa : Bird
 * vo-zewi : High flying bird
-* vo-wewi : Cute animal
+* vo- : Cute animal
 * vo-wiasa delo : duck
 * vo-egesi : reptile
 * vo-goigo : bug / worm
@@ -435,8 +435,9 @@ If you want to be precise just use the atomic number
 ### Tastes with edi
 * edi-edi : taste
 * edi-gon : smell
-* edi-wewi : Sweet
-* edi-giala : Sweet
+* edi-wuwi : Sweet
+* edi-giala : Sweet like flower
+* edi-vio : Spicy
 
 ### Sounds with ema
 
