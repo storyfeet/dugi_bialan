@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="biaga.svg"
+   sodipodi:docname="biagela.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="96.080048"
+     inkscape:cx="95.625231"
      inkscape:cy="95.625231"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
@@ -40,9 +40,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 17.164734,39.345924 9.4238298,34.408606 c 0,0 13.6117562,-5.144312 18.8175862,-9.970166 C 33.969807,19.128166 40.747328,4.6211884 40.747328,4.6211884 39.895215,18.295667 39.132005,32.00769 32.24895,43.135226 c 0.164122,-0.42837 5.133054,0.955133 8.042651,0.944016"
-       id="path463"
-       sodipodi:nodetypes="ccsccc" />
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 6.8248094,29.42428 7.2251441,11.642772 43.864644,12.307649 43.60486,29.127768"
+       id="path9987"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 26.596159,13.71113 -6.085767,15.530863 9.289587,0.259989 -6.777372,14.393132"
+       id="path9970" />
   </g>
 </svg>

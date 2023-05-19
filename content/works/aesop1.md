@@ -6,7 +6,7 @@
 
 zan Esopp la, dis zan bi dugi musi esebin la, dis zan bi wei buna zelula da zan ali la, dan busi li zan bi unda zan. deso la dan guma zi li zan bi man Veligg.
 
-zan Esopp zezi la li lugin iagi mudei, gin lon buli li gebin va. 
+zan Esopp zezi la li lugin iagi vuli, gin lon buli li gebin va. 
 
 guli ali is-zan li geni-iagi, i liawa li geni-egi, megi vubi is-zan li leli.
 
