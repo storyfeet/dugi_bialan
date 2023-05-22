@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="enbin.svg"
+   sodipodi:docname="moini.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,12 +41,12 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80138;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 6.5282228,16.022439 C 7.6013508,31.998256 39.451033,12.580271 22.390799,3.7356177 10.688735,-2.3311921 1.0196068,10.095343 7.1981818,21.205426 c 7.0146452,12.613476 -1.12219,25.587138 -1.86668,25.493476"
+       d="M 25.225213,16.467107 C 26.298341,32.442924 58.148023,13.024939 41.087789,4.1802854 29.385725,-1.8865244 19.716597,10.540011 25.895172,21.650094 32.909817,34.26357 24.772982,47.237232 24.028492,47.14357"
        id="path14457"
        sodipodi:nodetypes="cssc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 28.648071,30.19597 C 18.724966,13.164647 53.444024,10.951369 42.800987,30.214817"
+       d="M 7.1381233,33.17131 C -2.7849822,16.139987 31.934076,13.926709 21.291039,33.190157"
        id="path22577"
        sodipodi:nodetypes="cc" />
   </g>
