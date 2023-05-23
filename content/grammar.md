@@ -18,8 +18,6 @@ The language has 5 types of words.
 * Everything else.
 
 
-
-
 Primary Particles
 ---------
 
@@ -36,6 +34,9 @@ dropped if sentence starts with subject
 * "dan" : because/from : followed by a noun or adjective
 * "weni" : done/complete/already : followed by a verb
 * "go" : saying/quote : followed by the quoted clause (use "")
+* "boina" : before : followed by a noun
+* "devin" : before : followed by a noun
+
 
 It is important to note that the same word can be a noun, verb or adjective.
 
