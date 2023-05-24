@@ -190,7 +190,7 @@ lan [five] [luka,number]
 in [twenty] [mute,number]
 ziaza [hundred] [mute,ali,number]
 
-udei [more] [mute,amount]
+udei [more,increase] [mute,amount]
 mudei [several] [mute,amount]
 zelula [shitloads,too,much,many] [mute,amount]
 muli [all,every] [ali,ale,amount]
