@@ -65,7 +65,7 @@ eniasa [mad,wild] [nasa]
 iasin [way,path] [nasin]
 enin [hill,bump] [nein]
 enon [name,word] [nimi]
-oiga [foot] [noka]
+oiga [foot,base, bottom] [noka]
 lin [love] [olin]
 begin [start,begin] [open]
 ubin [open] [open]
@@ -178,7 +178,7 @@ dis [this] [pronoun,ni]
 das [that] [pronoun,ni]
 bagi [self] [pronoun,ona,mi,sina]
 
-ubesi [species,type] [kule]
+vega [species,type] [kule]
 
 # Amounts / numbers
 
