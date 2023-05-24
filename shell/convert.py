@@ -91,8 +91,8 @@ def try_pic(s,paths,cname="g-base"):
         print(' {} '.format(s),end="")
 
 
-def is_secondary(token):
-    return token.string in {"ga","geni","is","vo","edin","guli","ema"}
+def is_prefix(token):
+    return token.string in {"megi","ga","geni","is","vo","edin","edi","guli","ema"}
          
 
 
@@ -107,13 +107,13 @@ if __name__ == "__main__":
     for t in tokenize(s):
         if t.kind == TokenType.Word :
             if readstate == ReadState.Ready:
-                if is_secondary(t):
+                if is_prefix(t):
                     try_pic(t.string,paths,"g-second")
                     readstate = ReadState.Secondary
                 else :
                     try_pic(t.string,paths)
             else :
-                cc = "g-s-follow" if is_secondary(t) else "g-follow" 
+                cc = "g-s-follow" if is_prefix(t) else "g-follow" 
                 try_pic(t.string,paths,cname=cc)
                 readstate = ReadState.Ready
         elif t.kind == TokenType.NewLine :

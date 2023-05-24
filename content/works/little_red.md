@@ -5,11 +5,11 @@ zan Elenuna leli
 
 # Little Redhood
 
-lon don won la, is-is wei io ei zan leli min bi enom Elenuna
+lon don won la, is-is wei io ei zan leli min bi enon Elenuna
 
 # Once there was a little girl called Elenuna
 
-is-zan, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don ali.
+is-zan, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don muli.
 
 # She was good, and wore a bright red hood all the time
 

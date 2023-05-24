@@ -320,6 +320,7 @@ these are :
 * edin : atom 
 * guli : body part
 * edi : taste
+* megi : distance
 
 When joined to themselves, they mean the concept they cover.
 * is-is : general pronoun
