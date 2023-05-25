@@ -1,6 +1,6 @@
 @param en tags
 ba [ah] [exclaim,a] 
-egesi [scale,scaly] [akesi]
+egesi [scale,salt] [akesi]
 va [not,none,lack] [ala]
 eliasi [hunt,search] [alasa]
 unda [under,down] [prep,anpa]
@@ -55,7 +55,6 @@ moili [die,death] [moli]
 moini [back] [monsi]
 liamon [bum,ass] [monsi]
 zugo [exit] [monsi,weka]
-moinseda [monster,fear,scary] [monsuta]
 muni [moon] [mun]
 ziavi [play] [musi]
 musi [art] [musi]
@@ -100,7 +99,6 @@ munin ["over"] [supa]
 zugi [surface,counter,table] [supa]
 viala [cover,lid,door] [supa,nena]
 wuwi [sweet] [suwi]
-viadei [salt,tang] []
 bubiado [poison,bitter] []
 giawin [leg,go] [tawa]
 delo [water] [telo]
@@ -120,7 +118,7 @@ udiala [fight] [utala]
 uli [compete] [utala]
 giali [excercise] [utala]
 wiasa [wing] [waso]
-wiawi [mighty,strong] [wawa]
+wiawa [mighty,strong] [wawa]
 biawi [electric] [wawa]
 wega [yeet,away,gone] [weka]
 
@@ -198,17 +196,15 @@ loigo [lock,tie,know,tight] []
 veli [real,true] [lon]
 
 
-unin [unit] [wan]
 
 #measurable
 ziasi [reflect,opposite] [amount,ante]
 
 megi [distance] [measure,weka]
-ziaza [mass] [measure,suli]
+ziazi [mass] [measure,suli]
 debiawi [current,electricity] [measure,suno]
 oiban [frequency] [measure]
 
-wiada [width,thickness] [suli,measure]
 belas [full] [suli,measure]
 biaga [speed,fast] [tenpo,lili]
 

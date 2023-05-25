@@ -256,7 +256,7 @@ Number words are :
 * mo : 4
 * lan : 5
 * in : 20
-* ziaza : 100
+* za : 100
 
 A low number before a higher number is a multiplies it.  100 multiplies by everything before it.
 
@@ -274,7 +274,7 @@ A low number before a higher number is a multiplies it.  100 multiplies by every
 45 : di-in-lan
 50 : di-in-di-lan
 55 : di-in-van-lan
-1225 : 2-5-2-100-20-5 (12 hundred and 25) = di-lan-di-ziaza-in-lan
+1225 : 2-5-2-100-20-5 (12 hundred and 25) = di-lan-di-za-in-lan
 
 Auxiliary Particles
 ---------
@@ -448,6 +448,15 @@ If you want to be precise just use the atomic number
 * ema-vo : Animal noise
 * ema-musi : Singing
 * ema-gon : wind noises
+
+### Measurements with megi
+
+* megi-megi : Measure
+* megi-liawa : Height
+* megi-seli : Tempurature
+* megi-munin : Width
+* megi-giawin : Length
+* megi-lei : Angle
 
 
 
