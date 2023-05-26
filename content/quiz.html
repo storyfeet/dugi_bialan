@@ -1,14 +1,27 @@
 {{export title="quiz"}}
-{{let cfile = (r_card ( file "util/word_list.crd"));
-    cards = sort_on $cfile "Name" ;
-    glyphs = sort (dir "static/glyphs/" );
-}}
 
-Min<input type="range"/>
-Max<input type="range"/>
-<button>Go</button>
+Min<input id="r-min" type="number" min="0" max="170" value="0"/>
+Max<input id="r-max" type="number" min="10" max="190" value="190"/>
+<button onclick="qmod.nextQuestion()">Go</button>
+<div id="question"></div>
+<div id="answer"></div>
 
-<script>
-	items = {{w_json $cards}};
 		
+<script type="module">
+import {items} from "/js/items.js";
+function randR(min,max){
+	return Math.floor(Math.random() * (max - min)) + min;
+}
+
+function nextQuestion(){		
+	let mn = Number(document.getElementById("r-min").value);
+	let mx = Number(document.getElementById("r-max").value);
+	let n = randR(mn,mx);
+	console.log(items[n].Name);
+}
+window.qmod = {
+	nextQuestion:nextQuestion
+};
+	
+
 </script>
