@@ -38,28 +38,26 @@ The aim of Dugi Bialan is to address all of these problems while still maintaini
 * Non lexicalization
     pairs of words not meaning a specific english word, but communicating their own ideas through combination.
 
-That said, I had to put dependent clauses back in, but in a way that holds onto the way of joining particles.
-
 Other Goals
 ----------------
 
 * No misreading the grammar.
 
-    Vague language is appropriate for a minimalist language, but every listener should be able to hear where one idea ends and the next begins.
+    Every listener should be able to hear where one idea ends and the next begins.
 
 * Should not sound too much like Toki Pona.
 
-    This language is build on Toki Pona, however I also want to speak toki pona and I don't want to get mixed up with the languages having too much crossover.
+    This language is built on Toki Pona, however I also want to speak toki pona and I don't want to get too mixed up when speaking.
 
 * Minimalist Word Set
 
-    The language of Balance, is not about pure simplicity or minimalism, but about finding the point where minimalism and usability meet.
+    The language of Balance, is not purely about simplicity or minimalism, but about finding the point where minimalism and usability meet.
     
-    For the sake of a number, not more than double the words in toki pona top out at 250
+    For the sake of a number, It should not have more than double the words in toki pona, which would be roughly 250 words.
 
 * Comparing things and being precise should be possible
 
-    While not a priority, it is worth making comparisons possible without saying something that isn't "true", such as "you're small. I'm big."
+    Comparisons should not say something that isn't "true", such as "you're small. I'm big."
     "me big from you" seems a simple fit to me.
 
 * Common words should be short 
@@ -74,7 +72,7 @@ Other Goals
 
     For Dugi Bialan I wish to have a logography. And I wish to avoid any wasted strokes, if something can be communicated without completing the shape, do that.
 
-    Radical combinations to communicate an idea is better than an accurate picture.
+    Radical combinations that communicate ideas is preffered to an accurate picture
 
 * Dependent Clauses
 
@@ -88,4 +86,4 @@ Other Goals
 
 * Have a body of work big enough to test it all
 
-
+    Actually get writing done, end hopefully even have others wrigin in it.
