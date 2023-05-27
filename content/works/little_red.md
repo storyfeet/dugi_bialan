@@ -53,7 +53,7 @@ is-di wei weli mugo ei is-won. is-di wei biog ei is-won wei lugin leban ei is-wo
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
-deso la, lon don egesa dis. is-won wei unda da wei loigo ei liana bi elein noiga.
+deso la, lon don egesa dis. is-won wei gan-oiga da wei loigo ei liana bi elein noiga.
 
 # However at that exact time, she bend down to tie her shoe laces.
 

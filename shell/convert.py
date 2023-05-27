@@ -92,7 +92,7 @@ def try_pic(s,paths,cname="g-base"):
 
 
 def is_prefix(token):
-    return token.string in {"megi","ga","geni","is","vo","edin","edi","guli","ema"}
+    return token.string in {"megi","ga","gan","geni","is","vo","edin","edi","guli","ema"}
          
 
 
@@ -125,6 +125,8 @@ if __name__ == "__main__":
             try_pic("_quote",paths)
         elif t.string == ".":
             try_pic("_stop",paths)
+        elif t.string == ",":
+            try_pic("_comma",paths)
             
         elif t.kind == TokenType.Comment:
             print(t.string)
