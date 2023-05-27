@@ -5,13 +5,13 @@
 
 zan Esopp la, dis zan vuli bi dugi musi esebin la, dis zan bi wei buna zelula da zan ali la, dan busi li zan oiga. deso la dan guma zi li zan bi man Veligg.
 
-zan Esopp zezi la li lugin iagi vuli, gin lon buli li gebin va. 
+zan Esopp is-won la li lugin iagi vuli, gin lon buli li elio va. 
 
 guli ali is-zan li geni-iagi, i liawa li geni-egi, megi vubi is-zan li leli.
 
 udei la, zan Esopp li biagela lon ma vuli. is-zan li gein va dugi.
 
-dan dugi va zezi la zan liawa zezi li lugin ei i zan Esopp wei gein va buli lon ma mengi vuli. dan dis la is-liawa ei Esopp lon ma bein giasi
+dan dugi va is-won la zan liawa is-won li lugin ei i zan Esopp wei gein va buli lon ma mengi vuli. dan dis la is-liawa ei Esopp lon ma bein giasi
 
 # His first test (p112)
 

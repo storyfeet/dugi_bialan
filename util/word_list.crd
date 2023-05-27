@@ -184,7 +184,7 @@ lan [five] [luka,number]
 in [twenty] [mute,number]
 za [hundred] [mute,ali,number]
 
-mudei [several] [mute,amount]
+mudei [several,increase] [mute,amount]
 zelula [shitloads,too,much,many] [mute,amount]
 muli [all,every] [ali,ale,amount]
 egesa [exact,point] [ni]
