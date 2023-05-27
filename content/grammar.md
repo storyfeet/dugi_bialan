@@ -444,7 +444,7 @@ If you want to be precise just use the atomic number
 ### Sounds with ema
 
 * ema-ema : Sound
-* ema-zubi : Crash / drum 
+* ema-gion : Crash / drum 
 * ema-vo : Animal noise
 * ema-musi : Singing
 * ema-gon : wind noises

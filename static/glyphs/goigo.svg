@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="117.91125"
-     inkscape:cy="94.033372"
+     inkscape:cx="118.13866"
+     inkscape:cy="94.260781"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -42,19 +42,19 @@
     <g
        id="g2851"
        transform="matrix(1.4086742,0,0,1.4120695,-9.403251,-11.922619)"
-       style="stroke-width:0.709033">
+       style="stroke-width:2.12710015;stroke-dasharray:none">
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.27723;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:2.12710015;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
          d="m 40.590007,36.912693 -5.966584,3.61867 c 3.676695,-8.19459 6.32289,-16.55405 0.396184,-26.28503"
          id="path10729"
          sodipodi:nodetypes="ccc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.27723;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:2.12710015;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
          d="m 8.9830679,36.92189 5.9665841,3.61867 C 11.272957,32.34597 8.6267619,23.98651 14.553468,14.25553"
          id="path10729-3"
          sodipodi:nodetypes="ccc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.27723;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:2.12710015;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
          d="m 25.85335,13.179624 c -3.873,-0.522797 -10.06617,7.129387 -7.94183,11.612703 2.12433,4.483316 9.76727,4.346132 12.47974,0.41447 2.71247,-3.931658 -0.6649,-11.504376 -4.53791,-12.027173 z"
          id="path14478"
          sodipodi:nodetypes="zzzz" />

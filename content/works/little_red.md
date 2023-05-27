@@ -57,7 +57,7 @@ deso la, lon don egesa dis. zezi wei unda da wei loigo ei liana bi elein noiga.
 
 # However at that exact time, she bend down to tie her shoe laces.
 
-usa wei va guma leban ei zezi, wei zubi da giasi
+usa wei va guma leban ei zezi, wei gion da giasi
 
 # The wolf didn't manage to grab her, instead he hit a tree.
 
@@ -93,7 +93,7 @@ iasin usa li da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
-usa wei geliama zubi ei luba mengi, gin gin dugi leli ei go "mi li zi zi vin, mi io ei mugo delo beba da vin" 
+usa wei geliama gion ei luba mengi, gin gin dugi leli ei go "mi li zi zi vin, mi io ei mugo delo beba da vin" 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 

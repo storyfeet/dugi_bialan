@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="104.26675"
-     inkscape:cy="131.10094"
+     inkscape:cx="104.49416"
+     inkscape:cy="131.32835"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -42,13 +42,13 @@
     <g
        id="g4837"
        transform="matrix(1.3122554,0,0,1.2877405,-7.656479,-4.4441817)"
-       style="stroke-width:0.769266">
+       style="stroke-width:2.30779853;stroke-dasharray:none">
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.38574;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:2.30779853;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
          d="m 19.024595,11.84162 h 8.460762 l 0.03808,27.516254"
          id="path7041" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:1.38574;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         style="fill:none;stroke:#000000;stroke-width:2.30779853;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
          d="m 22.656125,8.45071 h 8.460762 l 0.03808,27.516254"
          id="path7041-3" />
     </g>

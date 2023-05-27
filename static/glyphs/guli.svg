@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="ga.svg"
+   sodipodi:docname="guli.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="89.712613"
-     inkscape:cy="86.301487"
+     inkscape:cx="89.940021"
+     inkscape:cy="86.528895"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,13 +40,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80101;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 15.51072,12.57738 15.240311,27.400677"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 13.923219,13.106547 13.65281,27.929844"
        id="path4148"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 15.673119,12.33966 C 11.998454,12.692455 6.6239964,7.5661443 8.1555859,4.2072962 9.8601845,0.46903097 18.532499,0.96889534 20.475359,4.5890579 c 1.437203,2.677963 -1.776901,7.4601471 -4.80224,7.7506021 z"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 14.085618,12.868827 C 10.410953,13.221622 5.0364963,8.095311 6.5680858,4.7364629 8.2726844,0.99819764 16.944998,1.498062 18.887858,5.1182246 c 1.437203,2.677963 -1.776901,7.4601474 -4.80224,7.7506024 z"
        id="path1415"
        sodipodi:nodetypes="ssss" />
   </g>

@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="94.943006"
-     inkscape:cy="94.943006"
+     inkscape:cx="95.170414"
+     inkscape:cy="95.170414"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,17 +40,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
        d="m 8.1548062,22.295251 c -1.9703391,0.194966 -2.9545634,3.472748 -1.9606339,4.939731 0.9939039,1.466985 4.4265727,1.895333 5.4129117,0.252125 0.986326,-1.643205 -1.481937,-5.386822 -3.4522778,-5.191856 z"
        id="path14480"
        sodipodi:nodetypes="zzzz" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
        d="m 42.04824,22.360811 c -1.970339,0.194965 -2.954563,3.472747 -1.960634,4.93973 0.993903,1.466985 4.426573,1.895332 5.412911,0.252125 0.986327,-1.643205 -1.481937,-5.386822 -3.452277,-5.191855 z"
        id="path14480-3"
        sodipodi:nodetypes="zzzz" />
     <path
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.80137;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000;stroke-dasharray:none"
        d="m 10.993967,24.361925 8.047199,-6.331894 11.983584,16.402018 9.557451,-6.669654"
        id="path343"
        sodipodi:nodetypes="cccc" />
