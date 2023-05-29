@@ -290,7 +290,7 @@ They are:
 bi has two main jobs
 
 * Seperate items. 
-* Dependant clauses
+* Dependent clauses
 
 Normally a noun or adjective is defined as 
 
@@ -300,7 +300,39 @@ but if we add a 'bi' we get
 
 A bi B C -> A of (B of C)
 
+compare :
 
+zan miani lili - (man of money) of small - the small wealthy money
+
+zan bi miani lili - man of (money of small) - the poor man.
+
+For dependent clauses.
+
+'bi' can be followed by any other particle, and becomes something close to "that"
+
+vo-zuwi **bi wei** moili ei gela mi [la] wei io guli-delo lon luga is-vo.
+
+The 'cat', that killed my fish, has blood on it's hands.
+
+### deso - Except/But
+
+Deso can be used like a particle to mean except
+
+-- mi wei mugo muli deso gela    
+.. I eat everything except fish
+
+It can be used with negation to mean only or just.
+
+-- mi wei va deso mugi ei gela    
+.. I only eat fish
+
+-- mi wei mugo [ei] va deso gela dis    
+.. I'm eat only this fish
+
+'ei' can be implied as va deso, carry the devision
+
+-- me wei bena ei dis da va deso vin
+.. I give this to only you
 
 
 
