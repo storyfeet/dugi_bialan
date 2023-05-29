@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="30mm"
-   height="30mm"
-   viewBox="0 0 30 30"
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.2527007"
-     inkscape:cx="80.394732"
-     inkscape:cy="78.857548"
+     inkscape:cx="22.135452"
+     inkscape:cy="80.087295"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,14 +40,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 1.7671947,13.082116 C 1.6514786,21.269676 26.041439,19.69972 25.220737,13.818462 24.43083,8.1578901 1.8429134,7.7245914 1.7671947,13.082116 Z"
-       id="path1073"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 11.542863,1.9981926 C 17.944353,2.420365 17.417353,20.243809 11.356566,20.32149 4.5771254,20.408382 4.363527,1.524722 11.542863,1.9981926 Z"
+       id="path474"
        sodipodi:nodetypes="sss" />
     <path
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 13.905087,2.2305749 C 5.4911676,2.7339022 8.0807244,27.300934 13.168741,25.684116 17.902969,24.179721 18.995424,1.9260669 13.905087,2.2305749 Z"
-       id="path1073-6"
-       sodipodi:nodetypes="sss" />
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 1.9969365,17.513884 20.203935,2.9159289"
+       id="path2640" />
   </g>
 </svg>
