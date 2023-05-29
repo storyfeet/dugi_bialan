@@ -1,4 +1,4 @@
-{{export title="nom bi dugi bialan"}}
+{{export title="enon bi dugi bialan"}}
 {{let cfile = (r_card ( file "util/word_list.crd"));
     cards = sort_on $cfile "Name" ;
     glyphs = sort (dir "static/glyphs/" );

@@ -334,7 +334,7 @@ It can be used with negation to mean only or just.
 -- me wei bena ei dis da va deso vin
 .. I give this to only you
 
-
+### iani - or / choice
 
 
 
