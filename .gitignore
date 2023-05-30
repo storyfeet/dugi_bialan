@@ -2,3 +2,5 @@ out
 out/**/*
 ungit
 ungit/**/*
+zig/**/*.o
+zig/convert
