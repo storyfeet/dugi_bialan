@@ -7,8 +7,11 @@ const FontPoint = struct {
     prefix : bool,
 };
 
-fn fp(cd:u21,pre:bool)FontPoint{
-    return FontPoint{.code = cd,.prefix = pre};
+fn nm(cd:u21)FontPoint{
+    return FontPoint{.code = cd,.prefix = false};
+}
+fn pre(cd:u21)FontPoint{
+    return FontPoint{.code = cd,.prefix = true};
 }
 
 pub fn fontmap() !std.StringHashMap(FontPoint) {
@@ -16,74 +19,84 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     var alloc = gpa.allocator();
     var map = std.StringHashMap(FontPoint).init(alloc);
 
-    try map.put("ba",fp(0xe132,false));
+    try map.put("ba",nm(0xe132));
+    try map.put("beba",nm(0xe133));
+    try map.put("busi",nm(0xe149));
 
-    /
-ba [ah] [exclaim,a] 
-egesi [scale,salt] [akesi]
-va [not,none,lack] [ala]
-eliasi [hunt,search] [alasa]
-endei [different] [ante] 
-ubei [shame,guilt] [apeja] 
-uwein [stand,wait] [awen]
-esin [trade,buy,sell] [esin]
-zio [thing] [ijo]
-egi [bad] [ike]
-elio [tool] [ilo]
-ensa [inside] [insa]
-iagi [yucky,"bad tasting"] [jaki]
-zan [person] [jan]
-io [have,hold] [jo]
-gela [fish] [kala]
-guma [come,become,arrive,achieve] [kama]
-giasi [tree] [kasi]
-giala [flower,bloom] [kasi]
-gein [can,able] [ken]
-geli [fruit] [kili]
-beba [vegetable] [kili]
-din [cut, divide] [kipisi]
-gion [hard,rock,horn,hit] [kiwen]
-zin [metal] [kiwen]
-gedin [tooth,bite] [kiwen]
-goigo [clay,dirt,earth] [ko]
-gon [air,breath] [kon]
-gudei [listen,hear,obey] [kute]
-leban [hook,take,catch,trap] [lanpan]
-liabei [sleep] [lape]
-liawa [head,control] [lawa]
-lego [brick] [leko]
-elein [cloth] [len]
-ledei [cold] [lete]
-leli [small] [lili]
-zi [child,offspring,seed] [lili,sike]
-liana [line,cord,string] [linja]
-lebo [book,document] [lipu]
-luga [hand] [luka]
-lugin [look,see,eye] [lukin,oko]
-luli [hole,door,entrance] [lupa]
-man [place] [ma]
-mazuni [old,ancient] [majuno]
-ma [parent] [mama]
-miani [money,wealth] [mani]
-min [female,feminine] [meli] 
-memuso [average] [meso,measure]
-mon [male] [mije]
-miasegegi [medicine] [misikeke]
-mugo [food,consume] [moku]
-moili [die,death] [moli]
-moini [back] [monsi]
-liamon [bum,ass] [monsi]
-zugo [exit] [monsi,weka]
-muni [moon] [mun]
-ziavi [play] [musi]
-musi [art] [musi]
-unio [number] [nanpa]
-busi [random,chance] [nasa]
-eniasa [mad,wild] [nasa]
-iasin [way,path] [nasin]
-enin [hill,bump] [nein]
-enon [name,word] [nimi]
-oiga [foot,base, bottom] [noka]
+    try map.put("din",nm(0xe15a));
+
+    try map.put("egasi",nm(0xe167));
+    try map.put("egi",nm(0xe169));
+    try map.put("elein",nm(0xe16b));
+    try map.put("eliasi",nm(0xe16d));
+    try map.put("elio",nm(0xe16e));
+    try map.put("endei",nm(0xe175));
+    try map.put("eniasa",nm(0xe177));
+    try map.put("enin",nm(0xe165));
+    try map.put("enon",nm(0xe164));
+    try map.put("ensa",nm(0xe176));
+    try map.put("esin",nm(0xe171));
+
+    try map.put("gedin",nm(0xe17a));
+    try map.put("gein",nm(0xe17b));
+    try map.put("gela",nm(0xe17c));
+    try map.put("geli",nm(0xe17d));
+    try map.put("giala",nm(0xe181));
+    try map.put("giasi",nm(0xe183));
+    try map.put("gion",nm(0xe186));
+    try map.put("goigo",nm(0xe187));
+    try map.put("gon",nm(0xe188));
+    try map.put("gudei",nm(0xe18a));
+    try map.put("guma",nm(0xe18b));
+
+    try map.put("iagi",nm(0xe191));
+    try map.put("iasin",nm(0xe193));
+    try map.put("io",nm(0xe195));
+
+    try map.put("leban",nm(0xe19e));
+    try map.put("lebo",nm(0xe19f));
+    try map.put("ledei",nm(0xe1a1));
+    try map.put("lego",nm(0xe1a2));
+    try map.put("leli",nm(0xe1a4));
+    try map.put("lena",nm(0xe1a7));
+    try map.put("liabei",nm(0xe1a5));
+    try map.put("liamon",nm(0xe1a6));
+    try map.put("liawa",nm(0xe1a8));
+    try map.put("lin",nm(0xe1a9));
+    try map.put("luga",nm(0xe1ad));
+    try map.put("lugin",nm(0xe1ae));
+    try map.put("luli",nm(0xe1af));
+
+    try map.put("ma",nm(0xe1b5));
+    try map.put("man",nm(0xe1b6));
+    try map.put("mazuni",nm(0xe1b7));
+    try map.put("memuso",nm(0xe1b8));
+    try map.put("miani",nm(0xe1ba));
+    try map.put("miasegegi",nm(0xe1bb));
+    try map.put("min",nm(0xe1bc));
+    try map.put("mon",nm(0xe1c0));
+    try map.put("moili",nm(0xe1be));
+    try map.put("moini",nm(0xe1bf));
+    try map.put("mugo",nm(0xe1c4));
+    try map.put("muni",nm(0xe1c7));
+    try map.put("musi",nm(0xe1c8));
+
+    try map.put("oiga",nm(0xe1cf));
+    
+    try map.put("ubei",nm(0x1d6));
+    try map.put("unio",nm(0x1db));
+    try map.put("uwein",nm(0xe1dc));
+
+    try map.put("va",nm(0xe1e3));
+
+
+    try map.put("zan",nm(0xe200));
+    try map.put("zin",nm(0xe208));
+    try map.put("zi",nm(0xe20b));
+    try map.put("ziavi",nm(0xe206));
+    try map.put("zio",nm(0xe20a));
+    try map.put("zugo",nm(0xe20d));
+
 lin [love] [olin]
 begin [start,begin] [open]
 ubin [open] [open]
