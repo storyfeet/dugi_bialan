@@ -81,7 +81,7 @@ is-won wei bena lugin ei mugo delo da vo-ezan.
 
 # She showed the soup to the wolf 
 
-go "dan dis la, vin o biaga. mi zion ei iasin leli" i vo-ezan
+go "dan dis la, vin o megi-giawin. mi zion ei iasin leli" i vo-ezan
 
 # "You'd better be quick then, I know a short cut" said the wolf
 

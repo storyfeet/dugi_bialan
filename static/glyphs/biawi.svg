@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="biawi.svg"
+   sodipodi:docname="debiawi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="94.943006"
-     inkscape:cy="94.943006"
+     inkscape:cx="95.170414"
+     inkscape:cy="117.91125"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -41,11 +41,7 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 28.678682,2.2692927 -6.085767,15.5308623 9.289587,0.25999 -6.777372,14.393132"
+       d="M 27.203384,5.8082808 19.179875,25.728279 31.427318,26.061744 22.491993,44.522481"
        id="path9970" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 8.9392787,45.366347 16.1049583,-9.756857 13.9856,9.734782"
-       id="path9972" />
   </g>
 </svg>

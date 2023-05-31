@@ -115,7 +115,6 @@ denso ["non binary"] [tonsi]
 una [mouth] [uta]
 udiala [fight] [utala]
 uli [compete] [utala]
-giali [excercise] [utala]
 wiasa [wing] [waso]
 wiawa [mighty,strong] [wawa]
 biawi [electric] [wawa]
@@ -137,6 +136,7 @@ geni [shape] [PRE]
 guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE]
 is [they] [pronoun, ona,PRE]
 vo [animal] [soweli,PRE]
+megi [distance] [measure,weka,PRE]
 gan [direction] [tawa,PRE]
 
 
@@ -159,7 +159,7 @@ la [then,context] [CON,la]
 vemi [what] [question,seme]
 mugi [unknown,some] [question,seme]
 gelubi [group,meeting] [kulupu]
-geluba [connection] [kulupu]
+guba [connection] [kulupu]
 elena [dust,sand] []
 geva [partner,spouse] [kulupu,kin]
 
@@ -200,13 +200,10 @@ veli [real,true] [lon]
 #measurable
 ziasi [reflect,opposite] [amount,ante]
 
-megi [distance] [measure,weka]
 ziazi [mass] [measure,suli]
-debiawi [current,electricity] [measure,suno]
 oiban [frequency] [measure]
 
 belas [full] [suli,measure]
-biaga [speed,fast] [tenpo,lili]
 
 
 
