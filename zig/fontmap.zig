@@ -7,6 +7,8 @@ const FontPoint = struct {
     prefix : bool,
 };
 
+pub const FontMap = std.StringHashMap(FontPoint);
+
 fn nm(cd:u21)FontPoint{
     return FontPoint{.code = cd,.prefix = false};
 }
@@ -42,6 +44,7 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("ban",nm(0xe131));
     try map.put("beba",nm(0xe133));
     try map.put("begin",nm(0xe134));
+    try map.put("belas",nm(0xe135));
     try map.put("belesa",nm(0xe136));
     try map.put("belin",nm(0xe137));
     try map.put("bena",nm(0xe138));
@@ -80,6 +83,7 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("dugi",nm(0xe160));
 
     try map.put("egasi",nm(0xe167));
+    try map.put("egesa",nm(0xe166));
     try map.put("egi",nm(0xe169));
     try map.put("egin",nm(0xe168));
     try map.put("ei",nm(0xe16a));
@@ -123,9 +127,11 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("iagi",nm(0xe191));
     try map.put("iani",nm(0xe192));
     try map.put("iasin",nm(0xe193));
+    try map.put("in",nm(0xe194));
     try map.put("io",nm(0xe195));
 
     try map.put("la",nm(0xe19c));
+    try map.put("lan",nm(0xe19d));
     try map.put("leban",nm(0xe19e));
     try map.put("lebo",nm(0xe19f));
     try map.put("lebuni",nm(0xe1a0));
@@ -139,6 +145,7 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("liamon",nm(0xe1a6));
     try map.put("liawa",nm(0xe1a8));
     try map.put("lin",nm(0xe1a9));
+    try map.put("loigo",nm(0xe1ab));
     try map.put("lon",nm(0xe1ac));
     try map.put("luga",nm(0xe1ad));
     try map.put("lugin",nm(0xe1ae));
@@ -153,16 +160,20 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("miasegegi",nm(0xe1bb));
     try map.put("mi",nm(0xe1bc));
     try map.put("min",nm(0xe1bd));
-    try map.put("mon",nm(0xe1c0));
+    try map.put("mo",nm(0xe1c0));
+    try map.put("mon",nm(0xe1c1));
     try map.put("moili",nm(0xe1be));
     try map.put("moini",nm(0xe1bf));
+    try map.put("mudei",nm(0xe1c2));
     try map.put("mugi",nm(0xe1c3));
     try map.put("mugo",nm(0xe1c4));
+    try map.put("muli",nm(0xe1c5));
     try map.put("muni",nm(0xe1c7));
     try map.put("munin",nm(0xe1c6));
     try map.put("musi",nm(0xe1c8));
 
     try map.put("o",nm(0xe1cd));
+    try map.put("oiban",nm(0xe1ce));
     try map.put("oiga",nm(0xe1cf));
     
     try map.put("ubei",nm(0x1d6));
@@ -173,10 +184,12 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("unio",nm(0x1db));
     try map.put("uwein",nm(0xe1dc));
 
-    try map.put("va",nm(0xe1e3));
+    try map.put("va",nm(0xe1e2));
+    try map.put("van",nm(0xe1e3));
     try map.put("vedelin",nm(0xe1e4));
     try map.put("vega",nm(0xe1e5));
     try map.put("vegei",nm(0xe1e6));
+    try map.put("veli",nm(0xe1e7));
     try map.put("velo",nm(0xe1e8));
     try map.put("vemi",nm(0xe1e9));
     try map.put("viala",nm(0xe1ea));
@@ -192,40 +205,20 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("won",nm(0xe1f9));
     try map.put("wuwi",nm(0xe1fa));
 
-    try map.put("zan",nm(0xe200));
+    try map.put("za",nm(0xe200));
+    try map.put("zan",nm(0xe201));
+    try map.put("zelula",nm(0xe202));
     try map.put("zewi",nm(0xe203));
     try map.put("ziana",nm(0xe204));
     try map.put("zin",nm(0xe208));
     try map.put("zi",nm(0xe20b));
+    try map.put("ziasi",nm(0xe205));
     try map.put("ziavi",nm(0xe206));
+    try map.put("ziazon",nm(0xe207));
     try map.put("zio",nm(0xe20a));
     try map.put("zion",nm(0xe209));
     try map.put("zugi",nm(0xe1c6));
     try map.put("zugo",nm(0xe20d));
-
-van [three] [san,"tu wan",number]
-mo [four] [po,number]
-lan [five] [luka,number]
-in [twenty] [mute,number]
-za [hundred] [mute,ali,number]
-mudei [several,increase] [mute,amount]
-zelula [shitloads,too,much,many] [mute,amount]
-muli [all,every] [ali,ale,amount]
-egesa [exact,point] [ni]
-loigo [lock,tie,know,tight] []
-veli [real,true] [lon]
-ziasi [reflect,opposite] [amount,ante]
-ziazi [mass] [measure,suli]
-oiban [frequency] [measure]
-belas [full] [suli,measure]
-
-
-
-
-
-
-
-
 
     return map;
 }

@@ -1,6 +1,8 @@
 const std = @import("std");
 const token = @import("token.zig");
+const fmap = @import("fontmap.zig");
 
+const TType = token.TokenType;
 const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
 
 pub fn main() !void {
@@ -8,15 +10,39 @@ pub fn main() !void {
     var gpa = GPAlloc{};
     var alloc = gpa.allocator();
 
-    var s_in = std.io.getStdIn();
-    const in_str = try s_in.readToEndAlloc(alloc,100_000);
+    var stdin = std.io.getStdIn();
+    const in_str = try stdin.readToEndAlloc(alloc,100_000);
+
+    const mp = try fmap.fontmap();
+    
     defer alloc.free(in_str);
 
-	var tk = token.Tokenizer.init(in_str);
-	while (try tk.nextToken()) |t| {
-		std.debug.print("-{s}-\n",.{in_str[t.start..t.end]});
-	}
+    var stdout = std.io.getStdOut();
 
+    var tk = token.Tokenizer.init(in_str);
+    while (try tk.nextToken()) |t| {
+	try writeSymbol(stdout.writer(),t,in_str,mp);
+    }
 }
+
+pub fn writeSymbol(w:anytype,t: token.Token,s:[]const u8,mp:fmap.FontMap)!void{
+    switch(t.kind) {
+	TType.QUOTE => try w.print("-{u}-\n",.{0xe0e6}),
+	TType.STOP => try w.print("-{u}-\n",.{0xe0e7}),
+	TType.COMMA => try w.print("-{u}-\n",.{0xe0e8}),
+	TType.DASH => {},
+	TType.COMMENT => try w.print("-{s}-\n",.{s[t.start..t.end]}),
+	TType.WORD => {
+	    if (mp.get(s[t.start..t.end])) |fp| {
+		try w.print("-{s}-{u}-\n",.{s[t.start..t.end],fp.code});
+	    }else {
+		try w.print("-{s}-\n",.{s[t.start..t.end]});
+		
+	    }
+	},
+    }
+}
+
+
 
 
