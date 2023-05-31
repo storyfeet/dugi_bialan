@@ -20,22 +20,41 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     var map = std.StringHashMap(FontPoint).init(alloc);
 
     try map.put("ba",nm(0xe132));
+    try map.put("ban",nm(0xe131));
     try map.put("beba",nm(0xe133));
+    try map.put("begin",nm(0xe134));
+    try map.put("belesa",nm(0xe136));
+    try map.put("belin",nm(0xe137));
+    try map.put("bena",nm(0xe138));
+    try map.put("beni",nm(0xe13a));
+    try map.put("biagela",nm(0xe13c));
+    try map.put("biagei",nm(0xe13d));
+    try map.put("bialan",nm(0xe13e));
+    try map.put("biog",nm(0xe140));
+    try map.put("bubumi",nm(0xe144));
+    try map.put("buguni",nm(0xe146));
+    try map.put("buna",nm(0xe148));
+    try map.put("bugi",nm(0xe145));
+    try map.put("buli",nm(0xe147));
     try map.put("busi",nm(0xe149));
 
     try map.put("din",nm(0xe15a));
 
     try map.put("egasi",nm(0xe167));
     try map.put("egi",nm(0xe169));
+    try map.put("egin",nm(0xe168));
     try map.put("elein",nm(0xe16b));
     try map.put("eliasi",nm(0xe16d));
     try map.put("elio",nm(0xe16e));
+    try map.put("enbin",nm(0xe16f));
     try map.put("endei",nm(0xe175));
     try map.put("eniasa",nm(0xe177));
     try map.put("enin",nm(0xe165));
     try map.put("enon",nm(0xe164));
     try map.put("ensa",nm(0xe176));
     try map.put("esin",nm(0xe171));
+    try map.put("esuno",nm(0xe173));
+    try map.put("ezan",nm(0xe174));
 
     try map.put("gedin",nm(0xe17a));
     try map.put("gein",nm(0xe17b));
@@ -55,6 +74,7 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
 
     try map.put("leban",nm(0xe19e));
     try map.put("lebo",nm(0xe19f));
+    try map.put("lebuni",nm(0xe1a0));
     try map.put("ledei",nm(0xe1a1));
     try map.put("lego",nm(0xe1a2));
     try map.put("leli",nm(0xe1a4));
@@ -79,58 +99,37 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("moini",nm(0xe1bf));
     try map.put("mugo",nm(0xe1c4));
     try map.put("muni",nm(0xe1c7));
+    try map.put("munin",nm(0xe1c6));
     try map.put("musi",nm(0xe1c8));
 
     try map.put("oiga",nm(0xe1cf));
     
     try map.put("ubei",nm(0x1d6));
+    try map.put("ubin",nm(0x1d7));
     try map.put("unio",nm(0x1db));
     try map.put("uwein",nm(0xe1dc));
 
     try map.put("va",nm(0xe1e3));
+    try map.put("vedelin",nm(0xe1e4));
+    try map.put("vegei",nm(0xe1e6));
+    try map.put("velo",nm(0xe1e8));
+    try map.put("viala",nm(0xe1ea));
+    try map.put("vio",nm(0xe1ec));
+    try map.put("vis",nm(0xe1ed));
+    try map.put("vuli",nm(0xe1ee));
 
+    try map.put("wuwi",nm(0xe1fa));
 
     try map.put("zan",nm(0xe200));
+    try map.put("zewi",nm(0xe203));
     try map.put("zin",nm(0xe208));
     try map.put("zi",nm(0xe20b));
     try map.put("ziavi",nm(0xe206));
     try map.put("zio",nm(0xe20a));
+    try map.put("zion",nm(0xe209));
+    try map.put("zugi",nm(0xe1c6));
     try map.put("zugo",nm(0xe20d));
 
-lin [love] [olin]
-begin [start,begin] [open]
-ubin [open] [open]
-biagela [broken] [pakala]
-biage [stop] [pake]
-buli [make,do,build] [pali]
-belesa [stick,rod] [palisa]
-ban [bread,grain] [pan]
-bena [give] [pana]
-belin [heart,feeling,want,need] [pilin]
-beni [finish] [pini]
-biog [beside,with] [poka]
-bugi [container] [poki]
-buna [good,simple] [pona]
-lebuni [skilled] [pona]
-bialan [balanced] [pona]
-buguni ["interact with toki pona"] [pu,ku]
-bubumi ["interact with dugi bialan"] [pu,ku]
-egin [same,equal] [sama]
-zewi [sky,heaven] [sewi]
-velo [skin,peal,cover] [selo]
-vio [hot,fire] [seli]
-vegei [round,ball] [segei]
-vis [new,young,again] [sin]
-enbin [face,front] [sinpin]
-vedelin [writing,drawing,image] [sitelen]
-zion [know] [amasona]
-ezan [fierce,wolf] [soweli]
-vuli [big,much] [suli]
-esuno [sun,bright,day] [suno]
-munin [over] [supa]
-zugi [surface,counter,table] [supa]
-viala [cover,lid,door] [supa,nena]
-wuwi [sweet] [suwi]
 bubiado [poison,bitter] []
 giawin [leg,go] [tawa]
 delo [water] [telo]
