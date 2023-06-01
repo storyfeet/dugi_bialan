@@ -1,5 +1,5 @@
 {{export title = "Aesops Romance"}}
-{{@exec_stdin "shell/convert.py" @ }}
+{{@exec_stdin "zig/convert" @ }}
 
 # Who is Aesop (Esopp) --- (p111)
 
