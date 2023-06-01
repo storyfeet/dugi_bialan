@@ -1,5 +1,5 @@
 {{export title="zan Elenuna leli"}}
-{{@exec_stdin "shell/convert.py" @ }}
+{{@exec_stdin "zig/convert" @ }}
 
 zan Elenuna leli
 
