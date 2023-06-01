@@ -37,18 +37,19 @@ zan Esopp wei mugo e delo, wei zugo dan guli-mugo bagi ei delo mudei, deso la we
 
 gin luga i zan Esopp wei dugi ei zan di endei li wei belin buli egin. is-di li buli la, wei zugo ei geli.
 
-zan-liawa li ezan da zan di dis go "vis wei buli ei dis da zan bi dugi va, da zan bi gein va udiala awein bagi"
+zan-liawa li ezan da zan di dis go "vis wei buli ei dis da zan bi dugi va, da zan bi gein va udiala uwein bagi"
 
 zan di dis li wei gion bi boina gein zan esopp megi-di dan dis. is-di guma zion ei zion buna lon esuno dis.
 
-# The priestess of Isis
+# The priestess of Isis (p113)
 
 zan liawa devin tawa moini da ma mengi la, zan Esopp wei buli lon man beba.
 
-zan min bi liawa zewi bi enma zewi Esis wei wega dan iasin vuli da iasin lili lon boig man beba dis.  is-min li zion va ei iasin. dan lugin ei zan Esopp la wei va zion ei busi va is-won la is-min li dugi da jan Esopp.
+zan min bi liawa zewi bi enma zewi Esis wei wega dan iasin vuli da iasin lili lon boig man beba dis.  is-min li zion va ei iasin. dan lugin ei zan Esopp la dan wei va zion ei busi va is-won la is-min li dugi da jan Esopp.
 
-"zan buna mi o, vin io ei buna da enma bi gein moili eso, o bena lugin ei iasin da man mengi, dan i mi wei iasin va"
+"zan buna mi o, vin io ei buna da enma bi gein moili esi, o bena lugin ei iasin da man mengi, dan i mi wei iasin va"
 
+zan Esopp wei lei, wei lugin la li lugin ei zan min bi li elein egin zan zewi min.  is-mon dan li zan bi enma buna la, gin luga go "vin dan vemi wei wega dan iasin"
 
-
+dan wei lugin ei i is-mon wei gein gudei deso va dugi la, is-min go "mi lon man dis li zan bi zion va, li zan bi liawa zewi bi ( vin gein lugin ) enma zewi Esis. mi belin mudei la, li buna da vin esi o bena lugin ei iasin da mi dan i mi li iasin va"
 
