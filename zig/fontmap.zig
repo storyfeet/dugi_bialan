@@ -50,7 +50,7 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("bena",nm(0xe138));
     try map.put("bengo",nm(0xe139));
     try map.put("beni",nm(0xe13a));
-    try map.put("bi",nm(0xe141));
+    try map.put("bi",nm(0xe13b));
     try map.put("biagela",nm(0xe13c));
     try map.put("biagei",nm(0xe13d));
     try map.put("bialan",nm(0xe13e));
@@ -60,9 +60,9 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("bubiado",nm(0xe143));
     try map.put("bubumi",nm(0xe144));
     try map.put("buguni",nm(0xe146));
-    try map.put("buna",nm(0xe148));
     try map.put("bugi",nm(0xe145));
     try map.put("buli",nm(0xe147));
+    try map.put("buna",nm(0xe148));
     try map.put("busi",nm(0xe149));
 
     try map.put("da",nm(0xe150));
