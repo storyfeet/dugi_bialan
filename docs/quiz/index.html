@@ -1,0 +1,201 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>quiz</title>
+<style>
+
+@font-face {
+  font-family: dugi_bialan;
+  src: url(/fonts/DugiBialan.otf);
+}
+body {
+    background-color:#aaaa77;
+    font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
+}
+.g-base {
+    height:3em;
+    width:auto;
+}
+
+.g-second { 
+    height:1.8em;
+    width:auto;
+    padding-bottom:1.2em;
+}
+.g-follow { 
+    height: 2.5em;
+    width:auto;
+    margin-left:-0.8em;
+}
+.g-s-follow {
+    height:1.8em;
+    width:auto;
+    margin-left:-1.3em;
+}
+
+.glyph-box {
+    text-align:center;
+    height:55px;
+    width:60px;
+    border:1px solid black;
+    overflow:hidden;
+    float:left;
+}
+.glyph-box img {
+    width : 50%;
+    height: 50%;
+    background: #bbbbbb;
+}
+.glyph-box text {
+}
+
+.word-box {
+    text-align:center;
+    height:140px;
+    width:90px;
+    border:1px solid black;
+    page-break-inside:avoid;
+    overflow-y:hidden;
+    float:left;
+}
+.word-box img {
+    width : 30%;
+    height: 30%;
+}
+
+#question {
+
+}
+#answers > div {
+    border: 1px solid black;
+    min-width:100px;
+    min-height:100px;
+    float:left;
+}
+
+
+.menu a {
+    padding:20px; 
+    background : grey;
+}
+
+@media print{
+    .no-print, .no-print * {
+        display:none; 
+    }
+}
+
+</style>
+</head>
+<body>
+    <div class="no-print menu">
+        <a href="/">Home</a>
+        <a href="/word_list">Word List</a>
+        <a href="/grammar">Grammar</a>
+        <a href="/grammar_faq">Grammar Faq</a>
+        <a href="/phonology">Phonology</a>
+    </div>
+    <h1>quiz</h1>
+
+
+
+Min<input id="r-min" type="number" min="0" max="170" value="0"/>
+Max<input id="r-max" type="number" min="10" max="190" value="190"/>
+<button onclick="qmod.nextQuestion()">Go</button>
+<div id="question"></div>
+<div id="answers"></div>
+
+		
+<script type="module">
+import {items} from "/js/items.js";
+let answers = [];
+let question = [];
+function randR(min,max){
+	min = Number(min);
+	max = Number(max);
+	return Math.floor(Math.random() * (max - min)) + min;
+}
+function rWord(){
+	let mn = document.getElementById("r-min").value;
+	let mx = document.getElementById("r-max").value;
+	mx = Math.min(mx ,items.length);
+	mn = Math.min(mn ,items.length);
+	
+	let n = randR(mn,mx);
+	return items[n];
+}
+
+function nextQuestion(){		
+	question = rWord();
+	// Question bit
+	let qbox = document.getElementById("question");
+	qbox.textContent = "";
+	let pic = document.createElement("img");
+	pic.src = "/glyphs/" + question.Name + ".svg"
+	qbox.appendChild(pic);
+
+	// Answer Bit
+	answers = [];
+	for(let i = 0; answers.length < 3; i++){
+		let w = rWord();	
+		if (w !== question){
+			answers.push(wrongAnswer(w))
+		}
+	}
+	answers.push(rightAnswer(question))
+	shuffle(answers);
+	let abox = document.getElementById("answers");
+
+	abox.textContent = "";
+	for (let p in answers){
+		abox.appendChild(answers[p]);	
+	}
+}
+
+function shuffle(list){
+	for (let i = 0; i < list.length; i++){
+		let n = randR(0,list.length);
+		let swap = list[i];
+		list[i] = list[n];
+		list[n] = swap;
+	}
+}
+
+function rightAnswer(item){ 
+	let wrap = document.createElement("div");
+	wrap.addEventListener("click",()=> {
+		wrap.textContent = "";
+		let x = document.createElement("img");
+		x.src="/pics/right.svg";
+		wrap.appendChild(x);
+	})
+	let tx = document.createTextNode(item.Name);
+	wrap.appendChild(tx);
+	return wrap;
+}
+
+function wrongAnswer(item){
+	let wrap = document.createElement("div");
+	wrap.addEventListener("click",()=> {
+		wrap.textContent = "";
+		let x = document.createElement("img");
+		x.src="/pics/wrong.svg";
+		wrap.appendChild(x);
+	})
+	let tx = document.createTextNode(item.Name);
+	wrap.appendChild(tx);
+	return wrap;
+}
+
+
+window.qmod = {
+	nextQuestion:nextQuestion
+};
+	
+
+</script>
+
+</body>
+</html>

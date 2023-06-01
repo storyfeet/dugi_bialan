@@ -31,6 +31,7 @@ pub fn writeSymbol(w:anytype,t: token.Token,s:[]const u8,mp:fmap.FontMap)!void{
 	TType.STOP => try w.print("{u}",.{0xe0e7}),
 	TType.COMMA => try w.print("{u}",.{0xe0e8}),
 	TType.DASH => {},
+	TType.NEWLINE => try w.print("\n",.{}),
 	TType.COMMENT => try w.print("{s}",.{s[t.start..t.end]}),
 	TType.WORD => {
 	    if (mp.get(s[t.start..t.end])) |fp| {

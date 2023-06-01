@@ -176,12 +176,12 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("oiban",nm(0xe1ce));
     try map.put("oiga",nm(0xe1cf));
     
-    try map.put("ubei",nm(0x1d6));
-    try map.put("ubin",nm(0x1d7));
-    try map.put("udiala",nm(0x1d8));
-    try map.put("uli",nm(0x1d9));
-    try map.put("una",nm(0x1da));
-    try map.put("unio",nm(0x1db));
+    try map.put("ubei",nm(0xe1d6));
+    try map.put("ubin",nm(0xe1d7));
+    try map.put("udiala",nm(0xe1d8));
+    try map.put("uli",nm(0xe1d9));
+    try map.put("una",nm(0xe1da));
+    try map.put("unio",nm(0xe1db));
     try map.put("uwein",nm(0xe1dc));
 
     try map.put("va",nm(0xe1e2));

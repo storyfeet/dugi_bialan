@@ -7,9 +7,10 @@ pub const TokenType = enum{
 	QUOTE,
 	COMMENT,
 	DASH,
+	NEWLINE
 };
 
-pub const specialChars = &[7]u21{'\n','\r',' ','\t',',','.','#'};
+pub const specialChars = &[9]u21{'\n','\r',' ','\t',',','.','#','-','"'};
 
 pub fn special(c:u21)bool{
 	for (specialChars) |s| {
@@ -50,31 +51,34 @@ pub const Tokenizer = struct{
 			'.' => return self.makeToken(TokenType.STOP),
 			'-' => return self.makeToken(TokenType.DASH),
 			'"' => return self.makeToken(TokenType.QUOTE),
-			'#' => return self.comment(),
+			'\n' => {
+				var tk = self.makeToken(TokenType.NEWLINE);
+				self.line += 1;
+				return tk;
+			},
+			'#' => return try self.comment(),
 			else => return self.word(),
 		}
 	}
 
-	pub fn comment(self:*@This()) Token{
+	pub fn comment(self:*@This()) !Token{
 		self.start = self.it.i;
 		while(true){
-			var c = self.it.nextCodepoint() 
-				orelse return self.makeToken(TokenType.COMMENT);
+			var pk = self.it.peek(1);
+			if (pk.len == 0) {
+				return self.makeToken(TokenType.COMMENT);
+			}
+			var c = try std.unicode.utf8Decode(pk);
 			switch(c) {
 				'\n' => {
-					var tk = self.makeToken(TokenType.COMMENT);
-					self.line += 1;
-					return tk;
+					return self.makeToken(TokenType.COMMENT);
 				},
 				'#' => {
-					return Token {
-						.kind = TokenType.COMMENT,
-						.start = self.start,
-						.end = self.it.i - 1,
-						.line = self.line,
-					};
+					var tk = self.makeToken(TokenType.COMMENT);	
+					_ = self.it.nextCodepoint();
+					return tk;
 				},
-				else => { }
+				else => _ = self.it.nextCodepoint(),
 			}
 		}
 	}
@@ -109,10 +113,6 @@ pub const Tokenizer = struct{
 			const cp = std.unicode.utf8Decode(c) catch return;
 			switch (cp) {
 				' ', '\t', '\r' => _ = self.it.nextCodepoint(),
-				'\n' => {
-					self.line += 1;
-					_ = self.it.nextCodepoint();
-				},
 				else => return,
 			}
 		}

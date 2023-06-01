@@ -1,3 +1,3 @@
 {{export
-output ="public"
+	output ="docs";
 }}

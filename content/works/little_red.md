@@ -1,5 +1,5 @@
 {{export title="zan Elenuna leli"}}
-{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@exec_stdin "zig/convert" @ }}
 
 zan Elenuna leli
 
@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei is-won. is-ezan li is-di la
 
 # However, a big bad wolf was watching her. Him we will call "is-di"
 
-is-di wei weli mugo ei is-won. is-di wei biog ei is-won wei lugin leban ei is-won lon luga is-di.
+is-di wei belin mugo ei is-won. is-di wei biog ei is-won wei lugin leban ei is-won lon luga is-di.
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
@@ -65,11 +65,11 @@ zan Elenuna wei uwein giawin lon iasin, wei va lugin zion.
 
 # Elenoize carried on along the path, she didn't notice.
 
-mugi endei li weli.
+mugi endei li wei belin.
 
 # Something else was needed.
 
-vo-ezan da is-won go "vin da vemi?"
+vo-ezan da is-won go "vin da vemi"
 
 # The wolf spoke to her "where are you going?"
 
@@ -97,11 +97,11 @@ is-di wei geliama gion ei luba mengi, gin gin dugi leli ei go "mi li zi zi vin, 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 
-go "o giama lon ensa, i zi zi mi" 
+go "o guma lon ensa, i zi zi mi" 
 
 # "O come inside my grandchild she said"
 
-vo-ezan wei giama lon ensa, wei mugo ei is-ma gin belas una won.
+vo-ezan wei guma lon ensa, wei mugo ei is-ma gin belas una won.
 
 # The wolf came inside, and ate up this granny in one mouthful
 
@@ -109,7 +109,7 @@ is-di wei elein lon elein is-ma, wei ensa ei man liabei is-ma, da wei lugin egin
 
 # He put on her clothes, and got into her bed in order to look like her.
 
-zan Elenuna wei giama la, is-di lon buna.
+zan Elenuna wei guma la, is-di lon buna.
 
 # When Elenoize arrived, he was ready.
 
@@ -117,11 +117,11 @@ go "mi li zi zi min vin" wei dugi i is-won "mi da vin ei mugo delo beba"
 
 # "It's your granddaughter" she said, "I have brought you some vegetable soup"
 
-go "o giama lon ensa" wei dugi i vo-ezan
+go "o guma lon ensa" wei dugi i vo-ezan
 
 # "O come in said the wolf"
 
-is-won wei giawin ensa wei lugin ei ma ma min is-won. go "ba ma ma min mi. lugin vin li wei giama vuli mudei"
+is-won wei giawin ensa wei lugin ei ma ma min is-won. go "ba ma ma min mi. lugin vin li wei guma vuli mudei"
 
 # She came inside and looked and her grandmother. "O granny, your eyes have gotten soo big"
 
@@ -129,7 +129,7 @@ go "dis li buna mudei da wei lugin ei vin"
 
 # "This is very good so I can look at you."
 
-go "ba ma ma min mi. gudei vin li wei giama vuli mudei"
+go "ba ma ma min mi. gudei vin li wei guma vuli mudei"
 
 # "Oh my granny. your ears have gotten soo big"
 
@@ -137,15 +137,15 @@ go "dis li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
-vo-ezan li dugi ei go "o giama lon biog mi, mi wile mugo leli ei mugo delo vin"
+vo-ezan li dugi ei go "o guma lon biog mi, mi wei belin mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
-is-won wei giama da biog mudei, wei lugin biog mudei.
+is-won wei guma da biog mudei, wei lugin biog mudei.
 
 # She came closer, and looked closer.
 
-go "ba ma ma min mi. gedin vin li wei giama vuli mudei"
+go "ba ma ma min mi. gedin vin li wei guma vuli mudei"
 
 # "O my granny. your teeth have gotten soo big"
 
