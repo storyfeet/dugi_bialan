@@ -27,16 +27,16 @@ pub fn main() !void {
 
 pub fn writeSymbol(w:anytype,t: token.Token,s:[]const u8,mp:fmap.FontMap)!void{
     switch(t.kind) {
-	TType.QUOTE => try w.print("-{u}-\n",.{0xe0e6}),
-	TType.STOP => try w.print("-{u}-\n",.{0xe0e7}),
-	TType.COMMA => try w.print("-{u}-\n",.{0xe0e8}),
+	TType.QUOTE => try w.print("{u}",.{0xe0e6}),
+	TType.STOP => try w.print("{u}",.{0xe0e7}),
+	TType.COMMA => try w.print("{u}",.{0xe0e8}),
 	TType.DASH => {},
-	TType.COMMENT => try w.print("-{s}-\n",.{s[t.start..t.end]}),
+	TType.COMMENT => try w.print("{s}",.{s[t.start..t.end]}),
 	TType.WORD => {
 	    if (mp.get(s[t.start..t.end])) |fp| {
-		try w.print("-{s}-{u}-\n",.{s[t.start..t.end],fp.code});
+		try w.print("{u}",.{fp.code});
 	    }else {
-		try w.print("-{s}-\n",.{s[t.start..t.end]});
+		try w.print("{s}",.{s[t.start..t.end]});
 		
 	    }
 	},

@@ -67,7 +67,12 @@ pub const Tokenizer = struct{
 					return tk;
 				},
 				'#' => {
-					return self.makeToken(TokenType.COMMENT);
+					return Token {
+						.kind = TokenType.COMMENT,
+						.start = self.start,
+						.end = self.it.i - 1,
+						.line = self.line,
+					};
 				},
 				else => { }
 			}
