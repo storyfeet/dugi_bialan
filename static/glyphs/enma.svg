@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.625231"
-     inkscape:cy="95.625231"
+     inkscape:cx="85.505557"
+     inkscape:cy="95.852639"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,18 +40,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 15.997603,10.788054 C 30.189864,20.265279 0.44559091,28.456462 16.785438,41.04704"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 14.410102,10.788054 C 28.602363,20.265279 -1.1419091,28.456462 15.197937,41.04704"
        id="path13711-7"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 36.349278,11.11613 c 14.192261,9.477225 -15.552013,17.668409 0.787835,30.258986"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 37.936779,11.11613 C 52.12904,20.593355 22.384766,28.784539 38.724614,41.375116"
        id="path13711-7-3"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 25.339092,21.970902 c -1.970339,0.194965 -2.954563,3.472747 -1.960634,4.93973 0.993903,1.466985 4.426573,1.895332 5.412911,0.252125 0.986327,-1.643205 -1.481937,-5.386822 -3.452277,-5.191855 z"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 24.786578,21.373446 c -2.392019,0.236208 -3.586881,4.207375 -2.380237,5.984685 1.206612,1.777313 5.373921,2.296273 6.571349,0.30546 1.197415,-1.99081 -1.799092,-6.526356 -4.191112,-6.290145 z"
        id="path14480-3"
        sodipodi:nodetypes="zzzz" />
   </g>
