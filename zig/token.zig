@@ -7,10 +7,10 @@ pub const TokenType = enum{
 	QUOTE,
 	COMMENT,
 	DASH,
-	NEWLINE
+	NEWLINE,
 };
 
-pub const specialChars = &[9]u21{'\n','\r',' ','\t',',','.','#','-','"'};
+pub const specialChars = &[10]u21{'\\','\n','\r',' ','\t',',','.','#','-','"'};
 
 pub fn special(c:u21)bool{
 	for (specialChars) |s| {
@@ -56,11 +56,17 @@ pub const Tokenizer = struct{
 				self.line += 1;
 				return tk;
 			},
+			'\\' => return self.escape(),
 			'#' => return try self.comment(),
 			else => return self.word(),
 		}
 	}
 
+	pub fn escape(self:*@This()) ?Token{
+		self.start = self.it.i;	
+		_ = self.it.nextCodepoint();
+		return self.makeToken(TokenType.COMMENT);
+	}
 	pub fn comment(self:*@This()) !Token{
 		self.start = self.it.i;
 		while(true){
