@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.397823"
-     inkscape:cy="95.397823"
+     inkscape:cx="85.278149"
+     inkscape:cy="95.625231"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g2986" />
   <defs
      id="defs2" />
   <g
@@ -42,15 +42,15 @@
     <g
        id="g2986"
        transform="matrix(1.4871252,0,0,1.4634404,-12.655081,-9.4876573)"
-       style="stroke-width:2.03357394;stroke-dasharray:none">
+       style="stroke-width:2.71143192;stroke-dasharray:none">
       <path
-         style="fill:none;stroke:#000000;stroke-width:2.03357394;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-         d="M 20.371117,9.1143924 C 29.914537,15.590382 9.9133473,21.187592 20.900887,29.791002"
+         style="fill:none;stroke:#000000;stroke-width:2.71143;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         d="M 19.303621,9.8375742 C 28.847041,16.313564 8.8458513,21.910774 19.833391,30.514184"
          id="path13711-7"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:2.03357394;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-         d="m 30.067659,16.672832 c 9.54342,6.47599 -10.45777,12.0732 0.52977,20.67661"
+         style="fill:none;stroke:#000000;stroke-width:2.71143;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+         d="m 31.135155,16.672832 c 9.54342,6.47599 -10.45777,12.0732 0.52977,20.67661"
          id="path13711-7-3"
          sodipodi:nodetypes="cc" />
     </g>

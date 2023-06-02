@@ -25,43 +25,38 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="101.76526"
-     inkscape:cy="89.030387"
+     inkscape:cx="106.42713"
+     inkscape:cy="97.444498"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g12579" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 17.742336,22.232328 C 5.2354181,0.88953385 48.994745,-1.8840344 35.580436,22.255946"
+       id="path22577"
+       sodipodi:nodetypes="cc" />
     <g
-       id="g12585"
-       transform="matrix(1.2603835,0,0,1.2531495,-5.0833853,-7.0371465)"
-       style="stroke-width:2.38708815;stroke-dasharray:none">
+       id="g12579"
+       transform="matrix(1.2603835,0,0,1.2531495,-5.8203042,17.55416)"
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.18278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000">
       <path
-         style="fill:none;stroke:#000000;stroke-width:2.38708815;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-         d="M 18.143691,21.741134 C 8.220586,4.7098108 42.939643,2.4965328 32.296606,21.759981"
-         id="path22577"
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.18278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         d="M 15.935784,14.754828 35.451905,14.3839"
+         id="path12573"
          sodipodi:nodetypes="cc" />
-      <g
-         id="g12579"
-         transform="translate(-0.55112693,19.697084)"
-         style="stroke-width:2.38708815;stroke-dasharray:none">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:2.38708815;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000;stroke-dasharray:none"
-           d="M 14.515511,14.984813 36.853519,14.822466"
-           id="path12573"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:2.38708815;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000;stroke-dasharray:none"
-           d="M 26.673135,7.0239336 27.066861,24.019838"
-           id="path12575" />
-      </g>
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.18278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         d="M 25.833443,6.1793948 26.227169,23.1753"
+         id="path12575" />
     </g>
   </g>
 </svg>

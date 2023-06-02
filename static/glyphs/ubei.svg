@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="104.72157"
-     inkscape:cy="93.123739"
+     inkscape:cx="94.601893"
+     inkscape:cy="93.351147"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,18 +40,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
        d="M 19.093311,5.0929421 C 14.353138,4.4531761 6.7733059,13.817438 9.3732894,19.303838 11.97326,24.790238 21.327469,24.622361 24.647266,19.81104 27.967063,14.999724 23.833494,5.7327083 19.093311,5.0929421 Z"
        id="path14478"
        sodipodi:nodetypes="zzzz" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 35.060927,33.332874 c -1.836219,0.188466 -2.753448,3.356954 -1.827174,4.775022 0.926249,1.418071 4.125258,1.832136 5.044458,0.243719 0.919187,-1.588414 -1.381063,-5.207206 -3.217284,-5.018741 z"
+       style="fill:none;stroke:#000000;stroke-width:4.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 36.451774,35.148769 c -2.545231,0.2433 -3.816626,4.33366 -2.532694,6.164315 1.283898,1.830659 5.718127,2.365197 6.992254,0.314629 1.274109,-2.050563 -1.914327,-6.722243 -4.45956,-6.478944 z"
        id="path14480"
        sodipodi:nodetypes="zzzz" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 7.7465046,38.626557 V 28.272809 l 33.6771944,-0.0466"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 8.1136297,41.34927 V 29.07168 l 35.9787473,-0.05526"
        id="path7041" />
   </g>
 </svg>

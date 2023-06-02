@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.2142681"
-     inkscape:cx="61.444781"
-     inkscape:cy="109.66727"
+     inkscape:cx="47.600261"
+     inkscape:cy="109.97838"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,17 +40,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 15.656717,16.764814 C 16.729845,32.740631 48.579527,13.322646 31.519293,4.4779924 19.817229,-1.5888174 10.148101,10.837718 16.326676,21.947801 c 7.014645,12.613476 -1.12219,25.587138 -1.86668,25.493476"
-       id="path14457"
-       sodipodi:nodetypes="cssc" />
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="M 25.901967,20.736505 C 33.698004,20.9295 43.080446,33.817302 39.250743,40.972102 34.85743,49.179859 16.16925,47.765911 12.466724,39.188539 9.420874,32.132439 18.54479,20.554374 25.901967,20.736505 Z"
+       id="path19668"
+       sodipodi:nodetypes="ssss" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000;stroke-dasharray:none"
-       d="m 33.570133,21.118577 -3.199346,11.341561 -5.055141,-5.86771"
-       id="path2699" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000;stroke-dasharray:none"
-       d="m 34.687319,30.690995 -3.199346,11.341561 -5.055141,-5.86771"
-       id="path2699-3" />
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 26.630073,3.7436062 0.03666,31.2057248 11.114537,6.297967"
+       id="path19670"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>

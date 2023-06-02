@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="95.170414"
-     inkscape:cy="95.170414"
+     inkscape:cx="85.05074"
+     inkscape:cy="95.397823"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,8 +40,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 29.81211,18.591765 C 17.714654,25.866494 45.708404,42.886172 45.80546,26.014268 45.872056,14.441371 32.251786,11.906374 26.016364,21.20291 18.937177,31.757434 5.5020915,30.638171 5.2771091,30.019689"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 27.297032,20.161848 C 23.402965,31.406349 45.708404,42.886172 45.80546,26.014268 45.872056,14.441371 32.251786,11.906374 26.016364,21.20291 18.937177,31.757434 5.5020915,30.638171 5.2771091,30.019689"
        id="path14457"
        sodipodi:nodetypes="cssc" />
   </g>
