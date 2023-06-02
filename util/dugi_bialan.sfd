@@ -74,7 +74,7 @@ EndSplineSet
 Validated: 41
 EndChar
 
-StartChar: is_is
+StartChar: is2
 Encoding: 57633 57633 1
 Width: 500
 Flags: W
@@ -5784,7 +5784,7 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: guli_guli
+StartChar: guli2
 Encoding: 57631 57631 181
 Width: 500
 Flags: W

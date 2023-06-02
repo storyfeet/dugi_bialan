@@ -4,3 +4,5 @@ ungit
 ungit/**/*
 zig/**/*.o
 zig/convert
+public
+public/**/*
