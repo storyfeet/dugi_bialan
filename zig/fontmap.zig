@@ -82,8 +82,8 @@ pub fn fontmap() !std.StringHashMap(FontPoint) {
     try map.put("duga",nm(0xe15f));
     try map.put("dugi",nm(0xe160));
 
-    try map.put("egasi",nm(0xe163));
-    try map.put("egesa",nm(0xe164));
+    try map.put("egesa",nm(0xe163));
+    try map.put("egesi",nm(0xe164));
     try map.put("egi",nm(0xe165));
     try map.put("egin",nm(0xe166));
     try map.put("ei",nm(0xe167));
