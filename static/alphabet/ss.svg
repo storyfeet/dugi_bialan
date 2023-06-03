@@ -2,11 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="50mm"
+   width="25mm"
    height="50mm"
-   viewBox="0 0 50 50"
+   viewBox="0 0 25 50"
    version="1.1"
-   id="svg5"
+   id="svg135"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="ss.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,8 +14,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#dce477"
+     id="namedview137"
+     pagecolor="#c0c476"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:showpageshadow="0"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.950144"
-     inkscape:cx="9.8300288"
-     inkscape:cy="125.92606"
+     inkscape:zoom="3.8507071"
+     inkscape:cx="-10.387703"
+     inkscape:cy="72.064687"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -34,18 +34,25 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs132" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="m 5.0768138,11.611461 37.6024632,0.05608"
-       id="path368" />
+       d="M 0.07247649,48 H 24.997238"
+       id="path310"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 43.3506,3.1846348 43.85198,21.111985"
-       id="path370" />
+       d="M 4.4114092,16.724247 H 16.474303"
+       id="path1168"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 18.593338,6.0971564 V 28.468775"
+       id="path1170"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
