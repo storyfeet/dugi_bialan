@@ -1,6 +1,5 @@
 const std = @import("std");
 
-
 const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
 const FontPoint = struct {
     code : u21,
@@ -16,10 +15,61 @@ fn pre(cd:u21)FontPoint{
     return FontPoint{.code = cd,.prefix = true};
 }
 
-pub fn fontmap() !std.StringHashMap(FontPoint) {
+pub fn letterMap() !FontMap{
     var gpa = GPAlloc{};
     var alloc = gpa.allocator();
-    var map = std.StringHashMap(FontPoint).init(alloc);
+    var map = FontMap.init(alloc);
+    try map.put("a",pre(0xe0ee));
+    try map.put("e",pre(0xe0ef));
+    try map.put("i",pre(0xe0f0));
+    try map.put("o",pre(0xe0f1));
+    try map.put("u",pre(0xe0f2));
+    try map.put("ei",pre(0xe03));
+    try map.put("ia",pre(0xe0f4));
+    try map.put("io",pre(0xe0f5));
+    try map.put("oi",pre(0xe0f6));
+
+    try map.put("n",pre(0xe0fe));
+    try map.put("s",pre(0xe100));
+
+    try map.put("b",pre(0xe0f9));
+    try map.put("d",pre(0xe0fa));
+    try map.put("g",pre(0xe0fb));
+    try map.put("l",pre(0xe0fc));
+    try map.put("m",pre(0xe0fd));
+    try map.put("v",pre(0xe102));
+    try map.put("w",pre(0xe103));
+    try map.put("z",pre(0xe104));
+
+    try map.put("A",pre(0xe0ee));
+    try map.put("E",pre(0xe0ef));
+    try map.put("I",pre(0xe0f0));
+    try map.put("O",pre(0xe0f1));
+    try map.put("U",pre(0xe0f2));
+    try map.put("Ei",pre(0xe03));
+    try map.put("Ia",pre(0xe0f4));
+    try map.put("Io",pre(0xe0f5));
+    try map.put("Oi",pre(0xe0f6));
+
+    try map.put("N",pre(0xe0fe));
+    try map.put("S",pre(0xe100));
+
+    try map.put("B",pre(0xe0f9));
+    try map.put("D",pre(0xe0fa));
+    try map.put("G",pre(0xe0fb));
+    try map.put("L",pre(0xe0fc));
+    try map.put("M",pre(0xe0fd));
+    try map.put("V",pre(0xe102));
+    try map.put("W",pre(0xe103));
+    try map.put("Z",pre(0xe104));
+
+    return map;
+}
+
+pub fn fontMap() ! FontMap{
+    var gpa = GPAlloc{};
+    var alloc = gpa.allocator();
+    var map = FontMap.init(alloc);
 
     // Pefixes
 
@@ -228,7 +278,7 @@ const TestErr = error{
 };
 
 test "map can do thing"{
-    const mp = try fontmap();
+    const mp = try fontMap();
     const pt = mp.get("word") orelse return error.NoValue;
     try std.testing.expect(pt.prefix == false);
 }
