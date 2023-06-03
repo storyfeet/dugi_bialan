@@ -6,7 +6,7 @@ Formalized Phonotactics
 
 word : (?![a,n,s]) C? (Va F? C)\* Vb F?
 
-loan-word : (?![a,n,s]) C? (Va F? C)\* \[Va,Vb] [(C ə)? , F ]
+loan-word : (?![a,n,s]) C? (Va F? C)\* \[Va,Vb] F? [(C ə)?]
 
 C (Consonant) : [w,d,b,s,l,dz(z),g,n,m,v]
 
@@ -56,9 +56,41 @@ Loan words and proper-names are not required to end with a 'Vb', but if they do 
 
 They may also end with any consonant, followed by a short 'ə' (shwa). This would be written as a double consonant to mark it
 
-eg: America - emeigg (emeigə)
+* America - Emeigg (emeigə)
+* France - vonss
 
+* England - Einlan
 
+Writing Loan Words
+------------
 
+Loan Words are underlined to show they are names, and are read using a phonetic system. Where the consonant is at the top, the vowel is lower left, and the final is lower right
 
+Consonants 
+
+* b : belesa
+* d : dan
+* g : gela
+* l : leban
+* m : muni (half)
+* v : viala
+* w : wiasi
+* z : ziasi
+
+Finals 
+* n : enin - short on bottom
+* s : deso - line down for final
+
+Vowels
+* e : edin
+* oi : oiga
+* ia : giasi
+* u : una
+
+* ei : wei
+* o : vo
+* a : ga
+* i : i (down)
+* io : zio
+* ə : nothing but carries the underline
 
