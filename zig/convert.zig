@@ -57,6 +57,7 @@ pub fn writeSymbol(w:anytype,t: token.Token,s:[]const u8,mps:Maps)!void{
 			try w.print("{s}",.{c});
 		    }
 		}
+		try w.print(" ",.{});
 		
 	    }
 	},
