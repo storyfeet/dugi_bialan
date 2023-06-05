@@ -1,1 +1,1 @@
-{{exec_stdin "shell/convert.py" $0}}<br>--{{$0}}<br>..{{$1}}
+{{exec_stdin "zig/convert" $0}}<br>{{$0}}<br>({{$1}})

@@ -336,7 +336,7 @@ these are :
 * vo : animal
 
 When joined to themselves, they mean the concept they cover.
-* is-is : general pronoun
+* va-va : none
 * ga-ga : Colour
 
 When joined to each other the child prefix has its own clarifier
@@ -356,15 +356,14 @@ The clarifier doesn't have to be first/main word, just the least ambiguous.
 * is-zan : this/these person(s)
 * is-leli : The small one
 
-#### is-is, The General It*
+#### is-zio, The General It*
 
 The general "it", such as "It's raining" "It's dark" "there is" "It is required"
 
-* is-is : it / the sky / the world / generic it
+* is-zio : it / the sky / the world / generic it
 
--- is-is li ga-va-va
+-- is-zio li ga-va-zio
 .. It's dark
-
 
 #### Possesive instances
 
@@ -372,7 +371,7 @@ The general "it", such as "It's raining" "It's dark" "there is" "It is required"
 
 * is-mi : mine
 * is-vin : Yours
-* is-bagi : his/her/theirs / belonging to the subject
+* is-is : his/her/theirs / belonging to the subject
 
 #### Labeled Pronouns
 
