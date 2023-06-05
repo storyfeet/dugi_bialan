@@ -103,7 +103,7 @@ pub fn fontMap() ! FontMap{
     try map.put("is",pre(0xe120));
     try map.put("megi",pre(0xe122));
     try map.put("vo",pre(0xe124));
-
+    try map.put("va",pre(0xe126));
 
     // Regular
 
@@ -253,7 +253,6 @@ pub fn fontMap() ! FontMap{
     try map.put("unio",nm(0xe1db));
     try map.put("uwein",nm(0xe1dc));
 
-    try map.put("va",nm(0xe1e2));
     try map.put("van",nm(0xe1e3));
     try map.put("vedelin",nm(0xe1e4));
     try map.put("vega",nm(0xe1e5));
