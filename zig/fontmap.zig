@@ -268,7 +268,7 @@ pub fn fontMap() ! FontMap{
     try map.put("vuli",nm(0xe1ee));
 
     try map.put("wega",nm(0xe1f5));
-    try map.put("wei",nm(0xe1f6));
+    try map.put("wei",par(0xe1f6));
     try map.put("wiasa",nm(0xe1f7));
     try map.put("wiawa",nm(0xe1f8));
     try map.put("won",nm(0xe1f9));
