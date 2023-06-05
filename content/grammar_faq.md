@@ -1,6 +1,6 @@
 {{export title="Grammar FAQ"}}
 {{@md}}
-## {{with_pics "belin vs io" " : "}} : Want / Must / Would like
+## {{with_pics "benon belin i benon luga " " : "}} : Want / Must / Would like
 
 I want and I feel are actually surprisingly similar. 
 
@@ -14,11 +14,11 @@ English idea -> dugi bialan
 Obligation on the other hand, is something wanted of you.
 
 * I have to .. -> I am wanted .. -> m li wei belin ..
-* I have to .. -> I am have .. -> mi li io da ..
+* I have to .. -> I am have .. -> mi li luga da ..
 
 In a very broad strokes sense, "want" is more an active verb, and "feel" is more a state of being.
 
-{{demo "mi wei belin io" "I want to have"}}
+{{demo "mi wei belin luga" "I want to have"}}
 
 {{demo "mi wei belin da .." "I want to do"}}
 
@@ -26,8 +26,7 @@ In a very broad strokes sense, "want" is more an active verb, and "feel" is more
 
 {{demo "mi li belin egi" "I feel bad"}}
 
-{{demo "mi li io da wei" "I have to do"}}
-
+{{demo "is-mi li wei buli" "mine is to do / I have to do"}}
 
 
 
