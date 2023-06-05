@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.397375"
-     inkscape:cx="108.01899"
-     inkscape:cy="89.712613"
+     inkscape:cx="99.150061"
+     inkscape:cy="89.940021"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,14 +40,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 11.959076,33.722514 C -16.696435,3.4424894 66.244248,-5.5029685 41.3948,33.861674"
-       id="path17152"
-       sodipodi:nodetypes="cc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 38.444,22.709929 C 29.031424,27.52847 24.558394,18.76198 18.902818,24.696386 14.731246,29.073623 22.862996,39.943865 35.817432,44.119461"
+       d="M 34.556718,8.9404014 C 25.144142,13.758942 20.671112,4.9924524 15.015536,10.926858 10.843964,15.304095 18.975714,26.174337 31.93015,30.349933"
        id="path6994"
        sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000"
+       d="M 14.971935,45.458073 5.3759835,34.380688 c 13.0409905,5.412979 26.2744885,8.263024 40.3149625,0.369493"
+       id="path343"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>

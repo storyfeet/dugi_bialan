@@ -43,7 +43,7 @@ zan di dis li wei gion bi boina gein zan esopp megi-di dan dis. is-di guma zion 
 
 # The priestess of Isis (p113)
 
-zan liawa devin tawa moini da ma mengi la, zan Esob wei buli lon man beba.
+zan liawa devin moini da ma mengi la, zan Esob wei buli lon man beba.
 
 zan min bi liawa zewi bi enma zewi Esis wei wega dan iasin vuli da iasin leli lon biog man beba dis.  is-min va-li zion ei iasin. dan lugin ei zan Esob la dan va-wei zion ei busi egi is-won la is-min li dugi da zan Esob.
 
