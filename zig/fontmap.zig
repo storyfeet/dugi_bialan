@@ -1,18 +1,37 @@
 const std = @import("std");
 
+pub const WordType = enum{   
+    Par,
+    Con,
+    Aux,
+    Pre,
+    Norm,
+};
+
 const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
 const FontPoint = struct {
     code : u21,
-    prefix : bool,
+    wType : WordType,
 };
 
 pub const FontMap = std.StringHashMap(FontPoint);
 
 fn nm(cd:u21)FontPoint{
-    return FontPoint{.code = cd,.prefix = false};
+    return FontPoint{.code = cd,.wType = WordType.Norm};
 }
+
 fn pre(cd:u21)FontPoint{
-    return FontPoint{.code = cd,.prefix = true};
+    return FontPoint{.code = cd,.wType = WordType.Pre};
+}
+
+fn aux(cd:u21)FontPoint{
+    return FontPoint{.code = cd,.wType = WordType.Aux};
+}
+fn par(cd:u21)FontPoint{
+    return FontPoint{.code = cd,.wType = WordType.Par};
+}
+fn con(cd:u21)FontPoint{
+    return FontPoint{.code = cd,.wType = WordType.Con};
 }
 
 pub fn letterMap() !FontMap{
@@ -100,7 +119,7 @@ pub fn fontMap() ! FontMap{
     try map.put("bena",nm(0xe138));
     try map.put("bengo",nm(0xe139));
     try map.put("beni",nm(0xe13a));
-    try map.put("bi",nm(0xe13b));
+    try map.put("bi",par(0xe13b));
     try map.put("biagela",nm(0xe13c));
     try map.put("biagei",nm(0xe13d));
     try map.put("bialan",nm(0xe13e));
@@ -115,15 +134,15 @@ pub fn fontMap() ! FontMap{
     try map.put("buna",nm(0xe148));
     try map.put("busi",nm(0xe149));
 
-    try map.put("da",nm(0xe150));
-    try map.put("dan",nm(0xe151));
+    try map.put("da",par(0xe150));
+    try map.put("dan",par(0xe151));
     try map.put("das",nm(0xe152));
     try map.put("degis",nm(0xe154));
     try map.put("deli",nm(0xe155));
     try map.put("delo",nm(0xe156));
     try map.put("denso",nm(0xe157));
-    try map.put("deso",nm(0xe158));
-    try map.put("devin",nm(0xe159));
+    try map.put("deso",aux(0xe158));
+    try map.put("devin",par(0xe159));
     try map.put("din",nm(0xe15a));
     try map.put("di",nm(0xe15b));
     try map.put("dis",nm(0xe15c));
@@ -136,7 +155,7 @@ pub fn fontMap() ! FontMap{
     try map.put("egesi",nm(0xe164));
     try map.put("egi",nm(0xe165));
     try map.put("egin",nm(0xe166));
-    try map.put("ei",nm(0xe167));
+    try map.put("ei",par(0xe167));
     try map.put("elein",nm(0xe168));
     try map.put("elena",nm(0xe169));
     try map.put("eliasi",nm(0xe16a));
@@ -150,7 +169,7 @@ pub fn fontMap() ! FontMap{
     try map.put("ensa",nm(0xe172));
     try map.put("esebin",nm(0xe173));
     try map.put("esenis",nm(0xe174));
-    try map.put("esi",nm(0xe175));
+    try map.put("esi",con(0xe175));
     try map.put("esin",nm(0xe176));
     try map.put("esuno",nm(0xe177));
     try map.put("ezan",nm(0xe178));
@@ -166,21 +185,21 @@ pub fn fontMap() ! FontMap{
     try map.put("giawin",nm(0xe184));
     try map.put("gin",nm(0xe185));
     try map.put("gion",nm(0xe186));
-    try map.put("go",nm(0xe187));
+    try map.put("go",par(0xe187));
     try map.put("goigo",nm(0xe188));
     try map.put("gon",nm(0xe189));
     try map.put("gudei",nm(0xe18a));
     try map.put("guba",nm(0xe18b));
     try map.put("guma",nm(0xe18c));
 
-    try map.put("i",nm(0xe190));
+    try map.put("i",par(0xe190));
     try map.put("iagi",nm(0xe191));
     try map.put("iani",nm(0xe192));
     try map.put("iasin",nm(0xe193));
     try map.put("in",nm(0xe194));
     try map.put("io",nm(0xe195));
 
-    try map.put("la",nm(0xe19c));
+    try map.put("la",con(0xe19c));
     try map.put("lan",nm(0xe19d));
     try map.put("leban",nm(0xe19e));
     try map.put("lebo",nm(0xe19f));
@@ -190,13 +209,13 @@ pub fn fontMap() ! FontMap{
     try map.put("lei",nm(0xe1a3));
     try map.put("leli",nm(0xe1a4));
     try map.put("lena",nm(0xe1a5));
-    try map.put("li",nm(0xe1a6));
+    try map.put("li",par(0xe1a6));
     try map.put("liabei",nm(0xe1a7));
     try map.put("liamon",nm(0xe1a8));
     try map.put("liawa",nm(0xe1a9));
     try map.put("lin",nm(0xe1aa));
     try map.put("loigo",nm(0xe1ab));
-    try map.put("lon",nm(0xe1ac));
+    try map.put("lon",par(0xe1ac));
     try map.put("luga",nm(0xe1ad));
     try map.put("lugin",nm(0xe1ae));
     try map.put("luli",nm(0xe1af));
@@ -222,7 +241,7 @@ pub fn fontMap() ! FontMap{
     try map.put("munin",nm(0xe1c7));
     try map.put("musi",nm(0xe1c8));
 
-    try map.put("o",nm(0xe1cd));
+    try map.put("o",par(0xe1cd));
     try map.put("oiban",nm(0xe1ce));
     try map.put("oiga",nm(0xe1cf));
     
@@ -279,6 +298,6 @@ const TestErr = error{
 
 test "map can do thing"{
     const mp = try fontMap();
-    const pt = mp.get("word") orelse return error.NoValue;
-    try std.testing.expect(pt.prefix == false);
+    const pt = mp.get("va") orelse return error.NoValue;
+    try std.testing.expect(pt.wType == WordType.Norm);
 }

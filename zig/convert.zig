@@ -3,6 +3,7 @@ const token = @import("token.zig");
 const fmap = @import("fontmap.zig");
 
 const TType = token.TokenType;
+const WType = fmap.WordType;
 const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
 
 const Maps = struct{
@@ -38,16 +39,20 @@ pub fn main() !void {
 
 pub fn writeSymbol(w:anytype,t: token.Token,s:[]const u8,mps:Maps)!void{
     switch(t.kind) {
-	TType.QUOTE => try w.print("{u}",.{0xe0e6}),
-	TType.STOP => try w.print("{u}",.{0xe0e7}),
-	TType.COMMA => try w.print("{u}",.{0xe0e8}),
+	TType.QUOTE => try w.print(" {u}",.{0xe0e6}),
+	TType.STOP => try w.print("{u} ",.{0xe0e7}),
+	TType.COMMA => try w.print("{u} ",.{0xe0e8}),
 	TType.DASH => {},
 	TType.NEWLINE => try w.print("\n",.{}),
 	TType.COMMENT => try w.print("{s}",.{s[t.start..t.end]}),
 	TType.WORD => {
 	    const wd = s[t.start..t.end];
 	    if (mps.words.get(wd)) |fp| {
-		try w.print("{u}",.{fp.code});
+		switch (fp.wType) {
+		    WType.Con => try w.print("{u} ",.{fp.code}),
+		    WType.Par => try w.print(" {u}",.{fp.code}),
+		    else => try w.print("{u}",.{fp.code}),
+		}
 	    }else {
 		var it = std.unicode.Utf8Iterator{.bytes=wd,.i=0};
 		while (it.nextCodepointSlice()) |c|{
