@@ -183,43 +183,22 @@ The first clause can be something as simple as a "dis"
 
 
 
-Negation "va"
-------------
-
-"va" after a particle, says the whole coming particle is false.
-
--- mi wei va giawin    
-.. I'm not going / I don't go
-
--- dis li va buna    
-.. this is not good
-
-"va" after the verb is equivelant to "un" in english
-
--- mi wei zion va    
-.. I unknow / I forget
-
--- o va zion va    
-.. don't forget
-
-
-
 Yes or No Questions
 ---------
 
 Yes or no questions, are asked by using the "particle not particle" structure
 
--- vin li va li buna dan mi?     
+-- vin li va-li buna dan mi?     
 .. do you like me?     
-?? you ARE not ARE good FROM me
+?? you ARE not-ARE good FROM me
 
-"yes" in this case would be "li", and "no" would be "va" or "li va"
+To answer "yes", is "li", and "no" is "va-li"
 
--- vin wei va wei giawin?    
+-- vin wei va-wei giawin?    
 .. Are you going?    
 ?? you DO not DO go
 
-"yes in this case is "wei", and "no" is "va" or "wei va"
+"yes in this case is "wei", and "no" is "va-wei"
 
 information questions
 ----------------
@@ -321,17 +300,18 @@ Deso can be used like a particle to mean except
 -- mi wei mugo muli deso gela    
 .. I eat everything except fish
 
-It can be used with negation to mean only or just.
+It can be used with negation to mean only or just. the va can apply to the particle or to deso directly
 
--- mi wei va deso mugi ei gela    
+-- mi va-wei deso mugi ei gela
+-- mi wei va-deso mugi ei gela    
 .. I only eat fish
 
--- mi wei mugo [ei] va deso gela dis    
+-- mi wei mugi va-ei deso gela dis
+-- mi wei mugo ei va-deso gela dis    
 .. I'm eat only this fish
 
-'ei' can be implied as va deso, carry the devision
-
--- me wei bena ei dis da va deso vin
+-- me wei bena ei dis va-da deso vin
+-- me wei bena ei dis da va-deso vin
 .. I give this to only you
 
 ### iani - or / choice
@@ -341,28 +321,28 @@ It can be used with negation to mean only or just.
 Prefix Particles
 ----------------
 
-Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in writing it is appropriate to hyphenate the join.
+Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in the romanisation, it is appropriate to hyphenate the join.
 
 these are : 
-* is : pronoun 
+* edi : taste
+* edin : atom 
+* ema : Sound
 * ga : colour 
 * geni : shape 
-* ema : Sound
-* vo : animal
-* edin : atom 
 * guli : body part
-* edi : taste
+* is : pronoun 
 * megi : distance
+* va : negator
+* vo : animal
 
 When joined to themselves, they mean the concept they cover.
 * is-is : general pronoun
 * ga-ga : Colour
 
-When joined to each other the child prefix has its own clarifier, but a Primary particles can break that.
+When joined to each other the child prefix has its own clarifier
 
 * ga-(vo-ezan) : Wolf-coloured
 * ga-(vo-vo) : Animal colour
-
 
 ### The Pronoun "is"
 
@@ -382,7 +362,7 @@ The general "it", such as "It's raining" "It's dark" "there is" "It is required"
 
 * is-is : it / the sky / the world / generic it
 
--- is-is li ga-va    
+-- is-is li ga-va-va
 .. It's dark
 
 
@@ -407,6 +387,33 @@ These pronouns can be assigned using to following phrase
 -- zan Elenuna is-won la, li buna    
 .. Elenuna, who we shall call is-won is/was good
 
+
+### "va"
+
+"va" before a particle, says the whole coming particle is false.
+
+-- mi va-wei giawin
+.. I'm not going / I don't go
+
+-- dis va-li buna    
+.. this is not good
+
+-- mi va-wei zion
+.. I don't know
+
+"va" before a verb is equivelant to "un" in english
+
+-- mi wei va-zion     
+.. I unknow / I forget
+
+-- va-o va-zion
+.. don't forget
+
+* va-va : none
+* va-zio : nothing
+* va-deso : only
+* va-zion : forget
+
 ### Colours with "ga"
 
 Describe colours how you like, but these are some good starters.
@@ -414,7 +421,8 @@ Describe colours how you like, but these are some good starters.
 * ga-ga : colour
 * ga-won : uniform colour
 * ga-gon : transparent
-* ga-va : black 
+* ga-va-zio : black 
+* ga-va-va : colourless
 * ga-esuno : yellow/orange
 * ga-delo : blue
 * ga-zewi : light-blue
@@ -439,7 +447,7 @@ As with colours, these are guidelines.
 * geni-belesa : Stick shaped
 * geni-belin : Heart shaped 
 * geni-ledei : Snowflake shaped
-* geni-va : formless
+* geni-va-zio : formless
 * geni-lugin : eye shaped/oval
 
 
@@ -462,10 +470,9 @@ If you want to be precise just use the atomic number
 * vo-zion : cunning animal / fox
 * vo-beba : Herbivore/farm animal
 * vo-delo : Fish
-* vo- : Cute animal.
+* vo-wuwi : Cute animal.
 * vo-wiasa : Bird
 * vo-zewi : High flying bird
-* vo- : Cute animal
 * vo-wiasa delo : duck
 * vo-egesi : reptile
 * vo-goigo : bug / worm
