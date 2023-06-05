@@ -24,8 +24,9 @@ pub fn main() !void {
 	.words = try fmap.fontMap(),
 	.letters = try fmap.letterMap(),
     };
-    //defer alloc.free(mps.words);
-    //defer alloc.free(mps.letters);
+
+    defer mps.words.clearAndFree();
+    defer mps.letters.clearAndFree();
 
     
 
