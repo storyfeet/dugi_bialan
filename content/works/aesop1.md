@@ -19,7 +19,7 @@ is-liawa wei giawin lugin ei ma ban giasi li lugin ei geli wuwi wei mugo ei won.
 
 zan Egedubios lon wei giawin wei belin mugo ei geli dis wei leban mugo ei va-deso won. deso la is-i wei belin mugo mudei, li belin egi dan dis.
 
-zan buna dan li lugin ei dis la wei dugi go "vin gein mugo ei mudei. is-is wei belin ei zio won. o dugi ei i zan Esobb wei mugo ei geli dis"
+zan buna dan li lugin ei dis la wei dugi go "vin gein mugo ei mudei. mugi wei belin ei zio won. o dugi ei i zan Esobb wei mugo ei geli dis"
 
 zan di dis wei begin mugo ei geli lon wei dugi go "zan Esobb gan-oiga ba is-oiga li va-deso zio bi egi delo, li va-deso zio va-elio. devin don dis la, mi iani vin wei buli egi la mi di dugi ei i Esobb wei buli"
 
@@ -45,7 +45,7 @@ zan di dis li wei gion bi boina gein zan Esobb megi-di dan dis. is-di guma zion 
 
 zan liawa devin moini da ma mengi la, zan Esobb wei buli lon man beba.
 
-zan min bi liawa zewi bi enma zewi Esis wei wega dan iasin vuli da iasin leli lon biog man beba dis.  is-min va-li zion ei iasin. dan lugin ei zan Esobb la dan va-wei zion ei busi egi is-won la is-min li dugi da zan Esobb.
+zan min bi iasin zewi bi enma zewi Esis wei wega dan iasin vuli da iasin leli lon biog man beba dis.  is-min va-li zion ei iasin. dan lugin ei zan Esobb la dan va-wei zion ei busi egi is-won la is-min li dugi da zan Esobb.
 
 "zan buna mi o, vin luga ei buna da enma bi gein moili esi, o bena lugin ei iasin da man mengi, dan i mi wei va-iasin"
 
@@ -53,3 +53,8 @@ zan Esobb wei lei, wei lugin la li lugin ei zan min bi li elein egin zan zewi mi
 
 dan wei lugin ei i is-mon wei gein gudei deso va dugi la, is-min go "mi lon man dis li zan bi zion va, li zan bi liawa zewi bi ( vin gein lugin ) enma zewi Esis. mi belin mudei la, li buna da vin esi o bena lugin ei iasin da mi dan i mi li va-iasin"
 
+zan Esopp wei gan-luga ei elio is-is wei luga wei luga is-min da man giasi leli. lon man dis wei bena ei din bi mugo bagi da is-min, wei bena ei delo egin. lon man dis la, is-min wei bena ei dugi-zewi lon man Esopp.
+
+devin la is-min wei dugi belin ei wei eliasa ei iasin.  zan Esop gin luga ei is-min da iasin vuli, boina wei monsi ei buli bagi.
+
+dis min bi iasin zewi deso la, wei uwein belin da zan Esopp. wei gan-zewi ei luga bagi wei dugi go "
