@@ -6,12 +6,13 @@ const TType = token.TokenType;
 const WType = fmap.WordType;
 const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
 
+
 const Converter = struct{
     words: fmap.FontMap,
     letters : fmap.FontMap,
     s : []const u8,
     w : std.fs.File.Writer,
-    prev : ?token.Token,
+    prev: WType,
 
     ///Does not take ownership of string
     pub fn convert(s:[]const u8,w:std.fs.File.Writer) !void{
@@ -20,7 +21,7 @@ const Converter = struct{
 	    .letters = try fmap.letterMap(),
 	    .s = s,
 	    .w = w,
-	    .prev = null,
+	    .prev = WType.Norm,
 	};
 	//defer self.free();
 	var tk = token.Tokenizer.init(self.s);
@@ -36,7 +37,7 @@ const Converter = struct{
 	self.letters.clearAndFree();
     }
 
-    pub fn writeSymbol(self:@This(),t: token.Token)!void{
+    pub fn writeSymbol(self:*@This(),t: token.Token)!void{
 	const w = self.w;
 	const s = self.s;
 	switch(t.kind) {
@@ -52,17 +53,23 @@ const Converter = struct{
 	}
     }
 
-    pub fn printWord(self:@This(),t:token.Token) !void{
+    pub fn printWord(self:*@This(),t:token.Token) !void{
 
 	const wd = self.s[t.start..t.end];
 	const w = self.w;
 	if (self.words.get(wd)) |fp| {
-	    switch (fp.wType) {
-		WType.Con => try w.print("{u} ",.{fp.code}),
-		WType.Par => try w.print(" {u}",.{fp.code}),
-		else => try w.print("{u}",.{fp.code}),
+	    var space = false;
+	    if (fp.wType == WType.Par and self.prev == WType.Norm ){
+		space = true;
 	    }
-	}else {
+	    if (space) {
+		try w.print(" {u}",.{fp.code});
+	    }else {
+		try w.print("{u}",.{fp.code});
+	    }
+	    self.prev = fp.wType;
+	} else {
+	    try w.print(" ",.{});
 	    var it = std.unicode.Utf8Iterator{.bytes=wd,.i=0};
 	    while (it.nextCodepointSlice()) |c|{
 		if (self.letters.get(c)) |fp|{
@@ -72,6 +79,7 @@ const Converter = struct{
 		}
 	    }
 	    try w.print(" ",.{});
+	    self.prev = WType.Norm;
 	    
 	}
 
