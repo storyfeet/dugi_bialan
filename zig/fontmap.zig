@@ -119,7 +119,7 @@ pub fn fontMap() ! FontMap{
     try map.put("bena",nm(0xe138));
     try map.put("bengo",nm(0xe139));
     try map.put("beni",nm(0xe13a));
-    try map.put("bi",par(0xe13b));
+    try map.put("bi",aux(0xe13b));
     try map.put("biagela",nm(0xe13c));
     try map.put("biagei",nm(0xe13d));
     try map.put("bialan",nm(0xe13e));
