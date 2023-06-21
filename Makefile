@@ -3,5 +3,8 @@ site:
 
 
 wasm:
-	cd zig; zig build-lib main.zig -target wasm32-freestanding -dynamic
-	cp zig/main.wasm static/wasm/main.wasm
+	cd zig; zig build-lib dugi_wasm.zig -target wasm32-freestanding -dynamic
+	cp zig/dugi_wasm.wasm static/wasm/dugi.wasm
+
+converter:
+	cd zig; zig build-exe --name convert dugi_convert.zig

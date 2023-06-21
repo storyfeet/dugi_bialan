@@ -2,14 +2,12 @@ const std = @import("std");
 const token = @import("token.zig");
 const fmap = @import("fontmap.zig");
 
+const GPAlloc = std.heap.GeneralPurposeAllocator(.{.safety=false});
 const TType = token.TokenType;
 const WType = fmap.WordType;
-const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
-
 var gpa = GPAlloc{};
 
-
-fn Converter(comptime tp:type)type{ 
+pub fn Converter(comptime tp:type)type{ 
     return struct{
 	words: fmap.FontMap,
 	letters : fmap.FontMap,
@@ -19,9 +17,10 @@ fn Converter(comptime tp:type)type{
 
 	///Does not take ownership of string
 	pub fn convert(s:[]const u8,w:tp) !void{
+	    var alloc = gpa.allocator();
 	    var self = @This() {
-		.words = try fmap.fontMap(),
-		.letters = try fmap.letterMap(),
+		.words = try fmap.fontMap(alloc),
+		.letters = try fmap.letterMap(alloc),
 		.s = s,
 		.w = w,
 		.prev = WType.Norm,
@@ -31,7 +30,20 @@ fn Converter(comptime tp:type)type{
 	    while (try tk.nextToken()) |t| {
 		try self.writeSymbol(t);
 	    }
-	    
+	}
+
+	pub fn convertWith(s:[]const u8,w:tp,words:fmap.FontMap,letters:fmap.FontMap)!void{
+	    var self = @This() {
+		.words = words,
+		.letters =letters,
+		.s = s,
+		.w = w,
+		.prev = WType.Norm,
+	    };
+	    var tk = token.Tokenizer.init(self.s);
+	    while (try tk.nextToken()) |t| {
+		try self.writeSymbol(t);
+	    }
 	}
 
 	pub fn free(self:@This())void {
@@ -91,32 +103,6 @@ fn Converter(comptime tp:type)type{
 
 }
 
-
-
-export fn convert(s:[*]const u8,len:u32)void {
-    var alloc = gpa.allocator();
-    var ss = s[0..len];
-
-    var res = std.ArrayList(u8).init(alloc);
-    Converter(std.ArrayList(u8).Writer).convert(ss,res.writer()) catch return ;
-    //return &res.toOwnedSlice();
-    
-}
-
-
-
-pub fn main() !void {
-
-    var alloc = gpa.allocator();
-
-    var stdin = std.io.getStdIn();
-    const in_str = try stdin.readToEndAlloc(alloc,100_000);
-    defer alloc.free(in_str);
-
-    try Converter(std.fs.File.Writer).convert(in_str,std.io.getStdOut().writer());
-    
-
-}
 
 
 

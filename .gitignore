@@ -4,5 +4,6 @@ ungit
 ungit/**/*
 zig/**/*.o
 zig/convert
+zig/**/*.wasm
 public
 public/**/*

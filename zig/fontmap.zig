@@ -34,9 +34,7 @@ fn con(cd:u21)FontPoint{
     return FontPoint{.code = cd,.wType = WordType.Con};
 }
 
-pub fn letterMap() !FontMap{
-    var gpa = GPAlloc{};
-    var alloc = gpa.allocator();
+pub fn letterMap(alloc:std.mem.Allocator) !FontMap{
     var map = FontMap.init(alloc);
     try map.put("a",pre(0xe0ee));
     try map.put("e",pre(0xe0ef));
@@ -85,9 +83,7 @@ pub fn letterMap() !FontMap{
     return map;
 }
 
-pub fn fontMap() ! FontMap{
-    var gpa = GPAlloc{};
-    var alloc = gpa.allocator();
+pub fn fontMap(alloc:std.mem.Allocator) ! FontMap{
     var map = FontMap.init(alloc);
 
     // Pefixes
