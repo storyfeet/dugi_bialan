@@ -10,7 +10,7 @@ var letters:?fmap.FontMap = null;
 
 export fn init()void{
     words = fmap.fontMap(gpa.allocator()) catch null;
-    letters = fmap.fontMap(gpa.allocator()) catch null;
+    letters = fmap.letterMap(gpa.allocator()) catch null;
 }
 
 extern "dugi" fn show_dugi(s:[*]const u8,len:u32)void;
