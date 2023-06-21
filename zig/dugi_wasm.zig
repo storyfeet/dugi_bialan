@@ -4,7 +4,6 @@ const cv = @import("converter.zig");
 const fmap = @import("fontmap.zig");
 
 
-
 var gpa = GPAlloc{};
 var words:?fmap.FontMap = null ;
 var letters:?fmap.FontMap = null;
@@ -14,17 +13,23 @@ pub fn init()void{
     letters = fmap.fontMap(gpa.allocator()) catch null;
 }
 
+extern fn show_dugi(s:[*]const u8,len:u32)void;
+
 export fn convert(s:[*]const u8,len:u32)void {
     var alloc = gpa.allocator();
     var ss = s[0..len];
 
     var res = std.ArrayList(u8).init(alloc);
+    defer res.deinit();
+    defer alloc.free(ss);
+   
 
     const wds = words orelse return; 
     const lts = letters orelse return; 
 
     cv.Converter(std.ArrayList(u8).Writer).convertWith(ss,res.writer(),wds,lts) catch return ;
-    //return &res.toOwnedSlice();
+
+    show_dugi(res.items.ptr,res.items.len);
     
 }
 
