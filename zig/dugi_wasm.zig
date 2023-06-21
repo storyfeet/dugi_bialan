@@ -8,12 +8,12 @@ var gpa = GPAlloc{};
 var words:?fmap.FontMap = null ;
 var letters:?fmap.FontMap = null;
 
-pub fn init()void{
+export fn init()void{
     words = fmap.fontMap(gpa.allocator()) catch null;
     letters = fmap.fontMap(gpa.allocator()) catch null;
 }
 
-extern fn show_dugi(s:[*]const u8,len:u32)void;
+extern "dugi" fn show_dugi(s:[*]const u8,len:u32)void;
 
 export fn convert(s:[*]const u8,len:u32)void {
     var alloc = gpa.allocator();

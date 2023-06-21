@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Write Dugi Bialan Script</title>
+<style>
+
+@font-face {
+  font-family: dugi_bialan;
+  src: url(/fonts/DugiBialanThick.otf);
+}
+body {
+    background-color:#aaaa77;
+    font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
+}
+.g-base {
+    height:3em;
+    width:auto;
+}
+
+.g-second { 
+    height:1.8em;
+    width:auto;
+    padding-bottom:1.2em;
+}
+.g-follow { 
+    height: 2.5em;
+    width:auto;
+    margin-left:-0.8em;
+}
+.g-s-follow {
+    height:1.8em;
+    width:auto;
+    margin-left:-1.3em;
+}
+
+.glyph-box {
+    text-align:center;
+    height:55px;
+    width:60px;
+    border:1px solid black;
+    overflow:hidden;
+    float:left;
+}
+.glyph-box img {
+    width : 50%;
+    height: 50%;
+    background: #bbbbbb;
+}
+.glyph-box text {
+}
+
+.word-box {
+    text-align:center;
+    height:140px;
+    width:90px;
+    border:1px solid black;
+    page-break-inside:avoid;
+    overflow-y:hidden;
+    float:left;
+}
+.word-box img {
+    width : 30%;
+    height: 30%;
+}
+
+#question {
+
+}
+#answers > div {
+    border: 1px solid black;
+    min-width:100px;
+    min-height:100px;
+    float:left;
+}
+
+
+.menu a {
+    padding:20px; 
+    background : grey;
+}
+
+@media print{
+    .no-print, .no-print * {
+        display:none; 
+    }
+}
+
+</style>
+</head>
+<body>
+    <div class="no-print menu">
+        <a href="/">Home</a>
+        <a href="/word_list">Word List</a>
+        <a href="/grammar">Grammar</a>
+        <a href="/grammar_faq">Grammar Faq</a>
+        <a href="/phonology">Phonology</a>
+        <a href="/works">Works</a>
+    </div>
+    <h1>Write Dugi Bialan Script</h1>
+
+
+<textarea id="roman">
+</textarea>
+<div id="dugi"><div>
+
+<script type="module">
+
+	function showDugi(s,len){
+		let s2 = decodeString(s,len);
+	    let op = document.getElementById("dugi");
+		op.innerText = s2;
+	}
+
+	function whenReady(){
+		let tx = document.getElementById("roman");
+		tx.addEventListener("input",(ob)=>{
+			let s = ob.target.value;
+			if (s==""){
+				let op = document.getElementById("dugi");
+				op.innerText = "";
+				return;
+			}
+			console.log("Input:",s);
+			let sdat = encodeString(s);
+			w_dugi.exports.convert(sdat.s,sdat.l);
+		});
+	}
+
+
+	var memory = new WebAssembly.Memory({
+		initial:2,
+		maximum:100,
+	});
+	let forImport = {
+		dugi:{
+	//		qlog:(s,len)=>console.log(arg),
+			show_dugi:showDugi
+		},
+		env: {
+			memory:memory,
+		}
+	};
+
+
+	WebAssembly.instantiateStreaming(fetch("wasm/dugi.wasm"),forImport)
+		.then((ob) => {
+			window.w_dugi = ob.instance;
+			w_dugi.exports.init();
+			whenReady();
+		});
+
+
+	const decodeString = (pointer, length) => {
+	  const slice = new Uint8Array(
+		w_dugi.exports.memory.buffer, // memory exported from Zig
+		pointer,
+		length
+	  );
+	  return new TextDecoder().decode(slice);
+	};
+
+	const encodeString = (string) => {
+	  const buffer = new TextEncoder().encode(string);
+	  const pointer = w_dugi.exports.allocUint8(buffer.length + 1); // ask Zig to allocate memory
+	  console.log("Pre Slice");
+	  const slice = new Uint8Array(
+		w_dugi.exports.memory.buffer, // memory exported from Zig
+		pointer,
+		buffer.length + 1
+	  );
+	  console.log("post slice");
+	  slice.set(buffer);
+	  slice[buffer.length] = 0; // null byte to null-terminate the string
+	  return {s:pointer,l:buffer.length};
+	};
+
+</script>
+
+</body>
+</html>

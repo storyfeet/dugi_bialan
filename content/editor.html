@@ -1,0 +1,77 @@
+{{export title="Write Dugi Bialan Script"}}
+<textarea id="roman">
+</textarea>
+<div id="dugi"><div>
+
+<script type="module">
+
+	function showDugi(s,len){
+		let s2 = decodeString(s,len);
+	    let op = document.getElementById("dugi");
+		op.innerText = s2;
+	}
+
+	function whenReady(){
+		let tx = document.getElementById("roman");
+		tx.addEventListener("input",(ob)=>{
+			let s = ob.target.value;
+			if (s==""){
+				let op = document.getElementById("dugi");
+				op.innerText = "";
+				return;
+			}
+			console.log("Input:",s);
+			let sdat = encodeString(s);
+			w_dugi.exports.convert(sdat.s,sdat.l);
+		});
+	}
+
+
+	var memory = new WebAssembly.Memory({
+		initial:2,
+		maximum:100,
+	});
+	let forImport = {
+		dugi:{
+	//		qlog:(s,len)=>console.log(arg),
+			show_dugi:showDugi
+		},
+		env: {
+			memory:memory,
+		}
+	};
+
+
+	WebAssembly.instantiateStreaming(fetch("wasm/dugi.wasm"),forImport)
+		.then((ob) => {
+			window.w_dugi = ob.instance;
+			w_dugi.exports.init();
+			whenReady();
+		});
+
+
+	const decodeString = (pointer, length) => {
+	  const slice = new Uint8Array(
+		w_dugi.exports.memory.buffer, // memory exported from Zig
+		pointer,
+		length
+	  );
+	  return new TextDecoder().decode(slice);
+	};
+
+	const encodeString = (string) => {
+	  const buffer = new TextEncoder().encode(string);
+	  const pointer = w_dugi.exports.allocUint8(buffer.length + 1); // ask Zig to allocate memory
+	  console.log("Pre Slice");
+	  const slice = new Uint8Array(
+		w_dugi.exports.memory.buffer, // memory exported from Zig
+		pointer,
+		buffer.length + 1
+	  );
+	  console.log("post slice");
+	  slice.set(buffer);
+	  slice[buffer.length] = 0; // null byte to null-terminate the string
+	  return {s:pointer,l:buffer.length};
+	};
+
+</script>
