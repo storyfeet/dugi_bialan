@@ -9,4 +9,4 @@ wasm:
 converter:
 	cd zig; zig build-exe --name convert dugi_convert.zig
 
-all: wasm  site
+all: converter  wasm  site

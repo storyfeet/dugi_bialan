@@ -289,7 +289,7 @@ For dependent clauses.
 
 'bi' can be followed by any other particle, and becomes something close to "that"
 
-vo-zuwi **bi wei** moili ei gela mi [la] wei io guli-delo lon luga is-vo.
+vo-zuwi **bi wei** moili ei gela mi [la] li luga ei guli-delo lon luga is-vo.
 
 The 'cat', that killed my fish, has blood on it's hands.
 
