@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1682106083
-ModificationTime: 1687851531
+ModificationTime: 1687851602
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup benon-benon"  } ['liga' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 57486 26 10
+WinInfo: 57590 26 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114137 218
@@ -6863,9 +6862,10 @@ Validated: 41
 EndChar
 
 StartChar: zi
-Encoding: 57639 57639 217
+Encoding: 57640 57640 217
 Width: 500
-Flags: HW
+Flags: W
+HStem: 698.415 80<114.908 242.755>
 LayerCount: 2
 Fore
 SplineSet
@@ -6882,6 +6882,7 @@ SplineSet
  179.838867188 373.737304688 48.298828125 596.03125 103.595703125 664.405273438 c 0
  129.754882812 696.75 148.225585938 698.415039062 159.556640625 698.415039062 c 0
 EndSplineSet
+Validated: 524329
 EndChar
 EndChars
 EndSplineFont

@@ -3,7 +3,7 @@
 
 # Who is Aesop (Esobb) --- (p111)
 
-zan Esobb la, dis zan vuli bi dugi biog la, dis zan bi wei buna zelula da zan muli la, dan busi li zan oiga. deso la dan guma zi li zan bi man Veligg.
+zan Esobb la, dis zan vuli bi dugi biog la, dis zan bi wei buna zelula da zan muli la, dan busi li zan oiga. deso la dan guma zi-zi li zan bi man Veligg.
 
 zan Esobb is-won la li lugin iagi vuli, gin lon buli li va-elio. 
 

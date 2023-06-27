@@ -93,11 +93,11 @@ iasin is-di li da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
-is-di wei geliama gion ei luba mengi, gin gin dugi leli ei go "mi li zi zi vin, mi luga ei mugo delo beba da vin" 
+is-di wei geliama gion ei luba mengi, gin gin dugi leli ei go "mi li zi-leli vin, mi luga ei mugo delo beba da vin" 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 
-go "o guma lon ensa, i zi zi mi" 
+go "o guma lon ensa, i zi-leli mi" 
 
 # "O come inside my grandchild she said"
 
@@ -113,7 +113,7 @@ zan Elenuna wei guma la, is-di lon buna.
 
 # When Elenuna arrived, he was ready.
 
-go "mi li zi zi min vin" wei dugi i is-won "mi da vin ei mugo delo beba"
+go "mi li zi-leli min vin" wei dugi i is-won "mi da vin ei mugo delo beba"
 
 # "It's your granddaughter" she said, "I have brought you some vegetable soup"
 

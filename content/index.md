@@ -12,7 +12,7 @@ It balances few words, with saying lots.
 {{with_pics "dugi dis li veli dan dugi \"dugi buna\" dan guma zion mi bi dugi dis"}}<br>
 This language exists from toki pona, from everything I leared from [toki pona.](/from_toki_pona)
 
-{{with_pics "li zi veli bi dugi buna"}}
+{{with_pics "li zi-veli bi dugi buna"}}
 It's a real child of Toki Pona
 
 {{with_pics "deso la, wei gein dugi ei esebin gin gein gan-mudei"}}
