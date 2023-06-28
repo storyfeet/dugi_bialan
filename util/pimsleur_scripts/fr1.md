@@ -1,34 +1,36 @@
 Listen to this Dugi Bialan conversation.
 
--- o buna , vin li va-li gein gudei ei dugi Enlis?
--- va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
--- mi li gein gudei leli ei dugi bialan.
--- vis li va-li zan bi man Meigg
+-- o buna ei mi , vin li va-li gein gudei ei dugi Enlis?
+++ va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
+-- mi li gein gudei ei leli bi dugi bialan.
+++ vis li va-li zan bi man Emeigg
 -- li, o zan buna
 
-Imagine an American in a Balian cafe.
+Imagine an American in a Bialan cafe.
 
 He wants to begin a conversation, so says, 
 
-Excuse me
+Excuse me, or "Oh be good to me"
 
-- Excuse me
+-- o buna ei mi
 
-The french speaker is going to repeat this part by part...
+The Dugi Bialan speaker is going to repeat this part by part...
 
--- o buna
+-- o buna ei mi
 
 how do you say excuse me,
 
 Now the word English
 
--- dugi enli
+-- dugi enlis
 
 once again say English
 
--- dugi enli
+-- dugi enlis
 
 Say, Excuse me
+
+-- o buna ei mi
 
 Try to make your prononciation match the speakers.
 
@@ -94,8 +96,7 @@ Now try to ask "Can you understand"
 
 Say "Excuse me"
 
--- o buna
-::5:20
+-- o buna ei mi
 
 Ask me if I understand
 
@@ -164,7 +165,7 @@ Say "I understand"
 
 Say "Excuse me"
 
--- o buna
+-- o buna ei mi
 
 Say, "Do you understand"
 
@@ -243,9 +244,209 @@ Here's how to say "A little"
 
 -- leli
 
+Now I understand a little. again about a language.
 
+-- mi li gein gudei ei leli
 
+Here's how to say of
 
+-- bi
+
+-- mi li gein gudei ei leli bi dugi Bialan.
+
+Try to say "I can understand a little of Dugi Bialan
+
+-- mi li gein gudei ei leli bi dugi Bialan.
+
+How do you say "a little of Dugi bialan"
+
+-- leli bi dugi bialan.
+
+Now instead of understand, lets say speak.
+
+-- dugi
+
+-- mi li gein dugi ei dugi bialan
+
+-- mi li gein dugi ei leli bi dugi bialan.
+
+Now she want's to ask if you are American,
+
+-- vin li va-li bi man Emeigg
+
+Listen again
+
+-- vin li va-li bi man Emeigg
+
+This is something like "Are you of the place America"
+
+The America or, the place america.
+
+-- man Ameigg
+
+How do you say, are you American?
+
+-- vin li va-li bi man Emeigg
+
+Try to say "yes"
+
+-- li
+
+-- li , mi li bi man Emeigg
+
+Say Excuse me
+
+-- o buna ei mi
+
+Can you understand Dugi Bialan
+
+-- vin li va-li gein gudei ei dugi bialan.
+
+Now, "Can you speak English"
+
+-- vin li va-li gein dugi ei dugi Enlis.
+
+"Are you American"
+
+-- vin li va-li bi man Emeigg.
+
+"Here's how to say, "I'm an american man."
+
+-- mi li mon bi man Emeigg
+
+How do you say "man" or "male"
+
+-- mon
+
+"She says, and I'm a French Lady"
+
+-- mi li min bi man Vionsei
+
+How did she say, "lady" or "female"
+
+-- min
+
+Try "Are you american"
+
+-- vin li va-li bi man Emeigg
+
+Ask, "Can you understand English"
+
+-- vin li va-li gein gudei ei dugi Enlis
+
+Answer, "No I can't understand"
+
+-- va-li. mi va-li gein gudei ei dugi Enlis
+
+I understand a little.
+
+-- mi li gein gudei ei leli
+
+Now sit back and listen to a Dugi Bialan Conversation, The one you heard at the beginning.
+
+-- o buna ei mi , vin li va-li gein gudei ei dugi Enlis?
+++ va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
+-- mi li gein gudei ei leli bi dugi bialan.
+++ vis li va-li zan bi man Emeigg
+-- li, o zan buna
+
+Listen to it again
+
+-- o buna ei mi , vin li va-li gein gudei ei dugi Enlis?
+++ va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
+-- mi li gein gudei ei leli bi dugi bialan.
+++ vis li va-li zan bi man Emeigg
+-- li, o zan buna
+
+Now imagine you are the one who whats to begin a conversations,  What do you say?
+
+-- o buna ei mi
+
+The person doesn't respond, ask, "did you understand"
+
+-- vin wei va-wei gudei zion
+
+Ask if she speaks Dugi Bialan.
+
+-- vin li va-li gein gudei ei dugi Bialan
+
+Now ask if she UNDERSTANDS ENGLISH
+
+-- vin li va-li gein gudei ei dugi Enlis
+
+-- va-li
+
+-- va-li, o zan buna
+
+How does she tell you she doesn't speak English.
+
+-- mi va-li gein dugi ei dugi Enlis
+
+She ask's "do you speak Dugi Bialan"
+
+-- vin li va-li gein dugi ei dugi Bialan
+
+I can speak a little
+
+-- mi li gein dugi ei leli
+
+She ask's "Are you american"
+
+-- vin li va-li bi man Emeigg
+
+Tell her, yes, madam. or "yes, oh good lady"
+
+-- li, o min buna
+
+She asks do you speak English
+
+vin li va-li gein gudei ei dugi Enlis.
+
+She'll ask you another question, answer it with the word "a little"
+
+++ vin li va-li gein gudei ei dugi bialan.
+
+-- leli
+
+-- mi li gein gudei ei leli bi dugi bialan.
+
+Now try this conversation again:
+
+say "excuse me madam"
+
+-- o buna ei mi o min buna
+
+She doesn't answer, ask her if she understands
+
+-- vin li va-li gein gudei 
+
+How does she tell you she doesn't understand English 
+
+-- mi va-li gein gudei ei dugi Enlis
+
+How does she ask you if you are American
+
+-- vin li va-li bi man Emeigg
+
+Tell her, "you are an american man"
+
+-- mi li mon bi man Emeigg
+
+She'll ask you a question, try to answer it truthfully.
+
+++ vin li va-li gein dugi ei dugi Enlis?
+
+-- li
+
+-- li. mi li gein dugi ei dugi Enlis.
+
+She'll ask you another question, answer it with "a little"
+
+++ vin li va-li gein gudei ei dugi Enlis?
+
+-- leli
+
+And that's true, not you do understand a little Dugi Bialan. Don't be concerend if you haven't made every response correctly.
 
 
 
