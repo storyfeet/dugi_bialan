@@ -12,7 +12,7 @@ The goals of the Sign Language are:
 Handemes - Units of meaning.
 -------
 
-Each word is made of a Shape, Angle, Position, and Gesture
+Each word is made of a Shape,  Position, Angle, and Gesture
 
 Make the Shape, with your hand in the first angle, and position, them move your hand to the second angle and position.
 
@@ -40,23 +40,6 @@ F - Fingers : Wiggle all fingers
 R - Ring : Ring and Pinky fingers up, spread.
 E - Extended : All fingers and thumb Extended
 
-### Angle
-
-The point is where an unbent index finger would point.
-Where the Point/palm is facing.
-
-f - Forward : Point Forward, palm Down
-p - Point : Point forward, palm across
-r - Revieve : Point Forward , palm up
-u - Up : Point up, Palm forward.
-i - In : Point up, Palm back.
-a - Across : Point Across Palm, palm backward.
-o - Out : Point Across, Palm Forward
-w - Wide : Point out wide, Palm out
-b - Back : Point back, Palm Down.
-d - Down : Point down, Palm Back
-s - Sash : Point Diagonal across up, palm Diagonal across down.
-
 ### Positions
 
 The shoulder is the shoulder of the gesturing arm
@@ -73,10 +56,26 @@ h - side of head.
 e - ear
 c - chest
 
+### Angle 
+
+2 lower case letters, first is Point, second is palm.
+
+The point is where an unbent index finger would point.
+Where the Point/palm is facing.
+
+f - Forward  
+u - Up 
+i - In 
+a - Across 
+w - Wide 
+b - Back 
+s - Sash : Diagonal up across
+
+
 ### Gestures
 
-P - Position : Move to the following Position
-A - Angle : Rotate to the following Angle
+M - Move : Move to the following Position
+R - Rotate : Rotate to the following Angle
 B - Bounce : to and from the following position.
 N - Next : Rotate and Move to the following Angle and Position
 F - Circle Forward : 
