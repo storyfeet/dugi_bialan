@@ -12,7 +12,7 @@ The goals of the Sign Language are:
 Handemes - Units of meaning.
 -------
 
-Each word is made of a Shape,  Position, Angle, and Gesture
+Each Signed word is made of a Shape,  Position, Angle, followed by a series of Gestures, which may require their own parameters.
 
 Make the Shape, with your hand in the first angle, and position, them move your hand to the second angle and position.
 
@@ -26,19 +26,20 @@ Across means, the opposite side of the body to the gesturing hand.
 3 - Three fingers up together. Thumb touching pinky
 4 - Four finger up, 
 5 - Fingers up, and Spread out, thumb out.
-L - Thumb out Index raised
-P - Pinky : Pinky raisd, fist closed
-F - Fist : Fist closed, thumb under
-T - Thumbsup : Thumb up, fist closed
-V - Victory : Index and Second finger spread, other fingers closed in fist.
-W - Double-u : Thrie fingers up separated
-H - Hand : Thumb out palm slightly curled (luga)
-S - Spiderman : index and pinky raised, thumb out, other fingers touching palm
 B - Bull : Pinky and thumb wide
 C - Claw : All fingers and thumb bent from the first knuckle
-F - Fingers : Wiggle all fingers
-R - Ring : Ring and Pinky fingers up, spread.
 E - Extended : All fingers and thumb Extended
+F - Fist : Fist closed, thumb under
+H - Hand : Thumb out palm slightly curled (luga)
+J - Jiggle : Jiggle all fingers
+L - Thumb out Index raised
+P - Pinky : Pinky raisd, fist closed
+Q - sQueaze : All fingers meet thumb
+R - Ring : Ring and Pinky fingers up, spread.
+S - Spiderman : index and pinky raised, thumb out, other fingers touching palm
+T - Thumbsup : Thumb up, fist closed
+V - Victory : Index and Second finger spread, other fingers closed in fist.
+W - Double-u : Three fingers up separated
 
 ### Positions
 
@@ -50,6 +51,7 @@ s - Shoulder : at the shoulder
 w - Wide : To the outside of the shoulder
 u - Up : above the shoulder
 d - down : Below the shoulder
+p - present : Elbow at side, hand forward from elbow.
 
 m - mouth
 h - side of head.
@@ -64,22 +66,24 @@ The point is where an unbent index finger would point.
 Where the Point/palm is facing.
 
 f - Forward  
+b - Back 
 u - Up 
-i - In 
+d - down
 a - Across 
 w - Wide 
-b - Back 
 s - Sash : Diagonal up across
 
 
 ### Gestures
 
+If multiple Gestures given, they happen at the same time, unless separated by a "-"
+If no gesture is given visibly Lock into the position given.
+
 M - Move : Move to the following Position
 R - Rotate : Rotate to the following Angle
 B - Bounce : to and from the following position.
-N - Next : Rotate and Move to the following Angle and Position
-F - Circle Forward : 
-S - Stir : 
-W - Wavey : Wave back and forth towards Palm in current direction
-J - Jerk : Jerk into position
+F - Form : Change Form to following Shape
+C - Circle : in the two following directions
+W - Wavey : Wave back and forth towards given direction
+
 
