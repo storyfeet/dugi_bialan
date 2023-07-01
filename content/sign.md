@@ -78,12 +78,13 @@ s - Sash : Diagonal up across
 
 ### Gestures
 
-If multiple Gestures given, they happen at the same time, unless separated by a "-"
+If multiple Gestures given, they happen at the same time, unless the same, or separated by a "-"
 If no gesture is given visibly Lock into the position given.
 
 A - Approach from the following direction
 B - Bounce : to and from the following position.
 C - Circle : in the two following directions
+D - Direction : Move in the given direction
 F - Form : Change Form to following Shape
 M - Move : Move to the following Position
 R - Rotate : Rotate to the following Angle

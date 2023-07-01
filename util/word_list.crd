@@ -3,30 +3,30 @@ ba [ah] [exclaim,a] HmubRuf
 egesi [scale,salt] [akesi] BdfdWd
 va [not,none,lack,un] [ala] Ecsd
 eliasi [hunt,search] [alasa] CffaMs
-endei [different] [ante] 1sufRub
-ubei [shame,guilt] [apeja] 2subMd
+endei [different] [ante] "1sufRub"
+ubei [shame,guilt] [apeja] "2subMd"
 uwein [stand,wait] [awen] VsufRdb
 esin [trade,buy,sell] [esin] FsfuBf
 zo [thing] [ijo] Fcsd
 egi [bad] [ike] PmubMs
 bas [striped] ["linja mute"] WaufMd
 elo [tool] [ilo] FsuaMpRfa
-ensa [inside] [insa] 2cboCua
-iagi [yucky,"bad tasting"] [jaki] 2mafRab
+ensa [inside] [insa] "2cboCua"
+iagi [yucky,"bad tasting"] [jaki] "2mafRab"
 zan [person] [jan] Vsdb
-gela [fish] [kala] 5ffaW
+gela [fish] [kala] "5ffaW"
 guma [come,become,arrive,achieve] [kama] EfabMs
-giasi [tree] [kasi] 5sufMu
-giala [flower,bloom] [kasi] FsufF5
+giasi [tree] [kasi] "5sufMu"
+giala [flower,bloom] [kasi] "FsufF5"
 gein [can,able] [ken] FwfaMuMa
 geli [fruit] [kili] FufdMd
-beba [vegetable] [kili] 5sadFS
+beba [vegetable] [kili] "5sadFS"
 din [cut, divide] [kipisi] EsuaMpRfa
 egon [hard,rock,horn,hit] [kiwen] BsfdWf
 zin [metal] [kiwen] FsfdWf
-gedin [tooth,bite] [kiwen] 5mufFQ
+gedin [tooth,bite] [kiwen] "5mufFQ"
 goigo [clay,dirt,earth] [ko] QffuCfa
-gon [air,breath] [kon] 5auaWa
+gon [air,breath] [kon] "5auaWa"
 gudei [listen,hear,obey] [kute] Heuf
 leban [hook,take,catch,trap] [lanpan] HffdMs
 liabei [sleep] [lape] EaadRua
@@ -38,14 +38,14 @@ leli [small] [lili] KduaAu
 lena [line,cord,string] [linja] QeubMd
 lebo [book,document] [lipu] EcfdRfu
 luga [hand] [luka] Hcua
-lugin [look,see,eye] [lukin,oko] 2yuaRfa
+lugin [look,see,eye] [lukin,oko] "2yuaRfa"
 luli [hole,door,entrance] [lupa] HcadRau
 man [place] [ma] CcadCuf
 mazuni [old,ancient] [majuno] CyauMd
 ma [parent] [mama] HcauWu
 miani [money,wealth] [mani] VeufMd
 min [female,feminine] [meli] Jeua
-memuso [average] [meso,measure] KsuaAo
+memuso [average] [meso,measure] KsuaAw
 mon [male] [mije] QmuwWd
 miasegegi [medicine] [misikeke] FcubCwf
 mugo [food,consume] [moku] HcauMm
@@ -55,50 +55,50 @@ liamon [bum,ass] [monsi] Cffd
 zugo [exit] [monsi,weka] FcabMfRfa
 muni [moon] [mun] Cuus
 ziavi [play] [musi] RsfdBa
-musi [art] [musi] 1sdbRuf-Rdb
-uno [number] [nanpa]
-busi [random,chance] [nasa]
-eniasa [mad,wild] [nasa]
-iasin [way,path] [nasin]
-enin [hill,bump] [nein]
-enon [name,word] [nimi]
-oiga [foot,base, bottom] [noka]
-oimi [hidden,secret] [weka]
-oindi [order,sort] [nasin]
-lin [love] [olin]
-begin [start,begin] [open]
-ubin [open] [open]
-biagela [broken] [pakala]
-biagei [stop] [pake]
-buli [make,do,build] [pali]
-belesa [stick,rod] [palisa]
-ban [bread,grain] [pan]
-bena [give] [pana]
-belin [heart,feeling,want,need] [pilin]
-beni [finish] [pini]
-bog [beside,with] [poka]
-bugi [container] [poki]
-buna [good,simple] [pona]
-lebuni [skilled] [pona]
-bialan [balanced] [pona]
-buguni ["interact with toki pona"] [pu,ku]
-bubumi ["interact with dugi bialan"] [pu,ku]
-egin [same,equal] [sama]
-zewi [sky,heaven] [sewi]
-velo [skin,peal,cover] [selo]
-vi [hot,fire] [seli]
-vegei [round,ball,orbit] [segei]
-vis [new,young,again] [sin]
-enbin [face,front] [sinpin]
-vedelin [writing,drawing,image] [sitelen]
-zon [know] [amasona]
-ezan [fierce,wolf] [soweli]
+musi [art] [musi] "1sdbRuf-Rdb"
+uno [number] [nanpa] "1cabF2"
+busi [random,chance] [nasa] RcabCuf
+eniasa [mad,wild] [nasa] ReabCuf
+iasin [way,path] [nasin] "2sdbMf"
+enin [hill,bump] [nein] CsadMu
+enon [name,word] [nimi] "2hsfMw"
+oiga [foot,base, bottom] [noka] EdfdWa
+oimi [hidden,secret] [weka] EmsfWf
+oindi [order,sort] [nasin] QadbMs
+lin [love] [olin] CcuaRfu
+begin [start,begin] [open] QsfdRfu
+ubin [open] [open] EcadRua
+biagela [broken] [pakala] FcfdMsRfa
+biagei [stop] [pake] EcufAb
+buli [make,do,build] [pali] FcabCuf
+belesa [stick,rod] [palisa] "2huaMc"
+ban [bread,grain] [pan] "5cadMh"
+bena [give] [pana] HcauMuMf
+belin [heart,feeling,want,need] [pilin] CcuaCwu
+beni [finish] [pini] EcfdMsRfa
+bog [beside,with] [poka] Cwfd
+bugi [container] [poki] CsfuWa
+buna [good,simple] [pona] TmabWu
+lebuni [skilled] [pona] HcfwMsRfa
+bialan [balanced] [pona] "2pfams"
+buguni ["interact with toki pona"] [pu,ku] CcfdRfu
+bubumi ["interact with dugi bialan"] [pu,ku] "2cfdRfu"
+egin [same,equal] [sama] "2cfdBa"
+zewi [sky,heaven] [sewi] QuadDw
+velo [skin,peal,cover] [selo] JdabBs
+vi [hot,fire] [seli] JcfwDu
+vegei [round,ball,orbit] [segei] QcuaCua
+vis [new,young,again] [sin] EcadMsRub
+enbin [face,front] [sinpin] EssbCau
+vedelin [writing,drawing,image] [sitelen] "2habDd"
+zon [know] [sona] QhadBw
+ezan [fierce,wolf] [soweli] SufdDf
 vuli [big,much] [suli] KuuaAd
-esuno [sun,bright,day] [suno] QusdF5
+esuno [sun,bright,day] [suno] "QusdF5"
 munin [over] [supa] HwuaMuMa
-zugi [surface,counter,table] [supa]
-viala [cover,lid,door] [supa,nena]
-wuwi [sweet] [suwi]
+zugi [surface,counter,table] [supa] EcadMfRfd
+viala [cover,lid,door] [supa,nena] QcadWu
+wuwi [sweet] [suwi] EsdbWu
 bubiado [poison,bitter] []
 giawin [leg,go] [tawa]
 delo [water] [telo]
@@ -142,9 +142,9 @@ gan [direction] [tawa,PRE]
 zi [child,offspring,seed] [PRE,lili,sike]
 
 
-i [subject] [PAR,en] 1eua
+i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad
-li [is,be,adjective] [PAR,li] 2sabRdb
+li [is,be,adjective] [PAR,li] "2sabRdb"
 da [for,"in order to"] [PAR,tawa]
 dan [from,because] [PAR,tan]
 gin [with,using,also,"and-PAR"] [PAR,kin]
