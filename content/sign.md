@@ -27,12 +27,13 @@ Across means, the opposite side of the body to the gesturing hand.
 4 - Four finger up, 
 5 - Fingers up, and Spread out, thumb out.
 B - Bull : Pinky and thumb wide
-C - Claw : All fingers and thumb bent from the first knuckle
+C - Claw : Make a 'C' Shape with thumb and all fingers
 E - Extended : All fingers and thumb Extended
 F - Fist : Fist closed, thumb under
 H - Hand : Thumb out palm slightly curled (luga)
 J - Jiggle : Jiggle all fingers
 L - Thumb out Index raised
+K - KnuckleBend : Right angle bend all fingers at first knuckle
 P - Pinky : Pinky raisd, fist closed
 Q - sQueaze : All fingers meet thumb
 R - Ring : Ring and Pinky fingers up, spread.
@@ -57,8 +58,9 @@ m - mouth
 h - side of head.
 e - ear
 c - chest
+y - eye
 
-### Angle 
+### Angle / Directions
 
 2 lower case letters, first is Point, second is palm.
 
@@ -79,11 +81,12 @@ s - Sash : Diagonal up across
 If multiple Gestures given, they happen at the same time, unless separated by a "-"
 If no gesture is given visibly Lock into the position given.
 
+A - Approach from the following direction
+B - Bounce : to and from the following position.
+C - Circle : in the two following directions
+F - Form : Change Form to following Shape
 M - Move : Move to the following Position
 R - Rotate : Rotate to the following Angle
-B - Bounce : to and from the following position.
-F - Form : Change Form to following Shape
-C - Circle : in the two following directions
 W - Wavey : Wave back and forth towards given direction
 
 

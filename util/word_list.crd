@@ -1,7 +1,7 @@
 @param en tags sign
 ba [ah] [exclaim,a] HmubRuf
 egesi [scale,salt] [akesi] BdfdWd
-va [not,none,lack] [ala] Ecsd
+va [not,none,lack,un] [ala] Ecsd
 eliasi [hunt,search] [alasa] CffaMs
 endei [different] [ante] 1sufRub
 ubei [shame,guilt] [apeja] 2subMd
@@ -34,28 +34,28 @@ liawa [head,control] [lawa] ReubRua
 lego [brick] [leko] LaafWu
 elein [cloth] [len] EsabCuf
 ledei [cold] [lete] JuufMs
-leli [small] [lili] 
-lena [line,cord,string] [linja]
-lebo [book,document] [lipu]
-luga [hand] [luka]
-lugin [look,see,eye] [lukin,oko]
-luli [hole,door,entrance] [lupa]
-man [place] [ma]
-mazuni [old,ancient] [majuno]
-ma [parent] [mama]
-miani [money,wealth] [mani]
-min [female,feminine] [meli] 
-memuso [average] [meso,measure]
-mon [male] [mije]
-miasegegi [medicine] [misikeke]
-mugo [food,consume] [moku]
-moili [die,death] [moli]
-moini [back] [monsi]
-liamon [bum,ass] [monsi]
-zugo [exit] [monsi,weka]
-muni [moon] [mun]
-ziavi [play] [musi]
-musi [art] [musi]
+leli [small] [lili] KduaAu
+lena [line,cord,string] [linja] QeubMd
+lebo [book,document] [lipu] EcfdRfu
+luga [hand] [luka] Hcua
+lugin [look,see,eye] [lukin,oko] 2yuaRfa
+luli [hole,door,entrance] [lupa] HcadRau
+man [place] [ma] CcadCuf
+mazuni [old,ancient] [majuno] CyauMd
+ma [parent] [mama] HcauWu
+miani [money,wealth] [mani] VeufMd
+min [female,feminine] [meli] Jeua
+memuso [average] [meso,measure] KsuaAo
+mon [male] [mije] QmuwWd
+miasegegi [medicine] [misikeke] FcubCwf
+mugo [food,consume] [moku] HcauMm
+moili [die,death] [moli] SyubFF
+moini [back] [monsi] CsubCfu
+liamon [bum,ass] [monsi] Cffd
+zugo [exit] [monsi,weka] FcabMfRfa
+muni [moon] [mun] Cuus
+ziavi [play] [musi] RsfdBa
+musi [art] [musi] 1sdbRuf-Rdb
 uno [number] [nanpa]
 busi [random,chance] [nasa]
 eniasa [mad,wild] [nasa]
@@ -93,9 +93,9 @@ enbin [face,front] [sinpin]
 vedelin [writing,drawing,image] [sitelen]
 zon [know] [amasona]
 ezan [fierce,wolf] [soweli]
-vuli [big,much] [suli]
-esuno [sun,bright,day] [suno]
-munin [over] [supa]
+vuli [big,much] [suli] KuuaAd
+esuno [sun,bright,day] [suno] QusdF5
+munin [over] [supa] HwuaMuMa
 zugi [surface,counter,table] [supa]
 viala [cover,lid,door] [supa,nena]
 wuwi [sweet] [suwi]
@@ -142,9 +142,9 @@ gan [direction] [tawa,PRE]
 zi [child,offspring,seed] [PRE,lili,sike]
 
 
-i [subject] [PAR,en]
-ei [object] [PAR,e]
-li [is,be,adjective] [PAR,li]
+i [subject] [PAR,en] 1eua
+ei [object] [PAR,e] Qaad
+li [is,be,adjective] [PAR,li] 2sabRdb
 da [for,"in order to"] [PAR,tawa]
 dan [from,because] [PAR,tan]
 gin [with,using,also,"and-PAR"] [PAR,kin]
