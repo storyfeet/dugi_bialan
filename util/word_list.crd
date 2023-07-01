@@ -45,8 +45,8 @@ mazuni [old,ancient] [majuno] CyauMd
 ma [parent] [mama] HcauWu
 miani [money,wealth] [mani] VeufMd
 min [female,feminine] [meli] Jeua
-memuso [average] [meso,measure] KsuaAw
-mon [male] [mije] QmuwWd
+memuso [average] [meso,measure] KsuaAd
+mon [male] [mije] QmubWd
 miasegegi [medicine] [misikeke] FcubCwf
 mugo [food,consume] [moku] HcauMm
 moili [die,death] [moli] SyubFF
@@ -95,44 +95,40 @@ zon [know] [sona] QhadBw
 ezan [fierce,wolf] [soweli] SufdDf
 vuli [big,much] [suli] KuuaAd
 esuno [sun,bright,day] [suno] "QusdF5"
-munin [over] [supa] HwuaMuMa
+munin [over] [supa] CwuaSua
 zugi [surface,counter,table] [supa] EcadMfRfd
 viala [cover,lid,door] [supa,nena] QcadWu
 wuwi [sweet] [suwi] EsdbWu
-bubiado [poison,bitter] []
-giawin [leg,go] [tawa]
-delo [water] [telo]
-deli [oil] [deli]
-don [time,hour] [tenpo]
-dugi [talk,speak,communicate] [toki]
-lei [joint, bend,corner] []
-duga [fuse,alloy,stick,weld] []
+bubiado [poison,bitter] [] WmafRad
+giawin [leg,go] [tawa] VsdbMf
+delo [water] [telo] JsfaMf
+deli [oil] [deli] "5cfaDfWa"
+don [time,hour] [tenpo] BsfdRfa
+dugi [talk,speak,communicate] [toki] QmadSuf
+lei [joint, bend,corner] [] KcsdDFEFK
+duga [fuse,alloy,stick,weld] [] EauaFF
+mengi [building,build] [tomo,pali] KsuaRad
+doimo [room,area,reside] [tomo,ma] KsuaRfa
+bengo [vehicle] [tomo,tawa] KsuaMa
+denso ["non binary"] [tonsi] JmadMe
+una [mouth] [uta] Pmaf
+udiala [fight] [utala] "2msbMpRfa"
+uli [compete] [utala] "2msbCuf"
+wiasa [wing] [waso] "BufdWd"
+wiawa [mighty,strong] [wawa] FwuaDu
+biawi [electric] [wawa] "LuufSad"
+wega [yeet,away,gone] [weka] "FcfuMdF5"
+enma [being,soul,spirit] [zan,sijelo] "5cfwSwu"
+esebin [think] [isipin] QhuaCuf
+ziana [flat,sheet,paper,leaf] [supa,lipu] EmadDd
+degis [right,side] [teje] EcuaSuw
+esenis [left,side] [soto] EcuaMda
 
-
-mengi [building,build] [tomo,pali]
-doimo [room,area,reside] [tomo,ma]
-bengo [vehicle] [tomo,tawa]
-denso ["non binary"] [tonsi]
-una [mouth] [uta]
-udiala [fight] [utala]
-uli [compete] [utala]
-wiasa [wing] [waso]
-wiawa [mighty,strong] [wawa]
-biawi [electric] [wawa]
-wega [yeet,away,gone] [weka]
-
-enma [being,soul,spirit] [zan,sijelo]
-esebin [think] [isipin]
-ziana [flat,sheet,paper,leaf] [supa,lipu]
-degis [right,side] [teje]
-esenis [left,side] [soto]
-
-
-benon ["the word"] [PRE,quote]
-edi [taste] [namako,PRE]
-edin [atom,molecule] [PRE]
-ema [sound] [PRE,kalam,kalamaa]
-ga [colour] [PRE,kule]
+benon ["the word"] [PRE,quote] Ewsd
+edi [taste] [namako,PRE] RmafCuf
+edin [atom,molecule] [PRE] JaadWu
+ema [sound] [PRE,kalam,kalamaa] Jeub
+ga [colour] [PRE,kule] Luaf
 geni [shape] [PRE]
 guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE]
 is [they] [pronoun, ona,PRE]
@@ -140,7 +136,6 @@ vo [animal] [soweli,PRE]
 megi [distance] [measure,weka,PRE]
 gan [direction] [tawa,PRE]
 zi [child,offspring,seed] [PRE,lili,sike]
-
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad

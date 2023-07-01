@@ -1,6 +1,8 @@
 {{export title="Sign Language"}}
 {{@md}}
 
+# Luga Bialan
+
 Dugi Bialan also has a Sign Language associated with it WIP, that codifies every word.
 
 The goals of the Sign Language are:
@@ -8,6 +10,9 @@ The goals of the Sign Language are:
 * To be useable with just one hand.
 * To help people remember vocab with gesures that match.
 
+Every Dugi Bialan Word has a Luga Bialan Equivilant, so the whole language can be communicated in Sign, as though it were spoken, with just one hand.
+
+Prefixes Particles may be signed with the other hand at the same time as the item they prefix, this is not required however.
 
 Handemes - Units of meaning.
 -------
@@ -88,6 +93,7 @@ D - Direction : Move in the given direction
 F - Form : Change Form to following Shape
 M - Move : Move to the following Position
 R - Rotate : Rotate to the following Angle
+S - SemiCircle : Rotage half a circle in the 2 directions given
 W - Wavey : Wave back and forth towards given direction
 
 
