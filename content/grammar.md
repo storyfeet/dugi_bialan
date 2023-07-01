@@ -47,13 +47,13 @@ It is important to note that the same word can be a noun, verb or adjective.
 -- mi li mugo    
 .. I am food    
 
--- mi wei vio ei vio    
+-- mi wei vi ei vi    
 .. I set alight a fire
 
--- mi li vio    
+-- mi li vi    
 .. I am hot
 
--- mi li won vio    
+-- mi li won vi    
 .. I am a fire
 
 Sentence Structure
@@ -106,7 +106,7 @@ Particles may be combined, to create a meaning new meaning
 
 ### gin gin : and with 
 
--- is-min wei dugi, gin gin luga bagi wei ema-gion    
+-- is-min wei dugi, gin gin luga bagi wei ema-egon    
 .. She spoke, and,  with her hand, drummed.    
 
 
@@ -213,7 +213,7 @@ If possible put "semi" in the first item of the sentence, though this is not a s
 -- semi wei giawin?    
 .. Who is going?
 
--- dan semi i vin wei zion.    
+-- dan semi i vin wei zon.    
 .. how do you know?
 
 -- wei semi i vin gin elein liawa mi    
@@ -356,13 +356,13 @@ The clarifier doesn't have to be first/main word, just the least ambiguous.
 * is-zan : this/these person(s)
 * is-leli : The small one
 
-#### is-zio, The General It*
+#### is-zo, The General It*
 
 The general "it", such as "It's raining" "It's dark" "there is" "It is required"
 
-* is-zio : it / the sky / the world / generic it
+* is-zo : it / the sky / the world / generic it
 
--- is-zio li ga-va-zio
+-- is-zo li ga-va-zo
 .. It's dark
 
 #### Possesive instances
@@ -397,21 +397,21 @@ These pronouns can be assigned using to following phrase
 -- dis va-li buna    
 .. this is not good
 
--- mi va-wei zion
+-- mi va-wei zon
 .. I don't know
 
 "va" before a verb is equivelant to "un" in english
 
--- mi wei va-zion     
+-- mi wei va-zon     
 .. I unknow / I forget
 
--- va-o va-zion
+-- va-o va-zon
 .. don't forget
 
 * va-va : none
-* va-zio : nothing
+* va-zo : nothing
 * va-deso : only
-* va-zion : forget
+* va-zon : forget
 
 ### Colours with "ga"
 
@@ -420,7 +420,7 @@ Describe colours how you like, but these are some good starters.
 * ga-ga : colour
 * ga-won : uniform colour
 * ga-gon : transparent
-* ga-va-zio : black 
+* ga-va-zo : black 
 * ga-va-va : colourless
 * ga-esuno : yellow/orange
 * ga-delo : blue
@@ -430,7 +430,7 @@ Describe colours how you like, but these are some good starters.
 * ga-goigo : brown
 * ga-mudei : Multicoloured
 * ga-muli : White
-* ga-zio : type / kind
+* ga-zo : type / kind
 
 If you wish to say, "all the colours" you can say "ga-ga muli"
 
@@ -446,7 +446,7 @@ As with colours, these are guidelines.
 * geni-belesa : Stick shaped
 * geni-belin : Heart shaped 
 * geni-ledei : Snowflake shaped
-* geni-va-zio : formless
+* geni-va-zo : formless
 * geni-lugin : eye shaped/oval
 
 
@@ -466,7 +466,7 @@ If you want to be precise just use the atomic number
 * vo-vo : Animal
 * vo-zan : Monkey
 * vo-ezan : Wolf/Tiger/fierce animal 
-* vo-zion : cunning animal / fox
+* vo-zon : cunning animal / fox
 * vo-beba : Herbivore/farm animal
 * vo-delo : Fish
 * vo-wuwi : Cute animal.
@@ -482,7 +482,7 @@ If you want to be precise just use the atomic number
 
 * guli-guli : organ
 * guli-zan : body
-* guli-zion : brain
+* guli-zon : brain
 * guli-mugo : gut
 * guli-delo : kidneys
 * guli-gon : lungs
@@ -494,12 +494,12 @@ If you want to be precise just use the atomic number
 * edi-gon : smell
 * edi-wuwi : Sweet
 * edi-giala : Sweet like flower
-* edi-vio : Spicy
+* edi-vi : Spicy
 
 ### Sounds with ema
 
 * ema-ema : Sound
-* ema-gion : Crash / drum 
+* ema-egon : Crash / drum 
 * ema-vo : Animal noise
 * ema-musi : Singing
 * ema-gon : wind noises

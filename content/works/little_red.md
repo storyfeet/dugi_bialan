@@ -13,7 +13,7 @@ is-zan, li buna gin wei elein lon elein liawa bi ga-una esuno, lon don muli.
 
 # She was good, and wore a bright red hood all the time
 
-zan Elenuna is-won la, wei doimo lon biog man giasi ga-va-zio
+zan Elenuna is-won la, wei doimo lon bog man giasi ga-va-zio
 
 # Elenuna, who we will call is-won, lived beside a dark forest
 
@@ -21,9 +21,9 @@ esuno won la, ma min is-won go "o da ma ma min ei mugo delo beba dis. is-ma li b
 
 # one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 
-"deso la, va-o va-zion ei lebo liawa bi man giasi dis : 
-unio won la, va-o wega dan iasin
-unio di la, va-o dugi, va-lon don mugi, gin vo-ezan eliasi"
+"deso la, va-o va-zon ei lebo liawa bi man giasi dis : 
+uno won la, va-o wega dan iasin
+uno di la, va-o dugi, va-lon don mugi, gin vo-ezan eliasi"
 
 # "but don't forget the rules of the forest:
 # number 1 : don't stray from the path
@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei is-won. is-ezan li is-di la
 
 # However, a big bad wolf was watching her. Him we will call "is-di"
 
-is-di wei belin mugo ei is-won. is-di wei biog ei is-won wei lugin leban ei is-won lon luga is-di.
+is-di wei belin mugo ei is-won. is-di wei bog ei is-won wei lugin leban ei is-won lon luga is-di.
 
 # He wanted to eat her, he came besire her and tried to grab her in his hands.
 
@@ -57,11 +57,11 @@ deso la, lon don egesa dis. is-won wei gan-oiga da wei loigo ei lena bi elein oi
 
 # However at that exact time, she bend down to tie her shoe laces.
 
-is-di va-wei guma leban ei is-won, wei gion da giasi
+is-di va-wei guma leban ei is-won, wei egon da giasi
 
 # The wolf didn't manage to grab her, instead he hit a tree.
 
-zan Elenuna wei uwein giawin lon iasin, va-wei lugin zion.
+zan Elenuna wei uwein giawin lon iasin, va-wei lugin zon.
 
 # Elenuna carried on along the path, she didn't notice.
 
@@ -73,7 +73,7 @@ vo-ezan da is-won go "vin da vemi"
 
 # The wolf spoke to her "where are you going?"
 
-go "mi da ma ma min mi lon biog ziasi bi ma giasi ei mugo delo beba dis. is-ma li belin iagi"
+go "mi da ma ma min mi lon bog ziasi bi ma giasi ei mugo delo beba dis. is-ma li belin iagi"
 
 # "I'm going to my granny on the other side of the woods with this vegetable soup. She's feeling sick"
 
@@ -81,7 +81,7 @@ is-won wei bena lugin ei mugo delo da vo-ezan.
 
 # She showed the soup to the wolf 
 
-go "dan dis la, vin o megi-giawin. mi zion ei iasin leli" i vo-ezan
+go "dan dis la, vin o megi-giawin. mi zon ei iasin leli" i vo-ezan
 
 # "You'd better be quick then, I know a short cut" said the wolf
 
@@ -93,7 +93,7 @@ iasin is-di li da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
-is-di wei geliama gion ei luba mengi, gin gin dugi leli ei go "mi li zi-leli vin, mi luga ei mugo delo beba da vin" 
+is-di wei geliama egon ei luba mengi, gin gin dugi leli ei go "mi li zi-leli vin, mi luga ei mugo delo beba da vin" 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 
@@ -137,11 +137,11 @@ go "dis li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
-vo-ezan li dugi ei go "o guma lon biog mi, mi wei belin mugo leli ei mugo delo vin"
+vo-ezan li dugi ei go "o guma lon bog mi, mi wei belin mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
-is-won wei guma da biog mudei, wei lugin biog mudei.
+is-won wei guma da bog mudei, wei lugin bog mudei.
 
 # She came closer, and looked closer.
 
@@ -161,7 +161,7 @@ beni la, is-di wei liabei, wei ema-liabei vuli
 
 # Once he finished, he went to sleep, and snored
 
-deso la, wei giawin lon biog mengi dis i zan bi din giasi 
+deso la, wei giawin lon bog mengi dis i zan bi din giasi 
 
 # However, Walking beside this house was a woodcutter.
 
@@ -173,7 +173,7 @@ is-zan wei lugin lon luli lugin wei lugin ei vo-ezan bi wei liabei.
 
 # He looked in the window, and saw a wolf sleeping.
 
-is-zan wei ensa lon mengi, gin gin elio din is-bagi wei din ei guli-vo-ezan da di
+is-zan wei ensa lon mengi, gin gin elo din is-bagi wei din ei guli-vo-ezan da di
 
 # he entered the house, and , using his axe cut the wolf in two.
 

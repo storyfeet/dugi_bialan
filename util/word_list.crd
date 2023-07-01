@@ -7,10 +7,10 @@ endei [different] [ante] 1sufRub
 ubei [shame,guilt] [apeja] 2subMd
 uwein [stand,wait] [awen] VsufRdb
 esin [trade,buy,sell] [esin] FsfuBf
-zio [thing] [ijo] Fcsd
+zo [thing] [ijo] Fcsd
 egi [bad] [ike] PmubMs
 bas [striped] ["linja mute"] WaufMd
-elio [tool] [ilo] FsuaMpRfa
+elo [tool] [ilo] FsuaMpRfa
 ensa [inside] [insa] 2cboCua
 iagi [yucky,"bad tasting"] [jaki] 2mafRab
 zan [person] [jan] Vsdb
@@ -22,7 +22,7 @@ gein [can,able] [ken] FwfaMuMa
 geli [fruit] [kili] FufdMd
 beba [vegetable] [kili] 5sadFS
 din [cut, divide] [kipisi] EsuaMpRfa
-gion [hard,rock,horn,hit] [kiwen] BsfdWf
+egon [hard,rock,horn,hit] [kiwen] BsfdWf
 zin [metal] [kiwen] FsfdWf
 gedin [tooth,bite] [kiwen] 5mufFQ
 goigo [clay,dirt,earth] [ko] QffuCfa
@@ -56,7 +56,7 @@ zugo [exit] [monsi,weka]
 muni [moon] [mun]
 ziavi [play] [musi]
 musi [art] [musi]
-unio [number] [nanpa]
+uno [number] [nanpa]
 busi [random,chance] [nasa]
 eniasa [mad,wild] [nasa]
 iasin [way,path] [nasin]
@@ -76,7 +76,7 @@ ban [bread,grain] [pan]
 bena [give] [pana]
 belin [heart,feeling,want,need] [pilin]
 beni [finish] [pini]
-biog [beside,with] [poka]
+bog [beside,with] [poka]
 bugi [container] [poki]
 buna [good,simple] [pona]
 lebuni [skilled] [pona]
@@ -86,12 +86,12 @@ bubumi ["interact with dugi bialan"] [pu,ku]
 egin [same,equal] [sama]
 zewi [sky,heaven] [sewi]
 velo [skin,peal,cover] [selo]
-vio [hot,fire] [seli]
+vi [hot,fire] [seli]
 vegei [round,ball,orbit] [segei]
 vis [new,young,again] [sin]
 enbin [face,front] [sinpin]
 vedelin [writing,drawing,image] [sitelen]
-zion [know] [amasona]
+zon [know] [amasona]
 ezan [fierce,wolf] [soweli]
 vuli [big,much] [suli]
 esuno [sun,bright,day] [suno]
