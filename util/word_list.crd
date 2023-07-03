@@ -123,6 +123,7 @@ esebin [think] [isipin] QhuaCuf
 ziana [flat,sheet,paper,leaf] [supa,lipu] EmadDd
 degis [right,side] [teje] EcuaSuw
 esenis [left,side] [soto] EcuaMda
+vega [species,type] [kule]
 
 benon ["the word"] [PRE,quote] Ewsd
 edi [taste] [namako,PRE] RmafCuf
@@ -131,7 +132,7 @@ ema [sound] [PRE,kalam,kalamaa] Jeub
 ga [colour] [PRE,kule] Luaf
 geni [shape] [PRE] Lwwf
 guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE] 
-is [they] [pronoun, ona,PRE] Cfab
+is [they] [pronoun, ona,PRE] Tsub
 vo [animal] [soweli,PRE] Swua
 megi [distance] [measure,weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
@@ -166,24 +167,23 @@ deso [but, however, except] [taso,AUX] LaubRad
 bi [of] [AUX,pi] Lsub
 
 # Pronouns
-mi [me,i,my] [pronoun,mi] 
-vin [you,your] [pronoun,sina]
+mi [me,i,my] [pronoun,mi] Tcsd
+vin [you,your] [pronoun,sina] "Tsfu*"
 
-dis [this] [pronoun,ni]
-das [that] [pronoun,ni]
-bagi [self] [pronoun,ona,mi,sina]
+dis [this] [pronoun,ni] TcabM*R*
+das [that] [pronoun,ni] TsabM*R*
+bagi [self] [pronoun,ona,mi,sina] TsabSfu
 
-vega [species,type] [kule]
 
 # Amounts / numbers
 
-won [one] [wan,number]
-di [two] [tu,number]
-van [three] [san,"tu wan",number]
-mo [four] [po,number]
-lan [five] [luka,number]
-in [twenty] [mute,number]
-za [hundred] [mute,ali,number]
+won [one] [wan,number] 1csb
+di [two] [tu,number] 2csb
+van [three] [san,"tu wan",number] 3csb
+mo [four] [po,number] 4csb
+lan [five] [luka,number] 5csb
+in [twenty] [mute,number] Pcsb
+za [hundred] [mute,ali,number] Bcsb
 
 mudei [several,increase] [mute,amount]
 zelula [shitloads,too,much,many] [mute,amount]
