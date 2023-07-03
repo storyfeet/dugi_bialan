@@ -170,8 +170,8 @@ bi [of] [AUX,pi] Lsub
 mi [me,i,my] [pronoun,mi] Tcsd
 vin [you,your] [pronoun,sina] "Tsfu*"
 
-dis [this] [pronoun,ni] TcabM*R*
-das [that] [pronoun,ni] TsabM*R*
+dis [this] [pronoun,ni] TsabM*R*
+das [that] [pronoun,ni] TaabM*R*
 bagi [self] [pronoun,ona,mi,sina] TsabSfu
 
 
@@ -185,22 +185,22 @@ lan [five] [luka,number] 5csb
 in [twenty] [mute,number] Pcsb
 za [hundred] [mute,ali,number] Bcsb
 
-mudei [several,increase] [mute,amount]
-zelula [shitloads,too,much,many] [mute,amount]
-muli [all,every] [ali,ale,amount]
-egesa [exact,point] [ni]
-loigo [lock,tie,know,tight] []
-veli [real,true] [lon]
+mudei [several,increase] [mute,amount] 2sadCwf
+zelula [shitloads,too,much,many] [mute,amount] 2sadMu
+muli [all,every] [ali,ale,amount] HcauCwf
+egesa [exact,point] [ni] 1suaMcRdw
+loigo [lock,tie,know,tight] [] FcuaRub
+veli [real,true] [lon] 2sufRdb
 
 
 
 #measurable
-ziasi [reflect,opposite] [amount,ante]
+ziasi [reflect,opposite] [amount,ante] PsuaBf
 
-ziazon [mass] [measure,suli]
-oiban [frequency] [measure]
+ziazon [mass] [measure,suli] EafwSuwRfa
+oiban [frequency] [measure] EafaSuwSuw
 
-belas [full] [suli,measure]
+belas [full] [suli,measure] BcadMm
 
 
 
