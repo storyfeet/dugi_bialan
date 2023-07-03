@@ -1,6 +1,6 @@
 Listen to this Dugi Bialan conversation.
 
--- o buna ei mi , vin li va-li gein gudei ei dugi Enlis?
+-- o bena gudei, vin li va-li gein gudei ei dugi Enlis?
 ++ va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
 -- mi li gein gudei ei leli bi dugi bialan.
 ++ vis li va-li zan bi man Emeigg
@@ -10,13 +10,13 @@ Imagine an American in a Bialan cafe.
 
 He wants to begin a conversation, so says, 
 
-Excuse me, or "Oh be good to me"
+Excuse me, or "Oh give ear/listening"
 
--- o buna ei mi
+-- o bena gudei
 
 The Dugi Bialan speaker is going to repeat this part by part...
 
--- o buna ei mi
+-- o bena gudei
 
 how do you say excuse me,
 
@@ -30,7 +30,7 @@ once again say English
 
 Say, Excuse me
 
--- o buna ei mi
+-- o bena gudei
 
 Try to make your prononciation match the speakers.
 
@@ -96,7 +96,7 @@ Now try to ask "Can you understand"
 
 Say "Excuse me"
 
--- o buna ei mi
+-- o bena gudei
 
 Ask me if I understand
 
@@ -165,7 +165,7 @@ Say "I understand"
 
 Say "Excuse me"
 
--- o buna ei mi
+-- o bena gudei
 
 Say, "Do you understand"
 
@@ -296,7 +296,7 @@ Try to say "yes"
 
 Say Excuse me
 
--- o buna ei mi
+-- o bena gudei
 
 Can you understand Dugi Bialan
 
@@ -344,7 +344,7 @@ I understand a little.
 
 Now sit back and listen to a Dugi Bialan Conversation, The one you heard at the beginning.
 
--- o buna ei mi , vin li va-li gein gudei ei dugi Enlis?
+-- o bena gudei, vin li va-li gein gudei ei dugi Enlis?
 ++ va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
 -- mi li gein gudei ei leli bi dugi bialan.
 ++ vis li va-li zan bi man Emeigg
@@ -352,7 +352,7 @@ Now sit back and listen to a Dugi Bialan Conversation, The one you heard at the 
 
 Listen to it again
 
--- o buna ei mi , vin li va-li gein gudei ei dugi Enlis?
+-- o bena gudei, vin li va-li gein gudei ei dugi Enlis?
 ++ va-li, zan buna, mi va-li gein gudei ei dugi Enlis.
 -- mi li gein gudei ei leli bi dugi bialan.
 ++ vis li va-li zan bi man Emeigg
@@ -360,7 +360,7 @@ Listen to it again
 
 Now imagine you are the one who whats to begin a conversations,  What do you say?
 
--- o buna ei mi
+-- o bena gudei
 
 The person doesn't respond, ask, "did you understand"
 
