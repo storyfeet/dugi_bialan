@@ -25,7 +25,7 @@ Across means, the opposite side of the body to the gesturing hand.
 
 ### Shapes
 
-0 - Thumb touching index finger.
+//0 - Thumb touching index finger.
 1 - Index Finger up, thumb on knucle
 2 - index and second Fingers up together.
 3 - Three fingers up together. Thumb touching pinky

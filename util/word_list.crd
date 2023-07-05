@@ -105,7 +105,7 @@ delo [water] [telo] JsfaMf
 deli [oil] [deli] "5cfaDfWa"
 don [time,hour] [tenpo] BsfdRfa
 dugi [talk,speak,communicate] [toki] QmadSuf
-lei [joint, bend,corner] [] KcsdDFEFK
+lei [joint, bend,corner] [] KcsdFEFK
 duga [fuse,alloy,stick,weld] [] EauaFF
 mengi [building,build] [tomo,pali] KsuaRad
 doimo [room,area,reside] [tomo,ma] KsuaRfa
@@ -122,8 +122,8 @@ enma [being,soul,spirit] [zan,sijelo] "5cfwSwu"
 esebin [think] [isipin] QhuaCuf
 ziana [flat,sheet,paper,leaf] [supa,lipu] EmadDd
 degis [right,side] [teje] EcuaSuw
-esenis [left,side] [soto] EcuaMda
-vega [species,type] [kule]
+esenis [left,side] [soto] EcuaSda
+vega [species,type] [kule] JafdSuw
 
 benon ["the word"] [PRE,quote] Ewsd
 edi [taste] [namako,PRE] RmafCuf
@@ -131,12 +131,12 @@ edin [atom,molecule] [PRE] JaadWu
 ema [sound] [PRE,kalam,kalamaa] Jeub
 ga [colour] [PRE,kule] Luaf
 geni [shape] [PRE] Lwwf
-guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE] 
+guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE] EaabMs
 is [they] [pronoun, ona,PRE] Tsub
 vo [animal] [soweli,PRE] Swua
 megi [distance] [measure,weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
-zi [child,offspring,seed] [PRE,lili,sike] TcafWu
+zi [child,offspring,seed] [PRE,lili,sike] QcauWu
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad
@@ -146,7 +146,7 @@ dan [from,because] [PAR,tan] RsfaRua
 gin [with,using,also,"and-PAR"] [PAR,kin] CsubRfu
 lon [at,in] [PAR,lon] CsubRadMc
 wei [do,verb] [PAR,li] BaadMc
-o [imperetive] [PAR,o] OmubCfd
+o [imperetive] [PAR,o] WmubCfd
 boina [before] [PAR,tenpo,lili,pini] SsufMa
 devin [after,then] [PAR,tenpo,suli,kama] SaufMs
 go [quote] [PAR,quote] TmabWu
@@ -162,13 +162,13 @@ elena [dust,sand] [] Jddb
 geva [partner,spouse] [kulupu,kin] HsufBa
 
 
-iani [or] [question,anu,AUX] RsadRsou
-deso [but, however, except] [taso,AUX] LaubRad
+iani [or] [question,anu,AUX] RsadRou
+deso [but, however, except] [taso,AUX] LafaRad
 bi [of] [AUX,pi] Lsub
 
 # Pronouns
 mi [me,i,my] [pronoun,mi] Tcsd
-vin [you,your] [pronoun,sina] "Tsfu*"
+vin [you,your] [pronoun,sina] "Tcsu*"
 
 dis [this] [pronoun,ni] TsabM*R*
 das [that] [pronoun,ni] TaabM*R*
