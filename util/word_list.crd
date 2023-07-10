@@ -170,27 +170,27 @@ bi [of] [AUX,pi] Lsub
 mi [me,i,my] [pronoun,mi] Tcsd
 vin [you,your] [pronoun,sina] "Tcsu*"
 
-dis [this] [pronoun,ni] TsabM*R*
-das [that] [pronoun,ni] TaabM*R*
-bagi [self] [pronoun,ona,mi,sina] TsabSfu
+dis [this] [pronoun,ni] "TsabM*R*"
+das [that] [pronoun,ni] "TaabM*R*"
+begi [self] [pronoun,ona,mi,sina] TsabSfu
 
 
 # Amounts / numbers
 
-won [one] [wan,number] 1csb
-di [two] [tu,number] 2csb
-van [three] [san,"tu wan",number] 3csb
-mo [four] [po,number] 4csb
-lan [five] [luka,number] 5csb
+won [one] [wan,number] "1csb"
+di [two] [tu,number] "2csb"
+van [three] [san,"tu wan",number] "3csb"
+mo [four] [po,number] "4csb"
+lan [five] [luka,number] "5csb"
 in [twenty] [mute,number] Pcsb
 za [hundred] [mute,ali,number] Bcsb
 
-mudei [several,increase] [mute,amount] 2sadCwf
-zelula [shitloads,too,much,many] [mute,amount] 2sadMu
+mudei [several,increase] [mute,amount] "2sadCwf"
+zelula [shitloads,too,much,many] [mute,amount] "2sadMu"
 muli [all,every] [ali,ale,amount] HcauCwf
-egesa [exact,point] [ni] 1suaMcRdw
+egesa [exact,point] [ni] "1suaMcRdw"
 loigo [lock,tie,know,tight] [] FcuaRub
-veli [real,true] [lon] 2sufRdb
+veli [real,true] [lon] "2sufRdb"
 
 
 

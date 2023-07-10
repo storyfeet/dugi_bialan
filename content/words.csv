@@ -1,0 +1,9 @@
+{{export type = "nothing"
+		ext = "csv"
+-}}
+{{let cfile = (r_card ( file "util/word_list.crd"));
+    cards = sort_on $cfile "Name" ;
+-}}
+{{for k v in $cards -}}
+{{$v.Name}},"{{for kk e in $v.en}}{{if neq $kk 0}},{{/if}}{{$e}}{{/for}}"
+{{/for}}

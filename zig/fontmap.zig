@@ -105,7 +105,7 @@ pub fn fontMap(alloc:std.mem.Allocator) ! FontMap{
 
 
     try map.put("ba",nm(0xe12f));
-    try map.put("bagi",nm(0xe130));
+    try map.put("begi",nm(0xe130));
     try map.put("ban",nm(0xe131));
     try map.put("bas",nm(0xe132));
     try map.put("beba",nm(0xe133));

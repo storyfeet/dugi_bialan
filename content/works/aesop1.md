@@ -15,7 +15,7 @@ dan va-dugi is-won la zan liawa is-won li lugin ei i zan Esobb wei va-gein buli 
 
 # His first test (p112)
 
-is-liawa wei giawin lugin ei ma ban giasi li lugin ei geli wuwi wei mugo ei won. is-i li dugi liawa da zan oiga bi enon Egedubios go "buna mi la geli dis li buna vuli. o da mengi mi ei bugo geli dis da dis : mi wei delo bagi, devin la o bena da mi."
+is-liawa wei giawin lugin ei ma ban giasi li lugin ei geli wuwi wei mugo ei won. is-i li dugi liawa da zan oiga bi enon Egedubios go "buna mi la geli dis li buna vuli. o da mengi mi ei bugo geli dis da dis : mi wei delo begi, devin la o bena da mi."
 
 zan Egedubios lon wei giawin wei belin mugo ei geli dis wei leban mugo ei va-deso won. deso la is-i wei belin mugo mudei, li belin egi dan dis.
 
@@ -23,7 +23,7 @@ zan buna dan li lugin ei dis la wei dugi go "vin gein mugo ei mudei. mugi wei be
 
 zan di dis wei begin mugo ei geli lon wei dugi go "zan Esobb gan-oiga ba is-oiga li va-deso zo bi egi delo, li va-deso zo va-elo. devin don dis la, mi iani vin wei buli egi la mi di dugi ei i Esobb wei buli"
 
-zan liawa wei guma la is-liawa wei dugi belin ei geli bagi. zan Egedubios go "ba zan oiga Esobb wei lugin ei geli wei mugo ei dis"
+zan liawa wei guma la is-liawa wei dugi belin ei geli begi. zan Egedubios go "ba zan oiga Esobb wei lugin ei geli wei mugo ei dis"
 
 is-liawa dan belin egi va-luga wei dugi guma ei zan Esobb. zan Esobb li wei leban da oiga is-liawa.
 
@@ -33,11 +33,11 @@ zan Esobb wei dugi gin va-deso luga wei dugi gin belin mudei go "o uwein, o da m
 
 zan liawa lon belin gan-oiga buna da zan Esobb wei bena gein.
 
-zan Esobb wei mugo e delo, wei zugo dan guli-mugo bagi ei delo mudei, deso la wei zugo ei va-deso delo.
+zan Esobb wei mugo e delo, wei zugo dan guli-mugo begi ei delo mudei, deso la wei zugo ei va-deso delo.
 
 i zan Esobb wei dugi luga ei zan di endei li wei belin buli egin. is-di li buli la, wei zugo ei geli.
 
-zan-liawa li ezan da zan di dis go "vis wei buli ei dis da zan va-dugi, da zan bi va-gein udiala uwein bagi"
+zan-liawa li ezan da zan di dis go "vis wei buli ei dis da zan va-dugi, da zan bi va-gein udiala uwein begi"
 
 zan di dis li wei egon bi boina gein zan Esobb megi-di dan dis. is-di guma zon ei zon buna lon esuno dis.
 
@@ -53,8 +53,8 @@ zan Esobb wei lei, wei lugin la li lugin ei zan min bi li elein egin zan zewi mi
 
 dan wei lugin ei i is-mon wei gein gudei deso va dugi la, is-min go "mi lon man dis li zan bi zon va, li zan bi liawa zewi bi ( vin gein lugin ) enma zewi Esis. mi belin mudei la, li buna da vin esi o bena lugin ei iasin da mi dan i mi li va-iasin"
 
-zan Esopp wei gan-luga ei elo is-is wei luga wei luga is-min da man giasi leli. lon man dis wei bena ei din bi mugo bagi da is-min, wei bena ei delo egin. lon man dis la, is-min wei bena ei dugi-zewi lon man Esopp.
+zan Esopp wei gan-luga ei elo is-is wei luga wei luga is-min da man giasi leli. lon man dis wei bena ei din bi mugo begi da is-min, wei bena ei delo egin. lon man dis la, is-min wei bena ei dugi-zewi lon man Esopp.
 
-devin la is-min wei dugi belin ei wei eliasa ei iasin.  zan Esop gin luga ei is-min da iasin vuli, boina wei monsi ei buli bagi.
+devin la is-min wei dugi belin ei wei eliasa ei iasin.  zan Esop gin luga ei is-min da iasin vuli, boina wei monsi ei buli begi.
 
-dis min bi iasin zewi deso la, wei uwein belin da zan Esopp. wei gan-zewi ei luga bagi wei dugi go "
+dis min bi iasin zewi deso la, wei uwein belin da zan Esopp. wei gan-zewi ei luga begi wei dugi go "

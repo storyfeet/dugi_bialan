@@ -106,7 +106,7 @@ Particles may be combined, to create a meaning new meaning
 
 ### gin gin : and with 
 
--- is-min wei dugi, gin gin luga bagi wei ema-egon    
+-- is-min wei dugi, gin gin luga begi wei ema-egon    
 .. She spoke, and,  with her hand, drummed.    
 
 

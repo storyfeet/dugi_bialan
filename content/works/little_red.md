@@ -85,7 +85,7 @@ go "dan dis la, vin o megi-giawin. mi zon ei iasin leli" i vo-ezan
 
 # "You'd better be quick then, I know a short cut" said the wolf
 
-is-di wei bena lugin ei iasin leli wei giawin lon iasin bagi
+is-di wei bena lugin ei iasin leli wei giawin lon iasin begi
 
 # He showed her the short cut, then went on his own way.
 
@@ -173,7 +173,7 @@ is-zan wei lugin lon luli lugin wei lugin ei vo-ezan bi wei liabei.
 
 # He looked in the window, and saw a wolf sleeping.
 
-is-zan wei ensa lon mengi, gin gin elo din is-bagi wei din ei guli-vo-ezan da di
+is-zan wei ensa lon mengi, gin gin elo din is-begi wei din ei guli-vo-ezan da di
 
 # he entered the house, and , using his axe cut the wolf in two.
 
