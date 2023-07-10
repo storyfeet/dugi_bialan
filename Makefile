@@ -10,3 +10,7 @@ converter:
 	cd zig; zig build-exe --name convert dugi_convert.zig
 
 all: converter  wasm  site
+
+
+glyphgifs : static/glyphs/%.svg
+	inkscape static/glyphs/$*.svg -o util/gifs/$*.gif
