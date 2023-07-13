@@ -65,7 +65,7 @@ If no particle is given, the first item is assumed to be the subject.
 
 Every particle acts on the following item, and there must always an item following each particle (or particle combination).
 
-Not every has a "verb" in the purist sense. The action can be implied by the other information.
+Not every sentence has a "verb" in the purist sense. The action can be implied by the other information.
 
 The following sentence has no verb, but is acceptable in dugi bialan:
 
