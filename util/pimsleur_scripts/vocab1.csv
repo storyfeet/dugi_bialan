@@ -15,37 +15,27 @@ dugi Bialan,"The Dugi Bialan Language"
 dugi Enlis,"The English Language"
 va-li, "Is/am not"
 gein gudei ,"can hear/understand"
-zan buna ,"a good person/friend"
-gudei zon, "understand"
-
-li gein gudei,"To be able to understand"
+zan buna ,"a good person / friend"
 o bena gudei, "Excuse me / Oh give ear"
 o zan buna, "Excuse me / Oh good person"
-
-vin li gein gudei, "You are able to hear/understand"
+vin li gein gudei, "You are able to hear/understand (a language)"
 "va-li o zan buna", "No sir/madam/good person"
 mi li gein gudei, "I can understand <a language>"
 
 mi va-li gein gudei , "I can't understand"
 vin li va-li gein gudei , "can you understand
-vin wei va-wei gudei zon
 
-mi li gein gudei ei dugi Bialan.
-mi va-li gein gudei ei dugi Enlis
-mi va-li gein gudei ei dugi Bialan
-vin li gein gudei ei dugi Enlis
+mi li gein gudei ei dugi Bialan, "I can understand Dugi Bialan"
+mi va-li gein gudei ei dugi Enlis, "I can't understand English"
+mi va-li gein gudei ei dugi Bialan, "I can't understand Dugi Bialan"
+vin li gein gudei ei dugi Enlis, "You can understand English"
 
-mi va-li gein gudei ei dugi Enlis
-vin li va-li gein gudei ei dugi Enlis
-vin li va-li gein gudei ei dugi Bialan?
-vin li va-li gein dugi ei dugi Enlis.
-vin li va-li gein dugi ei dugi Bialan
+vin li va-li gein gudei ei dugi Enlis, "Can you understand English"
+vin li va-li gein dugi ei dugi Bialan?, "Can you speak Dugi Bialan"
 
+li. mi li gein gudei ei dugi Enlis. "Yes/is/am. I AM able to understand English"
 
-li. mi li gein dugi ei dugi Enlis.
-vin li va-li gein gudei ei dugi Enlis
-
-va-li. mi va-li gein gudei ei dugi Enlis
+va-li. mi va-li gein gudei ei dugi Enlis. "No/is not/am not. I can't understand English"
 
 -- Part 2 -- 
 
@@ -57,22 +47,23 @@ man, "place"
 wei, "do/does"
 zon, "know,knowledge"
 
+man Emeigg,"America"
+man Velonss,"France"
 
 leli bi dugi bialan, "a little Dugi Bialan"
-mi li gein gudei ei leli, 
-mi li gein gudei ei leli
-mi li min bi man Velonss
-"li, o min buna", 
-o bena gudei o min buna
-mi li mon bi man Emeigg
-man Emeigg,"America"
-vin li va-li bi man Emeigg
-mi li bi man Emeigg
-man Velonss,"France"
-li , mi li bi man Emeigg
-vin li va-li bi man Emeigg
-mi li gein gudei ei leli bi dugi Bialan.
-mi li gein dugi ei leli bi dugi bialan.
+mi li gein gudei ei leli, "I can understand a little"
+mi li gein dugi ei leli, "I can speak a little"
+mi li bi man Emeigg, "I am from/of America"
+mi li min bi man Velonss, "I am a woman of France / A french Woman"
+"o min buna", "Oh madam, Oh good lady"
+"o mon buna", "Oh sir, Oh good man"
+o bena gudei o min buna, "Excuse me good lady"
+vin li va-li bi man Emeigg, "Are you American / Of America"
+"li , mi li bi man Emeigg", "Yes/Am, I am American"
+mi li gein dugi ei leli bi dugi bialan. "I can speak a little Dugi Bialan"
+
+gudei zon, "understand (a concept)"
 va-wei, "does/do not"
-mi wei gudei zon
-mi va-wei gudei zon
+mi wei gudei zon, "I understand"
+mi va-wei gudei zon, "I don't understand"
+vin wei va-wei gudei zon "Do you understand"
