@@ -320,7 +320,7 @@ How do you say "man" or "male"
 
 "She says, and I'm a French Lady"
 
--- mi li min bi man Vionsei
+-- mi li min bi man Velonss
 
 How did she say, "lady" or "female"
 
