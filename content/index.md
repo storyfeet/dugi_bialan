@@ -2,7 +2,7 @@
 {{@md}}
 
 {{@with_pics}}
-o guma buna da dugi "dugi bialan". won dugi bialan
+o guma buna da dugi "bialan". won dugi bialan
 {{/with_pics}}
 Welcome to Dugi Bialan, a language of Balance.
 
