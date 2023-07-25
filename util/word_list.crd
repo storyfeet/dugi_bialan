@@ -75,7 +75,7 @@ belesa [stick,rod] [palisa] "2huaMc"
 ban [bread,grain] [pan] "5cadMm"
 bena [give] [pana] HcauSuf
 belin [heart,feeling,want,need] [pilin] CcuaCwu
-beni [finish] [pini] EcfdMsRfa
+beni [finish,already] [pini] EcfdMsRfa
 bog [beside,with] [poka] Cwwd
 bugi [container] [poki] CsfuWa
 buna [good,simple] [pona] TmabWu
@@ -137,6 +137,11 @@ vo [animal] [soweli,PRE] Swua
 megi [distance] [measure,weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
 zi [child,offspring,seed] [PRE,lili,sike] QcauWu
+
+ususa [spreading,sprawling] [NEW]
+eleba [grass] ["kasi lili", NEW]
+
+
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad
