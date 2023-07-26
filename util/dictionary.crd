@@ -1,4 +1,4 @@
-@param dugi
+@param dugi 
 abandon ["wega uwein", "wega"]
 ability [gein,lebuni]
 able [gein]
@@ -19,7 +19,30 @@ acceptable ["gein elo","gein luga"]
 acceptance ["gein guma","bena guma"]
 access ["gein ensa"]
 accessible ["gein ensa", "gein elo","gein elo bi muli","da muli"]
-accident ["biagela busi"]
+accident ["biagela busi", "biagela va-belin"]
+accomodate [ "bena doimo"]
+accompany ["wei bog","wei guma lon bog"]
+accomplish ["buli beni", "buli vuli"]
+accomplishment ["buli beni vuli"]
+"according to .." ["dan dugi .."]
+accountability ["ubin lugin","ubin liawa","ubin"]
+accounting ["iasin miani", "iasin bi uno miani","buli miani"]
+accuracy ["gein egesa"]
+accurate ["gein egesa","egesa"]
+accusation ["dugi udiala egesa","dugi bi egi beni"]
+"accuse .." ["dugi bi egi bi .."]
+achieve ["buli beni"]
+achievement ["buli beni vuli"]
+acid ["delo edin biagela"]
+acknowledge ["dugi zon veli"]
+acquire ["guma luga", "leban"]
+acquisition ["guma luga"]
+acre [megi man]
+across [lon munin]
+act ["buli", "musi buli"]
+action ["buli"]
+
+
 
 
 institution ["mengi liawa"]
