@@ -430,7 +430,8 @@ Describe colours how you like, but these are some good starters.
 * ga-goigo : brown
 * ga-mudei : Multicoloured
 * ga-muli : White
-* ga-zo : type / kind
+
+* ga-dugi : accent
 
 If you wish to say, "all the colours" you can say "ga-ga muli"
 
