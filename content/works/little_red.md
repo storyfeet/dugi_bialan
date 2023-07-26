@@ -9,7 +9,7 @@ lon don won la, li wei luga i zan leli min bi enon Elenuna
 
 # Once there was a little girl called Elenuna
 
-is-zan, li buna gin wei elein lon elein liawa bi ga-una esuno.
+is-zan, li buna gin wei elein ei elein liawa bi ga-una esuno.
 
 # She was good, and wore a bright red hood
 
@@ -77,11 +77,11 @@ iasin is-ezan li egin da mengi bi ma ma min.
 
 # His own way, led to grannies house
 
-is-ezan wei ema egon lon luli mengi, gin gin ga-dugi leli ei go "mi li zi-leli vin, mi wei luga ei delo beba da vin" 
+is-ezan wei ema egon lon luli mengi, gin gin ga-dugi leli ei go "mi li zi-leli vin, mi da vin ei delo beba" 
 
 # He knocked on the door, and said in a small voice, "I'm your grandchild, I have vegetable soup for you.
 
-go "o guma lon ensa, i zi-leli mi" 
+go "o guma lon ensa, o zi-leli mi" 
 
 # "O come inside my grandchild she said"
 
@@ -89,7 +89,7 @@ vo-ezan wei guma lon ensa, wei mugo ei is-ma gin belas una won.
 
 # The wolf came inside, and ate up this granny in one mouthful
 
-is-ezan wei elein lon elein is-ma, wei ensa ei man liabei is-ma, da wei lugin egin ei is-ma.
+is-ezan wei elein ei elein is-ma, wei ensa ei man liabei is-ma, da wei lugin egin ei is-ma.
 
 # He put on her clothes, and got into her bed in order to look like her.
 
@@ -149,7 +149,7 @@ deso la, wei giawin lon bog mengi dis i zan bi din giasi
 
 # However, Walking beside this house was a woodcutter.
 
-is-zan wei gudei ei ema-liabei wei esebin ei go "zan majuni dis va-wei ema-liabei mudei sama dis"
+is-zan wei gudei ei ema-liabei wei esebin ei go "zan mazuni dis va-wei ema-liabei mudei egin dis"
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 
@@ -169,7 +169,7 @@ is-muli wei lugin ei delo beba.
 
 # They all looked at the soup Elenuna had brought.
 
-go "vin di wei va-wei esebin ei i delo dis wei belin ei mugo vo-vo", zan Elenuna wei dugi
+go "vin di wei va-wei esebin ei i delo beba dis wei belin ei mugo vo-vo", zan Elenuna wei dugi
 
 # "Do you think this soup would like some meat", suggested Elenuna
 
