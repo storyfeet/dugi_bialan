@@ -183,8 +183,27 @@ The first clause can be something as simple as a "dis"
 Vocatives / Imperatives
 ------------------
 
-The word -- o
+The word "o" can be used as both a polite call before a name, to ask for their attention.
 
+-- o [i] zan buna
+.. Oh Good person
+
+or as the beginning of a request
+
+-- o [wei] lugin ei dis
+.. Oh look at this.
+
+The 'i' and the 'wei' can be dropped, but may be said.
+
+To request an action not happen. use va before the verb marker.
+
+-- o va-wei giawin
+.. Oh don't go
+
+Or in more urgent cases, va can come before 'o'. But many people want to be polite before negative.
+
+-- va-o giawin
+.. don't go
 
 
 Yes or No Questions
