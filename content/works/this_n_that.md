@@ -19,7 +19,7 @@ lon don won la. mi wei giawin lon iasin, wei esebin ei zo mi la, zan mon wei gum
 
 # He asked me if I'd like to make a little money
 
-is-mon wei o dugi mi go "vin wei va-wei belin luga ,ei miani"
+is-mon da zon go "vin wei va-wei belin luga ,ei miani"
 
 # and of course I said "yes", I do like money.
 
@@ -35,50 +35,94 @@ is-mon wei luga ei lebo "dis", ei lebo "dis" ei lebo "das". go "o bena lon zugi 
 
 # As he said this he put 1 card on the bottom.
 
-lon wei dugi ei dis la, is mon wei giawin ei lebo da oiga.
+lon wei dugi ei dis la, is-mon wei giawin ei lebo da gan-oiga.
 
-Easy I said, it's the bottom card.
+# Easy I said, it's the bottom card.
 
-Sorry, he said, this is "this" card.
+"gein gein" mi wei dugi, "das" lon gan-oiga 
 
-Tell you what, why don't you have another go. You got 50.50 odds here.
+# Sorry, he said, this is "this" card.
 
-So I did, I tried the top card.
+"mi biagela" is-mon wei dugi, wei bena lugin ei lebo go "dis li dis"
 
-Sorry, not this one either. why don't you have another go.
+# Tell you what, why don't you have another go. You got 50.50 odds here.
 
-Another go?? Surely not, I can't get it wrong now.  
+"mi dugi ei ni : vin dan vemi va-wei lugin vis. li din lon uli din" 
 
-So I did, it had to be the middle card, but he showed me again this was still "this" card.
+# So I did, I tried the top card.
 
-I asked, what happened to that card? 
+mi wei. mi wei dugi ei lebo gan-zewi.
 
-He said "it's on the bottom."
+# Sorry, not this one either. why don't you have another go.
 
-"Tell you what, why don't you look for this card instead, there are two of them, and you know where 'that' card is already."
+"mi biagela egin" wei dugi. deso dan vemi va-wei lugin mudei won.
 
-I couldn't get this wrong.
+# Another go?? Surely not, I can't get it wrong now.  
 
-"Ok the top one"
+"mudei won ???" mi va-wei gein egi. "lon memuso" mi dugi.
 
-"Sorry, no that's that card. One more go"
+# but he showed me again this was still "this" card.
 
-"The middle then"
+deso la lon memuso li egin dis lebo busi.
 
-"Sorry no that's that card too"
+# I asked, what happened to that card? 
 
-At this point I said, OK, I know your cheating. You have three that cards"
+mi da zon go "lebo das lon vemi"
 
-He said "No, I have three "this Cards" This, THis and this.
+# He said "it's on the bottom."
 
-Tell you what he said, let's get you your money back. Hows this : Double or nothing.
+wei dugo go "lon gan-oiga" o lugin.
 
-I have This card here, That Card Here. All you have to do is tell me what the last card is, and you get all your money back.
+# "Tell you what, why don't you look for this card instead, there are two of them, and you know where 'that' card is already."
 
-What do you think it is.
+"mi dugi ei vemi... o lugin da lebo dis. li luga ei di, vin zon beni ei i lebo das lon vemi"
 
-I thought this card, but he said. "You know in life, you always get a bit of this, a bit of that, but you also get a bit of the other.
+# I couldn't get this wrong.
 
-And that's the story of how I lost £10
+mi va-wei gein egi
+
+# "Ok the top one"
+
+lon gan-zewi, va-li
+
+# "Sorry, no that's that card. One more go"
+
+deso la dis egin va-li ei lebo vin. mudei won?
+
+# "The middle then"
+
+ba, lon ensa.
+
+# "Sorry no that's that card too"
+
+dis egin li das.
+
+# At this point I said, OK, I know your cheating. You have three that cards"
+
+lon don dis la mi li belin egi wei dugi go "mi zon ei i vin wei oimi ei mugi. vin wei luga ei lebo das van"
+
+# He said "No, I have three "this Cards" This, THis and this.
+
+"va-li", is-mon wei dugi. "mi wei luga ei lebo DIS van. dis, ei dis, ei dis."
+
+# Tell you what he said, let's get you your money back. Hows this : Double or nothing.
+
+"Mi di vin wei buli mugi. mi o buli bena da vin ei miani vin. di-don iani va-va"
+
+# I have This card here, That Card Here. All you have to do is tell me what the last card is, and you get all your money back.
+
+"mi wei luga ei lebo dis. mi wei luga ei lebo das." vin o va-deso wei dugi ei i lebo dis li vemi li gein guma luga ei miani muli dan vin.
+
+# What do you think it is.
+
+vin wei esebin dis le vemi?
+
+# I thought this card, but he said. "You know in life, you always get a bit of this, a bit of that, but you also get a bit of the other.
+
+mi wei esebin ei dis, deso la. is-mon go "vin zon ei dis. lon don guli-vi vin wei luga ei leli dis, ei leli das.  ei leli endei.
+
+# And that's the story of how I lost £10
+
+dis li dugi ziavi bi i mi guma va-luga ei miani Enlis di-lan.
 
 
