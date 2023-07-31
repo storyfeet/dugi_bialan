@@ -34,6 +34,7 @@ dropped if sentence starts with subject
 * "dan" : because/from : followed by a noun or adjective
 * "weni" : done/complete/already : followed by a verb
 * "go" : saying/quote : followed by the quoted clause (use "")
+* "o" : Imperetive/Vocative/Polite Call : followed by either a verb or someone to call politely
 * "boina" : before : followed by a noun
 * "devin" : before : followed by a noun
 
@@ -109,7 +110,6 @@ Particles may be combined, to create a meaning new meaning
 -- is-min wei dugi, gin gin luga begi wei ema-egon    
 .. She spoke, and,  with her hand, drummed.    
 
-
 ### "li wei" : passive form
 
 Verb that happened to subject
@@ -159,10 +159,8 @@ Conjuctions
 
 Conjunction words define a relationship between the clause before it, and the clause after.  If the subject is the same, it doesn't need to be indicated on both sides.
 
-* la : while / because / junction
+* la : while / because / junction / context
 * esi : if
-* boina : before
-* devin : after
 
 -- mi wei giawin la, vin o gein uwein    
 .. since I'm going, you can stay
@@ -170,16 +168,22 @@ Conjunction words define a relationship between the clause before it, and the cl
 -- mi wei giawin esi, vin o gein uwein    
 .. If I go, you can stay.
 
--- me wei giawin boina, vin wei gein uwein     
+-- mi wei giawin boina, vin wei gein uwein     
 .. before I go, you can stay
 
--- me wei giawin devin, vin wei gein uwein    
+-- mi devin giawin , vin wei gein uwein    
 .. after i go, you can stay
 
 The first clause can be something as simple as a "dis"
 
--- dis devin, me giawin    
+-- dis devin, mi wei giawin    
 .. after this I'm going
+
+
+Vocatives / Imperatives
+------------------
+
+The word -- o
 
 
 
