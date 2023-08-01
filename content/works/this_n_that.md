@@ -1,9 +1,9 @@
 {{export title="This and That - Magic Script"}}
 {{@md}}{{@exec_stdin "zig/convert" @ }}
 
-# I need to tell you something, Not all magicians are completely honest.
+# I need to tell you something. Not all magicians are completely honest.
 
-mi li wei belen dugi mugo da vin. zan bi iasin oimi va-li dugi vuli muli.
+mi o dugi mugi da vin. zan bi iasin oimi va-li dugi vuli muli.
 
 # Sometimes they use their magic to trick you.
 
@@ -11,7 +11,7 @@ lon don mugi i zan dis wei elo ei oimi da wei eniasa ei zan, ei vin.
 
 # So watch out.
 
-dan ni la o lugin buna
+dan dis la o lugin buna
 
 # One Time I was walking down the road, minding my business, when a man approached me.
 
@@ -19,23 +19,23 @@ lon don won la. mi wei giawin lon iasin, wei esebin ei zo mi la, zan mon wei gum
 
 # He asked me if I'd like to make a little money
 
-is-mon da zon go "vin wei va-wei belin luga ,ei miani"
+is-mon da zon go "vin wei va-wei belin luga ei miani"
 
 # and of course I said "yes", I do like money.
 
-mi dan veli go "dan veli, miani li buna da mi"
+mi dan veli go "dan veli wei. miani li buna da mi"
 
 # He had three cards, All I had to do, he said was to keep my eye on one of them.
 
-is-mon wei luga ei lebo busi van. mi o va-deso lugin bog ei won.
+is-mon wei luga ei lebo busi van wei dugi ei i mi o va-deso lugin bog ei won.
 
 # He had "this" card, "this" card, and "that", put down a pound, he said, if you can find, that card, I'll give you two back.
 
-is-mon wei luga ei lebo "dis", ei lebo "dis" ei lebo "das". go "o bena lon zugi ei miani Enlis won. devin la mi wei gein dugi ei lebo das li lon vemi esi, is-mon da mi wei bena ei miani di.
+is-mon wei bena lugin ei lebo "dis", ei lebo "dis" ei lebo "das". go "o bena lon zugi ei miani Enlis won. devin la vin wei gein dugi ei lebo das li lon vemi esi, mi da vin ei miani di.
 
 # As he said this he put 1 card on the bottom.
 
-lon wei dugi ei dis la, is-mon wei giawin ei lebo da gan-oiga.
+lon wei dugi ei dis la, is-mon wei giawin ei lebo das da gan-oiga.
 
 # Easy I said, it's the bottom card.
 
@@ -47,7 +47,7 @@ lon wei dugi ei dis la, is-mon wei giawin ei lebo da gan-oiga.
 
 # Tell you what, why don't you have another go. You got 50.50 odds here.
 
-"mi dugi ei ni : vin dan vemi va-wei lugin vis. li din lon uli din" 
+"mi wei dugi ei dis : vin dan vemi va-wei lugin vis. li din di wei uli din di" 
 
 # So I did, I tried the top card.
 
@@ -87,7 +87,7 @@ lon gan-zewi, va-li
 
 # "Sorry, no that's that card. One more go"
 
-deso la dis egin va-li ei lebo vin. mudei won?
+deso la dis egin va-li lebo mi. is-mon wei dugi go "mudei won?"
 
 # "The middle then"
 
