@@ -141,6 +141,7 @@ zi [child,offspring,seed] [PRE,lili,sike] QcauWu
 ususa [spreading,sprawling] [NEW]
 eleba [grass] ["kasi lili", NEW]
 nemego [zing , bite, bling] [namako,NEW]
+beledi [plastic] [NEW]
 
 
 
@@ -165,7 +166,7 @@ mugi [unknown,some] [question,seme] Hsad
 gelubi [group,meeting] [kulupu] HcadCaf
 guba [connection] [kulupu] BsubBa
 elena [dust,sand] [] Jddb
-geva [partner,spouse] [kulupu,kin] HsufBa
+geva [partner,spouse] [kulupu,kin,DEPRECATED] HsufBa
 
 
 iani [or] [question,anu,AUX] RsadRou
