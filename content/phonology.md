@@ -64,33 +64,34 @@ They may also end with any consonant, followed by a short 'ə' (shwa). This woul
 Writing Loan Words
 ------------
 
-Loan Words are underlined to show they are names, and are read using a phonetic system. Where the consonant is at the top, the vowel is lower left, and the final is lower right
+Loan Words are underlined to show they are names, and are read using a phonetic system which is based on words in the logography.
 
-Consonants 
+Consonants - Tall
+{{@exec_stdin "zig/convert" @ }}
+* b#b : biawi
+* d#d : dan
+* g#g : giasi
+* l#l : luga
+* m#m : mi
+* v#v : vin
+* w#w : won
+* z#z : zan
+{{/exec_stdin}}
 
-* b : belesa
-* d : dan
-* g : gela
-* l : leban
-* m : muni (half)
-* v : viala
-* w : wiasi
-* z : ziasi
+Finals - High up. (Finals cannot start a word)
+{{@exec_stdin "zig/convert" @ }}
+* n#n : enin - short on bottom
+* s#s : deso - line down for final
+{{/exec_stdin}}
 
-Finals 
-* n : enin - short on bottom
-* s : deso - line down for final
-
-Vowels
-* e : edin
-* oi : oiga
-* ia : giasi
-* u : una
-
-* ei : wei
-* o : vo
-* a : ga
-* i : i (down)
-* io : zio
-* ə : nothing but carries the underline
-
+Vowels - Low down
+{{@exec_stdin "zig/convert" @ }}
+* _e#e : edin    
+* _oi#oi : oiga    
+* _ia#ia : ziazon
+* _u#u : una    
+* _ei#ei : wei    
+* _o#o : vo    
+* _a#a : ga    
+* _i#i : i     
+{{/exec_stdin}}
