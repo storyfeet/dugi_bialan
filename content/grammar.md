@@ -286,6 +286,7 @@ They are:
 * bi : of
 * deso : except / but / however
 * aini :  or
+* egin : also / same
 
 ### bi
 
@@ -339,6 +340,7 @@ It can be used with negation to mean only or just. the va can apply to the parti
 
 ### iani - or / choice
 
+### egin - also / same
 
 
 Prefix Particles

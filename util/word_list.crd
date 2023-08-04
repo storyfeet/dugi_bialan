@@ -83,11 +83,10 @@ lebuni [skilled] [pona] HcfwMsRfa
 bialan [balanced] [pona] "2FfaMs"
 buguni ["interact with toki pona"] [pu,ku] CcfdRfu
 bubumi ["interact with dugi bialan"] [pu,ku] "2cfdRfu"
-egin [same,equal] [sama] "2cfdBa"
 zewi [sky,heaven] [sewi] QuadDw
 velo [skin,peal,cover] [selo] JdabBs
 vi [hot,fire] [seli] JcfwDu
-vegei [round,ball,orbit] [segei] QcuaCua
+vegei [round,ring,orbit] [segei] QcuaCua
 vis [new,young,again] [sin] EcadMsRub
 enbin [face,front] [sinpin] EssbCau
 vedelin [writing,drawing,image] [sitelen] "2habDd"
@@ -142,6 +141,7 @@ ususa [spreading,sprawling] [NEW]
 eleba [grass] ["kasi lili", NEW]
 nemego [zing , bite, bling] [namako,NEW]
 beledi [plastic] [NEW]
+esegi [ball,planet] [NEW,sike]
 
 
 
@@ -169,6 +169,7 @@ elena [dust,sand] [] Jddb
 geva [partner,spouse] [kulupu,kin,DEPRECATED] HsufBa
 
 
+egin [same,equal] [sama, AUX] "2cfdBa"
 iani [or] [question,anu,AUX] RsadRou
 deso [but, however, except] [taso,AUX] LafaRad
 bi [of] [AUX,pi] Lsub
