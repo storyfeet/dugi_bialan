@@ -9,7 +9,6 @@ uwein [stand,wait] [awen] VsufRdb
 esin [trade,buy,sell] [esin] FsfuBf
 zo [thing] [ijo] Fcsd
 egi [bad] [ike] PmubMs
-bas [striped] ["linja mute"] WcufMd
 elo [tool] [ilo] FsuaMpRfa
 ensa [inside] [insa] "2cbwCua"
 iagi [yucky,"bad tasting"] [jaki] "2mafRab"
@@ -137,11 +136,13 @@ megi [distance] [measure,weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
 zi [child,offspring,seed] [PRE,lili,sike] QcauWu
 
+bas [striped] ["linja mute",NEW] WcufMd
 ususa [spreading,sprawling] [NEW]
 eleba [grass] ["kasi lili",NEW ]
 emego [zing , bite, bling] [namako,NEW]
 beledi [plastic] [NEW,NOPIC]
 esegi [ball,planet] [NEW,sike]
+uba [rubber,stretch] [NEW]
 
 
 
