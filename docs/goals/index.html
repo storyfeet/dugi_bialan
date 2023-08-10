@@ -14,6 +14,13 @@ body {
     background-color:#aaaa77;
     font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
 }
+
+.content{
+    width : 90%; 
+    margin : auto;
+    background-color:#bbbb88;
+    padding : 10px;
+}
 .g-base {
     height:3em;
     width:auto;
@@ -50,7 +57,10 @@ body {
 }
 .glyph-box text {
 }
-
+.word-list {
+    display:flex;
+    flex-wrap:wrap;
+}
 .word-box {
     text-align:center;
     height:140px;
@@ -58,7 +68,6 @@ body {
     border:1px solid black;
     page-break-inside:avoid;
     overflow-y:hidden;
-    float:left;
 }
 .word-box img {
     width : 30%;
@@ -75,10 +84,16 @@ body {
     float:left;
 }
 
+.menu {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .menu a {
     padding:20px; 
     background : grey;
+    margin: 1px 5px;
 }
 
 @media print{
@@ -99,8 +114,8 @@ body {
         <a href="/works">Works</a>
     </div>
     <h1>Goals for Dugi Bialan - A language of Balance</h1>
-
-
+    <div class="content">
+        
 <h2>Reason To Exist</h2>
 <p>I have created this language as a response to my experience learning Toki Pona, with the intent to find a place of balance between minimalism and successful communication.</p>
 <p>Toki pona is a great language for minimalist communication, and since learning it with my children we have had a lot of fun, however, in my experience, while Toki Pona is easy to speak, it is not easy to understand.</p>
@@ -179,5 +194,6 @@ pairs of words not meaning a specific english word, but communicating their own 
 </li>
 </ul>
 
+    </div>
 </body>
 </html>

@@ -14,6 +14,13 @@ body {
     background-color:#aaaa77;
     font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
 }
+
+.content{
+    width : 90%; 
+    margin : auto;
+    background-color:#bbbb88;
+    padding : 10px;
+}
 .g-base {
     height:3em;
     width:auto;
@@ -50,7 +57,10 @@ body {
 }
 .glyph-box text {
 }
-
+.word-list {
+    display:flex;
+    flex-wrap:wrap;
+}
 .word-box {
     text-align:center;
     height:140px;
@@ -58,7 +68,6 @@ body {
     border:1px solid black;
     page-break-inside:avoid;
     overflow-y:hidden;
-    float:left;
 }
 .word-box img {
     width : 30%;
@@ -75,10 +84,16 @@ body {
     float:left;
 }
 
+.menu {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .menu a {
     padding:20px; 
     background : grey;
+    margin: 1px 5px;
 }
 
 @media print{
@@ -99,8 +114,8 @@ body {
         <a href="/works">Works</a>
     </div>
     <h1>Coming From Toki Pona</h1>
-
-
+    <div class="content">
+        
 <h2>Phonology and Phonotactics</h2>
 <p>As with many con-langs, the first step was working out the phonotactics for this language.</p>
 <p>I had a specific goal in mind of avoiding phonetic ambiguity. The easiest way to do this was to have a set of sounds that can only appear at the end of a word.</p>
@@ -116,5 +131,6 @@ body {
 <p>Eventually I realized I needed to disallow words that start with 's','n', or 'a'. This meant even more toki pona words were not allowed. I added 'v' as a sound to replace 's' at the start of some words. 'suli' became 'vuli'.  But other words I wanted to keep the 's' so 'suno' became 'esuno'</p>
 <h2>Introducing Prefixes</h2>
 
+    </div>
 </body>
 </html>

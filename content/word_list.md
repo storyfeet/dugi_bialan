@@ -3,7 +3,7 @@
     cards = sort_on $cfile "Name" ;
     glyphs = sort (dir "static/glyphs/" );
 }}
-
+<div class="word-list">
 {{for k c in $cards}}
 <div class="word-box">
 <span style="font-weight:bold">{{$c.Name}}</span><br>
@@ -15,4 +15,5 @@
 {{for ww w in $c.tags}}{{$w}} {{/for}}
 </div>
 {{/for}}
+</div>
 

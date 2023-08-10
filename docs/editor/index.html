@@ -14,6 +14,13 @@ body {
     background-color:#aaaa77;
     font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
 }
+
+.content{
+    width : 90%; 
+    margin : auto;
+    background-color:#bbbb88;
+    padding : 10px;
+}
 .g-base {
     height:3em;
     width:auto;
@@ -50,7 +57,10 @@ body {
 }
 .glyph-box text {
 }
-
+.word-list {
+    display:flex;
+    flex-wrap:wrap;
+}
 .word-box {
     text-align:center;
     height:140px;
@@ -58,7 +68,6 @@ body {
     border:1px solid black;
     page-break-inside:avoid;
     overflow-y:hidden;
-    float:left;
 }
 .word-box img {
     width : 30%;
@@ -75,10 +84,16 @@ body {
     float:left;
 }
 
+.menu {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .menu a {
     padding:20px; 
     background : grey;
+    margin: 1px 5px;
 }
 
 @media print{
@@ -99,8 +114,8 @@ body {
         <a href="/works">Works</a>
     </div>
     <h1>Write Dugi Bialan Script</h1>
-
-
+    <div class="content">
+        
 <textarea id="roman">
 </textarea>
 <div id="dugi"><div>
@@ -178,5 +193,6 @@ body {
 
 </script>
 
+    </div>
 </body>
 </html>
