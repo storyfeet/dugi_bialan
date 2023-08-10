@@ -120,14 +120,87 @@ body {
 <h2>Overview</h2>
 <p>Dugi Bialan is a minimalist language seeking balance between simplicity and minimalism with ease of communication, for both speaker and listener.</p>
 <p>To aid the listener each type of word is only used as 1 of these things, and does not get mixed as others.</p>
-<p>The language has 5 types of words.</p>
+<p>The language has 5 types of words. </p>
 <ul>
 <li>Particles (PAR)</li>
-<li>Conjuctions (CON)</li>
+<li>Conjunctions (CON)</li>
 <li>Auxiliary (AUX)</li>
 <li>Prefixes (PRE)</li>
-<li>Everything else.</li>
+<li>Atoms (ATOM)</li>
 </ul>
+<p>If a word is not an ATOM, that will be marked in the <a href="/word_list">word list</a>.</p>
+<p>Particles are used to tell the role that whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle &quot; &quot; (' i ')
+is assumed, meaning that the first words will be the &quot;subject&quot; of the sentence.</p>
+<p>Ideas are built by combining Atoms with Prefixed Atoms, to make units of meaning. </p>
+<p>Depending on the Particle before it, A list of atoms is considered to be either:</p>
+<ul>
+<li>A noun followed by a list of adjectives that make it more specific.</li>
+<li>An adjective list getting more specific.</li>
+<li>A list of verb particles.</li>
+</ul>
+<p>Conjunctions (CON) join sentences together into with &quot;if&quot; and &quot;context&quot;.</p>
+<p>Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.</p>
+<p>Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example &quot;ga-una&quot; means &quot;colour of mouth&quot; or &quot;red&quot; but &quot;ga-ga&quot; means &quot;colour&quot;</p>
+<h2>Formal Sentence Structure</h2>
+<p>A simple sentence in Dugi Bialan is a list of Particles, each followed by a set of atoms.</p>
+<p><strong>Word : PRE* (ATOM | PRE\2)</strong></p>
+<p>A Word is either an Atom, a set of Prefixes followed by an Atom, or a set of prefixes ending in a repeated prefix.</p>
+<ul>
+<li>&quot;&quot; (' doimo ')
+: Room</li>
+<li>&quot;&quot; (' ga-va-zo ')
+: Colour of nothing / black</li>
+<li>&quot;&quot; (' guli-guli ')
+: body</li>
+</ul>
+<p><strong>Item : Word + (&quot;bi&quot; Word +)*</strong></p>
+<p>An Item is a list of words. Latter words act as an adjective/adverb everything before them. &quot;&quot; (' bi ')
+, acts to create a separation, so that everything after it is treated becomes a single word.</p>
+<ul>
+<li>&quot;&quot; (' elein ga-una ')
+: clothes red</li>
+<li>&quot;&quot; (' elo ema-musi vuli ')
+: tool music big - big instrument</li>
+<li>&quot;&quot; (' elo bi ema-musi vuli ')
+: tool of (music big) - loud instrument</li>
+<li>&quot;&quot; (' doimo bi delo guli-guli ')
+:  Room of wash body / bathroom</li>
+</ul>
+<p><strong>Marker : Particle +</strong></p>
+<p>A Marker is a non empty set of particles combined</p>
+<ul>
+<li>&quot; &quot; (' wei ')
+: doing - verb</li>
+<li>&quot; &quot; (' lon ')
+: at - location</li>
+<li>&quot; &quot; (' lon wei ')
+: at/while doing - verb</li>
+</ul>
+<p><strong>Phrase : (Marker Item)</strong></p>
+<p>A Phrase is a marker and the Item it marks together.</p>
+<ul>
+<li>&quot; &quot; (' wei giawin ')
+: VERB - go</li>
+<li>&quot; &quot; (' li belin egi ')
+: IS feeling-bad</li>
+<li>&quot; &quot; (' da zan leli ')
+: TO person-little : To the child</li>
+<li>&quot; &quot; (' lon iasin bi mengi mi ')
+ON way of house my : On the way home</li>
+</ul>
+<p><strong>Sentence : Item? Phrase+ | [&quot;mi&quot;,&quot;vin&quot;] Item? Phrase*</strong></p>
+<p>Par atom atom par atom atom</p>
+<p>The job of the particle is to define the role of the atoms in the sentence.</p>
+<p>Atoms may be combined in any order to give different meanings, and depending on the particle they follow they will either be treated as nouns, adjectives or verbs.</p>
+<p>If no particle is given, the first item is assumed to be the subject.</p>
+<p>Every particle acts on the following item, and there must always an item following each particle (or particle combination).</p>
+<p>Not every sentence has a &quot;verb&quot; in the purist sense. The action can be implied by the other information.</p>
+<p>The following sentence has no verb, but is acceptable in dugi bialan:</p>
+<p>-- mi da vin ei belesa<br />
+.. I [give] to you a stick.<br />
+?? I TO you OBJECT stick</p>
+<p>&quot;da&quot; is not a verb, but prefixes the target.</p>
+<p>Because the target &quot;da&quot; is defined, and the reciever &quot;ei&quot; is defined, the verb can be easily implied.</p>
 <h2>Primary Particles</h2>
 <p>Particles are how dugi bialan marks the beginning and end of compound items. They also declare the role of the following item in the sentence.</p>
 <p>These are :</p>
@@ -158,17 +231,6 @@ dropped if sentence starts with subject</li>
 .. I am hot</p>
 <p>-- mi li won vi<br />
 .. I am a fire</p>
-<h2>Sentence Structure</h2>
-<p>There is no strict order in a sentence. No particle is always required.</p>
-<p>If no particle is given, the first item is assumed to be the subject.</p>
-<p>Every particle acts on the following item, and there must always an item following each particle (or particle combination).</p>
-<p>Not every sentence has a &quot;verb&quot; in the purist sense. The action can be implied by the other information.</p>
-<p>The following sentence has no verb, but is acceptable in dugi bialan:</p>
-<p>-- mi da vin ei belesa<br />
-.. I [give] to you a stick.<br />
-?? I TO you OBJECT stick</p>
-<p>&quot;da&quot; is not a verb, but prefixes the target.</p>
-<p>Because the target &quot;da&quot; is defined, and the reciever &quot;ei&quot; is defined, the verb can be easily implied.</p>
 <h2>Combined Particles</h2>
 <p>Particles may be combined, to create a meaning new meaning</p>
 <h3>da li : to be / in order to be</h3>
