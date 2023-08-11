@@ -119,7 +119,8 @@ body {
 <h1>Grammar</h1>
 <h2>Overview</h2>
 <p>Dugi Bialan is a minimalist language seeking balance between simplicity and minimalism with ease of communication, for both speaker and listener.</p>
-<p>To aid the listener each type of word is only used as 1 of these things, and does not get mixed as others.</p>
+<p>It currently has fewer than 200 words, and the majority of meanings can be created by combining these. There may be more words added slowly, and carefully in future. Enough to enable species identification and some difficult concepts, but never more than 240. (Few enough to fit the whole word list and alphabet within a byte)</p>
+<p>To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.</p>
 <p>The language has 5 types of words. </p>
 <ul>
 <li>Particles (PAR)</li>
@@ -149,7 +150,8 @@ or &quot;I to you - pen this&quot;</p>
 <p>Is equivalent to : </p>
 <p>&quot;   &quot; (' ei elo vedelin dis da vin i mi ')
 &quot; - pen this TO you SUBJECT I&quot;</p>
-<p>Even though neither sentence has a verb, the meaning is clear.</p>
+<p>Note that in the second sentence, because the subject was not at the beginning, it was prefaced with &quot; &quot; (' i ')
+. Even though neither sentence has a verb, the meaning is clear.</p>
 <p>If a verb is needed, &quot; &quot; (' wei ')
 is used to mark the simple form. It can be roughly translated as &quot;do&quot;.</p>
 <p>&quot;   &quot; (' mi wei bena ei elo da vin ')
@@ -164,7 +166,27 @@ or &quot;you ARE good&quot;.</p>
 <p>Note the &quot;&quot; (' esi ')
 &quot;A esi B&quot; means &quot;if A then B&quot;. This the meaning is &quot;If you are good, I'll give you this pen.</p>
 <p>Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.</p>
-<p>Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example &quot;ga-una&quot; means &quot;colour of mouth&quot; or &quot;red&quot; but &quot;ga-ga&quot; means &quot;colour&quot;</p>
+<p>Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example &quot;&quot; (' ga-una ')
+means &quot;colour of mouth&quot; or &quot;red&quot; but &quot;&quot; (' ga-ga ')
+means &quot;colour&quot;</p>
+<p>Yes-no questions are asked by using the &quot;particle not-particle&quot; structure. </p>
+<ul>
+<li>&quot; &quot; (' vin li va-li buna ')
+: &quot;you are not-are good?&quot; / &quot;are you good?&quot;</li>
+<li>&quot; &quot; (' vin wei va-wei giawin ')
+: &quot;you do not-do go?&quot; / &quot;are you going?&quot;</li>
+<li>&quot;   &quot; (' vin wei giain gin va-gin mi ')
+: &quot;you go with not-with me?&quot; / &quot;can I come with you?&quot;</li>
+</ul>
+<p><strong>Any</strong> particle can be turned into a yes-no question like this, though only one per sentence.</p>
+<p>Information questions can be asked by replacing the missing information with the word &quot;&quot; (' vemi ')
+or &quot;what&quot;.</p>
+<ul>
+<li>&quot;   &quot; (' vin da mi wei bena ei vemi ')
+&quot;you to me give what?&quot; </li>
+<li>&quot; &quot; (' zan vemi wei dugi ')
+&quot;person what do speak&quot; / &quot;who's speaking&quot;</li>
+</ul>
 <h2>Formal Sentence Structure</h2>
 <p>A simple sentence in Dugi Bialan is a list of Particles, each followed by a set of atoms.</p>
 <p><strong>Word : PRE* (ATOM | PRE\2)</strong></p>
@@ -200,7 +222,17 @@ or &quot;you ARE good&quot;.</p>
 <li>&quot; &quot; (' lon wei ')
 : at/while doing - verb</li>
 </ul>
-<p><strong>Phrase : (Marker Item)</strong></p>
+<p>__QuestionMark : P:(Particle+) &quot;va&quot; $P __</p>
+<p>A Question is at least one particle then &quot;va&quot; then the same particles again.</p>
+<ul>
+<li>&quot; &quot; (' wei va-wei ')
+&quot;do you? / does it?&quot;</li>
+<li>&quot; &quot; (' li va-li ')
+&quot;are you? / is it?&quot;</li>
+<li>&quot;&quot; (' gin va-gin ')
+&quot;are you with? / is it with?&quot;</li>
+</ul>
+<p><strong>Phrase : (Marker Item) | (QuestionMark Item)</strong></p>
 <p>A Phrase is a marker and the Item it marks together.</p>
 <ul>
 <li>&quot; &quot; (' wei giawin ')
@@ -212,6 +244,7 @@ or &quot;you ARE good&quot;.</p>
 <li>&quot; &quot; (' lon iasin bi mengi mi ')
 ON way of house my : On the way home</li>
 </ul>
+<p>__StrictSentence : Phrase+</p>
 <p><strong>Sentence : Item? Phrase+ | [&quot;mi&quot;,&quot;vin&quot;] Item? Phrase*</strong></p>
 <p>Par atom atom par atom atom</p>
 <p>The job of the particle is to define the role of the atoms in the sentence.</p>
@@ -237,7 +270,6 @@ dropped if sentence starts with subject</li>
 <li>&quot;ei&quot; : direct object : followed by a noun</li>
 <li>&quot;da&quot; : towards/to/for : followed by a noun</li>
 <li>&quot;dan&quot; : because/from : followed by a noun or adjective</li>
-<li>&quot;weni&quot; : done/complete/already : followed by a verb</li>
 <li>&quot;go&quot; : saying/quote : followed by the quoted clause (use &quot;&quot;)</li>
 <li>&quot;o&quot; : Imperetive/Vocative/Polite Call : followed by either a verb or someone to call politely</li>
 <li>&quot;boina&quot; : before : followed by a noun</li>

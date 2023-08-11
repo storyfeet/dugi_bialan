@@ -8,7 +8,9 @@ Overview
 
 Dugi Bialan is a minimalist language seeking balance between simplicity and minimalism with ease of communication, for both speaker and listener.
 
-To aid the listener each type of word is only used as 1 of these things, and does not get mixed as others.
+It currently has fewer than 200 words, and the majority of meanings can be created by combining these. There may be more words added slowly, and carefully in future. Enough to enable species identification and some difficult concepts, but never more than 240. (Few enough to fit the whole word list and alphabet within a byte)
+
+To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.
 
 The language has 5 types of words. 
 
@@ -36,7 +38,7 @@ Is equivalent to :
 
 {{qoth "ei elo vedelin dis da vin i mi" }} " - pen this TO you SUBJECT I"
 
-Even though neither sentence has a verb, the meaning is clear.
+Note that in the second sentence, because the subject was not at the beginning, it was prefaced with {{qoth "i"}}. Even though neither sentence has a verb, the meaning is clear.
 
 If a verb is needed, {{qoth "wei"}} is used to mark the simple form. It can be roughly translated as "do".
 
@@ -54,7 +56,20 @@ Note the {{qoth "esi"}}  "A esi B" means "if A then B". This the meaning is "If 
 
 Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.
 
-Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example "ga-una" means "colour of mouth" or "red" but "ga-ga" means "colour"
+Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example {{qoth "ga-una"}} means "colour of mouth" or "red" but {{qoth "ga-ga"}} means "colour"
+
+Yes-no questions are asked by using the "particle not-particle" structure. 
+
+* {{qoth "vin li va-li buna"}} : "you are not-are good?" / "are you good?"
+* {{qoth "vin wei va-wei giawin" }} : "you do not-do go?" / "are you going?"
+* {{qoth "vin wei giain gin va-gin mi"}} : "you go with not-with me?" / "can I come with you?"
+
+**Any** particle can be turned into a yes-no question like this, though only one per sentence.
+
+Information questions can be asked by replacing the missing information with the word {{qoth "vemi"}} or "what".
+
+* {{qoth "vin da mi wei bena ei vemi"}} "you to me give what?" 
+* {{qoth "zan vemi wei dugi"}} "person what do speak" / "who's speaking"
 
 
 Formal Sentence Structure
@@ -87,7 +102,15 @@ A Marker is a non empty set of particles combined
 * {{qoth "lon"}} : at - location
 * {{qoth "lon wei"}} : at/while doing - verb
 
-__Phrase : (Marker Item)__
+__QuestionMark : P:(Particle+) "va" $P __
+
+A Question is at least one particle then "va" then the same particles again.
+
+* {{qoth "wei va-wei"}} "do you? / does it?"
+* {{qoth "li va-li"}} "are you? / is it?"
+* {{qoth "gin va-gin"}} "are you with? / is it with?"
+
+__Phrase : (Marker Item) | (QuestionMark Item)__
 
 A Phrase is a marker and the Item it marks together.
 
@@ -96,7 +119,10 @@ A Phrase is a marker and the Item it marks together.
 * {{qoth "da zan leli"}} : TO person-little : To the child
 * {{qoth "lon iasin bi mengi mi"}} ON way of house my : On the way home
 
-__Sentence : Item? Phrase\+ | ["mi","vin"] Item? Phrase\*__
+
+__StrictSentence : Phrase+
+
+__Sentence : Item? Phrase+ | ["mi","vin"] Item? Phrase\*__
 
 Par atom atom par atom atom
 
