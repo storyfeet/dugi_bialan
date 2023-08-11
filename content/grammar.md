@@ -18,19 +18,39 @@ The language has 5 types of words.
 * Prefixes (PRE)
 * Atoms (ATOM)
 
-If a word is not an ATOM, that will be marked in the [word list](/word_list).
+The particle types are marked with each word in the [word list](/word_list). Words without a marking are ATOMs
 
 Particles are used to tell the role that whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle {{qoth "i"}} is assumed, meaning that the first words will be the "subject" of the sentence.
 
-Ideas are built by combining Atoms with Prefixed Atoms, to make units of meaning. 
+Ideas are built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
 
-Depending on the Particle before it, A list of atoms is considered to be either:
+* {{qoth "i / ei / lon / gin"}} A noun followed by a list of adjectives that make it more specific.  {{qoth "elo vedelin"}} "Tool of image" or "pen".
+* {{qoth "li" }} An adjective list getting more specific. {{qoth "buna mudei"}} "good many / very good"
+* {{qoth "wei"}} A verb. {{qoth "giawin moini"}} "going back"
 
-* A noun followed by a list of adjectives that make it more specific.
-* An adjective list getting more specific.
-* A list of verb particles.
+The particle-idea pairs can be put together in any order to make a sentence. Verbs are not necessarily needed. For example :    
+
+{{qoth "mi da vin ei elo vedelin dis"}} or "I to you - pen this"
+
+Is equivalent to : 
+
+{{qoth "ei elo vedelin dis da vin i mi" }} " - pen this TO you SUBJECT I"
+
+Even though neither sentence has a verb, the meaning is clear.
+
+If a verb is needed, {{qoth "wei"}} is used to mark the simple form. It can be roughly translated as "do".
+
+{{qoth "mi wei bena ei elo da vin"}} or "I DO give - tool TO you"
+
+If instead an adjective is needed {{qoth "li"}} is used, to mark the "being" form. It can be roughly translated as "am/is".
+
+{{qoth "vin li buna"}} or "you ARE good".
 
 Conjunctions (CON) join sentences together into with "if" and "context".
+
+{{qoth "vin li buna esi mi da vin a elo vedelin dis" }} "you ARE good IF I TO you - this pen" 
+
+Note the {{qoth "esi"}}  "A esi B" means "if A then B". This the meaning is "If you are good, I'll give you this pen.
 
 Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.
 
@@ -50,7 +70,7 @@ A Word is either an Atom, a set of Prefixes followed by an Atom, or a set of pre
 * {{qoth "ga-va-zo"}} : Colour of nothing / black
 * {{qoth "guli-guli"}} : body
 
-__Item : Word + ("bi" Word +)\*__
+__Item : Word+ ("bi" Word +)\*__
 
 An Item is a list of words. Latter words act as an adjective/adverb everything before them. {{qoth "bi"}}, acts to create a separation, so that everything after it is treated becomes a single word.
 
@@ -122,7 +142,6 @@ dropped if sentence starts with subject
 * "ei" : direct object : followed by a noun
 * "da" : towards/to/for : followed by a noun
 * "dan" : because/from : followed by a noun or adjective
-* "weni" : done/complete/already : followed by a verb
 * "go" : saying/quote : followed by the quoted clause (use "")
 * "o" : Imperetive/Vocative/Polite Call : followed by either a verb or someone to call politely
 * "boina" : before : followed by a noun
