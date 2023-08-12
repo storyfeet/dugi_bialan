@@ -199,7 +199,7 @@ or &quot;what&quot;.</p>
 <li>&quot;&quot; (' guli-guli ')
 : body</li>
 </ul>
-<p><strong>Item : Word+ (&quot;bi&quot; Word +)*</strong></p>
+<p><strong>Item : Word+ (&quot;bi&quot; Complex +)*</strong></p>
 <p>An Item is a list of words. Latter words act as an adjective/adverb everything before them. &quot;&quot; (' bi ')
 , acts to create a separation, so that everything after it is treated becomes a single word.</p>
 <ul>
@@ -211,19 +211,35 @@ or &quot;what&quot;.</p>
 : tool of (music big) - loud instrument</li>
 <li>&quot;&quot; (' doimo bi delo guli-guli ')
 :  Room of wash body / bathroom</li>
+<li>&quot; &quot; (' vo-wuwi eliasi bi wei mugo ei gela mi ')
+&quot;the cat that ate my fish&quot;</li>
 </ul>
-<p><strong>Marker : Particle +</strong></p>
-<p>A Marker is a non empty set of particles combined</p>
+<p><strong>Complex : Item | Strict</strong></p>
+<p>A Complex-Item can be either an Item as above, or a whole strict sentence, where every part is marked correctly.</p>
+<p>Strict sentences always begin with a particle.</p>
 <ul>
-<li>&quot; &quot; (' wei ')
-: doing - verb</li>
-<li>&quot; &quot; (' lon ')
-: at - location</li>
-<li>&quot; &quot; (' lon wei ')
-: at/while doing - verb</li>
+<li>&quot;  &quot; (' i vin wei giawin ')
+. or &quot;you go&quot;</li>
+<li>&quot; &quot; (' wei mugo ')
+&quot;do eat&quot;</li>
+<li>&quot;  &quot; (' da mi ei dis ')
+&quot;to me this&quot;</li>
 </ul>
-<p>__QuestionMark : P:(Particle+) &quot;va&quot; $P __</p>
-<p>A Question is at least one particle then &quot;va&quot; then the same particles again.</p>
+<p>Each of these could follow &quot;  &quot; (' mi wei belin ei ')
+&quot;I want&quot;.</p>
+<ul>
+<li>&quot;  &quot; (' mi wei belin ei elein ga-una ')
+&quot;I want red clothes&quot;.</li>
+<li>&quot;   &quot; (' mi wei belin ei i vin wei giawin ')
+&quot;I want THAT you go&quot; / &quot;I want you to go&quot;</li>
+<li>&quot;  &quot; (' mi wei belin ei wei mugo ')
+&quot;I want THAT do eat&quot; / &quot;I want to eat&quot;</li>
+<li>&quot;   &quot; (' mi wei belin ei da mi ei dis ')
+&quot;I want THAT to me - this&quot; / &quot;I want this [to come] to me&quot;</li>
+</ul>
+<p><strong>Question : P:(Particle) &quot;va&quot; $P</strong></p>
+<p>A Question is at least one particle then &quot;&quot; (' va ')
+&quot;not&quot; then the same particles again.</p>
 <ul>
 <li>&quot; &quot; (' wei va-wei ')
 &quot;do you? / does it?&quot;</li>
@@ -232,7 +248,7 @@ or &quot;what&quot;.</p>
 <li>&quot;&quot; (' gin va-gin ')
 &quot;are you with? / is it with?&quot;</li>
 </ul>
-<p><strong>Phrase : (Marker Item) | (QuestionMark Item)</strong></p>
+<p><strong>Phrase : (Marker Complex) | (QuestionMark Complex)</strong></p>
 <p>A Phrase is a marker and the Item it marks together.</p>
 <ul>
 <li>&quot; &quot; (' wei giawin ')
@@ -244,20 +260,20 @@ or &quot;what&quot;.</p>
 <li>&quot; &quot; (' lon iasin bi mengi mi ')
 ON way of house my : On the way home</li>
 </ul>
-<p>__StrictSentence : Phrase+</p>
-<p><strong>Sentence : Item? Phrase+ | [&quot;mi&quot;,&quot;vin&quot;] Item? Phrase*</strong></p>
-<p>Par atom atom par atom atom</p>
-<p>The job of the particle is to define the role of the atoms in the sentence.</p>
-<p>Atoms may be combined in any order to give different meanings, and depending on the particle they follow they will either be treated as nouns, adjectives or verbs.</p>
-<p>If no particle is given, the first item is assumed to be the subject.</p>
-<p>Every particle acts on the following item, and there must always an item following each particle (or particle combination).</p>
-<p>Not every sentence has a &quot;verb&quot; in the purist sense. The action can be implied by the other information.</p>
-<p>The following sentence has no verb, but is acceptable in dugi bialan:</p>
-<p>-- mi da vin ei belesa<br />
-.. I [give] to you a stick.<br />
-?? I TO you OBJECT stick</p>
-<p>&quot;da&quot; is not a verb, but prefixes the target.</p>
-<p>Because the target &quot;da&quot; is defined, and the reciever &quot;ei&quot; is defined, the verb can be easily implied.</p>
+<p><strong>Sentence : Item? Phrase+ | [&quot;mi&quot;] Item? Phrase*</strong></p>
+<p>A sentence may begin with an unmarked Item, that will be the subject of the sentence.</p>
+<p>If a sentence begins with &quot;&quot; (' mi ')
+, then it can be followed with an item representing a verb</p>
+<p><strong>Strict : Phrase+</strong></p>
+<p>A strict sentence has no implied markers, a subject is marked with &quot; &quot; (' i ')
+. &quot;&quot; (' mi ')
+may not be followed directly by a verb.</p>
+<p><strong>Joined : ((Item | Sentence) CON)* Sentence</strong></p>
+<p>Sentences may be joined with a Conjunction, making the latter sentence dependent on the prior. Items can also be used for establishing contenxt.</p>
+<ul>
+<li>&quot;  &quot; (' buna esi o bena da mi ei mugo ')
+&quot;If good, oh give me good.&quot; / &quot;Please give me food&quot;</li>
+</ul>
 <h2>Primary Particles</h2>
 <p>Particles are how dugi bialan marks the beginning and end of compound items. They also declare the role of the following item in the sentence.</p>
 <p>These are :</p>
@@ -319,19 +335,6 @@ dropped if sentence starts with subject</li>
 <h3>lon wei : In the middle of</h3>
 <p>-- mi lon wei dugi<br />
 .. I'm in the middle of talking</p>
-<h3>wei gin : use</h3>
-<p>Note below that there is no object marker 'ei', as wei gin requires it's own item</p>
-<p>-- vin wei gin mi<br />
-.. You use me</p>
-<p>You can use something to do something else.</p>
-<p>-- vin wei gin mi wei mengi ei mengi vin.<br />
-.. You use me to build your house.<br />
-?? you DO WITH me DO build OBJECT building you</p>
-<h3>wei li : become / turn into</h3>
-<p>-- vin wei li vo-vo<br />
-.. You become an animal</p>
-<p>-- vin wei li vo-vo ei mi<br />
-.. you turn me into an animal</p>
 <h2>Conjuctions</h2>
 <p>Conjunction words define a relationship between the clause before it, and the clause after.  If the subject is the same, it doesn't need to be indicated on both sides.</p>
 <ul>
@@ -400,7 +403,7 @@ dropped if sentence starts with subject</li>
 <li>in : 20</li>
 <li>za : 100</li>
 </ul>
-<p>A low number before a higher number is a multiplies it.  100 multiplies by everything before it.</p>
+<p>A low number before a higher number multiplies it.</p>
 <p>1 - 4: won, di, van, mo<br />
 5 - 9 : lan, lan-won, lan-di, lan-van, lan-mo<br />
 10 - 14 : di-lan, di-lan-won, di-lan-di , di-lan-van, di-lan-mo<br />

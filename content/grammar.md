@@ -85,7 +85,7 @@ A Word is either an Atom, a set of Prefixes followed by an Atom, or a set of pre
 * {{qoth "ga-va-zo"}} : Colour of nothing / black
 * {{qoth "guli-guli"}} : body
 
-__Item : Word+ ("bi" Word +)\*__
+__Item : Word+ ("bi" Complex +)\*__
 
 An Item is a list of words. Latter words act as an adjective/adverb everything before them. {{qoth "bi"}}, acts to create a separation, so that everything after it is treated becomes a single word.
 
@@ -93,24 +93,35 @@ An Item is a list of words. Latter words act as an adjective/adverb everything b
 * {{qoth "elo ema-musi vuli"}} : tool music big - big instrument
 * {{qoth "elo bi ema-musi vuli"}} : tool of (music big) - loud instrument
 * {{qoth "doimo bi delo guli-guli"}} :  Room of wash body / bathroom
+* {{qoth "vo-wuwi eliasi bi wei mugo ei gela mi"}} "the cat that ate my fish"
 
-__Marker : Particle +__
+__Complex : Item | Strict__
 
-A Marker is a non empty set of particles combined
+A Complex-Item can be either an Item as above, or a whole strict sentence, where every part is marked correctly.
 
-* {{qoth "wei"}} : doing - verb
-* {{qoth "lon"}} : at - location
-* {{qoth "lon wei"}} : at/while doing - verb
+Strict sentences always begin with a particle.
 
-__QuestionMark : P:(Particle+) "va" $P __
+* {{qoth "i vin wei giawin"}}. or "you go"
+* {{qoth "wei mugo"}} "do eat"
+* {{qoth "da mi ei dis"}} "to me this"
 
-A Question is at least one particle then "va" then the same particles again.
+Each of these could follow {{qoth "mi wei belin ei"}} "I want".
+
+* {{qoth "mi wei belin ei elein ga-una"}} "I want red clothes".
+* {{qoth "mi wei belin ei i vin wei giawin"}} "I want THAT you go" / "I want you to go"
+* {{qoth "mi wei belin ei wei mugo"}} "I want THAT do eat" / "I want to eat"
+* {{qoth "mi wei belin ei da mi ei dis"}} "I want THAT to me - this" / "I want this [to come] to me"
+
+
+__Question : P:(Particle) "va" $P__
+
+A Question is at least one particle then {{qoth "va"}} "not" then the same particles again.
 
 * {{qoth "wei va-wei"}} "do you? / does it?"
 * {{qoth "li va-li"}} "are you? / is it?"
 * {{qoth "gin va-gin"}} "are you with? / is it with?"
 
-__Phrase : (Marker Item) | (QuestionMark Item)__
+__Phrase : (Marker Complex) | (QuestionMark Complex)__
 
 A Phrase is a marker and the Item it marks together.
 
@@ -119,40 +130,21 @@ A Phrase is a marker and the Item it marks together.
 * {{qoth "da zan leli"}} : TO person-little : To the child
 * {{qoth "lon iasin bi mengi mi"}} ON way of house my : On the way home
 
+__Sentence : Item? Phrase+ | ["mi"] Item? Phrase\*__
 
-__StrictSentence : Phrase+
+A sentence may begin with an unmarked Item, that will be the subject of the sentence.
 
-__Sentence : Item? Phrase+ | ["mi","vin"] Item? Phrase\*__
+If a sentence begins with {{qoth "mi"}}, then it can be followed with an item representing a verb
 
-Par atom atom par atom atom
+__Strict : Phrase+__
 
-The job of the particle is to define the role of the atoms in the sentence.
+A strict sentence has no implied markers, a subject is marked with {{qoth "i"}}. {{qoth "mi"}} may not be followed directly by a verb.
 
-Atoms may be combined in any order to give different meanings, and depending on the particle they follow they will either be treated as nouns, adjectives or verbs.
+__Joined : ((Item | Sentence) CON)\* Sentence__
 
+Sentences may be joined with a Conjunction, making the latter sentence dependent on the prior. Items can also be used for establishing contenxt.
 
-
-
-
-
-
-
-If no particle is given, the first item is assumed to be the subject.
-
-Every particle acts on the following item, and there must always an item following each particle (or particle combination).
-
-Not every sentence has a "verb" in the purist sense. The action can be implied by the other information.
-
-The following sentence has no verb, but is acceptable in dugi bialan:
-
--- mi da vin ei belesa    
-.. I [give] to you a stick.    
-?? I TO you OBJECT stick
-
-"da" is not a verb, but prefixes the target.
-
-Because the target "da" is defined, and the reciever "ei" is defined, the verb can be easily implied.
-
+* {{qoth "buna esi o bena da mi ei mugo"}} "If good, oh give me good." / "Please give me food"
 
 Primary Particles
 ---------
@@ -171,7 +163,7 @@ dropped if sentence starts with subject
 * "go" : saying/quote : followed by the quoted clause (use "")
 * "o" : Imperetive/Vocative/Polite Call : followed by either a verb or someone to call politely
 * "boina" : before : followed by a noun
-* "devin" : before : followed by a noun
+* "devin" : after : followed by a noun
 
 
 It is important to note that the same word can be a noun, verb or adjective.
@@ -245,27 +237,6 @@ The following item exists, it is not the subject or object.
 -- mi lon wei dugi     
 .. I'm in the middle of talking    
 
-
-### wei gin : use
-
-Note below that there is no object marker 'ei', as wei gin requires it's own item
-
--- vin wei gin mi     
-.. You use me
-
-You can use something to do something else.
-
--- vin wei gin mi wei mengi ei mengi vin.    
-.. You use me to build your house.    
-?? you DO WITH me DO build OBJECT building you
-
-### wei li : become / turn into
-
--- vin wei li vo-vo    
-.. You become an animal    
-
--- vin wei li vo-vo ei mi    
-.. you turn me into an animal    
 
 
 Conjuctions
@@ -374,8 +345,7 @@ Number words are :
 * in : 20
 * za : 100
 
-A low number before a higher number is a multiplies it.  100 multiplies by everything before it.
-
+A low number before a higher number multiplies it.
 
 
 1 - 4: won, di, van, mo     
