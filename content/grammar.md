@@ -10,8 +10,6 @@ Dugi Bialan is a minimalist language seeking balance between simplicity and mini
 
 It currently has fewer than 200 words, and the majority of meanings can be created by combining these. There may be more words added slowly, and carefully in future. Enough to enable species identification and some difficult concepts, but never more than 240. (Few enough to fit the whole word list and alphabet within a byte)
 
-To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.
-
 The language has 5 types of words. 
 
 * Particles (PAR)
@@ -20,15 +18,24 @@ The language has 5 types of words.
 * Prefixes (PRE)
 * Atoms (ATOM)
 
+To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.
+
 The particle types are marked with each word in the [word list](/word_list). Words without a marking are ATOMs
 
 Particles are used to tell the role that whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle {{qoth "i"}} is assumed, meaning that the first words will be the "subject" of the sentence.
 
-Ideas are built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
+Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
 
-* {{qoth "i / ei / lon / gin"}} A noun followed by a list of adjectives that make it more specific.  {{qoth "elo vedelin"}} "Tool of image" or "pen".
-* {{qoth "li" }} An adjective list getting more specific. {{qoth "buna mudei"}} "good many / very good"
-* {{qoth "wei"}} A verb. {{qoth "giawin moini"}} "going back"
+* After : {{qoth "i / ei / lon / gin / da / dan / devin boina"}}
+    * A noun followed by a list of adjectives that make it more specific.  {{qoth "elo vedelin"}} "Tool of image" or "pen".
+    * A sub-clause
+* After : {{qoth "li" }} 
+    * An adjective list getting more specific. 
+    eg : {{qoth "buna mudei"}} "good many / very good"
+    * A number followed by a noun.
+    eg : {{qoth "won zan"}} "a person".
+* After {{qoth "wei"}} 
+    * A verb. eg : {{qoth "giawin moini"}} "going back"
 
 The particle-idea pairs can be put together in any order to make a sentence. Verbs are not necessarily needed. For example :    
 
@@ -57,6 +64,11 @@ Note the {{qoth "esi"}}  "A esi B" means "if A then B". This the meaning is "If 
 Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.
 
 Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example {{qoth "ga-una"}} means "colour of mouth" or "red" but {{qoth "ga-ga"}} means "colour"
+
+Sentences can be negated by prefixing the relevant Particle with 'va'
+
+* {{qoth "mi va-li buna"}} "I am not good"
+* {{qoth "mi va-wei zon"}} "I don't know"
 
 Yes-no questions are asked by using the "particle not-particle" structure. 
 
@@ -123,7 +135,7 @@ A Question is at least one particle then {{qoth "va"}} "not" then the same parti
 
 __Phrase : (Marker Complex) | (QuestionMark Complex)__
 
-A Phrase is a marker and the Item it marks together.
+A Phrase is a marker, followed by the Item it marks together, this can either be a simple concept, or a whole sentence.
 
 * {{qoth "wei giawin"}} : VERB - go
 * {{qoth "li belin egi"}} : IS feeling-bad  
@@ -145,6 +157,7 @@ __Joined : ((Item | Sentence) CON)\* Sentence__
 Sentences may be joined with a Conjunction, making the latter sentence dependent on the prior. Items can also be used for establishing contenxt.
 
 * {{qoth "buna esi o bena da mi ei mugo"}} "If good, oh give me good." / "Please give me food"
+* {{qoth "gein la mi wei gein mugo"}} "Maybe I can eat"
 
 Primary Particles
 ---------
@@ -168,81 +181,67 @@ dropped if sentence starts with subject
 
 It is important to note that the same word can be a noun, verb or adjective.
 
--- mi wei mugo    
+-- {{qoth "mi wei mugo"}}    
 .. I eat    
 ?? I DO food
 
--- mi li mugo    
+-- {{qoth "mi li mugo"}}     
 .. I am food    
 
--- mi wei vi ei vi    
+-- {{qoth "mi wei vi ei vi"}}    
 .. I set alight a fire
 
--- mi li vi    
+-- {{qoth "mi li vi"}}    
 .. I am hot
 
--- mi li won vi    
+-- {{qoth "mi li won vi"}}    
 .. I am a fire
 
-Combined Particles
+Particle pairs create Sub-Clauses
 --------------
 
-Particles may be combined, to create a meaning new meaning
+Because a Complex item may be sub-clause, and sub-clauses must always be Strict Sentences that begin with a "Particle", Two particles together will always create a sub clause. 
 
 ### da li : to be / in order to be
 
--- mi wei mugo ei beba da li wiawa    
+-- {{qoth "mi wei mugo ei beba da li wiawa"}}    
 .. I eat vegetables to become strong    
 ?? I DO eat OBJECT vegetable TO BE strong
 
 ### da wei : to do / in order to
 
--- zan ni wei mugo da wei guma wiawa    
+-- {{qoth "zan dis wei mugo da wei guma wiawa"}}    
 .. this person eats to become strong    
 ?? person this DO food TO DO become strong
 
 ### dan wei : from doing / because did
 
--- mi li buna dan wei giawin delo    
+-- {{qoth "mi li buna dan wei giawin delo"}}    
 .. i like swimming    
 ?? I AM good FROM DO go water
 
--- mi lon delo li buna    
-.. I like swimming    
-?? i AT water AM happy
-
 ### gin gin : and with 
 
--- is-min wei dugi, gin gin luga begi wei ema-egon    
+-- {{qoth "is-min wei dugi, gin gin luga begi wei ema-egon"}}    
 .. She spoke, and,  with her hand, drummed.    
 
 ### "li wei" : passive form
 
 Verb that happened to subject
 
--- mi li wei mugo    
+-- {{qoth "mi li wei mugo"}}     
 .. I am eaten
-
-
-### "lon li" : Exists / There was / There is
-
-The following item exists, it is not the subject or object.
-
--- lon don won lon li zan     
-.. Once, there was a person    
-?? AT time one AT is person
 
 ### lon wei : In the middle of
 
--- mi lon wei dugi     
+-- {{qoth "mi lon wei dugi"}}      
 .. I'm in the middle of talking    
-
 
 
 Conjuctions
 ----------
 
-Conjunction words define a relationship between the clause before it, and the clause after.  If the subject is the same, it doesn't need to be indicated on both sides.
+Conjunctions define a relationship between the clause before it, and the clause after.  If the subject is the same, it doesn't need to be indicated on both sides.
 
 * la : while / because / junction / context
 * esi : if
@@ -610,7 +609,7 @@ If you want to be precise just use the atomic number
 
 * ema-ema : Sound
 * ema-egon : Crash / drum 
-* ema-vo : Animal noise
+* ema-vo-vo : Animal noise
 * ema-musi : Singing
 * ema-gon : wind noises
 
@@ -618,12 +617,8 @@ If you want to be precise just use the atomic number
 
 * megi-megi : Measure
 * megi-liawa : Height
-* megi-seli : Tempurature
+* megi-vi : Tempurature
 * megi-munin : Width
 * megi-giawin : Length
 * megi-lei : Angle
-
-
-
-
 

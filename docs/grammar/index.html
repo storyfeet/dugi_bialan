@@ -120,7 +120,6 @@ body {
 <h2>Overview</h2>
 <p>Dugi Bialan is a minimalist language seeking balance between simplicity and minimalism with ease of communication, for both speaker and listener.</p>
 <p>It currently has fewer than 200 words, and the majority of meanings can be created by combining these. There may be more words added slowly, and carefully in future. Enough to enable species identification and some difficult concepts, but never more than 240. (Few enough to fit the whole word list and alphabet within a byte)</p>
-<p>To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.</p>
 <p>The language has 5 types of words. </p>
 <ul>
 <li>Particles (PAR)</li>
@@ -129,20 +128,38 @@ body {
 <li>Prefixes (PRE)</li>
 <li>Atoms (ATOM)</li>
 </ul>
+<p>To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.</p>
 <p>The particle types are marked with each word in the <a href="/word_list">word list</a>. Words without a marking are ATOMs</p>
 <p>Particles are used to tell the role that whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle &quot; &quot; (' i ')
 is assumed, meaning that the first words will be the &quot;subject&quot; of the sentence.</p>
-<p>Ideas are built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:</p>
+<p>Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:</p>
 <ul>
-<li>&quot;  /   /   / &quot; (' i / ei / lon / gin ')
-A noun followed by a list of adjectives that make it more specific.  &quot;&quot; (' elo vedelin ')
+<li>
+<p>After : &quot;  /   /   /  /   /   /  &quot; (' i / ei / lon / gin / da / dan / devin boina ')</p>
+<ul>
+<li>A noun followed by a list of adjectives that make it more specific.  &quot;&quot; (' elo vedelin ')
 &quot;Tool of image&quot; or &quot;pen&quot;.</li>
-<li>&quot; &quot; (' li ')
-An adjective list getting more specific. &quot;&quot; (' buna mudei ')
+<li>A sub-clause</li>
+</ul>
+</li>
+<li>
+<p>After : &quot; &quot; (' li ')</p>
+<ul>
+<li>An adjective list getting more specific. 
+eg : &quot;&quot; (' buna mudei ')
 &quot;good many / very good&quot;</li>
-<li>&quot; &quot; (' wei ')
-A verb. &quot;&quot; (' giawin moini ')
+<li>A number followed by a noun.
+eg : &quot;&quot; (' won zan ')
+&quot;a person&quot;.</li>
+</ul>
+</li>
+<li>
+<p>After &quot; &quot; (' wei ')</p>
+<ul>
+<li>A verb. eg : &quot;&quot; (' giawin moini ')
 &quot;going back&quot;</li>
+</ul>
+</li>
 </ul>
 <p>The particle-idea pairs can be put together in any order to make a sentence. Verbs are not necessarily needed. For example :</p>
 <p>&quot;  &quot; (' mi da vin ei elo vedelin dis ')
@@ -169,6 +186,13 @@ or &quot;you ARE good&quot;.</p>
 <p>Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example &quot;&quot; (' ga-una ')
 means &quot;colour of mouth&quot; or &quot;red&quot; but &quot;&quot; (' ga-ga ')
 means &quot;colour&quot;</p>
+<p>Sentences can be negated by prefixing the relevant Particle with 'va'</p>
+<ul>
+<li>&quot;&quot; (' mi va-li buna ')
+&quot;I am not good&quot;</li>
+<li>&quot;&quot; (' mi va-wei zon ')
+&quot;I don't know&quot;</li>
+</ul>
 <p>Yes-no questions are asked by using the &quot;particle not-particle&quot; structure. </p>
 <ul>
 <li>&quot; &quot; (' vin li va-li buna ')
@@ -249,7 +273,7 @@ or &quot;what&quot;.</p>
 &quot;are you with? / is it with?&quot;</li>
 </ul>
 <p><strong>Phrase : (Marker Complex) | (QuestionMark Complex)</strong></p>
-<p>A Phrase is a marker and the Item it marks together.</p>
+<p>A Phrase is a marker, followed by the Item it marks together, this can either be a simple concept, or a whole sentence.</p>
 <ul>
 <li>&quot; &quot; (' wei giawin ')
 : VERB - go</li>
@@ -273,6 +297,8 @@ may not be followed directly by a verb.</p>
 <ul>
 <li>&quot;  &quot; (' buna esi o bena da mi ei mugo ')
 &quot;If good, oh give me good.&quot; / &quot;Please give me food&quot;</li>
+<li>&quot; &quot; (' gein la mi wei gein mugo ')
+&quot;Maybe I can eat&quot;</li>
 </ul>
 <h2>Primary Particles</h2>
 <p>Particles are how dugi bialan marks the beginning and end of compound items. They also declare the role of the following item in the sentence.</p>
@@ -289,54 +315,46 @@ dropped if sentence starts with subject</li>
 <li>&quot;go&quot; : saying/quote : followed by the quoted clause (use &quot;&quot;)</li>
 <li>&quot;o&quot; : Imperetive/Vocative/Polite Call : followed by either a verb or someone to call politely</li>
 <li>&quot;boina&quot; : before : followed by a noun</li>
-<li>&quot;devin&quot; : before : followed by a noun</li>
+<li>&quot;devin&quot; : after : followed by a noun</li>
 </ul>
 <p>It is important to note that the same word can be a noun, verb or adjective.</p>
-<p>-- mi wei mugo<br />
-.. I eat<br />
+<p>-- &quot; &quot; (' mi wei mugo ')</p>
+<p>.. I eat<br />
 ?? I DO food</p>
-<p>-- mi li mugo<br />
-.. I am food</p>
-<p>-- mi wei vi ei vi<br />
-.. I set alight a fire</p>
-<p>-- mi li vi<br />
-.. I am hot</p>
-<p>-- mi li won vi<br />
-.. I am a fire</p>
-<h2>Combined Particles</h2>
-<p>Particles may be combined, to create a meaning new meaning</p>
+<p>-- &quot; &quot; (' mi li mugo ')</p>
+<p>.. I am food</p>
+<p>-- &quot;  &quot; (' mi wei vi ei vi ')</p>
+<p>.. I set alight a fire</p>
+<p>-- &quot; &quot; (' mi li vi ')</p>
+<p>.. I am hot</p>
+<p>-- &quot; &quot; (' mi li won vi ')</p>
+<p>.. I am a fire</p>
+<h2>Particle pairs create Sub-Clauses</h2>
+<p>Because a Complex item may be sub-clause, and sub-clauses must always be Strict Sentences that begin with a &quot;Particle&quot;, Two particles together will always create a sub clause. </p>
 <h3>da li : to be / in order to be</h3>
-<p>-- mi wei mugo ei beba da li wiawa<br />
-.. I eat vegetables to become strong<br />
+<p>-- &quot;   &quot; (' mi wei mugo ei beba da li wiawa ')</p>
+<p>.. I eat vegetables to become strong<br />
 ?? I DO eat OBJECT vegetable TO BE strong</p>
 <h3>da wei : to do / in order to</h3>
-<p>-- zan ni wei mugo da wei guma wiawa<br />
-.. this person eats to become strong<br />
+<p>-- &quot;  &quot; (' zan dis wei mugo da wei guma wiawa ')</p>
+<p>.. this person eats to become strong<br />
 ?? person this DO food TO DO become strong</p>
 <h3>dan wei : from doing / because did</h3>
-<p>-- mi li buna dan wei giawin delo<br />
-.. i like swimming<br />
+<p>-- &quot;  &quot; (' mi li buna dan wei giawin delo ')</p>
+<p>.. i like swimming<br />
 ?? I AM good FROM DO go water</p>
-<p>-- mi lon delo li buna<br />
-.. I like swimming<br />
-?? i AT water AM happy</p>
 <h3>gin gin : and with</h3>
-<p>-- is-min wei dugi, gin gin luga begi wei ema-egon<br />
-.. She spoke, and,  with her hand, drummed.</p>
+<p>-- &quot;   &quot; (' is-min wei dugi, gin gin luga begi wei ema-egon ')</p>
+<p>.. She spoke, and,  with her hand, drummed.</p>
 <h3>&quot;li wei&quot; : passive form</h3>
 <p>Verb that happened to subject</p>
-<p>-- mi li wei mugo<br />
-.. I am eaten</p>
-<h3>&quot;lon li&quot; : Exists / There was / There is</h3>
-<p>The following item exists, it is not the subject or object.</p>
-<p>-- lon don won lon li zan<br />
-.. Once, there was a person<br />
-?? AT time one AT is person</p>
+<p>-- &quot; &quot; (' mi li wei mugo ')</p>
+<p>.. I am eaten</p>
 <h3>lon wei : In the middle of</h3>
-<p>-- mi lon wei dugi<br />
-.. I'm in the middle of talking</p>
+<p>-- &quot; &quot; (' mi lon wei dugi ')</p>
+<p>.. I'm in the middle of talking</p>
 <h2>Conjuctions</h2>
-<p>Conjunction words define a relationship between the clause before it, and the clause after.  If the subject is the same, it doesn't need to be indicated on both sides.</p>
+<p>Conjunctions define a relationship between the clause before it, and the clause after.  If the subject is the same, it doesn't need to be indicated on both sides.</p>
 <ul>
 <li>la : while / because / junction / context</li>
 <li>esi : if</li>

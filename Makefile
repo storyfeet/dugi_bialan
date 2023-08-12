@@ -1,6 +1,8 @@
 site:
 	siter gen -o docs
 
+qsite : 
+	siter gen --skip_static -o docs 
 
 wasm:
 	cd zig; zig build-lib dugi_wasm.zig -target wasm32-freestanding -dynamic
