@@ -1,21 +1,25 @@
 {{export title="Cut and Restored - Magic Script"}}
 {{@md}}{{@exec_stdin "zig/convert" @ }}
 
+ei lena wei din, wei buna
+
 # For this I need a volunteer
 
-da dis la mi li o luga ei zan belin
+da dis la, mi li o luga ei zan belin
 
 # Sir what's your name.
 
-o zan buna. enon vin li vemo?
+o zan buna. enon vin li vemi?
 
 # Do you have a scisors health and safety certificate?
 
 vin wei va wei luga ei lebo gein bi elo din?
 
+# -- wei
+
 # Do you mind if while we're performing this we accidently cut your head off?
 
-lon iasin oimi dis la, li va-la buna ei i mi di wei din a liawa vin dan guli-guli
+lon iasin oimi dis la, li va-li buna ei i mi wei guma din ei liawa vin dan guli-guli
 
 # -- OK
 
@@ -39,7 +43,7 @@ o zan buna, i egesa dis lon va-lon belin ensa bi lena dis
 
 # Ok, if you could just take that pair of scissors and make a snip at that half way point.
 
-buna, o elo ei elo din dis da wei din e lena lon man dis. 
+buna, o din e lena lon man dis. 
 
 # Lovely, now if you could give back the scissors, for my safety you see.
 
@@ -47,7 +51,7 @@ buna, o da mi ei elo din. li da uwein mi, vin wei zon.
 
 # Now what we've done here is we started with 1 piece of rope. Where did the second piece come from?  Nobody knows. 
 
-lon begin la mi wei luga ei lena won. lon don dis la mi wei luga wei lena di. dan vemi wei guma ei lena di. va-zan wei zon.
+lon begin la mi wei luga ei lena won. lon don dis la mi wei luga ei lena di. dan vemi wei guma ei lena bi uno di. va-zan wei zon.
 
 # But we can do more, what if we took these two ropes and turned them into one?
 
@@ -55,7 +59,7 @@ deso la, mi wei gein mudei. lena di dis wei duga won esi.
 
 # This is going to blow your minds, your heads will explode, as you see two ropes becoming one before your very eyes.
 
-dis wei vi wega wega ei esebin vin, wei vi wega ei liawa vin. vin wei lugin ei i lena di guma won lon enbin lugin vin.
+dis wei vi wega ei esebin vin, wei vi wega ei liawa vin. vin wei lugin ei i lena di guma won lon enbin lugin vin.
 
 # You will be soooo amazed you won't be able to comprehend how awesome it is?
 
@@ -63,7 +67,7 @@ vin va-wei esebin ei iasin vemi, ei vemi wei giawin.
 
 # Look ladies and gentlemen, two ropes into 1. Isn't this the most amazing thing you have ever seen in your lives.
 
-o lugin ei i lena di wei guma won lon enbin luga.
+o lugin ei i lena di wei guma won lon enbin lugin vin.
 
 # -- you just tied a knot
 
