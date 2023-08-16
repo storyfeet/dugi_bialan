@@ -67,25 +67,49 @@ o lugin ei i lena di wei guma won lon enbin luga.
 
 # -- you just tied a knot
 
+-- vin va-wei deso loigo
+
 # what do you mean I just tied a knot?
+
+vin wei dugi esebin vemi, mi va-wei deso loigo.
 
 # what would it take to convince you that this knot is a magic know.
 
+mi wei va-wei gein bena esebin da vin ei i loigo dis li loigo bi iasin oimi
+
 # I know, what if I make it disappear? 
+
+mi wei zon ba. mi wei wega ei dis
 
 # watch closely, see it's gone.
 
+o lugin buna, li wega
+
 # no, sorry that was just a joke. 
+
+ba mi biagela, dis li eniasa leli
 
 # Ok try again.
 
+buna, mi wei buli vis.
+
 # ah yes it just moved along the rope, just a joke.
+
+ba. va-wei deso giawin lon lena. li egin eniasa leli.
 
 # Ok, for real this time.
 
+lon don dis la veli veli 
+
 # But I'm sure you're wondering where the know is.
+
+deso la vin wei esebin esebin ei i loigo lon vemi.
 
 # It's in my hand.
 
+lon luga mi
+
 # thankyou very much.
+
+buna dan wei lugin 
 
