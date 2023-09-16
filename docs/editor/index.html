@@ -137,7 +137,7 @@ body {
 				op.innerText = "";
 				return;
 			}
-			console.log("Input:",s);
+			//console.log("Input:",s);
 			let sdat = encodeString(s);
 			w_dugi.exports.convert(sdat.s,sdat.l);
 		});
@@ -179,13 +179,13 @@ body {
 	const encodeString = (string) => {
 	  const buffer = new TextEncoder().encode(string);
 	  const pointer = w_dugi.exports.allocUint8(buffer.length + 1); // ask Zig to allocate memory
-	  console.log("Pre Slice");
+	  //console.log("Pre Slice");
 	  const slice = new Uint8Array(
 		w_dugi.exports.memory.buffer, // memory exported from Zig
 		pointer,
 		buffer.length + 1
 	  );
-	  console.log("post slice");
+	  //console.log("post slice");
 	  slice.set(buffer);
 	  slice[buffer.length] = 0; // null byte to null-terminate the string
 	  return {s:pointer,l:buffer.length};

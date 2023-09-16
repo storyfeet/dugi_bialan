@@ -5,7 +5,7 @@ qsite :
 	siter gen --skip_static -o docs 
 
 wasm:
-	cd zig; zig build-lib dugi_wasm.zig -target wasm32-freestanding -dynamic
+	cd zig; zig build-lib dugi_wasm.zig -target wasm32-freestanding -dynamic -rdynamic
 	cp zig/dugi_wasm.wasm static/wasm/dugi.wasm
 
 converter:
