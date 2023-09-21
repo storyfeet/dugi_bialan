@@ -3,7 +3,7 @@
 
 # Sam had a problem, it seemed no matter what he did, wherever he went people, would get in his way.
 
-zan esamm wei luga ei gein egi. is-mon wei buli ei mugi la, is-mon wei giawin ei man mugi la, zan-mudei wei giawin wei uwein lon iasin is-mon.
+zan esamm wei luga ei gein egi. is-mon wei buli mugi la, is-mon da man mugi la, zan-muli wei giawin wei uwein lon iasin is-mon.
 
 # Well, not today he thought to himself as he got out of bed, today is going to be different.
 
@@ -11,11 +11,11 @@ go "va-lon esuno dis" is-mon wei esebin da begi lon wei gan-zewi dan zugi liabei
 
 # and he came up with a great plan, to make sure nobody would stay in his way.
 
-is-mon wei buli esebin da wei buli veli ei i va-zan wei uwein lon iasin is-mon
+is-mon wei esebin ei esebin wiawa da wei buli veli ei i va-zan wei uwein lon iasin is-mon
 
 # He went to the bathroom to clean his teath, but as he got in there, his sister laura was in the way.
 
-wei giawin lon doimo delo, deso la min egin is-mon bi enon loila lon man dis, lon iasin is-mon.
+wei giawin lon doimo delo, deso la zi-ma min is-mon bi enon loila lon man dis, lon iasin is-mon.
 
 # "Get out of my way", he said,
 
@@ -27,7 +27,7 @@ zan Loila go "dan vemi". lon wei dugi ei dis la leli goigo gedin wei giawin da g
 
 # This was it, time to try out out, "Get out of my way"  This time he said it so loudly, and soo forceully that no-one would dare refuse.
 
-dis li dis veli. don wei guma. go "o wega dan iasin mi" i zan Esamm gin ema-vuli ba vuli, ba wiawa, zan va-wei gein uwein gion.
+dis li dis veli.  don wei guma.  go "o wega dan iasin mi" i zan Esamm gin ema-vuli ba vuli, ba wiawa, va-zan wei gein uwein egon.
 
 # Laura got out of the way, and sam was able to clean his teeth.
 
@@ -51,7 +51,7 @@ go "dan vemi, mi mudei lon man dis lon won"
 
 # So sam tried again "Get out of my way" But this time he said it soo loudly, and soo forcefully that noone would dare refuse.
 
-dugi vis la, zan Esamm go "o wega dan iasin mi" deso la, don dis la, gin ba ema-mudei, gin ba wiawa, va-zan wei uwein gion. 
+dugi vis la, zan Esamm go "o wega dan iasin mi" deso la, don dis la, gin ba ema-mudei, gin ba wiawa, va-zan wei uwein egon. 
 
 # And Sam was able to get on the bus first, but noone sat next to him.
 
@@ -59,11 +59,11 @@ zan Esamm lon won wei ensa ei bengo. va-zan wei zugi liamon lon bog is-mon
 
 # Sam arrived, got into class, and there he sat and waited patiently for lunchtime.
 
-is-mudei wei guma da mengi zon, zan esamm da doimo zon begi wei uwein da mugo
+is-mudei wei guma da mengi zon la, zan esamm da doimo zon begi wei uwein da don mugo
 
 # When he arrived at the cafeteria, the queue was already lined up.
 
-lon don bi is-mon wei guma da mengi mugo, lena zan li vuli mudei.
+lon don bi is-mon wei guma da doimo mugo, lena zan li vuli mudei.
 
 # People were already in his way, "Get out of my way", sam said.
 
@@ -75,11 +75,11 @@ zan mudei lon iasin is-mon. "o wega dan iasin mi"
 
 # Sam tried again, "GET OUT OF MY WAY" but this time he said it sooo loudly, and soo forcefully that noone dared refues. not even the dinner ladies.
 
-zan Esamm wei dugi vis go "o wega dan iasin mi" deso la, don dis la gin ba ema-vuli mudei, gin ba wiawa mudei da i va-zan wei uwein gion, ba egin zan bena mugo.
+zan Esamm wei dugi vis go "o wega dan iasin mi" deso la, don dis la gin ba ema-vuli mudei, gin ba wiawa mudei da i va-zan wei uwein egon, ba egin zan bena mugo.
 
 # Sam sat and ate his food, again noone sat with him.
 
-zan esamm wei zugi liamon wei mugo ei mugo begi. egin, va-zan wei mugo gin is-mon.
+zan esamm wei zugi liamon wei mugo ei mugo begi. egin la, va-zan wei mugo gin is-mon.
 
 # After school, coming home off the bus, sam began to walk the rest of his way home, and as he was walking he came to a narrow section.
 
@@ -95,7 +95,7 @@ is-min li enon Zein, deso da zan esamm li esebin leli. zan Esamm wei lugin ei va
 
 # And he was about to let her know, when suddenly. "Get out of my way", she said to him. 
 
-is-mon lon wei begin bena zon da is-min, ba don la go is-min go "o wega dan iasin mi"
+is-mon lon wei begin bena zon da is-min, deso la, ba don la is-min go "o wega dan iasin mi"
 
 # "No", said sam, "YOU get out of my way" 
 
@@ -103,7 +103,7 @@ is-mon lon wei begin bena zon da is-min, ba don la go is-min go "o wega dan iasi
 
 # Jane tried again, "Get out of my way", this time, so loudly and soo forcfully that noone would dare refuse.
 
-zan zein wei vis, "o wega dan iasin mi", gin ba ema-vuli mudei, gin ba wiawa mudei, da i zan va-wei gein uwein gion.
+zan zein wei vis, "o wega dan iasin mi", gin ba ema-vuli mudei, gin ba wiawa mudei, da i va-zan wei gein uwein egon.
 
 # Sam dared. He wasn't backing down from this.  "Get out of my way" he said".
 

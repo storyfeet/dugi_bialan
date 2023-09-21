@@ -622,3 +622,7 @@ If you want to be precise just use the atomic number
 * megi-giawin : Length
 * megi-lei : Angle
 
+### Child of with zi
+
+* zi-ma : Child of parent - sibling
+* zi-esegi : Child ball - egg
