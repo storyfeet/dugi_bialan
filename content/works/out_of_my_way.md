@@ -91,7 +91,7 @@ is-mon wei giawin la, zan min endei wei guma, lon iasin ziasi.
 
 # Her name was Jane, not that that mattered to sam. All sam could see was that she was in his way.
 
-is-min li enon Zein, deso da zan esamm li esebin leli. zan Esamm wei lugin ei va-deso zan lon iasin is-mon.
+is-min li enon Zein, deso da zan esamm li mugi. zan Esamm wei lugin ei va-deso zan lon iasin is-mon.
 
 # And he was about to let her know, when suddenly. "Get out of my way", she said to him. 
 
