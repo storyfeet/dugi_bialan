@@ -3,27 +3,27 @@
 
 # Sam had a problem, it seemed no matter what he did, wherever he went people, would get in his way.
 
-zan esamm wei luga ei gein egi. is-mon wei buli mugi la, is-mon da man mugi la, zan-muli wei giawin wei uwein lon iasin is-mon.
+zan esamm wei luga ei gein egi. is-mon wei mugi la, is-mon da mugi la, zan-muli wei giawin wei uwein lon iasin is-mon.
 
 # Well, not today he thought to himself as he got out of bed, today is going to be different.
 
-go "va-lon esuno dis" is-mon wei esebin da begi lon wei gan-zewi dan zugi liabei. "esuno dis wei guma endei"
+go "va-lon esuno dis" is-mon wei esebin lon wei gan-zewi dan zugi liabei. "esuno dis wei guma endei"
 
 # and he came up with a great plan, to make sure nobody would stay in his way.
 
-is-mon wei esebin ei esebin wiawa da wei buli veli ei i va-zan wei uwein lon iasin is-mon
+is-mon wei esebin ei esebin wiawa da i va-zan wei uwein lon iasin is-mon
 
 # He went to the bathroom to clean his teath, but as he got in there, his sister laura was in the way.
 
-wei giawin lon doimo delo, deso la zi-ma min is-mon bi enon loila lon man dis, lon iasin is-mon.
+lon doimo delo li zi-ma min is-mon bi enon loila, lon iasin is-mon.
 
 # "Get out of my way", he said,
 
 go "o wega dan iasin mi" 
 
-# why, asked Laura, but as she said that, some of her toothpaste fell on sam.
+# why, asked Laura, but as she said that, some of her toothpaste fell on sam's clothes.
 
-zan Loila go "dan vemi". lon wei dugi ei dis la leli goigo gedin wei giawin da guli-guli esamm
+zan Loila go "dan vemi". lon wei dugi ei dis la leli goigo gedin wei giawin da elein esamm
 
 # This was it, time to try out out, "Get out of my way"  This time he said it so loudly, and soo forceully that no-one would dare refuse.
 
@@ -59,7 +59,7 @@ zan Esamm lon won wei ensa ei bengo. va-zan wei zugi liamon lon bog is-mon
 
 # Sam arrived, got into class, and there he sat and waited patiently for lunchtime.
 
-is-mudei wei guma da mengi zon la, zan esamm da doimo zon begi wei uwein da don mugo
+is-mudei wei guma da mengi zon la, zan esamm da doimo zon wei uwein da don mugo
 
 # When he arrived at the cafeteria, the queue was already lined up.
 
@@ -79,7 +79,7 @@ zan Esamm wei dugi vis go "o wega dan iasin mi" deso la, don dis la gin ba ema-v
 
 # Sam sat and ate his food, again noone sat with him.
 
-zan esamm wei zugi liamon wei mugo ei mugo begi. egin la, va-zan wei mugo gin is-mon.
+zan esamm wei zugi liamon wei mugo. egin la, va-zan wei mugo gin is-mon.
 
 # After school, coming home off the bus, sam began to walk the rest of his way home, and as he was walking he came to a narrow section.
 
@@ -112,9 +112,9 @@ zan Esamm wei gein. is-mon va wei moini dan dis. "o wega dan iasin mi"
 
 # And soo it continues, going back and forth, each one getting louder thn the last, and neither willing to back down.
 
-dis wei giawin uwein, da enbin, da moini, zan won wei ema-mudei dan zan endei. va-zan wei belin gein moini.
+dis wei giawin uwein, da enbin, da moini, zan won wei ema-mudei dan zan endei. va-zan wei belin moini.
 
 # And they are still there, to this very day.
 
-lon don dis la, is-di lon man dis, da esuno dis.
+lon don dis la, is-di lon man dis, da ba esuno dis.
 
