@@ -15,11 +15,11 @@ is-mon wei esebin ei esebin wiawa da i va-zan wei uwein lon iasin is-mon
 
 # He went to the bathroom to clean his teath, but as he got in there, his sister laura was in the way.
 
-lon doimo delo li zi-ma min is-mon bi enon loila, lon iasin is-mon.
+i zi-ma min is-mon Loila lon doimo delo, lon iasin is-mon.
 
 # "Get out of my way", he said,
 
-go "o wega dan iasin mi" 
+zan esamm go "o wega dan iasin mi" 
 
 # why, asked Laura, but as she said that, some of her toothpaste fell on sam's clothes.
 
@@ -51,7 +51,7 @@ go "dan vemi, mi mudei lon man dis lon won"
 
 # So sam tried again "Get out of my way" But this time he said it soo loudly, and soo forcefully that noone would dare refuse.
 
-dugi vis la, zan Esamm go "o wega dan iasin mi" deso la, don dis la, gin ba ema-mudei, gin ba wiawa, va-zan wei uwein egon. 
+dugi vis la, zan Esamm go "o wega dan iasin mi" deso la, don dis la, gin ba ema-mudei, gin ba wiawa, va-zan wei gein uwein egon. 
 
 # And Sam was able to get on the bus first, but noone sat next to him.
 
@@ -59,7 +59,7 @@ zan Esamm lon won wei ensa ei bengo. va-zan wei zugi liamon lon bog is-mon
 
 # Sam arrived, got into class, and there he sat and waited patiently for lunchtime.
 
-is-mudei wei guma da mengi zon la, zan esamm da doimo zon wei uwein da don mugo
+is-mudei wei guma da mengi zon la, zan esamm lon doimo zon wei uwein da don mugo
 
 # When he arrived at the cafeteria, the queue was already lined up.
 
@@ -75,7 +75,7 @@ zan mudei lon iasin is-mon. "o wega dan iasin mi"
 
 # Sam tried again, "GET OUT OF MY WAY" but this time he said it sooo loudly, and soo forcefully that noone dared refues. not even the dinner ladies.
 
-zan Esamm wei dugi vis go "o wega dan iasin mi" deso la, don dis la gin ba ema-vuli mudei, gin ba wiawa mudei da i va-zan wei uwein egon, ba egin zan bena mugo.
+zan Esamm wei dugi vis go "o wega dan iasin mi" deso la, don dis la gin ba ema-vuli mudei, gin ba wiawa mudei da i va-zan wei gein uwein egon, ba egin zan bena mugo.
 
 # Sam sat and ate his food, again noone sat with him.
 
@@ -91,7 +91,7 @@ is-mon wei giawin la, zan min endei wei guma, lon iasin ziasi.
 
 # Her name was Jane, not that that mattered to sam. All sam could see was that she was in his way.
 
-is-min li enon Zein, deso da zan esamm li mugi. zan Esamm wei lugin ei va-deso zan lon iasin is-mon.
+is-min li enon Zein, deso la da zan esamm li mugi. zan Esamm wei lugin ei va-deso zan lon iasin is-mon.
 
 # And he was about to let her know, when suddenly. "Get out of my way", she said to him. 
 
@@ -116,5 +116,5 @@ dis wei giawin uwein, da enbin, da moini, zan won wei ema-mudei dan zan endei. v
 
 # And they are still there, to this very day.
 
-lon don dis la, is-di lon man dis, da ba esuno dis.
+lon don dis la, is-di lon man dis, da esuno ba dis.
 
