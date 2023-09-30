@@ -238,6 +238,25 @@ Verb that happened to subject
 .. I'm in the middle of talking    
 
 
+Before and After exception
+------------
+
+{{qoth "lon boina"}} by itself means "before" and is used for giving statements about the past without needing an "item".
+
+-- {{qoth "lon boina [ i ] mi li buna"}}
+.. "Before,  I was good"
+
+But without "lon", it requires an item and gives info about what happened
+
+-- {{qoth "boina giawin mi li belin iagi"}}
+.. Before going I was fealing yucky
+
+{{qoth "lon devin"}} by itself means "after / next" and like "lon boina" does not require an "item".
+
+-- {{qoth "lon devin [ i ] mi li buna"}} 
+.. in the future I will be good
+
+
 Conjuctions
 ----------
 
