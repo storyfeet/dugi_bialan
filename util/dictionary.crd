@@ -1,4 +1,4 @@
-@param dugi 
+@param dugi note
 abandon ["wega uwein", "wega"]
 ability [gein,lebuni]
 able [gein]
@@ -193,149 +193,139 @@ health ["guli-buna"]
 world ["esegi man"]
 re ["lon dugi"]
 next ["devin"]
-used ["elo", lon boina don"]
+used ["elo", "lon boina don"]
 go ["giawin"]
 work ["buli"]
-last 
-most
-products
-music
-buy
-data
-make
-them
-should
-product
-system
-post
-her
-city
-t
-add
-policy
-number
-such
-please
-available
-copyright
-support
-message
-after
-best
-software
-then
-jan
-good
-video
-well
-d
-where
-info
-rights
-public
-books
-high
-school
-through
-m
-each
-links
-she
-review
-years
-order
-very
-privacy
-book
-items
-company
-r
-read
-group
-need
-many
-user
-said
-de
-does
-set
-under
-general
-research
-university
-january
-mail
-full
-map
-reviews
-program
-life
-know
-games
-way
-days
-management
-p
-part
-could
-great
-united
-hotel
-real
-f
-item
-international
-center
-ebay
-must
-store
-travel
-comments
-made
-development
-report
-off
-member
-details
-line
-terms
-before
-hotels
-did
-send
-right
-type
-because
-local
-those
-using
-results
-office
-education
-national
-car
-design
-take
-posted
-internet
-address
-community
-within
-states
-area
-want
-phone
-dvd
-shipping
-reserved
-subject
-between
-forum
-family
-l
-long
-based
-w
+last ["lon beni"]
+most ["dan muli"]
+products [ "zo esin"]
+music ["ema-musi"]
+buy ["esin", "esin luga"]
+data ["lebo uno","lebo zon"]
+make ["buli" ]
+them ["is-mudei","is-di"]
+should ["li o"]
+product ["zo esin"]
+system ["zo buli", "iasin","iasin liawa"] 
+post ["belesa","lebo wega"]
+her ["is-min"]
+city ["man mengi", "man mengi vuli"]
+add ["bena","gin","mudei"]
+policy ["lebo egon"] TODO
+number ["uno"]
+such ["ba"]
+please ["gin buna","buna","buna esi"]
+available ["gein leban", "gein elo"]
+copyright ["gein ziasi", "gein egin"]
+support ["bena buna", "bena ga-zewi"]
+message ["dugi"]
+after ["devin"]
+best ["buna dan muli"]
+software ["lebo buli","lebo buli uno"]
+then ["devin la"]
+good ["buna"]
+video ["vedelin giawin"]
+well ["buna","man bena delo"]
+where ["lon vemi", "man vemi"]
+info ["zon"]
+rights ["gein liawa"]
+public ["zenan"]
+books ["lebo"]
+high ["lon zewi", "lon gan-zewi"]
+school ["mengi zon"]
+through ["ensa wega"]
+each ["muli won","zo muli", "zan muli","zan muli won"]
+links ["guba","lena guba"]
+she ["is-min"]
+review ["lugin vis"]
+years ["vegei esuno"]
+order ["oindi","bena liawa", "wei o"]
+very ["mudei","zelula","ba"]
+privacy ["gein won"]
+book ["lebo"]
+items ["zo"]
+company ["gin zan buna","liawa esin"] "TODO institution"
+read ["lugin lebo"]
+group ["gelubi"]
+need ["wei belin"]
+many ["mudei"]
+user ["zan bi wei elo"]
+said ["dugi"]
+does ["wei", "buli"]
+set ["buli egesa","gelubi"]
+under ["lon gan-oiga"]
+general ["lon mugi","liawa udiala"]
+research ["lugin zon"]
+university ["man bi lugin zon"] "TODO institution"
+january ["muni won"]
+mail ["lebo wega"]
+full ["belas"]
+map ["lebo man"]
+reviews ["dugi lugin"]
+program ["lebo buli","lebo buli uno","lebo oindi"]
+life ["guli-vi" ,"don guli-vi"]
+know ["zon"]
+games ["ziasi"]
+way ["iasin"]
+days ["esuno"]
+management ["liawa buli"] "TODO institution"
+part ["din","doimo"]
+could ["gein lon boina"]
+great ["vuli"]
+united ["gelubi won"]
+hotel ["mengi liabei"]
+real ["veli"]
+item ["zo"]
+international ["bi man liawa mudei"]
+center ["man memuso", "man ensa"]
+ebay ["man lena ebei"]
+must ["li o"]
+store ["man esin", "man uwein zo"]
+travel ["giawin man vis"]
+comments ["dugi dugi"]
+made ["buli lon boina"]
+development ["buli esebin"]
+report ["lebo buli", "bena lebo"]
+off ["dan","va-lon", "va-gein","giawin"]
+member ["zan gelubi"]
+details ["lebo egesa","zon egesa"]
+line ["lena"]
+terms ["lebo uno"]
+before ["boina"]
+hotels ["man liabei"]
+did ["buli lon boina"]
+send ["bena wega"]
+right ["degis","gein liawa"]
+type ["vega"]
+because ["dan"]
+local ["va-wega"] "TODO near close"
+those ["dis mudei", "das","das mudei"]
+using ["gin","lon wei elo"]
+results ["lebo bi lon devin"]
+office ["doimo buli","doimo buli lebo"]
+education ["guma zon"]
+national ["bi man liawa"]
+car ["bengo"]
+design ["esebin buli"]
+take ["leban"]
+posted ["bena da man lugin","bena lena","bena wega lon boina"]
+internet ["lena guba"]
+address ["enon man mengi"]
+community ["gelubi"]
+within ["lon ensa"]
+states ["man liawa","man oindi liawa","guli-man"]
+area ["man" "man geni-geni"]
+want ["wei belin"]
+phone ["elo dugi","elo dugi wega"]
+dvd ["vegei zon"]
+shipping ["bengo delo","wega bengo delo"]
+reserved ["lebo va-deso won"]
+subject ["benon i","man dugi"]
+between ["lon ensa"]
+forum ["man dugi dugi"]
+family ["ma zi"]
+long ["megi giawin mudei"]
+based 
 code
 show
 o
