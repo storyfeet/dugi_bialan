@@ -325,95 +325,92 @@ between ["lon ensa"]
 forum ["man dugi dugi"]
 family ["ma zi"]
 long ["megi giawin mudei"]
-based 
-code
-show
-o
-even
-black
-check
-special
-prices
-website
-index
-being
-women
-much
-sign
-file
-link
-open
-today
-technology
-south
-case
-project
-same
-pages
-uk
-version
-section
-own
-found
-sports
-house
-related
-security
-both
-g
-county
-american
-photo
-game
-members
-power
-while
-care
-network
-down
-computer
-systems
-three
-total
-place
-end
-following
-download
-h
-him
-without
-per
-access
-think
-north
-resources
-current
-posts
-big
-media
-law
-control
-water
-history
-pictures
-size
-art
-personal
-since
-including
-guide
-shop
-directory
-board
-location
-change
-white
-text
-small
-rating
-rate
-government
-children
+based ["dan dugi","dan"] "TODO acid"
+code ["lebo buli uno"]
+show ["bena lugin"]
+even ["gein di","egin"]
+black ["ga-va-zo"]
+check ["lugin buna","lugin vis","lebo bena miani"]
+special ["buna endei","vega buna"]
+prices ["miani belin","uno miani"]
+website ["man lena"]
+index ["uno man"]
+being ["enma", "zan enma" , "lon li"]
+women ["min","zan min"]
+much ["mudei"]
+sign ["luga bialan","dugi luga","lebo lugin"]
+file ["bugi lebo"] "TODO purpose"
+link ["guba","man guba"]
+open ["ubin"]
+today ["esuno dis","don esuno dis"]
+technology ["elo zon"]
+south ["gan van"] "TODO compass"
+case ["bugi lebo","gelubi lebo"]
+project ["buli", "buli vuli","buli gelubi"]
+same ["egin"]
+pages ["ziana lebo"]
+uk ["man liawa guma won"]
+version ["uno vega"]
+section ["man lebo","din lebo"]
+own ["luga","begi"]
+found ["guma lugin"]
+sports ["uli guli-guli"]
+house ["mengi doimo"]
+related ["egin guba","guba", "guba ma zi"]
+security ["gein uwein"] "TODO safe"
+both ["di","muli di"]
+county ["man oiban liawa",]
+american ["bi man Emeigg"]
+photo ["vedelin veli"]
+game ["ziasi"]
+members ["zan gelubi","zan ensa gelubi"]
+power ["biawi","wiawi", "wiawa biawi"]
+while ["lon wei", "lon don"]
+care ["bena buna","bena belin"]
+network ["guba ususa"]
+down ["gan oiga"]
+computer ["elo uno"]
+systems ["zo buli", "iasin","iasin liawa"] 
+three ["van"]
+total ["uno belas"]
+place ["man"]
+end ["beni","man beni"]
+following ["giawin lon moini"]
+download ["leban lena"]
+him ["is-mon"]
+without ["va-gin"]
+per ["dan muli won"]
+access ["gein giawin","gein lugin"]
+think ["esebin"]
+north ["gan won"] 
+resources ["zo elo"]
+current ["bi don dis","giawin biawi","megi giawin biawi"]
+posts ["lebo wega","belesa","belesa bi lon goigo"]
+big ["vuli"]
+media ["esin bi lebo vis"] "TODO institution"
+law ["lebo liawa"]
+control ["liawa"]
+water ["delo"]
+history ["lugin don mazuni"]
+pictures ["vedelin"]
+size ["megi vuli"]
+art ["musi"]
+personal ["begi","bi mi begi"]
+since ["dan","dan don"]
+including ["gin"]
+guide ["lebo bena gein","lebo iasin", "zan iasin","zan bena zon"]
+shop ["esin","mengi esin"]
+directory ["lebo lugin uno"]
+board ["zugi"]
+location ["enon man","man egesa", "man"]
+change ["endei", "guma"]
+white ["ga-muli"]
+text ["vedelin dugi"]
+small ["leli"]
+rating ["megi buna"]
+rate ["megi giawin"]
+government ["meseni liawa"]
+children ["zi","zan leli"]
 during
 usa
 return
