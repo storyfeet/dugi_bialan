@@ -74,8 +74,6 @@ advantage ["man buna", "luga enbin"]
 advert ["vedelin esin"]
 
 avert ["biagela iasin"]
-institution ["mengi liawa"]
-
 
 the ["dis"]
 of ["bi"]
@@ -411,46 +409,43 @@ rating ["megi buna"]
 rate ["megi giawin"]
 government ["meseni liawa"]
 children ["zi","zan leli"]
-during
-usa
-return
-students
-v
-shopping
-account
-times
-sites
-level
-digital
-profile
-previous
-form
-events
-love
-old
-john
-main
-call
-hours
-image
-department
-title
-description
-non
-k
-y
-insurance
-another
-why
-shall
-property
-class
-cd
-still
-money
-quality
-every
-listing
+during ["lon don bi","lon wei"]
+usa ["man gelubi Emeigg"]
+return ["guma moini","giawin moini","da begin"]
+students ["zan bi guma zon"]
+shopping ["esin"]
+account ["miani","uno miani","man uno miani"]
+times ["don"]
+sites ["man"]
+level ["megi gan-zewi","megi","zugi","man zugi","zugi mengi"]
+digital ["bi uno zon"]
+profile ["zon zan","lebo zon zan"]
+previous ["boina","dan boina"]
+form ["lebo","vega","geni","lebo belin"]
+events ["zo don"]
+love ["lin"]
+old ["mazuni"]
+john ["zan Ezon"]
+main ["bi vuli won"]
+call ["dugi enon","ema-enon","ema-wega","dugi lon elo","ema-elo dugi"]
+hours ["don","don uno"]
+image ["vedelin"]
+department ["man buli","din buli"]
+title ["enon","enon vega"]
+description ["dugi leli","dugi lugin"]
+non ["va"]
+insurance ["uwein busi"] "TODO safe"
+another ["endei"]
+why ["dan vemi","da vemi"] "TODO purpose"
+shall ["li giawin"]
+property ["zo luga"]
+class ["megi zan"]
+cd ["vegei uno zon"]
+still ["uwein","da don dis"]
+money ["miani"]
+quality ["megi buna"]
+every ["muli won"]
+listing 
 content
 country
 private
