@@ -149,7 +149,7 @@ deso la, wei giawin lon bog mengi dis i zan bi din giasi
 
 # However, Walking beside this house was a woodcutter.
 
-is-zan wei gudei ei ema-liabei wei esebin ei go "zan mazuni dis va-wei ema-liabei mudei egin dis"
+is-zan wei gudei ei ema-liabei wei esebin ei go "zan mezuni dis va-wei ema-liabei mudei egin dis"
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 

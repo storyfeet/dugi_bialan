@@ -40,7 +40,7 @@ luga [hand] [luka] Hcua
 lugin [look,see,eye] [lukin,oko] "2yuaRfa"
 luli [hole,door,entrance] [lupa] HcadRau
 man [place] [ma] CcadCuf
-mazuni [old,ancient] [majuno] CyauMd
+mezuni [old,ancient] [majuno] CyauMd
 ma [parent] [mama] HcauWu
 miani [money,wealth] [mani] VeufMd
 min [female,feminine] [meli] Jeua
@@ -149,7 +149,10 @@ devo [milk] [telo,NEW]
 iawi [pain] [ike,NEW]
 usis [sick,infection] [ike,NEW]
 zenan [ public ] [NEW]
-institute [meseni]
+meseni [institute] [NEW,NOGLYPH]
+mezan [country] [NEW, NOGLYPH]
+wi [purpose] [AUX, NEW,NOGLYPH]
+uwenis [peace,rest] [NEW,NOGLYPH]
 
 
 
@@ -213,7 +216,7 @@ veli [real,true] [lon] "2sufRdb"
 #measurable
 ziasi [reflect,opposite] [amount,ante] PsuaBf
 
-ziazon [mass] [measure,suli] EafwSuwRfa
+ziazon [mass,weight] [measure,suli] EafwSuwRfa
 oiban [frequency] [measure] EafaSuwSuw
 
 belas [full] [suli,measure] BcadMm

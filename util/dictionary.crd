@@ -389,7 +389,7 @@ media ["esin bi lebo vis"] "TODO institution"
 law ["lebo liawa"]
 control ["liawa"]
 water ["delo"]
-history ["lugin don mazuni"]
+history ["lugin don mezuni"]
 pictures ["vedelin"]
 size ["megi vuli"]
 art ["musi"]
@@ -424,7 +424,7 @@ previous ["boina","dan boina"]
 form ["lebo","vega","geni","lebo belin"]
 events ["zo don"]
 love ["lin"]
-old ["mazuni"]
+old ["mezuni"]
 john ["zan Ezon"]
 main ["bi vuli won"]
 call ["dugi enon","ema-enon","ema-wega","dugi lon elo","ema-elo dugi"]
@@ -445,7 +445,7 @@ still ["uwein","da don dis"]
 money ["miani"]
 quality ["megi buna"]
 every ["muli won"]
-listing 
+listing ["man lebo"]
 content
 country
 private

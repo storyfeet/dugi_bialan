@@ -99,7 +99,6 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("megi", pre(0xe122));
     try map.put("vo", pre(0xe124));
     try map.put("va", pre(0xe126));
-    try map.put("zi", pre(0xe128));
 
     // Regular
 
@@ -224,10 +223,10 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
 
     try map.put("ma", nm(0xe1b4));
     try map.put("man", nm(0xe1b5));
-    try map.put("mazuni", nm(0xe1b6));
-    try map.put("memuso", nm(0xe1b7));
-    try map.put("mengi", nm(0xe1b8));
-    try map.put("menuga", nm(0xe1b9));
+    try map.put("memuso", nm(0xe1b6));
+    try map.put("mengi", nm(0xe1b7));
+    try map.put("menuga", nm(0xe1b8));
+    try map.put("mezuni", nm(0xe1b9));
     try map.put("miani", nm(0xe1ba));
     try map.put("miasegegi", nm(0xe1bb));
     try map.put("mi", nm(0xe1bc));
@@ -287,14 +286,15 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("zenan", nm(0xe203));
     try map.put("zewi", nm(0xe204));
     try map.put("ziana", nm(0xe205));
-    try map.put("zin", nm(0xe206));
-    try map.put("ziasi", nm(0xe207));
-    try map.put("ziavi", nm(0xe208));
-    try map.put("ziazon", nm(0xe209));
-    try map.put("zo", nm(0xe20a));
-    try map.put("zon", nm(0xe20b));
-    try map.put("zugi", nm(0xe20c));
-    try map.put("zugo", nm(0xe20d));
+    try map.put("zi", nm(0xe208));
+    try map.put("zin", nm(0xe209));
+    try map.put("ziasi", nm(0xe20a));
+    try map.put("ziavi", nm(0xe20b));
+    try map.put("ziazon", nm(0xe20c));
+    try map.put("zo", nm(0xe20d));
+    try map.put("zon", nm(0xe20e));
+    try map.put("zugi", nm(0xe20f));
+    try map.put("zugo", nm(0xe210));
 
     return map;
 }
