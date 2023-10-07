@@ -474,24 +474,24 @@ author ["zan lebo"]
 different ["endei"]
 press ["gan oiga","meseni lebo vis"]
 learn ["guma zon"]
-sale
-around
-print
-course
-job
-canada
-process
-teen
-room
-stock
-training
-too
-credit
-point
-join
-science
-men
-categories
+sale ["esin"]
+around ["lon vegei"]
+print ["bena lebo"]
+course ["man giawin"]
+job ["buli","zo buli"]
+canada ["mezan Geneda"]
+process ["lon buli","buli giawin"]
+teen ["zan bi guma vuli"]
+room ["doimo"]
+stock ["zo uwein"]
+training ["buli lebuni"]
+too ["egin"]
+credit ["luga","bena leban","miani gan-zewi"]
+point ["man egesa","egesa"]
+join ["duga","guma won","lei"]
+science ["zon","zon esegi"]
+men ["zan"]
+categories ["vega","vega zon"]
 advanced
 west
 sales
