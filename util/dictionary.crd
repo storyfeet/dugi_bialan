@@ -445,37 +445,35 @@ still ["uwein","da don dis"]
 money ["miani"]
 quality ["megi buna"]
 every ["muli won"]
-listing ["man lebo"]
-content
-country
-private
-little
-visit
-save
-tools
-low
-reply
-customer
-december
-compare
-movies
-include
-college
-value
-article
-york
-man
-card
-jobs
-provide
-j
-food
-source
-author
-different
-press
-u
-learn
+listing ["man lebo","lebo wi esin","lebo belin esin"]
+content ["ensa","zo ensa","ensa lebo"]
+country ["mezan"]
+private ["oimi","gein oimi"]
+little ["leli"]
+visit ["giawin lugin"]
+save ["bena usis","bena va-moili","bena gein wega"]
+tools ["elo"]
+low ["gan-oiga"]
+reply ["dugi moini"]
+customer ["zan bi esin leban"]
+december ["muni di-lan-di"]
+compare ["lugin endei"]
+movies ["vedelin giawin"]
+include ["bena ensa"]
+college ["meseni zon"]
+value ["gein miani", "megi miani" ,"megi buna"]
+article ["lebo leli"]
+york ["man oiligg"]
+man ["zan","mon"]
+card ["lebo busi","zo lebo egon" ]
+jobs ["zo buli"]
+provide ["bena"]
+food ["mugo"]
+source ["man bena"]
+author ["zan lebo"]
+different ["endei"]
+press ["gan oiga","meseni lebo vis"]
+learn ["guma zon"]
 sale
 around
 print
