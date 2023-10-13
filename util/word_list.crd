@@ -149,11 +149,10 @@ devo [milk] [telo,NEW]
 iawi [pain] [ike,NEW]
 usis [sick,infection] [ike,NEW]
 zenan [ public ] [NEW]
-meseni [institute] [NEW,NOGLYPH]
-mezan [country] [NEW, NOGLYPH]
-wi [purpose] [AUX, NEW,NOGLYPH]
-unis [peace,rest] [NEW,NOGLYPH]
-
+meseni [institute] [NEW]
+mezan [country] [NEW]
+wi [purpose] [AUX, NEW]
+unis [peace,rest,safe] [NEW]
 
 
 i [subject] [PAR,en] "1eua"
@@ -177,7 +176,7 @@ mugi [unknown,some] [question,seme] Hsad
 gelubi [group,meeting] [kulupu] HcadCaf
 guba [connection] [kulupu] BsubBa
 elena [dust,sand] [] Jddb
-geva [partner,spouse] [kulupu,kin,DEPRECATED] HsufBa
+geva [partner,spouse] [kulupu,kin] HsufBa
 
 
 egin [same,equal] [sama, AUX] "2cfdBa"

@@ -242,7 +242,7 @@ very ["mudei","zelula","ba"]
 privacy ["gein won"]
 book ["lebo"]
 items ["zo"]
-company ["gin zan buna","liawa esin"] "TODO institution"
+company ["gin zan buna","meseni esin"]
 read ["lugin lebo"]
 group ["gelubi"]
 need ["wei belin"]
@@ -254,7 +254,7 @@ set ["buli egesa","gelubi"]
 under ["lon gan-oiga"]
 general ["lon mugi","liawa udiala"]
 research ["lugin zon"]
-university ["man bi lugin zon"] "TODO institution"
+university ["man bi lugin zon","meseni zon vuli"]
 january ["muni won"]
 mail ["lebo wega"]
 full ["belas"]
@@ -266,7 +266,7 @@ know ["zon"]
 games ["ziasi"]
 way ["iasin"]
 days ["esuno"]
-management ["liawa buli"] "TODO institution"
+management ["liawa buli"]
 part ["din","doimo"]
 could ["gein lon boina"]
 great ["vuli"]
@@ -337,12 +337,12 @@ being ["enma", "zan enma" , "lon li"]
 women ["min","zan min"]
 much ["mudei"]
 sign ["luga bialan","dugi luga","lebo lugin"]
-file ["bugi lebo"] "TODO purpose"
+file ["bugi lebo","bugi wi lebo"]
 link ["guba","man guba"]
 open ["ubin"]
 today ["esuno dis","don esuno dis"]
 technology ["elo zon"]
-south ["gan van"] "TODO compass"
+south ["gan van"] 
 case ["bugi lebo","gelubi lebo"]
 project ["buli", "buli vuli","buli gelubi"]
 same ["egin"]
@@ -355,7 +355,7 @@ found ["guma lugin"]
 sports ["uli guli-guli"]
 house ["mengi doimo"]
 related ["egin guba","guba", "guba ma zi"]
-security ["gein uwein"] "TODO safe"
+security ["gein uwein","unis"]
 both ["di","muli di"]
 county ["man oiban liawa",]
 american ["bi man Emeigg"]
@@ -380,12 +380,12 @@ without ["va-gin"]
 per ["dan muli won"]
 access ["gein giawin","gein lugin"]
 think ["esebin"]
-north ["gan won"] 
+north ["gan-won"] 
 resources ["zo elo"]
 current ["bi don dis","giawin biawi","megi giawin biawi"]
 posts ["lebo wega","belesa","belesa bi lon goigo"]
 big ["vuli"]
-media ["esin bi lebo vis"] "TODO institution"
+media ["meseni wi lebo vis"] 
 law ["lebo liawa"]
 control ["liawa"]
 water ["delo"]
@@ -434,9 +434,9 @@ department ["man buli","din buli"]
 title ["enon","enon vega"]
 description ["dugi leli","dugi lugin"]
 non ["va"]
-insurance ["uwein busi"] "TODO safe"
+insurance ["uwein busi","esin unis"]
 another ["endei"]
-why ["dan vemi","da vemi"] "TODO purpose"
+why ["dan vemi","da vemi","da wi vemi"] 
 shall ["li giawin"]
 property ["zo luga"]
 class ["megi zan"]
@@ -492,54 +492,54 @@ join ["duga","guma won","lei"]
 science ["zon","zon esegi"]
 men ["zan"]
 categories ["vega","vega zon"]
-advanced
-west
-sales
-look
-english
-left
-team
-estate
-box
-conditions
-select
-windows
-photos
-gay
-thread
-week
-category
-note
-live
-large
-gallery
-table
-register
-however
-june
-october
-november
-market
-library
-really
-action
-start
-series
-model
-features
-air
-industry
-plan
-human
-provided
-tv
-yes
-required
-second
-hot
-accessories
-cost
-movie
+advanced ["gan-enbin mudei"]
+west ["gan-mo"]
+sales ["esin","uno esin","esin din","esin bi mianei leli"]
+look ["lugin"]
+english ["enlis"]
+left ["esenis","bi va-elo","va-leban"]
+team ["gelubi","gelubi uli"]
+estate ["man","man esin","man mengi","man belas"]
+box ["bugi","bugi lego"]
+conditions [] "TODO" 
+select ["iani","iani won"]
+windows ["luli lugin"]
+photos ["vedelin veli"]
+gay ["lin egin"]
+thread ["lena","lena leli","lena elein"]
+week ["lan di esuno"]
+category ["vega"]
+note ["ema-egesa", "lebo leli"]
+live ["guli-vi","doimo","lon don veli","lon lugin"]
+large ["vuli"]
+gallery ["man lugin","mengi lugin"]
+table ["zugi"]
+register ["lebo enon","bena enon"]
+however ["deso"]
+june ["muni lan-won"]
+october ["muni di-lan"]
+november ["muni di-lan-won"]
+market ["man esin"]
+library ["mengi lebo"]
+really ["veli"]
+action ["buli"]
+start ["begin"]
+series ["gelubi lena"]
+model ["ziasi leli"]
+features ["vega gein"]
+air ["gon"]
+industry ["meseni buli"]
+plan ["esebin"]
+human ["zan"]
+provided ["bena","esi .. la"]
+tv ["elo lugin","elo bi vedelin wega"]
+yes ["li","wei","gin"]
+required ["li wei belin"]
+second ["lon di"]
+hot ["vi"]
+accessories ["zo demego"]
+cost ["miani","leban","va-luga"]
+movie 
 forums
 march
 la
