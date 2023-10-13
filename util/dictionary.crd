@@ -358,7 +358,7 @@ related ["egin guba","guba", "guba ma zi"]
 security ["gein uwein","unis"]
 both ["di","muli di"]
 county ["man oiban liawa",]
-american ["bi man Emeigg"]
+american ["bi mezan Emeigg"]
 photo ["vedelin veli"]
 game ["ziasi"]
 members ["zan gelubi","zan ensa gelubi"]
@@ -410,7 +410,7 @@ rate ["megi giawin"]
 government ["meseni liawa"]
 children ["zi","zan leli"]
 during ["lon don bi","lon wei"]
-usa ["man gelubi Emeigg"]
+usa ["mezan gelubi Emeigg"]
 return ["guma moini","giawin moini","da begin"]
 students ["zan bi guma zon"]
 shopping ["esin"]
@@ -539,25 +539,24 @@ second ["lon di"]
 hot ["vi"]
 accessories ["zo demego"]
 cost ["miani","leban","va-luga"]
-movie 
-forums
-march
-la
-september
-better
-say
-questions
-july
-yahoo
-going
-medical
-test
-friend
-come
-dec
-server
-pc
-study
+movie ["vedelin giawin"]
+forums ["man dugi"]
+march ["muni van"]
+september ["muni luga mo"]
+better ["buna mudei","buna dan .."]
+say ["dugi","go"]
+questions ["dugi wi zon"]
+july ["muni luga won"]
+yahoo ["wiawa","Esin Iawu"]
+going ["giawin"]
+medical ["bi miasegegi"]
+test ["megi-zon"]
+friend ["zan buna"] "TODO Close/near"
+come ["guma"]
+dec ["muni di-lan-di"]
+server ["zan bena","elo uno bena"]
+pc ["elo uno begi","elo uno bi zan won"]
+study ["buli zon"]
 application
 cart
 staff
