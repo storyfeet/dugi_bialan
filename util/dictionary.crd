@@ -66,7 +66,7 @@ admission ["bena gein ensa","dugi veli", "dugi deso egi"]
 admit ["bena gein ensa","dugi veli", "dugi deso egi"]
 adolecent ["vuli vin"]
 adopt ["guma ma","bena ma"]
-adornment ["nemego guli-guli", "nemego lugin"]
+adornment ["demego guli-guli", "demego lugin"]
 adult ["zan vuli"]
 advance ["giawin enbin"]
 advanced ["lon enbin mudei"]
@@ -296,7 +296,7 @@ send ["bena wega"]
 right ["degis","gein liawa"]
 type ["vega"]
 because ["dan"]
-local ["va-wega"] "TODO near close"
+local ["va-wega","bog bog"] 
 those ["dis mudei", "das","das mudei"]
 using ["gin","lon wei elo"]
 results ["lebo bi lon devin"]
@@ -550,35 +550,33 @@ july ["muni luga won"]
 yahoo ["wiawa","Esin Iawu"]
 going ["giawin"]
 medical ["bi miasegegi"]
-test ["megi-zon"]
-friend ["zan buna"] "TODO Close/near"
+test ["megi-zon","megi-gein"]
+friend ["zan buna","zan bog"]
 come ["guma"]
 dec ["muni di-lan-di"]
 server ["zan bena","elo uno bena"]
 pc ["elo uno begi","elo uno bi zan won"]
 study ["buli zon"]
-application
-cart
-staff
-articles
-san
-feedback
-again
-play
-looking
-issues
-april
-never
-users
-complete
-street
-topic
-comment
-financial
-things
-working
-against
-standard
+application ["lebo wi gein","bena begi","buli zon"]
+cart ["bengo bugi"]
+staff ["belesa","zan buli"]
+feedback ["dugi bi lon devin"]
+again ["vis"]
+play ["ziasi"]
+looking ["lugin"]
+issues ["lebo","gein egi"]
+april ["muni mo"]
+never ["lon va-don"]
+users ["zan elo","zan bi wei elo"]
+complete ["belas"]
+street ["iasin","iasin mengi"]
+topic ["vega dugi"]
+comment ["dugi"]
+financial ["bi miani"]
+thing ["zo"]
+working ["lon wei buli"]
+against ["egon da","va-da","va-belin"]
+standard ["bi oiban","bog muli"]
 tax
 person
 below
@@ -869,7 +867,6 @@ rules
 final
 adult
 tickets
-thing
 centre
 requirements
 via

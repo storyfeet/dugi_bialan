@@ -7,7 +7,7 @@ This dictionary gives examples of how to communicate ideas in the Dugi Bialan. I
 
 <div >
 {{for k c in $cards}}
-{{if $c.dugi}}<p><b>{{$c.Name}}:</b> {{for kk w in $c.dugi}}&nbsp;-:-&nbsp; {{qoth $w}}{{/for}}</p>{{/if}}
+{{if $c.dugi}}<p><b>{{$c.Name}}:</b> {{for kk w in $c.dugi}}&nbsp;-:-&nbsp; {{dict $w}}{{/for}}</p>{{/if}}
 {{/for}}
 </div>
 
