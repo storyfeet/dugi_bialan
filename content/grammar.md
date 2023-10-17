@@ -26,16 +26,17 @@ Particles are used to tell the role that whatever follows them takes in the sent
 
 Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
 
-* After : {{qoth "i / ei / lon / gin / da / dan / devin boina"}}
-    * A noun followed by a list of adjectives that make it more specific.  {{qoth "elo vedelin"}} "Tool of image" or "pen".
+* The Particles {{qoth "i / ei / lon / gin / da / dan / devin / boina"}} are followed by.
+    * A noun phrase
     * A sub-clause
-* After : {{qoth "li" }} 
-    * An adjective list getting more specific. 
+* The Particle {{qoth "li" }} is followed by:
+    * An adjective phrase    
     eg : {{qoth "buna mudei"}} "good many / very good"
-    * A number followed by a noun.
+    * A quantifier and a noun phrase.    
     eg : {{qoth "won zan"}} "a person".
-* After {{qoth "wei"}} 
-    * A verb. eg : {{qoth "giawin moini"}} "going back"
+* The Particle {{qoth "wei"}} is followed by
+    * A verb / verb phrase.    
+    eg : {{qoth "giawin moini"}} "going back"
 
 The particle-idea pairs can be put together in any order to make a sentence. Verbs are not necessarily needed. For example :    
 
