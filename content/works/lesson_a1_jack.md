@@ -1,6 +1,8 @@
 {{export title="Jack and the Beanstalk (Lesson 1)"}}
 {{@md}}
 
+## Chapter 1 - A curious trade
+
 - {{qoth "ma min"}} : Mother (Parent Female)
 
 Jack and his {{qq "ma min"}} lived in a small house with their cow, and very little money.
@@ -47,9 +49,9 @@ During the night, {{qq "zi beba wei"}} began to grow into a tall {{qq "giasi"}} 
 
 - {{qoth "ei"}} : Direct Object Marker. (Marks what the verb happens to)
 
-She commanded Jack to climb {{qq "ei belesa zi beba dis da wei lugin ei"}} what's at the top"
+She commanded Jack to climb {{qq "ei giasi zi beba dis da wei lugin ei"}} what's at the top"
 
-{{qq "zan Zagg wei"}} started {{qq "gan zewi"}}, it was a hard climb when he reached the top he was exhausted.
+{{qq "zan Zagg wei"}} started {{qq "gan zewi"}}. It was a hard climb. When he reached {{qq "ei"}} top, he was exhausted.
 
 - {{qoth "gein"}} : able / can
 
@@ -63,6 +65,34 @@ He walked {{qq "da"}} it and {{qq "wei lugin"}} that it was much more {{qq "vuli
 
 "How {{qq "gein"}} I get in?" he {{qq "wei"}} asked himself, but then he {{qq "wei lugin ei"}} small gap under the door, {{qq "vuli"}} enough for someone small like him to climb through.
 
-Once he was inside, he looked and on the table {{qq "vuli"}} he saw a hen. He {{qq "wei lugin" }} from around the corner as a {{qq "zan vuli vuli wei"}} sa
+Once he was inside, he looked and, on the table {{qq "vuli"}} he saw a hen. He {{qq "wei lugin" }} from around the corner as a {{qq "zan vuli vuli wei"}} speak {{qq "da"}} hen saying "Lay".
 
+- {{qoth "don"}} : Time / Moment / Hour
 
+At that {{qq "don"}} the Hen {{qq "wei"}} laid {{qq "ei"}} egg that was pure gold.
+
+{{qq "zan vuli vuli wei"}} took {{qq "ei"}} egg, {{qq "wei"}} cooked {{qq "wei"}} ate.
+
+- {{qoth "giawin"}} : go / move
+
+{{qq "zan Zagg wei"}} thought {{qq "da"}} himself, "I {{qq "wei"}} need to get me {{qq "ei" }} that hen". He waited until {{qq "zan vuli vuli wei giawin"}} then snuck onto the table {{qq "vuli, wei"}} grabbed {{qq "ei"}} hen, {{qq "wei giawin" }} back {{qq "da giasi bi zi beba"}} 
+
+As he {{qq "wei"}} neared the top, he {{qq "wei"}} heard the {{qq "zan vuli vuli wei"}} crying out, {{qq "wei giawin giawin"}} after him.
+
+- {{qoth "is-mon"}} : him / his (as adjective after a noun)
+
+{{qq "zan Zagg wei giawin giawin, wei"}} grabbed {{qq "ei"}} top of the {{qq "giasi bi zi beba, wei"}} slid straight down {{qq "da ma min is-mon"}}
+
+- {{qoth "mugo"}} : food / eat
+
+{{qq "ma min"}} was very excited about this. The two of them {{qq "wei mugo ei"}} golden eggs for months.
+
+## Chapter 2 - Another visit.
+
+- {{qoth "vis"}} : New
+
+Much later, at {{qq "don mugo vis, zan Zagg wei"}} spoke to {{qq "ma min is-mon"}} He wanted {{qq "giawin"}} back up {{qq "da"}} castle {{qq "da wei"}} explore some more.
+
+- {{qoth "is-min"}} : She
+
+{{qq "ma min wei"}} thought, this was a great idea, {{qq "is-min wei"}} made {{"da is-mon ei"}} golden egg sandwiches.
