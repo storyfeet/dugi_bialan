@@ -49,7 +49,7 @@ During the night, {{qq "zi beba wei"}} began to grow into a tall {{qq "giasi"}} 
 
 - {{qoth "ei"}} : Direct Object Marker. (Marks what the verb happens to)
 
-She commanded Jack to climb {{qq "ei giasi zi beba dis da wei lugin ei"}} what's at the top"
+She commanded Jack to climb {{qq "ei giasi zi beba da wei lugin ei"}} what's at the top"
 
 {{qq "zan Zagg wei"}} started {{qq "gan zewi"}}. It was a hard climb. When he reached {{qq "ei"}} top, he was exhausted.
 
@@ -89,10 +89,39 @@ As he {{qq "wei"}} neared the top, he {{qq "wei"}} heard the {{qq "zan vuli vuli
 
 ## Chapter 2 - Another visit.
 
-- {{qoth "vis"}} : New
+- {{qoth "vis"}} : New / Again / Re-
 
 Much later, at {{qq "don mugo vis, zan Zagg wei"}} spoke to {{qq "ma min is-mon"}} He wanted {{qq "giawin"}} back up {{qq "da"}} castle {{qq "da wei"}} explore some more.
 
-- {{qoth "is-min"}} : She
+- {{qoth "is-min"}} : She / Her
 
 {{qq "ma min wei"}} thought, this was a great idea, {{qq "is-min wei"}} made {{"da is-mon ei"}} golden egg sandwiches.
+
+{{qq "zan Zagg wei"}} began {{qq "vis"}} to climb the {{qq "giasi bi zi beba"}}. {{qq "is-mon wei"}} entered {{qq "vis ei"}} castle, quietly.
+
+- {{qoth "bi wei"}} : That does / of doing
+
+On the table {{qq "vuli, zan Zagg wei lugin ei"}} Harp {{qq "bi wei"}} play music by itself.
+
+- {{qoth "i"}} : Marks the subject when not the first word
+
+{{qq "is-mon wei lugin ei zan vuli vuli wei"}} say to the harp "Play", and "Stop" and realized {{qq "ei i is-mon wei"}} wanted it.
+
+{{qq "is-mon wei"}} waited {{qq "da i zan vuli vuli wei giawin"}} before {{qq "wei"}} climing onto the table {{qq "wei"}} taking the harp, {{qq "wei giawin giawin" }} away.
+
+But the harp {{qq "wei"}} called out, and {{qq "zan vuli vuli wei"}} chased after {{qq "zan Zagg, wei lugin ei i zan Zagg wei giawin"}} down the {{qq "giasi bi zi beba"}}.
+
+{{qq "zan vuli vuli wei giawin"}} down behind {{qq "zan Zagg"}}. But {{qq "zan Zagg wei"}} reached the bottom first.
+
+- {{qoth "din"}} : cut
+- {{qoth "elo"}} : tool
+
+{{qq "is-mon wei"}} called {{"da ma min is-mon"}}, Oh fetch the Axe. {{qq "is-min wei giawin wei"}} returned with the {{qoth "elo din giasi"}}, and {{"zan Zagg wei"}} began {{"din"}}.
+
+{{qq "giasi bi zi beba wei"}} fell with a mighty crash, and {{qq "zan vuli vuli"}} with it.
+
+That was the end of {{qq "zan vuli vuli"}}.
+
+As for {{qq "zan Zagg"}} and {{qq "ma min is-mon"}}. They {{qq "wei"}} lived a quite life, {{qq "wei mugo ei"}} golden egg sandwiches, to the beautiful sound of a harp, thinking nothing of {{qq "zan vuli vuli"}}
+
+
