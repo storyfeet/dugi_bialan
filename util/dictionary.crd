@@ -577,38 +577,35 @@ thing ["zo"]
 working ["lon wei buli"]
 against ["egon da","va-da","va-belin"]
 standard ["bi oiban","bog muli"]
-tax
-person
-below
-mobile
-less
-got
-blog
-party
-payment
-equipment
-login
-student
-let
-programs
-offers
-legal
-above
-recent
-park
-stores
-side
-act
-problem
-red
-give
-memory
-performance
-social
-q
-august
-quote
-language
+tax ["miani zenan","miani liawa","miani mezan"]
+person ["zan"]
+below ["lon gan-oiga","gan-oiga"]
+mobile ["gein luga","gein giawin","elo dugi"]
+less ["leli","uno leli"]
+got ["luga","guma luga"]
+blog ["lebo esebin zenan"]
+party ["don wiawa","musi eniasa"]
+payment ["bena miani"]
+equipment ["zo elo"]
+login ["ensa","ensa oimi"]
+student ["wi zon"]
+let ["bena gein"]
+offer ["belin bena","dugi bena"]
+legal ["bi lebo liawa"]
+above ["lon gan-zewi","lon zugi"]
+recent ["lon don beni leli","bi don bog"]
+park ["man ziavi"]
+side ["bog"]
+act ["musi egin"]
+problem ["gein egi"]
+red ["ga-una"]
+give ["bena"]
+memory ["zon","gein zon"]
+performance ["musi giawin","bena musi"]
+social ["bog zan"]
+august ["muni lan van"]
+quote ["dugi egesa","go"]
+language ["dugi","vega dugi"]
 story
 sell
 options
@@ -663,7 +660,6 @@ light
 write
 war
 nov
-offer
 blue
 groups
 al
