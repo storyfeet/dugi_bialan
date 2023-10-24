@@ -606,51 +606,48 @@ social ["bog zan"]
 august ["muni lan van"]
 quote ["dugi egesa","go"]
 language ["dugi","vega dugi"]
-story
-sell
-options
-experience
-rates
-create
-key
-body
-young
-america
-important
-field
-few
-east
-paper
-single
-ii
-age
-activities
-club
-example
-girls
-additional
-password
-z
-latest
-something
-road
-gift
-question
-changes
-night
-ca
-hard
-texas
-oct
-pay
-four
-poker
-status
-browse
-issue
-range
-building
-seller
+story ["dugi musi"]
+sell ["esin"]
+options ["gein iani","iani"]
+experience ["boina buli"]
+rates ["oiban","megi oiban","miani"]
+create ["buli"]
+key ["elo loigo"]
+body ["guli guli"]
+young ["bi don leli", "vis"]
+america ["mezan emeigg"]
+important ["vuli","gein vuli","enon vuli"]
+field ["man eleba"]
+few ["uno leli"]
+east ["gan di"]
+paper ["ziana lebo"]
+single ["won"]
+age ["megi mezuni"]
+activities ["buli","gein buli"]
+club ["gelubi","gelubi oiban"]
+example ["won","gein lugin"]
+girl ["min leli","min"]
+additional ["mudei"]
+password ["dugi oimi ensa"]
+latest ["vis belas","vis dan muli"]
+something ["mugi","zo"]
+road ["iasin","iasin bengo"]
+gift ["bena","zo bena"]
+question ["wi zon","dugi wi zon"]
+changes ["endei","guma endei","gein endei"]
+night ["don va-esuno"]
+hard ["egon"]
+texas ["man Degesas"]
+oct ["lan van"]
+pay ["bena miani","bena ei miani","wei miani"]
+four ["mo"]
+poker ["liazi Bugg"]
+status ["man enma"]
+browse ["lugin lugin","lugin belin"]
+issue ["bena","uno lebo","gein dugi"]
+range ["megi wega","man lugin","man bi lugin ensa" ]
+building ["mengi"]
+seller ["zan esin","zan esin bena"]
 court
 february
 always
@@ -940,7 +937,6 @@ magazine
 error
 camera
 jun
-girl
 currently
 construction
 toys
