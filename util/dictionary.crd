@@ -641,72 +641,65 @@ texas ["man Degesas"]
 oct ["lan van"]
 pay ["bena miani","bena ei miani","wei miani"]
 four ["mo"]
-poker ["liazi Bugg"]
+poker ["liazi Bugg"] "??"
 status ["man enma"]
 browse ["lugin lugin","lugin belin"]
 issue ["bena","uno lebo","gein dugi"]
 range ["megi wega","man lugin","man bi lugin ensa" ]
 building ["mengi"]
 seller ["zan esin","zan esin bena"]
-court
-february
-always
-result
-audio
-light
-write
-war
-nov
-blue
-groups
-al
-easy
-given
-files
-event
-release
-analysis
-request
-fax
-china
-making
-picture
-needs
-possible
-might
-professional
-yet
-month
-major
-star
-areas
-future
-space
-committee
-hand
-sun
-cards
-problems
-london
-washington
-meeting
-rss
-become
-interest
-id
-child
-keep
-enter
-california
-share
-similar
-garden
-schools
-million
-added
-reference
-companies
-listed
+court ["mengi oiban"]
+february ["muni di"]
+always ["lon don muli"]
+result ["zo boina"] "??"
+audio ["bi ema-ema"]
+light ["lena esuno"]
+write ["lebo vedelin"]
+war ["udiala"]
+blue ["ga-zewi"]
+easy ["gein gein"]
+given ["bi bena","bena","dan bena"]
+file ["bugi lebo","bugi wi lebo"]
+event ["zo don"]
+release ["va-loigo"]
+analysis ["lugin esebin"]
+request ["dugi dan belin"]
+fax ["wega biawi vedelin"]
+china ["mezan Zoingo"]
+making ["buli"]
+picture ["vedelin"]
+needs ["wei belin belin","belin da guli-vi"]
+possible ["gein"]
+might ["gein la","gein belin"]
+professional ["zan elo","bi elo buna"]
+yet ["da don dis"]
+month ["muni"]
+major ["vuli","zan undiala vuli"]
+star ["esuno wega"]
+future ["don guma"]
+space ["zewi zewi", "zewi va-gon"]
+committee ["gelubi oiban"]
+hand ["luga"]
+sun ["esuno"]
+cards ["lebo busi","lebo liazi","eleba liazi"]
+london ["man mengi Lundon"]
+washington ["man mengi Wiazendon"]
+meeting ["guma zon","don dugi","don bi esin zon"]
+rss [""] "TODO"
+become ["guma","guma li"]
+interest ["belin lugin","vuli din"]
+id ["enon","uno enon"]
+child ["zan leli","zi","zi leli"]
+keep ["luga uwein"]
+enter ["ensa"]
+california ["man liawa Gelevoina"]
+share ["bena bena","din"]
+similar ["egin leli","bog egin"]
+garden ["man giala","man beba"]
+million ["za za za","won wiawa lan di"]
+added ["mudei","bena"]
+reference ["uno lugin"]
+listed 
 baby
 learning
 energy
