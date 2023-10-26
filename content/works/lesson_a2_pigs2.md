@@ -41,6 +41,7 @@ She then {{wei}} sent {{qq "zan Zagg da"}} bed without any supper, and later {{w
 
 During the night, {{qq "zi beba wei"}} began to grow into a tall {{qq "giasi"}} By the morning they {{qq "wei"}} touched the sky.
 
+
 - {{qoth "bi"}} : of (separates groups of words)
 
 {{qq "zan Zagg"}} and his {{qq "ma min wei lugin"}} at the {{qq "giasi bi zi beba"}} coming out of the rubbish pile.
@@ -123,5 +124,4 @@ But the harp {{qq "wei"}} called out, and {{qq "zan vuli vuli wei"}} chased afte
 That was the end of {{qq "zan vuli vuli"}}.
 
 As for {{qq "zan Zagg"}} and {{qq "ma min is-mon"}}. They {{qq "wei"}} lived a quite life, {{qq "wei mugo ei"}} golden egg sandwiches, to the beautiful sound of a harp, thinking nothing of {{qq "zan vuli vuli"}}
-
 

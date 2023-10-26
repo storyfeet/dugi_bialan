@@ -153,9 +153,9 @@ meseni [institute] [NEW]
 mezan [country] [NEW]
 wi [purpose] [AUX, NEW]
 unis [peace,rest,safe] [NEW]
-eselin [hooker] [NEW,NO_GLYPH]
-liazi [blackjack] [NEW,NO_GLYPH]
-udon [wave] [NEW,NO_GLYPH]
+eselin [hooker] [NEW,"NO_GLYPH"]
+liazi [blackjack] [NEW,"NO_GLYPH"]
+udon [wave] [NEW,"NO_GLYPH"]
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad
