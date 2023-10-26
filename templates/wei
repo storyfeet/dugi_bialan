@@ -1,1 +1,1 @@
-{{exec_stdin "zig/convert" (cat "wei " $0) }}
+{{exec_stdin "zig/convert" (cat "wei " (first $0 "")) }}

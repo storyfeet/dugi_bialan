@@ -1,4 +1,4 @@
-{{export title="The Tree Little Pigs (Lesson 2)"}}
+{{export title="The Three Little Pigs (Lesson 2)"}}
 {{@md}}
 
 
@@ -30,13 +30,26 @@
 
 ## Chapter one - Setting Out
 
-once upon a {{qq "don"}} there were three little pigs. It was {{qq "don"}}, their {{qq "ma min wei"}} thought, that they {{qq "wei giawin"}} out on their own.
+- {{qoth "vo-esegi"}} : Pig (animal ball)
+
+once upon a {{qq "don"}} there were three little {{qq "vo-esegi"}}. It was {{qq "don"}}, their {{qq "ma min wei"}} thought, that they {{qq "wei giawin"}} out on their own.
 
 - {{qoth "mi"}} : I / me / my 
 - {{qoth "mengi"}} : Building / build / House
 
-So off they {{qq "wei giawin"}}, and while they {{qq "wei giawin"}} they {{qq "wei"}} met a {{"zan bi wei esin ei"}} straw. That's perfect, said the first pig, {{qq "mi wei mengi ei mengi mi"}} in no {{"don"}}
+So off they {{qq "wei giawin"}}, and while they {{qq "wei giawin"}} they {{qq "wei"}} met a {{qq "zan bi wei esin ei"}} straw. "That's perfect", said the first {{qq "vo-esegi, \"mi wei mengi ei mengi mi"}} in no {{qq "don\""}}
 
 He {{qq "wei esin ei"}} lots of straw and set about making {{qq "mengi is-mon"}}
 
+- {{qoth "belesa"}} : stick
+
+The other two {{wei "giawin"}} on their way. They met a {{qq "zan bi wei esin ei belesa giasi"}}. 
+
+- {{qoth "dugi"}} : speak / say
+
+"That's perfect" {{wei "dugi i "}} second pig, this will be stronger than {{qq "mengi bi"}} brother {{qq "mi"}}, but still {{qq "mi wei gein mengi ei"}} it in {{qq "don"}} little.
+
+- {{qoth "iasin"}} : way / road / method
+
+The third pig {{wei "giawin"}} on {{qq "iasin is-mon"}}
 
