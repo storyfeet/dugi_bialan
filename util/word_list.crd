@@ -33,7 +33,7 @@ liawa [head,control] [lawa] ReubRua
 lego [brick] [leko] LaafWu
 elein [cloth] [len] EsabCuf
 ledei [cold] [lete] JuufMs
-leli [small] [lili] KduaAu
+leli [small, try] [lili] KduaAu
 lena [line,cord,string] [linja] QeubMd
 lebo [book,document] [lipu] EcfdRfu
 luga [hand] [luka] Hcua
@@ -153,9 +153,9 @@ meseni [institute] [NEW]
 mezan [country] [NEW]
 wi [purpose] [AUX, NEW]
 unis [peace,rest,safe] [NEW]
-eselin [hooker] [NEW]
-liazi [blackjack] [NEW]
-
+eselin [hooker] [NEW,NO_GLYPH]
+liazi [blackjack] [NEW,NO_GLYPH]
+udon [wave] [NEW,NO_GLYPH]
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad

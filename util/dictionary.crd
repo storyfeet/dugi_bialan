@@ -473,7 +473,7 @@ source ["man bena"]
 author ["zan lebo"]
 different ["endei"]
 press ["gan oiga","meseni lebo vis"]
-learn ["guma zon"]
+learn ["guma zon","wi zon"]
 sale ["esin"]
 around ["lon vegei"]
 print ["bena lebo"]
@@ -699,41 +699,37 @@ garden ["man giala","man beba"]
 million ["za za za","won wiawa lan di"]
 added ["mudei","bena"]
 reference ["uno lugin"]
-listed 
-baby
-learning
-energy
-run
-delivery
-net
-popular
-term
-film
-stories
-put
-computers
-journal
-reports
-co
-try
-welcome
-central
-images
-president
-notice
-original
-head
-radio
-until
-cell
-color
-self
-council
-away
-includes
-track
-australia
-discussion
+listed ["lon lebo"]
+baby ["zi leli"]
+learning ["wi zon"]
+energy ["wiawa","gein wiawa"]
+run ["giawin giawin"]
+delivery ["giawin bena","guma bena"]
+net ["ususa lena"]
+popular ["luga enon"]
+term ["don zon","zo lebo","zo liawa"]
+film ["vedelen giawin","lena (wi) vedelin"]
+put ["bena"]
+journal ["lebo esebin"]
+co ["gelubi"]
+try ["leli"]
+welcome ["guma buna"]
+central ["lon memuso","bi memuso"]
+president ["liawa zenan"]
+notice ["guma lugin"]
+original ["bi won","bi boina muli"]
+head ["liawa"]
+radio ["udon wega"]
+until ["da don bi"]
+cell ["edin-zo"]
+color ["ga-ga"]
+self ["begi"]
+council ["meseni oiban zenan"]
+away ["wega"]
+includes ["luga", "luga ensa"]
+track ["iasin vo-vo","lugin iasin"]
+australia ["mezan Oidelela"]
+discussion ["dugi dugi"]
 archive
 once
 others
