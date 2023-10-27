@@ -113,8 +113,8 @@ But the harp {{qq "wei"}} called out, and {{qq "zan vuli vuli wei"}} chased afte
 
 {{qq "zan vuli vuli wei giawin"}} down behind {{qq "zan Zagg"}}. But {{qq "zan Zagg wei"}} reached the bottom first.
 
-- {{qoth "din"}} : cut
-- {{qoth "elo"}} : tool
+- {{qoth "din"}} : Cut
+- {{qoth "elo"}} : Tool / Use
 
 {{qq "is-mon wei"}} called {{"da ma min is-mon"}}, Oh fetch the Axe. {{qq "is-min wei giawin wei"}} returned with the {{qoth "elo din giasi"}}, and {{"zan Zagg wei"}} began {{"din"}}.
 
