@@ -642,7 +642,7 @@ oct ["lan van"]
 pay ["bena miani","bena ei miani","wei miani"]
 four ["mo"]
 poker ["liazi Bugg"] "??"
-status ["man enma"]
+status ["enma"]
 browse ["lugin lugin","lugin belin"]
 issue ["bena","uno lebo","gein dugi"]
 range ["megi wega","man lugin","man bi lugin ensa" ]
@@ -651,7 +651,7 @@ seller ["zan esin","zan esin bena"]
 court ["mengi oiban"]
 february ["muni di"]
 always ["lon don muli"]
-result ["zo boina"] "??"
+result ["enma boina"]
 audio ["bi ema-ema"]
 light ["lena esuno"]
 write ["lebo vedelin"]
@@ -721,7 +721,7 @@ original ["bi won","bi boina muli"]
 head ["liawa"]
 radio ["udon wega"]
 until ["da don bi"]
-cell ["edin-zo"]
+cell ["edn-zo"]
 color ["ga-ga"]
 self ["begi"]
 council ["meseni oiban zenan"]
@@ -730,7 +730,7 @@ includes ["luga", "luga ensa"]
 track ["iasin vo-vo","lugin iasin"]
 australia ["mezan Oidelela"]
 discussion ["dugi dugi"]
-archive
+archive 
 once
 others
 entertainment

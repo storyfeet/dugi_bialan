@@ -99,7 +99,7 @@ In fact : {{qq "is-van wei elo ei don ba mudei"}} that {{qq "vo-di endei wei"}} 
 - {{qoth "o"}} : Oh - Imperetive / wish  
 - {{qoth "leli"}} : Little
 
-"{{qq "o vo esegi leli, o vo esegi leli, o }} let me come in "
+"{{qq "o vo esegi leli, o vo esegi leli, o "}} let me come in "
 
 - {{qoth "va"}} : Not / no
 - {{qoth "lena"}} : line / cord / hair

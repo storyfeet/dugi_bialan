@@ -116,7 +116,7 @@ wiasa [wing] [waso] "BufdWd"
 wiawa [mighty,strong] [wawa] FwuaDu
 biawi [electric] [wawa] "LuufSad"
 wega [yeet,away,gone] [weka] "FcfuMdF5"
-enma [being,soul,spirit] [zan,sijelo] "5cfwSwu"
+enma [being,soul,spirit,state] [zan,sijelo] "5cfwSwu"
 esebin [think] [isipin] QhuaCuf
 ziana [flat,sheet,paper,leaf] [supa,lipu] EmadDd
 degis [right,side] [teje] EcuaSuw
@@ -166,8 +166,8 @@ gin [with,using,also,"and-PAR"] [PAR,kin] CsubRfu
 lon [at,in] [PAR,lon] CsubRadMc
 wei [do,verb] [PAR,li] BaadMc
 o [imperetive] [PAR,o] WmubCfd
-boina [before] [PAR,tenpo,lili,pini] SsufMa
-devin [after,then] [PAR,tenpo,suli,kama] SaufMs
+boina [before] [AUX,tenpo,lili,pini] SsufMa
+devin [after,then] [AUX,tenpo,suli,kama] SaufMs
 go [quote] [PAR,quote] TmabWu
 
 esi [if] [CON,la] QsubRuf
