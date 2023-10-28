@@ -8,7 +8,7 @@ Overview
 
 Dugi Bialan is a minimalist language seeking balance between simplicity and minimalism with ease of communication, for both speaker and listener.
 
-It currently has fewer than 200 words, and the majority of meanings can be created by combining these. There may be more words added slowly, and carefully in future. Enough to enable species identification and some difficult concepts, but never more than 240. (Few enough to fit the whole word list and alphabet within a byte)
+It currently has close to 200 words, and the majority of meanings can be created by combining these. There will be more words added slowly, and carefully in future. Enough to enable species identification and some difficult concepts, but never more than 240. (Few enough to address the whole word list and alphabet within a byte)
 
 The language has 5 types of words. 
 
@@ -456,31 +456,47 @@ It can be used as a verb to mean "decide".
 {{qoth "o vi buna ei delo ziana, iani la, mi va-wei gein mugo"}}    
 -- Oh cook well the tea, otherwise I can't drink [it].
 
-
 ### {{qoth "egin"}} - also / same
 
+{{q "egin"}} can mean "also"
+
+{{qoth "mi egin li vi"}}    
+-- I too am hot
+
+It can also mean "the same"
+
+{{qoth "mi li egin vin"}}    
+-- I'm the same as you
+
+{{qoth "egin la"}} can mean "moreover / again"
+
+{{qoth "mi li belin liabei, egin la, mi li belin mugo"}}
+-- I'm tired, moreover, I'm hungry.
+
 ### {{qoth "boina / devin"}} - Before / After
+
+
 
 Prefix Particles
 ----------------
 
-Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed. in the romanisation, it is appropriate to hyphenate the join.
+Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed to separate these words from any words before them. In the Romanisation, it is appropriate to hyphenate the join.
 
 these are : 
-* edi : taste
-* edin : atom 
-* ema : Sound
-* ga : colour 
-* geni : shape 
-* guli : body part
-* is : pronoun 
-* megi : distance
-* va : negator
-* vo : animal
+* {{uqoth "edi"}} : taste
+* {{uqoth "edin"}} : atom 
+* {{uqoth "ema"}} : Sound
+* {{uqoth "ga"}} : colour 
+* {{uqoth "geni"}} : shape 
+* {{uqoth "guli"}} : body part
+* {{uqoth "is"}} : pronoun 
+* {{uqoth "megi"}} : distance
+* {{uqoth "va"}} : negator
+* {{uqoth "vo"}} : animal
 
 When joined to themselves, they mean the concept they cover.
-* va-va : none
-* ga-ga : Colour
+* {{uqoth "va-va"}} : none
+* {{uqoth "ga-ga"}} : Colour
 
 When joined to each other the child prefix has its own clarifier
 
