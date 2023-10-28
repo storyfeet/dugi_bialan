@@ -18,7 +18,7 @@ The language has 5 types of words.
 * Prefixes (PRE)
 * Atoms (ATOM)
 
-To aid the listener/reader each type of word is only used as 1 of these things, and does not get mixed as others.
+To aid the listener/reader, each type of word is only used as one of these things, and cannot be confused with the others.
 
 The particle types are marked with each word in the [word list](/word_list). Words without a marking are ATOMs
 
@@ -26,7 +26,7 @@ Particles are used to tell the role that whatever follows them takes in the sent
 
 Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
 
-* The Particles {{qoth "i / ei / lon / gin / da / dan / devin / boina"}} are followed by.
+* The Particles {{qoth "i / ei / lon / gin / da / dan "}} are followed by.
     * A noun phrase
     * A sub-clause
 * The Particle {{qoth "li" }} is followed by:
@@ -70,6 +70,7 @@ Sentences can be negated by prefixing the relevant Particle with 'va'
 
 * {{qoth "mi va-li buna"}} "I am not good"
 * {{qoth "mi va-wei zon"}} "I don't know"
+* {{qoth "mi va-gin is-mon"}} I'm not with him"
 
 Yes-no questions are asked by using the "particle not-particle" structure. 
 
@@ -176,8 +177,6 @@ dropped if sentence starts with subject
 * "dan" : because/from : followed by a noun or adjective
 * "go" : saying/quote : followed by the quoted clause (use "")
 * "o" : Imperetive/Vocative/Polite Call : followed by either a verb or someone to call politely
-* "boina" : before : followed by a noun
-* "devin" : after : followed by a noun
 
 
 It is important to note that the same word can be a noun, verb or adjective.
@@ -218,8 +217,7 @@ Because a Complex item may be sub-clause, and sub-clauses must always be Strict 
 ### dan wei : from doing / because did
 
 -- {{qoth "mi li buna dan wei giawin delo"}}    
-.. i like swimming    
-?? I AM good FROM DO go water
+.. i like swimming    ?? I AM good FROM DO go water
 
 ### gin gin : and with 
 
@@ -237,25 +235,6 @@ Verb that happened to subject
 
 -- {{qoth "mi lon wei dugi"}}      
 .. I'm in the middle of talking    
-
-
-Before and After exception
-------------
-
-{{qoth "lon boina"}} by itself means "before" and is used for giving statements about the past without needing an "item".
-
--- {{qoth "lon boina [ i ] mi li buna"}}
-.. "Before,  I was good"
-
-But without "lon", it requires an item and gives info about what happened
-
--- {{qoth "boina giawin mi li belin iagi"}}
-.. Before going I was fealing yucky
-
-{{qoth "lon devin"}} by itself means "after / next" and like "lon boina" does not require an "item".
-
--- {{qoth "lon devin [ i ] mi li buna"}} 
-.. in the future I will be good
 
 
 Conjuctions
@@ -386,12 +365,15 @@ Auxiliary Particles
 Auxiliary particles have a special job to do but their role is unlike any other character and have special rules for each of them.
 
 They are:
-* bi : of
-* deso : except / but / however
-* aini :  or
-* egin : also / same
+* {{qoth "bi"}} : of
+* {{qoth "wi"}} : purpose
+* {{qoth "deso"}} : except / but / however
+* {{qoth "iani"}} :  or
+* {{qoth "egin"}} : also / same
+* {{qoth "boina"}} : Before
+* {{qoth "devin"}} : After
 
-### bi
+### {{qoth "bi"}} - of
 
 bi has two main jobs
 
@@ -408,26 +390,41 @@ A bi B C -> A of (B of C)
 
 compare :
 
-zan miani lili - (man of money) of small - the small wealthy money
+- {{qoth "zan miani leli"}} - (man of money) of small - the small wealthy man
+- {{qoth "zan bi miani leli"}} - man of (money of small) - the poor man.
 
-zan bi miani lili - man of (money of small) - the poor man.
 
 For dependent clauses.
 
-'bi' can be followed by any other particle, and becomes something close to "that"
+'bi' can be followed by any other particle, and mean "that"
 
-vo-zuwi **bi wei** moili ei gela mi [la] li luga ei guli-delo lon luga is-vo.
+{{qoth "vo-wuwi bi wei moili ei gela mi \\[la\\] li luga ei guli-delo lon luga is-vo."}}
 
 The 'cat', that killed my fish, has blood on it's hands.
 
-### deso - Except/But
+### {{qoth "wi"}} - purpose
 
-Deso can be used like a particle to mean except
+{{q "wi"}} is used to help separate a "cup of water", and a "water cup".
 
--- mi wei mugo muli deso gela    
-.. I eat everything except fish
+- {{qoth "bugi delo"}} :  Container of Water
+- {{qoth "bugi wi delo" }} : Container whose purpose is water
 
-It can be used with negation to mean only or just. the va can apply to the particle or to deso directly
+THe latter may not have any water in it.
+
+
+### {{qoth "deso"}} - Except/But
+
+{{q "deso" }} can be used like a particle to mean "except"
+
+{{qoth "mi wei mugo muli deso gela"}}    
+-- I eat everything except fish
+
+{{qoth "deso la"}} allows you to begin a sentence with "however".
+
+{{qoth "mi wei giawin da man ziavi, deso la, va-zan lon man dis"}}    
+-- I went to the park, however, there was no-one there.
+
+It can be used with negation to mean "nothing but","only" or "just". The va can apply to the particle or to deso directly
 
 -- mi va-wei deso mugi ei gela
 -- mi wei va-deso mugi ei gela    
@@ -435,16 +432,34 @@ It can be used with negation to mean only or just. the va can apply to the parti
 
 -- mi wei mugi va-ei deso gela dis
 -- mi wei mugo ei va-deso gela dis    
-.. I'm eat only this fish
+.. I eat only this fish
 
 -- me wei bena ei dis va-da deso vin
 -- me wei bena ei dis da va-deso vin
 .. I give this to only you
 
-### iani - or / choice
+### {{qoth "iani"}} - or / choice
 
-### egin - also / same
+{{q "iani"}} can be used to separate options
 
+{{qoth "vin wei mugo ei delo ziana, iani delo bi zi beba"}}    
+-- you do consume tea OR coffee?
+-- would you like to drink tea OR coffee?
+
+It can be used as a verb to mean "decide".
+
+{{qoth "me wei iani mugo ei delo ziana"}}    
+-- I choose to drink tea
+
+{{qoth "iani la"}} can mean "otherwise".
+
+{{qoth "o vi buna ei delo ziana, iani la, mi va-wei gein mugo"}}    
+-- Oh cook well the tea, otherwise I can't drink [it].
+
+
+### {{qoth "egin"}} - also / same
+
+### {{qoth "boina / devin"}} - Before / After
 
 Prefix Particles
 ----------------
