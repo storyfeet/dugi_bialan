@@ -5,63 +5,103 @@
 
 I have long wanted to make a language like Dugi Bialan, but I did not have the skills/knowledge needed to put it together before I met Toki Pona. My previous attempts are nothing to write home about/in.
 
-Learning Toki Pona taught my many things, and as such Dugi Bialan is a Tokiponido, a child language of Toki Pona, as it could not exist without the hard work that jan Sonja put into making Toki Pona.
+Learning Toki Pona taught me many things, and as such Dugi Bialan is a Tokiponido, a child language of Toki Pona, as it could not exist without the hard work that jan Sonja put into making Toki Pona.
 
-That said, this langauge deviates from Toki Pona wildly. My main reason for doing this is that I don't want to have to leave the language I'm speaking to communicate effectively. 
+That said, this langauge deviates from Toki Pona wildly. My main reason for doing this is that I don't want to have to drop back to English to communicate effectively. 
 
 - In Toki Pona, precision was basically impossible
-
+    
     We'd be at the park and the kids would ask, "tempo li semi"/"what time is it". Giving the hour was fine, but not the minutes.
-
+    
     Toki Pona deliberately makes this precision difficult, to persuade us to relax. But I'm not relaxed, I can't cope without it. So I had to drop back to English.
-
+    
     Sat at the dinner table, we'd struggle to ask for anything, because everything was the same.
 
 - Grammatical Ambiguity was too wild
-
+    
     Does "mi pana e tomo tawa sina" mean "I give you my house", or "I give your car". These are wildly different.
 
 - Phonotactical Ambiguity
-
+    
     In songs (yes I still listen to toki pona music on spotify), I couldn't hear the difference between "ma ni" and "mani", or find the boundaries between other words"
-
+    
     Toki Pona uses "Stress" to disambiguate, but in songs, that's often harder to hear.
 
 - Does he eat, or is he food
-
+    
     "ona li moku"
-
+    
     It's hard to tell an adjective apart from a verb. There are tools, like adding a direct object or an owner.
-
+    
     "ona li moku e kili"
-
+    
     "ona li moku sina"
     
     But not every verb has a direct to object fix this.
 
 - I REALLY wanted dependant clauses
-
-    This is probably my most sore point, but Toki Pona has to tools/words to do this, but refuses.
-
+    
+    This is probably my most sore point, but Toki Pona has to tools/words to do this, but refuses. "pi li" / or "of does", would work so well to enable a phrase like the following.
+    
     "soweli pi li moku e kala mi li luka e telo sijelo lon luka ona"
-
-    The Cat which ate my fish, has blood on it's hands
+    
+    The animal which ate my fish, has blood on it's hands
      
-    I'll accept this is personal preference, but to me that "pi" does the what I want, but the Toki Pona community I met, somewhat dissagree.
+I was somewhat shut-down when I tried to test out the last item in the forums. I do get the point, and Toki Pona is not my language to change as I see fit.
 
-In frustration, I said, "that's it, I'm going to build my own [ language ] with blackjack and hookers" (and where "pi" can introduce a dependent clause.)
+"that's it" I said "I'm going to build my own [ language ] with blackjack and hookers" (and where "pi" can introduce a dependent clause.)
 
 Incidentally, {{qoth "liazi"}}:"blackjack" and {{qoth "eselin"}}:"hooker"
 
+## A language of Balance
+
+I wanted to keep as much of the simplicity of Toki Pona as I could, but I wanted to be able to express some common things simply that, in Toki Pona, might take more than 4 words, or even a whole sentence.
+
+I decided my new language would be a "Language of Balance" {{qoth "dugi bialan"}}. Its goal would finding a place where I kept the features of Toki Pona I love, but balanced them with ability to communicate clearly.
+
+For Example:
+
+* Simple Phonotactics
+    
+    It should be as easy as possibly for anyone on the world to make all the sounds needed.
+    
+    But now balanced with making word boundaries easy to find.
+
+* A Minimalist Word set
+    
+    A small word set is easy to learn, and being forced to use this set, simplifies how you think about things, and communicate.
+    
+    But balanced this with a need to describe common concepts quickly, or use them as a base for other words.
+    
+* Non Lexicalisation    
+    
+    Combined words, should not (for the most part) become single words, but instead describe concepts, that "might" be translated as single words in another language.
+    
+    But balanced with sometimes needing to be specific/precise.
+
+* No gramatically unavoidable information.
+    
+    Concepts like gender, time and plurality, should not be forced on the speaker. 
+    
+    eg "he/she", "I went/I will go", "car/cars". In English it is hard to avoid putting in this information.
+    
+    But balanced by allowing the speaker to add this information when they wish. (Toki Pona does this one well enough)
+
+* Inclusive pronouns
+    
+    No-one should feel they can't be addressed kindly, or have to fight to be welcomed.
+    
+    But balanced with the need disambiguate sentences.
+    
+
 ## If I'm creating a new langauge anyway, I might as well fix the problems I see
 
-Dugi Bialan means "Language of Balance". I love the simplicity of Toki Pona, but a few convenience words would really help in some places.
 
 Maybe a few cleared grammar rules would really help the listener know what's happening.
 
 Maybe if we could easily hear where each word ends, that would help people follow the story.
 
-### Phonotactic ambiguity.
+### Simple Phonotactics - Clear word boundaries
 
 This has a surprisingly simple fix.
 
@@ -84,17 +124,13 @@ Because some of these sounds glide. I had to dissallow words from starting with 
 
 Then, because I wasn't paying attention, I allowed the "i" at the start of words. But since there are only three possible words that start with "i" it wasn't a big problem. This is the language of "Balance" not "Perfection" after all. I like the words I already have that start with an 'i', and even though "goigo" can collide with "go i go", the later is grammatically very unlikely.
 
-### Softer Sounds
+### Minimalist Word Set - Common Words added
 
-I still want to speak Toki Pona, and learning a fork of it makes it tricky to know what comes from what. I already have enough trouble with French and Spanish. How much worse if I used the same sounds/words from Toki Pona.
+I wanted Dugi Bialans word list to have echos of Toki Pona, but also be distinct enough that it was easy to know which I was speaking. I still want to speak Toki Pona sometimes.
 
 Instead of 't', 'k', and 'p', I opted to use their voiced equivilents, in order 'd', 'g', and 'b'. This meant that even if the words were similar, I'd be saying different words in each language to help me know which I was supposed to be speaking.
 
-### Creating Words
-
-I wanted to be able to say everthing I could in Toki Pona, so it seemed sensible to start with Toki Pona words, and just move them across to Dugi Bialan.
-
-This was not always as easy as you might expect. The stricter phonotactic rules I created meant that many Toki Pona words, simply could not be said within Dugi Bialan rules, (Though most dugi bialan words, can be said in Toki Pona).
+Moving words across was not always as easy as you might expect. The stricter phonotactics, meant that many Toki Pona words, simply could not be said within Dugi Bialan rules.
 
 "awen" - stand/wait - for example, has an 'a' at the beginning, and 'en' on the end. so I had to switch out the vowels, 'ewan' would have been acceptable, but at that time, I hadn't yet allowed 'a' at the end of words, so I settled on 'uwein'.
 
@@ -103,7 +139,7 @@ This was not always as easy as you might expect. The stricter phonotactic rules 
 - doimo - room
 - mengi - building
 - bengo - vehicle (some Tokiponists use "pingo")
-- mesuni - institution (maybe "kulupu")
+- mesuni - institute ("tomo sona" can be "mesuni zon")
 
 ### Doing vs Being
 
@@ -116,12 +152,26 @@ for example {{qoth "elo"}} = "kepeken", and "ilo"
 -- {{qoth "dis wei elo"}} - this uses
 -- {{qoth "dis li elo"}} - this is a tool
 
-(I also slightly expanded "kin" {{qoth "gin"}} to include "using" )
-
 -- {{qoth "mi li mugo"}} : I am food
 -- {{qoth "mi wei mugo"}} : I eat
 
-## Precision and numbers
+### Inclusive Pronouns
+
+A big part of the role of "He" and "She" in English is to help the listener know which of two people did a thing, "he said, she said". It's helpful to have a bit of extra info to narrow this down, but it doesn't have to be locked on Gender. 
+
+In Dugi Bialan, it can be anything. {{qoth "is"}} followed by any one item. This means people can.
+
+{{qoth "is-zan"}} : The person ( He / She / They)
+{{qoth "is-zo"}} : The thing ( it )
+{{qoth "is-mon"}} : The male ( He / They (m))
+{{qoth "is-min"}} : The female ( She / They (f))
+{{qoth "is-mudei"}} : The many ( They )
+{{qoth "is-vuli"}} : The big ( He / She / They )
+{{qoth "is-won"}} : The one / The first 
+{{qoth "is-buna"}} : The good 
+{{qoth "is-egi"}} : The bad (found more than once in my diary)
+
+### Precision and numbers
 
 In toki Pona, it's possible to use "hand","many", and "all" to represent the numbers 5, 20, and 100, which allows some larger numbers, but not clearly distinct.
 
@@ -139,5 +189,5 @@ The number sounds are all short, and with practice become quite easily chainable
 
 {{qoth "in-za-in-di"}} : 2023
 
-
 You can now name any element, using "edin [number]", eg {{qoth "edin lan van"}} (Oxygen) and while most people do not know all the atomic numbers, you do not need to leave the language for precision.
+
