@@ -1,7 +1,7 @@
 {{export title="Coming From Toki Pona"}}
 {{@md}}
 
-## If you love Toki Pona so much, why mmake a new one?
+## If you love Toki Pona so much, why make a new one?
 
 I have wanted to make a language like Dugi Bialan, for a long time, but I did not have the skills/knowledge needed to put it together until I found Toki Pona. Most notably, how simple a framework can be to still achieve soo much, and how different "morphemes" (units of meaning) can be broken up so effectively, even while being different lengths.
 
@@ -13,7 +13,7 @@ That said, this langauge deviates from Toki Pona wildly in many places, and I wa
     
     My main reason for doing this is that I don't want to have to drop back to English while speaking another language.
     
-    Some concepts are made deliberately tricky in Toki Pona such as Numbers and Time, to help us relax about them. But I'M NOT RELAXED, I need to know time exactly at all times.
+    Some concepts, such as numbers and time, are made deliberately tricky in Toki Pona. This is to help us relax about them. But I'M NOT RELAXED, I need to know time exactly at all times.
     
     Other concepts that can be described in one English word, take a whole Toki Pona sentence. 
     
@@ -24,7 +24,7 @@ That said, this langauge deviates from Toki Pona wildly in many places, and I wa
     Toki Pona can be vague, choosing to give less information that you naturally would in English, ("soweli" is just animal not cat/dog/cow), though extra detail can be added if needed, but sometimes the ambiguity was too much for me. 
     
     - "mi pana e tomo tawa sina": Is that "I give you my house" or "I give your car"?
-    - "ona li moku" Does he eat? or is he food? 
+    - "ona li moku" Do they eat? or are they food? 
     
     I'm happy with the vagueness, but the ambiguity was too much.
 
@@ -36,7 +36,7 @@ That said, this langauge deviates from Toki Pona wildly in many places, and I wa
 
 - I REALLY wanted dependant clauses
     
-    This is probably my sorest point, but Toki Pona has tools to create dependent clauses, but refuses. "pi li" / or "of does", would work so well to enable a phrase like the following.
+    This is probably my sorest point, but Toki Pona has tools to create dependent clauses, but refuses to use them. "pi li" / or "of does", would work so well to enable a phrase like the following.
     
     "soweli pi li moku e kala mi li luka e telo sijelo lon luka ona"
     
@@ -46,7 +46,11 @@ That said, this langauge deviates from Toki Pona wildly in many places, and I wa
 
 But I CAN flip and change my own language. "That's it," I said "I'm going to build my own [ language ], with blackjack and hookers" (and where "pi" can introduce a dependent clause.)
 
-Incidentally, {{uqoth "liazi"}}:"blackjack" and {{uqoth "eselin"}}:"hooker"
+<img src="/pics/blackjacknhookers2.jpg" witdh="300px"/>
+
+Incidentally    
+- {{uqoth "liazi"}}:"blackjack"    
+- {{uqoth "eselin"}}:"hooker"
 
 ## A language of Balance
 
@@ -58,7 +62,7 @@ For Example:
 
 * Simple Phonotactics
     
-    It should be as easy as possibly for anyone in the world to make all the sounds needed.
+    It should be as easy as possible for anyone in the world to make all the sounds needed.
     
     But now balanced with making word boundaries easy to find.
 
@@ -86,7 +90,7 @@ For Example:
     
     No-one should feel they can't be addressed kindly, or have to fight to be welcomed.
     
-    But balanced with the need disambiguate sentences.
+    But balanced disambiguation
     
 
 ## If I'm creating a new langauge anyway, I might as well fix the problems I see
@@ -203,7 +207,7 @@ In Dugi Bialan I wanted numbers, but I did want to guard the simplicity of Toki 
 
 The number sounds are all short, and with practice become quite easily chainable to make larger numbers.
 
-{{qoth "in-za-in-di"}} : 2023
+{{qoth "in-za-in-van"}} : 2023
 
 You can now name any element, using "edin [number]", eg {{qoth "edin lan van"}} (Oxygen) and while most people do not know all the atomic numbers, you do not need to leave the language for precision.
 
