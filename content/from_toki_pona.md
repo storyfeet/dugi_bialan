@@ -3,20 +3,18 @@
 
 ## If you love Toki Pona so much, why change it.
 
-I have long wanted to make a language like Dugi Bialan, but I did not have the skills/knowledge needed to put it together before I met Toki Pona. My previous attempts are nothing to write home about/in.
+I have wanted to make a language like Dugi Bialan, for a long time, but I did not have the skills/knowledge needed to put it together until I found Toki Pona. Most notably, how simple a framework can be to still achieve soo much. 
 
-Learning Toki Pona taught me many things, and as such Dugi Bialan is a Tokiponido, a child language of Toki Pona, as it could not exist without the hard work that jan Sonja put into making Toki Pona.
+Learning Toki Pona, has taught me many things, and I have used them to make Dugi Bialan. Along with many direct imports, making Dugi Bialan a Tokiponido, a child language of Toki Pona. It could not exist without the hard work that jan Sonja put into making Toki Pona.
 
-That said, this langauge deviates from Toki Pona wildly. My main reason for doing this is that I don't want to have to drop back to English to communicate effectively. 
+That said, this langauge deviates from Toki Pona wildly in many places, and I wanted to explain why. My main reason for doing this is that I don't want to have to drop back to English to communicate effectively.  
 
 - In Toki Pona, precision was basically impossible
     
-    We'd be at the park and the kids would ask, "tempo li semi"/"what time is it". Giving the hour was fine, but not the minutes.
+    We'd be at the park and the kids would ask, "tempo li semi"/"what time is it". Giving the hour was fine, but not the minutes. Or if I wanted to say "10 minutes til we go home" I was somewhat stuck.
     
     Toki Pona deliberately makes this precision difficult, to persuade us to relax. But I'm not relaxed, I can't cope without it. So I had to drop back to English.
     
-    Sat at the dinner table, we'd struggle to ask for anything, because everything was the same.
-
 - Grammatical Ambiguity was too wild
     
     Does "mi pana e tomo tawa sina" mean "I give you my house", or "I give your car". These are wildly different.
