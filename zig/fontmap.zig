@@ -122,7 +122,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("biawi", nm(0xe13f));
     try map.put("bog", nm(0xe140));
     try map.put("beledi", nm(0xe141));
-    try map.put("boina", nm(0xe142));
+    try map.put("boina", aux(0xe142));
     try map.put("bubiado", nm(0xe143));
     try map.put("bubumi", nm(0xe144));
     try map.put("buguni", nm(0xe146));
@@ -141,7 +141,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("devo", nm(0xe156));
     try map.put("denso", nm(0xe157));
     try map.put("deso", aux(0xe158));
-    try map.put("devin", par(0xe159));
+    try map.put("devin", aux(0xe159));
     try map.put("din", nm(0xe15a));
     try map.put("di", nm(0xe15b));
     try map.put("dis", nm(0xe15c));
@@ -168,17 +168,18 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("enon", nm(0xe171));
     try map.put("ensa", nm(0xe172));
     try map.put("esebin", nm(0xe173));
-    try map.put("esenis", nm(0xe174));
-    try map.put("esi", con(0xe175));
-    try map.put("esin", nm(0xe176));
-    try map.put("esuno", nm(0xe177));
-    try map.put("ezan", nm(0xe178));
-    try map.put("esegi", nm(0xe179));
+    try map.put("eselin", nm(0xe174));
+    try map.put("esenis", nm(0xe175));
+    try map.put("esi", con(0xe176));
+    try map.put("esin", nm(0xe177));
+    try map.put("esuno", nm(0xe178));
+    try map.put("ezan", nm(0xe179));
+    try map.put("esegi", nm(0xe17a));
 
-    try map.put("gedin", nm(0xe17a));
-    try map.put("gein", nm(0xe17b));
-    try map.put("gela", nm(0xe17c));
-    try map.put("geli", nm(0xe17d));
+    try map.put("gedin", nm(0xe17b));
+    try map.put("gein", nm(0xe17c));
+    try map.put("gela", nm(0xe17d));
+    try map.put("geli", nm(0xe17e));
     try map.put("gelubi", nm(0xe17f));
     try map.put("geva", nm(0xe180));
     try map.put("giala", nm(0xe181));
@@ -214,12 +215,13 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("liabei", nm(0xe1a7));
     try map.put("liamon", nm(0xe1a8));
     try map.put("liawa", nm(0xe1a9));
-    try map.put("lin", nm(0xe1aa));
-    try map.put("loigo", nm(0xe1ab));
-    try map.put("lon", par(0xe1ac));
-    try map.put("luga", nm(0xe1ad));
-    try map.put("lugin", nm(0xe1ae));
-    try map.put("luli", nm(0xe1af));
+    try map.put("liazi", nm(0xe1aa));
+    try map.put("lin", nm(0xe1ab));
+    try map.put("loigo", nm(0xe1ac));
+    try map.put("lon", par(0xe1ad));
+    try map.put("luga", nm(0xe1ae));
+    try map.put("lugin", nm(0xe1af));
+    try map.put("luli", nm(0xe1b0));
 
     try map.put("ma", nm(0xe1b4));
     try map.put("man", nm(0xe1b5));
