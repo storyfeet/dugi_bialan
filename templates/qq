@@ -1,1 +1,1 @@
-{{exec_stdin "zig/convert" $0}}
+{{exec_stdin "zig/convert" $0}}\

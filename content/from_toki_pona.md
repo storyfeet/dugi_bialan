@@ -105,15 +105,15 @@ Have a set of sounds, one of which must appear exactly once per word.
 
 You could do this at the start or the end, or even in the middle. I chose the end.
 
-Every word in Dugi Bialan ends in one of the following sounds.
-
+Every word in Dugi Bialan ends in one of the following sounds. (Read as [IPA](https://ipachart.com)
+    
     'a' 'an' 'as'    
     'o' 'on' 'os'     
     'i' 'in' 'is'
     'ei' 'ein' 'eis'
 
 And those sounds do not appear elsewhere.  There are a separate set of vowels that may be repeated throughout the rest of the word.
-
+    
     'oi' 'ia' 'e' 'u'
 
 Because some of these sounds glide. I had to dissallow words from starting with an "a" to avoid a problem after words ending with an 'i'.  I also dissallowed "n" or "s", from the start of words for the same reason.
