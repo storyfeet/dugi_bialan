@@ -54,7 +54,7 @@ The third {{qq "vo-esegi wei giawin"}} on his way, {{wei "lugin ei zan bi wei es
 - {{qoth "van"}} : Three
 - {{qoth "is-van"}} : the third / the three (he/she/it/they)
 
-"This is perfect" {{qoth "is-van wei dugi"}} This {{wei "mengi ei mengi"}} strong and safe for me, even if it takes a long {{qq "don"}}, and lots of work.
+"This is perfect" {{qq "is-van wei dugi"}} This {{wei "mengi ei mengi"}} strong and safe for me, even if it takes a long {{qq "don"}}, and lots of work.
 
 ## Chapter 2 : Building the houses - {{qq "i wei mengi ei mengi"}}
 
@@ -183,7 +183,7 @@ And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa e
 - {{qoth "ziavi eniasa"}} : make fun (play crazy)
 - {{qoth "va-don"}} : never
 
-{{qq "vo-esegi won, i vo-esegi di, va wei ziavi eniase ei zi ma, lon va-don vis"}}
+{{qq "vo-esegi won, i vo-esegi di, va wei ziavi eniasa ei zi ma, lon va-don vis"}}
 
 
 

@@ -677,3 +677,18 @@ If you want to be precise just use the atomic number
 
 * zi-ma : Child of parent - sibling
 * zi-esegi : Child ball - egg
+
+Repeated Particles
+--------------
+
+The following particles may be repeated to achieve commmunicate that that particles is key.
+
+
+- {{qoth "mi li buna"}} I am good
+- {{qoth "mi li li"}} I AM.
+
+- {{qoth "mi lon man dis"}} I'm at this place
+- {{qoth "mi lon lon"}} I'm HERE
+
+- {{qoth "mi wei wei"}} I'm DOING
+
