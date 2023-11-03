@@ -153,9 +153,10 @@ meseni [institute] [NEW]
 mezan [country] [NEW]
 wi [purpose] [AUX, NEW]
 unis [peace,rest,safe] [NEW]
-eselin [hooker] [NEW,"NO_GLYPH"]
-liazi [blackjack] [NEW,"NO_GLYPH"]
+eselin [hooker] [NEW]
+liazi [blackjack] [NEW]
 udon [wave] [NEW,"NO_GLYPH"]
+wendo [bird,"flying creature"] [NEW,PRE]
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad
@@ -202,7 +203,14 @@ di [two] [tu,number] "2csb"
 van [three] [san,"tu wan",number] "3csb"
 mo [four] [po,number] "4csb"
 lan [five] [luka,number] "5csb"
-in [twenty] [mute,number] Pcsb
+zeis [six] [number]
+vos [seven] [number]
+lis [eight] [number]
+lein [nine] [number]
+mas [ten]
+
+
+in [twenty] [mute,number,DEPRECATED] Pcsb
 za [hundred] [mute,ali,number] Bcsb
 
 mudei [several,increase] [mute,amount] "2sadCwf"
