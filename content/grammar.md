@@ -335,22 +335,22 @@ Numbers
 Build numbers use hyphens to show they are still the same number
 
 Number words are : 
-* won : 1
-* di : 2
-* van : 3
-* mo : 4
-* lan : 5
-* in : 20
-* za : 100
+* {{uqoth "won"}} : 1
+* {{uqoth "di"}} : 2
+* {{uqoth "van"}} : 3
+* {{uqoth "mo"}} : 4
+* {{uqoth "lan"}} : 5
+* {{uqoth "in"}} : 20
+* {{uqoth "za"}} : 100
 
 A low number before a higher number multiplies it.
 
 
-1 - 4: won, di, van, mo     
-5 - 9 : lan, lan-won, lan-di, lan-van, lan-mo    
-10 - 14 : di-lan, di-lan-won, di-lan-di , di-lan-van, di-lan-mo    
-15 - 19 : van-lan, van-lan-won, van-lan-di, van-lan-van, van-lan-mo    
-20 : in    
+1 - 4: {{qq "won, di, van, mo"}}    
+5 - 9 : {{qq "lan, lan-won, lan-di, lan-van, lan-mo"}}    
+10 - 14 : {{qq " di-lan, di-lan-won, di-lan-di , di-lan-van, di-lan-mo"}}      
+15 - 19 : {{qq "van-lan, van-lan-won, van-lan-di, van-lan-van, van-lan-mo"}}    
+20 : {{qoth "in"}}    
 25 : in-lan    
 30 : in-di-lan    
 35 : in-van-lan    
