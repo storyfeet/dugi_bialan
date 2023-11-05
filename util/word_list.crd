@@ -11,7 +11,7 @@ zo [thing] [ijo] Fcsd
 egi [bad] [ike] PmubMs
 elo [tool] [ilo] FsuaMpRfa
 ensa [inside] [insa] "2cbwCua"
-iagi [yucky,"bad tasting"] [jaki] "2mafRab"
+iagi [yucky,"bad tasting", unclean] [jaki] "2mafRab"
 zan [person] [jan] Vsdb
 gela [fish] [kala] "5ffaWa"
 guma [come,become,arrive,achieve] [kama] EfabMs
@@ -66,7 +66,7 @@ oimi [hidden,secret] [weka] EmsfWf
 oindi [order,sort] [nasin] QadbMs
 lin [love] [olin] CcuaRfu
 begin [start,begin] [open] QsfdRfu
-ubin [open] [open] EcadRua
+ubin [open, free] [open] EcadRua
 biagela [broken] [pakala] FcfdMsRfa
 biagei [stop] [pake] EcufAb
 buli [make,do,build] [pali] FcabCuf
@@ -97,7 +97,7 @@ munin [over] [supa] CwuaSua
 zugi [surface,counter,table] [supa] EcadMfRfd
 viala [cover,lid,door] [supa,nena] QcadWu
 wuwi [sweet] [suwi] EsdbWu
-bubiado [poison,bitter] [] WmafRad
+bubiado [poison,bitter,danger] [] WmafRad
 giawin [leg,go] [tawa] VsdbMf
 delo [water] [telo] JsfaMf
 deli [oil] [deli] "5cfaDfWa"
