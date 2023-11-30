@@ -22,8 +22,8 @@ esuno won la, ma min is-leli go "o da ma ma min ei delo beba dis. is-ma li belin
 # one day, her mother told her "Oh [take] to granny this vegetable soup. She's feeling unwell"
 
 "deso la, o va-wei va-zon ei lebo liawa bi man giasi dis : 
-uno won la, o va-wei wega, lon don va-va, dan iasin
-uno di la, o va-wei dugi, lon don va-va, gin vo-ezan eliasi"
+uno won la, o va-wei wega, lon don va-zo, dan iasin
+uno di la, o va-wei dugi, lon don va-zo, gin vo-ezan eliasi"
 
 # "but don't forget the rules of the forest:
 # number 1 : don't stray from the path

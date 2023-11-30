@@ -64,7 +64,7 @@ Note the {{qoth "esi"}}  "A esi B" means "if A then B". This the meaning is "If 
 
 Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.
 
-Prefixes (PRE) must always have an item after them to complete their meaning. If the same prefix occurs twice, that becomes a complete word, and means roughly the concept it carries. For example {{qoth "ga-una"}} means "colour of mouth" or "red" but {{qoth "ga-ga"}} means "colour"
+Prefixes (PRE) must always have an item after them to complete their meaning. If that item is {{qoth "zo"}} it means the concept that item represents . For example {{qoth "ga-una"}} means "colour of mouth" or "red" but {{qoth "ga-zo"}} means "colour"
 
 Sentences can be negated by prefixing the relevant Particle with 'va'
 
@@ -494,14 +494,10 @@ these are :
 * {{uqoth "va"}} : negator
 * {{uqoth "vo"}} : animal
 
-When joined to themselves, they mean the concept they cover.
-* {{uqoth "va-va"}} : none
-* {{uqoth "ga-ga"}} : Colour
-
 When joined to each other the child prefix has its own clarifier
 
 * ga-(vo-ezan) : Wolf-coloured
-* ga-(vo-vo) : Animal colour
+* ga-(vo-zo) : Animal coloured
 
 ### The Pronoun "is"
 
@@ -530,13 +526,8 @@ The general "it", such as "It's raining" "It's dark" "there is" "It is required"
 
 * is-mi : mine
 * is-vin : Yours
-* is-is : his/her/theirs / belonging to the subject
 
 #### Labeled Pronouns
-
-* is-won : Main character
-* is-di : Second main character
-* is-van : Third main character
 
 These pronouns can be assigned using to following phrase
 
@@ -544,7 +535,6 @@ These pronouns can be assigned using to following phrase
 
 -- zan Elenuna is-won la, li buna    
 .. Elenuna, who we shall call is-won is/was good
-
 
 ### "va"
 
@@ -567,8 +557,7 @@ These pronouns can be assigned using to following phrase
 -- va-o va-zon
 .. don't forget
 
-* va-va : none
-* va-zo : nothing
+* va-zo : none / nothing
 * va-deso : only
 * va-zon : forget
 
@@ -576,11 +565,10 @@ These pronouns can be assigned using to following phrase
 
 Describe colours how you like, but these are some good starters.
 
-* ga-ga : colour
+* ga-zo : colour
 * ga-won : uniform colour
 * ga-gon : transparent
-* ga-va-zo : black 
-* ga-va-va : colourless
+* ga-va-zo : black
 * ga-esuno : yellow/orange
 * ga-delo : blue
 * ga-zewi : light-blue
@@ -592,13 +580,13 @@ Describe colours how you like, but these are some good starters.
 
 * ga-dugi : accent
 
-If you wish to say, "all the colours" you can say "ga-ga muli"
+If you wish to say, "all the colours" you can say "ga-zo muli"
 
 ### Shapes with geni
 
 As with colours, these are guidelines.
 
-* geni-geni : Shape
+* geni-zo : Shape
 * geni-esuno : circle
 * geni-din : pointy
 * geni-muni : crescent
@@ -608,7 +596,6 @@ As with colours, these are guidelines.
 * geni-ledei : Snowflake shaped
 * geni-va-zo : formless
 * geni-lugin : eye shaped/oval
-
 
 ### Atoms and molecules with edin
 
@@ -620,10 +607,11 @@ If you want to be precise just use the atomic number
 * edin-mo : berylium
 
 * edin-duga : Molecule
+* edin-zo : Atom
 
 ### Animals with vo
 
-* vo-vo : Animal
+* vo-zo : Animal
 * vo-zan : Monkey
 * vo-ezan : Wolf/Tiger/fierce animal 
 * vo-zon : cunning animal / fox
@@ -640,8 +628,7 @@ If you want to be precise just use the atomic number
 
 ### Body parts with guli
 
-* guli-guli : organ
-* guli-zan : body
+* guli-zo : body
 * guli-zon : brain
 * guli-mugo : gut
 * guli-delo : kidneys
@@ -650,7 +637,7 @@ If you want to be precise just use the atomic number
 * guli-lei : joint
 
 ### Tastes with edi
-* edi-edi : taste
+* edi-zo : taste
 * edi-gon : smell
 * edi-wuwi : Sweet
 * edi-giala : Sweet like flower
@@ -658,7 +645,7 @@ If you want to be precise just use the atomic number
 
 ### Sounds with ema
 
-* ema-ema : Sound
+* ema-zo : Sound
 * ema-egon : Crash / drum 
 * ema-vo-vo : Animal noise
 * ema-musi : Singing
@@ -666,17 +653,12 @@ If you want to be precise just use the atomic number
 
 ### Measurements with megi
 
-* megi-megi : Measure
+* megi-zo : Measurement
 * megi-liawa : Height
 * megi-vi : Tempurature
 * megi-munin : Width
 * megi-giawin : Length
 * megi-lei : Angle
-
-### Child of with zi
-
-* zi-ma : Child of parent - sibling
-* zi-esegi : Child ball - egg
 
 Repeated Particles
 --------------

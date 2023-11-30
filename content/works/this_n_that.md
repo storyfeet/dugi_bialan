@@ -110,7 +110,7 @@ lon don dis la mi li belin egi wei dugi go "mi zon ei i vin wei oimi ei mugi. vi
 
 # Tell you what he said, let's get you your money back. Hows this : Double or nothing.
 
-"Mi di vin wei buli mugi. mi o buli bena da vin ei miani vin. di-don iani va-va"
+"Mi di vin wei buli mugi. mi o buli bena da vin ei miani vin. di-don iani va-zo"
 
 # I have This card here, That Card Here. All you have to do is tell me what the last card is, and you get all your money back.
 

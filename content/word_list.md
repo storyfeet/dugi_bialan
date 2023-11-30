@@ -12,7 +12,7 @@
 {{/for}}
 <br>
 {{for ww w in $c.en}}{{$w}} {{/for}}
-{{for ww w in $c.tags}}{{$w}} {{/for}}
+{{if $c.tags}}{{for ww w in $c.tags}}{{$w}} {{/for}}{{/if}}
 </div>
 {{/for}}
 </div>
