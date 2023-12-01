@@ -107,7 +107,7 @@ An Item is a list of words. Latter words act as an adjective/adverb everything b
 * {{qoth "elo ema-musi vuli"}} : tool music big - big instrument
 * {{qoth "elo bi ema-musi vuli"}} : tool of (music big) - loud instrument
 * {{qoth "doimo bi delo guli-guli"}} :  Room of wash body / bathroom
-* {{qoth "vo-wuwi eliasi bi wei mugo ei gela mi"}} "the cat that ate my fish"
+* {{qoth "vo-wuwi eliasi bi wei mugo ei gela-zo mi"}} "the cat that ate my fish"
 
 __Complex : Item | Strict__
 
@@ -398,7 +398,7 @@ For dependent clauses.
 
 'bi' can be followed by any other particle, and mean "that"
 
-{{qoth "vo-wuwi bi wei moili ei gela mi \\[la\\] li luga ei guli-delo lon luga is-vo."}}
+{{qoth "vo-wuwi bi wei moili ei gela-zo mi \\[la\\] li luga ei guli-delo lon luga is-vo."}}
 
 The 'cat', that killed my fish, has blood on it's hands.
 
@@ -416,7 +416,7 @@ THe latter may not have any water in it.
 
 {{q "deso" }} can be used like a particle to mean "except"
 
-{{qoth "mi wei mugo muli deso gela"}}    
+{{qoth "mi wei mugo muli deso gela-zo"}}    
 -- I eat everything except fish
 
 {{qoth "deso la"}} allows you to begin a sentence with "however".
@@ -426,12 +426,12 @@ THe latter may not have any water in it.
 
 It can be used with negation to mean "nothing but","only" or "just". The va can apply to the particle or to deso directly
 
--- mi va-wei deso mugi ei gela
--- mi wei va-deso mugi ei gela    
+-- mi va-wei deso mugi ei gela-zo
+-- mi wei va-deso mugi ei gela-zo    
 .. I only eat fish
 
--- mi wei mugi va-ei deso gela dis
--- mi wei mugo ei va-deso gela dis    
+-- mi wei mugi va-ei deso gela-zo dis
+-- mi wei mugo ei va-deso gela-zo dis    
 .. I eat only this fish
 
 -- me wei bena ei dis va-da deso vin

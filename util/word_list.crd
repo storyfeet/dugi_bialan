@@ -2,7 +2,7 @@
 ba [ah] [exclaim,a,soo] HmubRuf
 egesi [scale,salt] [akesi] BdfdWd
 va [not,none,lack,un] [ala] Ecsd
-eliasi [hunt,search] [alasa] CffaMs
+liasi [hunt,search] [alasa] CffaMs
 endei [different] [ante] "1sufRub"
 ubei [shame,guilt] [apeja] "2subMd"
 uwein [stand,wait] [awen] VsufRdb
@@ -13,7 +13,6 @@ elo [tool] [ilo] FsuaMpRfa
 ensa [inside] [insa] "2cbwCua"
 iagi [yucky,"bad tasting", unclean] [jaki] "2mafRab"
 zan [person] [jan] Vsdb
-gela [fish] [kala] "5ffaWa"
 guma [come,become,arrive,achieve] [kama] EfabMs
 giasi [tree] [kasi] "5sufMu"
 giala [flower,bloom] [kasi] "FsufF5"
@@ -38,7 +37,7 @@ lena [line,cord,string] [linja] QeubMd
 lebo [book,document] [lipu] EcfdRfu
 luga [hand] [luka] Hcua
 lugin [look,see,eye] [lukin,oko] "2yuaRfa"
-luli [hole,door,entrance] [lupa] HcadRau
+luli [hole,entrance] [lupa] HcadRau
 man [place] [ma] CcadCuf
 mezuni [old,ancient] [majuno] CyauMd
 ma [parent] [mama] HcauWu
@@ -95,7 +94,7 @@ vuli [big,much] [suli] KuuaAd
 esuno [sun,bright,day] [suno] "QusdF5"
 munin [over] [supa] CwuaSua
 zugi [surface,counter,table] [supa] EcadMfRfd
-viala [cover,lid,door] [supa,nena] QcadWu
+viala ["removable cover",lid,door] [supa,nena] QcadWu
 wuwi [sweet] [suwi] EsdbWu
 bubiado [poison,bitter,danger] [] WmafRad
 giawin [leg,go] [tawa] VsdbMf
@@ -124,6 +123,7 @@ esenis [left,side] [soto] EcuaSda
 vega [species,type] [kule] JafdSuw
 
 benon ["the word"] [PRE,quote] Ewsd
+gela [fish] [PRE,kala] "5ffaWa"
 edi [taste] [namako,PRE] RmafCuf
 edin [atom,molecule] [PRE] JaadWu
 ema [sound] [PRE,kalam,kalamaa] Jeub

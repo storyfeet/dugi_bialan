@@ -93,6 +93,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("ema", pre(0xe116));
     try map.put("ga", pre(0xe118));
     try map.put("gan", pre(0xe11a));
+    try map.put("gela", pre(0xe11b));
     try map.put("geni", pre(0xe11c));
     try map.put("guli", pre(0xe11e));
     try map.put("is", pre(0xe120));
@@ -179,7 +180,6 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
 
     try map.put("gedin", nm(0xe17b));
     try map.put("gein", nm(0xe17c));
-    try map.put("gela", nm(0xe17d));
     try map.put("geli", nm(0xe17e));
     try map.put("gelubi", nm(0xe17f));
     try map.put("geva", nm(0xe180));
