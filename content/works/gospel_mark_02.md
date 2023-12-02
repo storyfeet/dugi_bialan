@@ -35,5 +35,28 @@ dan wei gudei ei dis la, zan Zesuwa wei dugi moini go <span class="red">"zan va-
 mas lis : wi zon bi don va-mugo
 #-----------
 
+zan moini bi zan Zuwan wei va-mugo. leli zan wei guma da zan Zesuwa da wei wi zon ei is-mon "dan vemi, zan moini bi zan Zuwan wei va-mugo, deso is-vin va-wei"
+
+zan Zesuwa go <span class="red">"zan guma buna bi mon bi da geva, wei vemi va-mugo esi is-mon li gin gin. va-wei gein, esi is-mon li gin is-mudei. deso la, don wei guma is-mon li wei leban dan is-mudei. lon esuno dis la, is-mudei wei va-mugo.
+
+va-zan wei lena ei megi-elein va-guma leli da ensa elein mezuni. esi la is-vis wei leban begi dan is-mezuni, wei vuli ei biagela.
+
+egin la va-zan wei bena ei delo ga-una da ensa velo delo mezuni. esi la, i velo i delo li wei guma egi.
+
+va-la zan wei bena ei delo vin da enso velo delo vis."</span>
+
+di mas van : liawa bi esuno unis
+#-----------
+
+won esuno unis la zan Zesuwa wei giawin lon man bi zi ban. zan moini wei leban ei leli zi ban.
+
+zan bi Vialesi wei dugi da is-mon. is-mudei dan vemi wei buli ei va-liawa lon esuno unis.
+
+is-mon go, <span class="red">"vin lon va-don wei lugin lebo ei i zan Devidd wei vemi, dan li belin mugo, li belin belin. lon don bi zan enma Ebiass la is-mon wei ensa ei mengi bi enma veli wei mugo ei ban vi zewi ego va-deso zan enma wei gein mugo lon lebo liawa. egin la is-mon wei bena ei ban vi da zan big is-mon. "</span>
+
+devin la is-mon go <span class="red">"esuno unis li wei buli da zan. zan va li wei buli da esuno unis"</span>
+
+
+
 
 

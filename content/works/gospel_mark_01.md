@@ -5,7 +5,7 @@
 won : begin
 #-------
 
-dis li begin bi vis buna bi zan Zesuwa, dis bi li wei deli zewi, dis zi bi enma veli. 
+dis li begin bi vis buna bi zan Zesuwa, ego zan deli, ego zi bi enma veli. 
 
 lon zan bi dugi enma, li lebo ei go "mi wei bena giawin ei zan lebo lon enbin vin, is-mon wei buna gein ei muli. ema-dugi wei ema-vuli lon man va-delo go " o buna ei iasin liawa, buli veli ei iasin is-mon" ".
 
