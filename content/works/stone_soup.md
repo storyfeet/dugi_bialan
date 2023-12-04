@@ -10,13 +10,13 @@ is-mon lon moini vo-bengo gin elo ema-musi lena, wei ema-musi.
 
 oiga vo-bengo wei egon ei mugi, wei gan-oiga. is-mon egin wei gan-oiga, wei egon goigo.
 
-liawa is-zan li biagei lon bog egon. egon dis li lei egon mudei, deso li lugin luga ei mugi buna. zan-iasin li belin lon ensa begi ei busi buna is-begi. egon dis wei gein li egon busi buna is-zan.
+liawa is-zan li biagei lon bo egon. egon dis li lei egon mudei, deso li lugin luga ei mugi buna. zan-iasin li belin lon ensa begi ei busi buna is-begi. egon dis wei gein li egon busi buna is-zan.
 
 zan-iasin wei ensa egon lon bugi, wei bena buna ei vo-bengo da wei gan-zewi, wei giawin vis lon iasin.
 
 #<h3># man mengi# -- The Town</h3>
 
-don bi wega esuno la, man mengi li guma lon lugin. lon wei guma bog, is-mon wei lugin ei elo enon bi man mengi. is-mon wei gein lugin ei enon bi lon boina, deso la enon dis li wei biagela, enon vis li "Veluga" 
+don bi wega esuno la, man mengi li guma lon lugin. lon wei guma bo, is-mon wei lugin ei elo enon bi man mengi. is-mon wei gein lugin ei enon bi lon boina, deso la enon dis li wei biagela, enon vis li "Veluga" 
 
 lon man mengi, is-mon wei lugin ei man esin. is-mon gein lugin ei lon don won la man dis li ensa buli zan mudei, deso la, lon don dis, li guma biagela mezuni.
 
@@ -44,7 +44,7 @@ lon beni la is-mon wei giawin ei man esin da wei liabei.  lon man dis, is-mon we
 
 #<h3># zan leli wei guma # -- The Children Arrive</h3>
 
-is-mon wei ema-musi la, zan leli dan man mengi, wei guma bog, wei gudei, wei begin giawin musi. Zan iasin wei ema-musi mudei dan belin buna.
+is-mon wei ema-musi la, zan leli dan man mengi, wei guma bo, wei gudei, wei begin giawin musi. Zan iasin wei ema-musi mudei dan belin buna.
 
 won zan leli wei duga da is-iasin go "o zan buna, vin da wi vemi wei ema musa da egon das?"
 

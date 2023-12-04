@@ -3,7 +3,7 @@
 
 # Who is Aesop (Esobb) --- (p111)
 
-zan Esobb la, dis zan vuli bi dugi bog la, dis zan bi wei buna zelula da zan muli la, dan busi li zan oiga. deso la dan guma zi-zi li zan bi man Veligg.
+zan Esobb la, dis zan vuli bi dugi bo la, dis zan bi wei buna zelula da zan muli la, dan busi li zan oiga. deso la dan guma zi-zi li zan bi man Veligg.
 
 zan Esobb is-won la li lugin iagi vuli, gin lon buli li va-elo. 
 
@@ -45,7 +45,7 @@ zan di dis li wei egon bi boina gein zan Esobb megi-di dan dis. is-di guma zon e
 
 zan liawa devin moini da ma mengi la, zan Esobb wei buli lon man beba.
 
-zan min bi iasin zewi bi enma zewi Esis wei wega dan iasin vuli da iasin leli lon bog man beba dis.  is-min va-li zon ei iasin. dan lugin ei zan Esobb la dan va-wei zon ei busi egi is-won la is-min li dugi da zan Esobb.
+zan min bi iasin zewi bi enma zewi Esis wei wega dan iasin vuli da iasin leli lon bo man beba dis.  is-min va-li zon ei iasin. dan lugin ei zan Esobb la dan va-wei zon ei busi egi is-won la is-min li dugi da zan Esobb.
 
 "zan buna mi o, vin luga ei buna da enma bi gein moili esi, o bena lugin ei iasin da man mengi, dan i mi wei va-iasin"
 

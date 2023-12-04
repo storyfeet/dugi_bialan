@@ -74,7 +74,7 @@ ban [bread,grain] [pan] "5cadMm"
 bena [give] [pana] HcauSuf
 belin [heart,feeling,want,need] [pilin] CcuaCwu
 beni [finish,already] [pini] EcfdMsRfa
-bog [beside,with] [poka] Cwwd
+bo [beside,with] [poka] Cwwd
 bugi [container] [poki] CsfuWa
 buna [good,simple] [pona] TmabWu
 lebuni [skilled] [pona] HcfwMsRfa
@@ -152,7 +152,7 @@ zenan [ public ] [NEW]
 meseni [institute] [NEW]
 mezan [country] [NEW]
 wi [purpose] [AUX, NEW]
-unis [peace,rest,safe] [NEW]
+unis [peace,rest,safe,rescue] [NEW]
 eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
 udon [wave] [NEW,"NO_GLYPH"]
@@ -209,7 +209,6 @@ vos [seven] [number]
 lis [eight] [number]
 lein [nine] [number]
 mas [ten]
-
 
 in [twenty] [mute,number,DEPRECATED] Pcsb
 za [hundred] [mute,ali,number] Bcsb

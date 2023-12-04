@@ -13,7 +13,7 @@ is-zan, li buna gin wei elein ei elein liawa bi ga-una esuno.
 
 # She was good, and wore a bright red hood
 
-zan Elenuna is-leli la, wei doimo lon bog man giasi ga-va-zo
+zan Elenuna is-leli la, wei doimo lon bo man giasi ga-va-zo
 
 # Elenuna, who we will call is-leli, lived beside a dark forest
 
@@ -49,7 +49,7 @@ deso la, vo-ezan eliasi vuli egi wei lugin ei is-leli.
 
 # However, a big bad wolf was watching her. 
 
-is-ezan wei belin mugo ei is-leli. is-ezan wei bog ei is-leli 
+is-ezan wei belin mugo ei is-leli. is-ezan wei bo ei is-leli 
 
 # He wanted to eat her, he came besire her 
 
@@ -57,7 +57,7 @@ da is-leli go "vin da vemi"
 
 # He spoke to her "where are you going?"
 
-go "mi da ma ma min mi lon bog ziasi bi man giasi ei delo beba dis. is-ma li belin iagi"
+go "mi da ma ma min mi lon bo ziasi bi man giasi ei delo beba dis. is-ma li belin iagi"
 
 # "I'm going to my granny on the other side of the woods with this vegetable soup. She's feeling sick"
 
@@ -121,11 +121,11 @@ go "li buna mudei da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
-vo-ezan li dugi go "o guma lon bog mi, mi wei belin mugo leli ei mugo delo vin"
+vo-ezan li dugi go "o guma lon bo mi, mi wei belin mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
-is-leli wei guma da bog mudei, wei lugin bog mudei.
+is-leli wei guma da bo mudei, wei lugin bo mudei.
 
 # She came closer, and looked closer.
 
@@ -145,7 +145,7 @@ beni la, is-ezan wei liabei, wei ema-liabei vuli
 
 # Once he finished, he went to sleep, and snored
 
-deso la, wei giawin lon bog mengi dis i zan bi din giasi 
+deso la, wei giawin lon bo mengi dis i zan bi din giasi 
 
 # However, Walking beside this house was a woodcutter.
 

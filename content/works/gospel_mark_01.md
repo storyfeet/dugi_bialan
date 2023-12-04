@@ -15,7 +15,7 @@ dan man Zewuselei, dan man Zudei, muli zan wei guma, wei dugi bi zo egi begi li 
 
 zan Zuwan wei elein lon elein bi vo-elena, gin elein vegei vo-vo lon vegei guli-memuso, wei mugo ei vo-zeis munin ei wuwi bi vo-zeis bas.
 
-lebo giawin is-mon li dis go "won wei guma be wiawa mudei dan mi. lena elein oiga is-mon la, mi va-li bog buna belas, da wei gan-oiga da wei va-loiga.  Mi wei gan-delo ei vin gin delo, deso, is-mon gan-delo ei vin gin gon enma zewi"
+lebo giawin is-mon li dis go "won wei guma be wiawa mudei dan mi. lena elein oiga is-mon la, mi va-li bo buna belas, da wei gan-oiga da wei va-loiga.  Mi wei gan-delo ei vin gin delo, deso, is-mon gan-delo ei vin gin gon enma zewi"
 
 lon don dis la, zan Zesuwa wei guma dan man Eniaseledd, li wei gan-oiga i zan Zuwan lon delo giawin Zoidan.
 
@@ -26,9 +26,9 @@ devin la, enma wei bena giawin ei is-mon da man eniasa. lon man eniasa dis lon b
 mas-mo : giawin wega
 #--------
 
-devin zan Zuwan li wei giawin da mengi-loigo la zan Zesuwa wei giawin da man Gialeli, da wei dugi vuli ei vis buna, bi enma veli. go "don li guma, zenan liawa bi enma veli lon bog, o gan-moini wei zon veli ei vis buna"
+devin zan Zuwan li wei giawin da mengi-loigo la zan Zesuwa wei giawin da man Gialeli, da wei dugi vuli ei vis buna, bi enma veli. go "don li guma, zenan liawa bi enma veli lon bo, o gan-moini wei zon veli ei vis buna"
 
-zan Zesuwa lon wei giawin lon bog delo vuli, wei lugin ei zan Esiamon ei zi ma mon is-lugin, zan Endelei. is-di wei wega ei lena ususa gela-zo, dan i is-di li zan gela-zo.
+zan Zesuwa lon wei giawin lon bo delo vuli, wei lugin ei zan Esiamon ei zi ma mon is-lugin, zan Endelei. is-di wei wega ei lena ususa gela-zo, dan i is-di li zan gela-zo.
 
 go "o guma gin mi. mi wei buli bi vin ei zan gela-zan."
 
@@ -63,7 +63,7 @@ is-ma lon zugi liabei gin usis vi. is-mudei wei dugi ei dis da zan Zesuwa, is-mo
 
 don va-esuno das la, devin gan-oiga esuno, zan da zan Zesuwa ei muli zan-usis, ei muli zan bi enma iagi. 
 
-man mengi belas wei gelubi lon bog luli mengi.
+man mengi belas wei gelubi lon bo luli mengi.
 
 zan Zesuwa wei miasegegi ei zan usis, wei wega ei enma iagi mudei. deso la is-mon va-wei bena gein dugi ei enma iagi, dan i is-iagi wei zon ei is-mon li zan vemi.
 
@@ -71,9 +71,9 @@ van mas lan : wei giawin ensa man mengi
 
 lon don esuno vis vis, boina gan-zewi esuno, zan Zesuwa wei gan-zewi, wei gaiwin dan mengi, da man bi won. lon man dis la is-mon wei dugi enma.
 
-zan Esiamon i zan bog is-mon wei giawin eliasa lugin. lon wei lugin ei is-mon go, "zan muli wei eliasa lugin ei vin"
+zan Esiamon i zan bo is-mon wei giawin eliasa lugin. lon wei lugin ei is-mon go, "zan muli wei eliasa lugin ei vin"
 
-zan Zesuwa go "o mi-mudei wei giawin da man endei, da man mengi bog, da wei dugi zon lon man dis egin. dis li wi bi guma mi"
+zan Zesuwa go "o mi-mudei wei giawin da man endei, da man mengi bo, da wei dugi zon lon man dis egin. dis li wi bi guma mi"
 
 dan dis la, is-mon wei giawin lon man Gialeli, wei dugi zon lon man enma, wei wega ei enma iagi.
 

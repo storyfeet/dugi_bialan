@@ -86,12 +86,12 @@ Finals - High up. (Finals cannot start a word)
 
 Vowels - Low down
 {{@exec_stdin "zig/convert" @ }}
-* _e#e : edin    
-* _oi#oi : oiga    
-* _ia#ia : ziazon
-* _u#u : una    
-* _ei#ei : wei    
-* _o#o : vo    
-* _a#a : ga    
-* _i#i : i     
+* E#e : edin    
+* Oi#oi : oiga    
+* Ia#ia : ziazon
+* U#u : una    
+* Ei#ei : wei    
+* O#o : vo    
+* A#a : ga    
+* I#i : i     
 {{/exec_stdin}}

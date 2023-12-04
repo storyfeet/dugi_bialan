@@ -30,7 +30,7 @@ mi dan veli go "dan veli wei. miani li buna da mi"
 
 # He had three cards, All I had to do, he said was to keep my eye on one of them.
 
-is-mon wei luga ei lebo busi van wei dugi ei i mi o va-deso lugin bog ei won.
+is-mon wei luga ei lebo busi van wei dugi ei i mi o va-deso lugin bo ei won.
 
 # He had "this" card, "this" card, and "that", put down a pound, he said, if you can find, that card, I'll give you two back.
 

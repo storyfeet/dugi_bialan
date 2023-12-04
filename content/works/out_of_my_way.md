@@ -55,7 +55,7 @@ dugi vis la, zan Esamm go "o wega dan iasin mi" deso la, don dis la, gin ba ema-
 
 # And Sam was able to get on the bus first, but noone sat next to him.
 
-zan Esamm lon won wei ensa ei bengo. va-zan wei zugi liamon lon bog is-mon
+zan Esamm lon won wei ensa ei bengo. va-zan wei zugi liamon lon bo is-mon
 
 # Sam arrived, got into class, and there he sat and waited patiently for lunchtime.
 

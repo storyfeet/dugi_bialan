@@ -22,7 +22,7 @@ is-va-gein wei gan-zewi ei begi ei zugi labei begi wei wega begi lon enbin lugin
 mas van : dugi guma da zan Levi
 #--------
 
-egin la zan Zesuwa wei giawin lon bog delo vuli. zan zan vuli wei guma da is-mon, i is-mon wei begin bena zon.
+egin la zan Zesuwa wei giawin lon bo delo vuli. zan zan vuli wei guma da is-mon, i is-mon wei begin bena zon.
 
 lon wei giawin is-mon wei lugin ei zan Levi, edo zi Eleveis wei liamon lon mengi leli bi miani liawa. go <span class="red">"o guma moini ei mi"</span>. i zan Levi wei gan-zewi wei guma moini ei zan Zesuwa.
 

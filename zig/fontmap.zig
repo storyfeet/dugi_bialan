@@ -122,7 +122,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("bialan", nm(0xe13b));
     try map.put("bianei", aux(0xe13c));
     try map.put("biawi", nm(0xe13f));
-    try map.put("bog", nm(0xe140));
+    try map.put("bo", nm(0xe140));
     try map.put("beledi", nm(0xe141));
     try map.put("boina", aux(0xe142));
     try map.put("bubiado", nm(0xe143));
