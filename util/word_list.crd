@@ -155,7 +155,7 @@ wi [purpose] [AUX, NEW]
 unis [peace,rest,safe,rescue] [NEW]
 eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
-udon [wave] [NEW,"NO_GLYPH"]
+udon [wave,shake] [NEW,"NO_GLYPH"]
 wendo [bird,"flying creature"] [NEW,PRE]
 
 i [subject] [PAR,en] "1eua"

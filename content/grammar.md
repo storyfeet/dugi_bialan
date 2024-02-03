@@ -93,11 +93,11 @@ A simple sentence in Dugi Bialan is a list of Particles, each followed by a set 
 
 __Word : PRE\* (ATOM | PRE\\2)__
 
-A Word is either an Atom, a set of Prefixes followed by an Atom, or a set of prefixes ending in a repeated prefix.
+A Word is either an Atom, or set of Prefixes followed by an Atom.
 
 * {{qoth "doimo"}} : Room
+* {{qoth "guli-zo"}} : body
 * {{qoth "ga-va-zo"}} : Colour of nothing / black
-* {{qoth "guli-guli"}} : body
 
 __Item : Word+ ("bi" Complex +)\*__
 
@@ -106,7 +106,7 @@ An Item is a list of words. Latter words act as an adjective/adverb everything b
 * {{qoth "elein ga-una"}} : clothes red
 * {{qoth "elo ema-musi vuli"}} : tool music big - big instrument
 * {{qoth "elo bi ema-musi vuli"}} : tool of (music big) - loud instrument
-* {{qoth "doimo bi delo guli-guli"}} :  Room of wash body / bathroom
+* {{qoth "doimo bi delo guli-zo"}} :  Room of wash body / bathroom
 * {{qoth "vo-wuwi eliasi bi wei mugo ei gela-zo mi"}} "the cat that ate my fish"
 
 __Complex : Item | Strict__
@@ -121,7 +121,6 @@ Strict sentences always begin with a particle.
 
 Each of these could follow {{qoth "mi wei belin ei"}} "I want".
 
-* {{qoth "mi wei belin ei elein ga-una"}} "I want red clothes".
 * {{qoth "mi wei belin ei i vin wei giawin"}} "I want THAT you go" / "I want you to go"
 * {{qoth "mi wei belin ei wei mugo"}} "I want THAT do eat" / "I want to eat"
 * {{qoth "mi wei belin ei da mi ei dis"}} "I want THAT to me - this" / "I want this [to come] to me"

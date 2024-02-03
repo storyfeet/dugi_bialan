@@ -3,7 +3,7 @@
 
 # Ladies and Gentlemen,
 
-o zan buna
+o zan buna muli
 
 # Here I have an Egg, and Bag
 
@@ -19,7 +19,7 @@ mi da ensa bugi ei esegi zi. vin gin va gin mi
 
 # Now you need to watch carefully, because at any moment I could do something tricky
 
-lon don dis la, o lugin buna. vin wei zon ei zan bi lebuni oimi, lon don mugi, wei gein eniasa.
+don la, o lugin buna. vin wei zon ei zan bi lebuni oimi, lon don mugi, wei gein eniasa.
 
 # Now I just wave my hand over the bag, and look, the egg has gone.
 
@@ -27,7 +27,7 @@ mi wei giawin ei luga mi lon zugi bugi. o lugin. esegi zi li wega.
 
 # Would you like to check inside the bag, and see that it has indeed vanished.
 
-vin wei va-wei belin lugin lon ensa bugi, wei belin velo lon ensa bugi, da wei zon ei i esegi zi lon veli li wega.
+vin wei va-wei belin lugin lon ensa bugi, wei belin velo lon ensa bugi, da wei zon ei i esegi zi veli li veli wega.
 
 # Good good.
 
