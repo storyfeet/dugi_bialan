@@ -1,0 +1,20 @@
+@param job
+
+"Karil Aral" "Captain"
+.skills:[Perseverance, Strategy, Searching]
+
+"Quentin Ken"  "Quartermaster"
+.skills:[Diplomacy, Volume,]
+
+"Idris Lok" "Navigator"
+.skills:["Map Reading", "Dancing","Slight of Hand"]
+
+"Derek Manto" "Deck Hand"
+.skills:[Strength ,Juggling,Hunting]
+
+"Serif Ire" "Gunner"
+.skills:[Explosives, Bartering, Music]
+
+"Oots Goots" "Cook"
+
+"boinos esendos" Surgeon
