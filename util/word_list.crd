@@ -73,7 +73,7 @@ belesa [stick,rod] [palisa] "2huaMc"
 ban [bread,grain] [pan] "5cadMm"
 bena [give] [pana] HcauSuf
 belin [heart,feeling,want,need] [pilin] CcuaCwu
-beni [finish,already] [pini] EcfdMsRfa
+beni [end,finish,already] [pini] EcfdMsRfa
 bo [beside,with] [poka] Cwwd
 bugi [container] [poki] CsfuWa
 buna [good,simple] [pona] TmabWu
@@ -155,8 +155,16 @@ wi [purpose] [AUX, NEW]
 unis [peace,rest,safe,rescue] [NEW]
 eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
-udon [wave,shake] [NEW,"NO_GLYPH"]
 wendo [bird,"flying creature"] [NEW,PRE]
+
+udon [wave,shake] [NEW,NOGLYPH]
+lesi [direct,straight] [NEW,NOGLYPH]
+besa [meaning] [NEW,NOGLYPH]
+bununei [joy,pleasure,happiness] [NEW,NOGLYPH]
+zema [sibling] [NEW,NOGLYPH]
+gelin [family] [NEW,NOGLYPH]
+eliawi [machine] [NEW,NOGLYPH]
+viazo [zero,none,nothing] [NEW,NOGLYPH]
 
 i [subject] [PAR,en] "1eua"
 ei [object] [PAR,e] Qaad
@@ -181,6 +189,7 @@ gelubi [group,meeting] [kulupu] HcadCaf
 guba [connection] [kulupu] BsubBa
 elena [dust,sand] [] Jddb
 geva [partner,spouse] [kulupu,kin] HsufBa
+
 
 
 egin [same,equal] [sama, AUX] "2cfdBa"
@@ -211,7 +220,7 @@ lein [nine] [number]
 mas [ten]
 
 in [twenty] [mute,number,DEPRECATED] Pcsb
-za [hundred] [mute,ali,number] Bcsb
+za [thousand] [mute,ali,number] Bcsb
 
 mudei [several,increase] [mute,amount] "2sadCwf"
 zelula [shitloads,too,much,many] [mute,amount] "2sadMu"
