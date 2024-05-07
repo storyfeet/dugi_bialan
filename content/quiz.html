@@ -1,24 +1,33 @@
 {{export title="quiz"}}
 
-Min<input id="r-min" type="number" min="0" max="170" value="0"/>
-Max<input id="r-max" type="number" min="10" max="190" value="190"/>
+Min<input id="r-min" type="number" min="0" max="200" value="0"/>
+Max<input id="r-max" type="number" min="10" max="230" value="230"/>
 <button onclick="qmod.nextQuestion()">Go</button>
-<div id="question"></div>
-<div id="answers"></div>
+<div id="question" style="min-height:150px"></div>
+<div id="answers" style="min-height:130px"></div>
+<div style="clear:both"></div>
 
 		
 <script type="module">
 import {items} from "/js/items.js";
-let answers = [];
-let question = [];
+
+const dom = {
+	minBox : document.getElementById("r-min"),
+	maxBox : document.getElementById("r-max"),
+	qDiv : document.getElementById("question"),
+	aDiv : document.getElementById("answers"),
+}
+
+//let answers = [];
+//let question = [];
 function randR(min,max){
 	min = Number(min);
 	max = Number(max);
 	return Math.floor(Math.random() * (max - min)) + min;
 }
 function rWord(){
-	let mn = document.getElementById("r-min").value;
-	let mx = document.getElementById("r-max").value;
+	let mn = dom.minBox.value;
+	let mx = dom.maxBox.value;
 	mx = Math.min(mx ,items.length);
 	mn = Math.min(mn ,items.length);
 	
@@ -27,29 +36,29 @@ function rWord(){
 }
 
 function nextQuestion(){		
-	question = rWord();
+	let question = rWord();
+	let qMode = randR(0,3);
+	let aMode = (randR(1,3)+qMode) %3; 
+	console.log(`qMode:${qMode}, aMode:${aMode}`);
 	// Question bit
-	let qbox = document.getElementById("question");
-	qbox.textContent = "";
-	let pic = document.createElement("img");
-	pic.src = "/glyphs/" + question.Name + ".svg"
-	qbox.appendChild(pic);
+	dom.qDiv.textContent = "";
+	let qItem = modeNode(question,qMode);
+	dom.qDiv.appendChild(qItem);
 
 	// Answer Bit
 	answers = [];
 	for(let i = 0; answers.length < 3; i++){
 		let w = rWord();	
 		if (w !== question){
-			answers.push(wrongAnswer(w))
+			answers.push(wrongAnswer(w,aMode))
 		}
 	}
-	answers.push(rightAnswer(question))
+	answers.push(rightAnswer(question,aMode))
 	shuffle(answers);
-	let abox = document.getElementById("answers");
 
-	abox.textContent = "";
+	dom.aDiv.textContent = "";
 	for (let p in answers){
-		abox.appendChild(answers[p]);	
+		dom.aDiv.appendChild(answers[p]);	
 	}
 }
 
@@ -62,20 +71,20 @@ function shuffle(list){
 	}
 }
 
-function rightAnswer(item){ 
+function rightAnswer(item,mode){ 
 	let wrap = document.createElement("div");
 	wrap.addEventListener("click",()=> {
 		wrap.textContent = "";
 		let x = document.createElement("img");
 		x.src="/pics/right.svg";
 		wrap.appendChild(x);
-	})
-	let tx = document.createTextNode(item.Name);
+	});
+	let tx = modeNode(item,mode);
 	wrap.appendChild(tx);
 	return wrap;
 }
 
-function wrongAnswer(item){
+function wrongAnswer(item,mode){
 	let wrap = document.createElement("div");
 	wrap.addEventListener("click",()=> {
 		wrap.textContent = "";
@@ -83,11 +92,25 @@ function wrongAnswer(item){
 		x.src="/pics/wrong.svg";
 		wrap.appendChild(x);
 	})
-	let tx = document.createTextNode(item.Name);
-	wrap.appendChild(tx);
+
+	let nd = modeNode(item,mode);
+	wrap.appendChild(nd);
 	return wrap;
 }
 
+function modeNode(item,mode){
+	switch (mode){
+		case 0 : 
+			return document.createTextNode(item.Name);
+		case 1:
+			let pic = document.createElement("img");
+			pic.src = "/glyphs/" + item.Name + ".svg"
+			return pic;
+		default:
+			let s = item.en.join(",");
+			return document.createTextNode(s);
+	}
+}
 
 window.qmod = {
 	nextQuestion:nextQuestion
