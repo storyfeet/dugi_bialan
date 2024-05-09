@@ -167,7 +167,7 @@ eliawi [machine] [NEW,NOGLYPH]
 viazo [zero,none,nothing] [NEW,NOGLYPH]
 
 i [subject] [PAR,en] "1eua"
-ei [object] [PAR,e] Qaad
+ei ["object-marker"] [PAR,e] Qaad
 li [is,be,adjective] [PAR,li] "2sabRdb"
 da [for,"in order to"] [PAR,tawa] RsuaRfa
 dan [from,because] [PAR,tan] RsfaRua

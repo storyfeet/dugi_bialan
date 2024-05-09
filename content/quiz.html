@@ -74,14 +74,24 @@ function shuffle(list){
 function rightAnswer(item,mode){ 
 	let wrap = document.createElement("div");
 	wrap.addEventListener("click",()=> {
-		wrap.textContent = "";
+		dom.aDiv.textContent = "";
 		let x = document.createElement("img");
 		x.src="/pics/right.svg";
-		wrap.appendChild(x);
+		dom.aDiv.appendChild(inDiv(x));
+		for (let i = 0; i < 3; i++){
+			let m = modeNode(item,i);
+			dom.aDiv.appendChild(inDiv(m));
+		}
 	});
 	let tx = modeNode(item,mode);
 	wrap.appendChild(tx);
 	return wrap;
+}
+
+function inDiv(item){
+	let res = document.createElement("div");
+	res.appendChild(item);
+	return res;
 }
 
 function wrongAnswer(item,mode){
@@ -107,8 +117,9 @@ function modeNode(item,mode){
 			pic.src = "/glyphs/" + item.Name + ".svg"
 			return pic;
 		default:
-			let s = item.en.join(",");
-			return document.createTextNode(s);
+			let node = document.createElement("span");
+			node.innerHTML = item.en.join("<br>");
+			return node;
 	}
 }
 
