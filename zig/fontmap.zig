@@ -87,7 +87,8 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
 
     // Pefixes
 
-    try map.put("benon", pre(0xe110));
+    try map.put("bebi", pre(0xe110));
+    try map.put("benon", pre(0xe111));
     try map.put("edi", pre(0xe112));
     try map.put("edin", pre(0xe114));
     try map.put("ema", pre(0xe116));

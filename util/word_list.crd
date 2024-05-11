@@ -157,14 +157,16 @@ eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
 wendo [bird,"flying creature"] [NEW,PRE]
 
-udon [wave,shake] [NEW,NOGLYPH]
-lesi [direct,straight] [NEW,NOGLYPH]
-besa [meaning] [NEW,NOGLYPH]
-bununei [joy,pleasure,happiness] [NEW,NOGLYPH]
-zema [sibling] [NEW,NOGLYPH]
-gelin [family] [NEW,NOGLYPH]
-eliawi [machine] [NEW,NOGLYPH]
-viazo [zero,none,nothing] [NEW,NOGLYPH]
+udon [wave,shake] [NEW]
+lesi [direct,straight] [NEW]
+besa [meaning] [NEW]
+bununei [joy,pleasure,happiness] [NEW]
+zema [sibling] [NEW]
+gelin [family] [NEW]
+eliawi [machine] [NEW]
+viazo [zero,none,nothing] [NEW]
+bebi [bug,insect] [NEW]
+
 
 i [subject] [PAR,en] "1eua"
 ei ["object-marker"] [PAR,e] Qaad
