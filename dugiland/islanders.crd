@@ -1,7 +1,7 @@
 @param gender job
 
 "esiana" m "roofer"
-.skills:[]
+.skills:[climbing]
 .phrases : []
 .place : []
 .gives : []
@@ -17,4 +17,6 @@
 "belelan" f forester
 
 "mianeman" f fisherman
+
+
 

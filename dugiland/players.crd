@@ -4,7 +4,7 @@
 .skills:[Perseverance, Strategy, Searching]
 
 "Quentin Ken"  "Quartermaster"
-.skills:[Diplomacy, Volume,]
+.skills:[Diplomacy, Volume]
 
 "Idris Lok" "Navigator"
 .skills:["Map Reading", "Dancing","Slight of Hand"]
@@ -16,5 +16,8 @@
 .skills:[Explosives, Bartering, Music]
 
 "Oots Goots" "Cook"
+.skills:[Explosives, Chemistry, "Sense of Smell"] 
 
 "boinos esendos" Surgeon
+.skills:[]
+

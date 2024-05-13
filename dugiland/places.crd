@@ -1,0 +1,20 @@
+@param kind
+
+Uwenegein "enin zewi"
+.description : "The large mountain at the centre of the island. It is steep, and ragged, and can be seen from everwhere."
+
+
+Beneluda "man mengi" 
+.specialties : ["cloth","livestock"]
+
+Edlialan "man mengi"
+.specialties : ["woodwork","fishing"]
+
+Guduleis "man mengi"
+.specialties : ["metalwork","hunting"]
+
+Iadebei "man elena"
+.description : "The place where your ship runs aground, and can be found throughout the story"
+
+"Rivers Edge" : 
+
