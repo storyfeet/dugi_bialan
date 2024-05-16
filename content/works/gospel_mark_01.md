@@ -18,7 +18,7 @@ dan man Zewuselei, dan man Zudei, muli zan wei guma, wei dugi ei egi begi li wei
 
 zan Zuwan wei elein lon elein bi vo-bengo elena, gin lena bi velo vo-zo lon vegei guli-memuso. is-mon wei mugo ei vo-zeis munin ei deli wuwi bi vo-zeis bas.
 
-lebo giawin is-mon li go "won wei guma bi wiawa mudei dan mi. lena elein oiga is-mon ba la, mi va-li belas da wei gan-oiga wei va-loigo.  Mi wei gan-delo ei vin gin delo, deso la is-mon gan-delo ei vin gin gon enma zewi"
+lebo giawin is-mon li go "won wei guma bi wiawa mudei dan mi. lena elein oiga is-mon ba la, mi va-li belas da wei gan-oiga wei va-loigo.  mi wei gan-delo ei vin gin delo, deso la is-mon gan-delo ei vin gin gon enma zewi"
 
 don la, zan Zesuwa wei guma dan man Eniaseleis, li wei gan-oiga i zan Zuwan lon delo giawin Zoidan.
 
