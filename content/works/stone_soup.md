@@ -1,9 +1,9 @@
 {{export title = "Stone Soup"}}
 
 {{@md}}{{@exec_stdin "zig/convert" @ }}
-#<h2>#delo mugo egon#</h2>#
+<h2>delo mugo egon</h2>
 
-#<h3># zan iasin # -- The Traveller</h3>
+<h3>zan iasin # -- The Traveller #</h3>
 
 zan iasin wei giawin lon don mudei. devin don mudei lon iasin, is-iasin li belin liabei, wei belin mudei ei mengi begi.    
 is-mon lon moini vo-bengo gin elo ema-musi lena, wei ema-musi.
@@ -42,7 +42,7 @@ dan mengi da mengi. dugi li egin, va-zan wei gein bena buna da is-mon, va-zan we
 
 lon beni la is-mon wei giawin ei man esin da wei liabei.  lon man dis, is-mon wei lugin lon bugi, wei lugin ei elo ema-musi, ei egon. wei esebin ei muli bi i is-mon wei buli lon iasin, wei bena lon goigo ei egon, wei begin ema-musi. 
 
-#<h3># zan leli wei guma # -- The Children Arrive</h3>
+<h3> zan leli wei guma # -- The Children Arrive #</h3>
 
 is-mon wei ema-musi la, zan leli dan man mengi, wei guma bo, wei gudei, wei begin giawin musi. Zan iasin wei ema-musi mudei dan belin buna.
 
@@ -56,7 +56,7 @@ di zan leli wei giawin wei bena ei bugi vi delo. zan iasin wei bena ei egon da e
 
 zan leli wei giawin lon ema-musi. zan leli endei wei guma egin, wei begin giawin musi. is-mudei li belin buna mudei, li belin buna zelula, deso la. won zan leli vis go "o zan buna la, vin da wi vemi wei ema-musi da egon lon bugi?"
 
-"ba" go "egon dis li wiawa oimi. mi wei ema-musi da is-egon la, is-egon wei buli ei delo beba da mi, da zan muli lon man mengi dis, deso la, is-delo li o luga vi, li o luga delo. vin wei va-wei gein bena elo da mi?"
+"ba" go "egon dis li wiawa oimi. mi wei ema-musi da is-egon esi, is-egon wei buli ei delo beba da mi, da zan muli lon man mengi dis, deso la, is-delo li o luga vi, li o luga delo. vin wei va-wei gein bena elo da mi?"
 
 zan leli mudei wei giawin gin bugi wei ensa ei delo, wei guma vis. zan leli endei wei eliasa gelubi ei belesa vi.
 
@@ -72,7 +72,28 @@ deso la won zan vis go "o zan buna, vin da wi vemi wei ema-musi da egon lon ensa
 
 zan leli wei giawin da ma min is-leli wei dugi luga ei egesi leli. wei guma vis, wei bena da bugi.
 
-#<h3># zan bi man mengi wei guma # -- The Townsfolk Arrive</h3>
+zan-egon wei ema-musi. zan leli muli wei giawin musi
+
+<h3> zan bi man mengi wei guma # -- The Townsfolk Arrive #</h3>
+
+dan gudei ei ema-dis la, zan muli bi man mengi wei guma, wei gudei, wei lugin ei i zan wei ema-musi da bugi mugo lon zugi vi.
+
+dan lugin ei i zan leli wei giawin musi la, won zan go "vin wei vemi, gin ema-musi dis, gin bugi egon dis."
+
+zan iasin go "ba egon dis li egon bi wiawa oimi. mi wei ema-musi esi, egon wei buli veli ei delo beba buna vuli. belas da wei bena mugo da zan muli lon man dis. ... deso la, da wei belas leli ei demego, li o leli beba."
+
+leli zan wei giawin mengi, wei egin guma gin beba.
+
+zan lugin endei wei esebin zon ei wei mugi, wei giawin egin, wei egin guma gin mudei beba.
+
+zan vuli edo bi mengi di go "mi li belin ubei dan boina, mi wei luga" is-mon wei gaiwin wei egin guma gin mugo vo-zo da bugi devo.
+
+lon beni la, zan muli wei mugo buna, zan muli wei giawin musi, zan muli wei guma luga ei mudei dan wei bena.
+
+don bununei wei beni la, #--- the old woman offers a bed#
+
+
+
 
 
 
