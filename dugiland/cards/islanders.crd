@@ -1,0 +1,22 @@
+@param gender job
+
+"Esiana" m "roofer"
+.skills:[climbing]
+.phrases : []
+.place : []
+.gives : []
+.needs : []
+
+
+"Lediala" f "cook"
+
+"Goini" m "hunter"
+
+"Buvoini" m farmer
+
+"Belelan" f forester
+
+"Mianeman" f fisherman
+
+
+

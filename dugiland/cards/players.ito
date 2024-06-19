@@ -1,0 +1,31 @@
+{{export 
+    card_files = ["players.crd"];
+    card_width = 65;
+    card_height= 90;
+    padding = 1;
+    margin=4;
+	front_path = "out/players_f"
+	back_path = "out/players_b"
+
+}}
+
+{{@export extra -}}
+    {{# Anything to appear on every page once #}}
+{{- /export}}
+
+{{global front}}
+    <rect {{xywh 0 0 65 90}} {{fl_stk "white" "black" 2}} />
+	<rect {{xywh 1 5 63 25}} {{fl_stk "#bbffff" "none" 0}} />
+    <text {{font 8 "Arial"}} {{xy 32.5 15}} text-anchor="middle" font-weight="bold" {{fl_stk "black" "none" 0}}>{{.Name}}</text>
+    <text {{font 6 "Arial"}} {{xy 32.5 25}} text-anchor="middle" {{fl_stk "black" "none" 0}}>{{.job}}</text>
+	<text {{font 6 "Arial"}} {{xy 6 40 }} {{fl_stk "black" "none" 0}} font-weight="bold">Skills</text>
+	{{for k v in .skills}}
+		<text {{font 5 "Arial"}} {{xy 10 (add 50 (mul $k 6))}}>{{$v}}</text>
+	{{/for}}
+
+{{/global}}
+
+{{global back}}
+    <rect {{xywh 0 0 65 90}} {{fl_stk "blue" "black" 2}} />
+{{/global}}
+

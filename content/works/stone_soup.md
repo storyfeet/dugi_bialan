@@ -8,13 +8,17 @@
 zan iasin wei giawin lon don mudei. devin don mudei lon iasin, is-iasin li belin liabei, wei belin mudei ei mengi begi.    
 is-mon lon moini vo-bengo gin elo ema-musi lena, wei ema-musi.
 
-oiga vo-bengo wei egon ei mugi, wei gan-oiga. is-mon egin wei gan-oiga, wei egon goigo.
+oiga vo-bengo wei egon ei mugi. vo-bengo wei gan-oiga. is-mon egin wei gan-oiga, wei egon ei goigo.
 
-liawa is-zan li biagei lon bo egon. egon dis li lei egon mudei, deso li lugin luga ei mugi buna. zan-iasin li belin lon ensa begi ei busi buna is-begi. egon dis wei gein li egon busi buna is-zan.
+liawa is-zan li wei biagei i goigo lon bo egon. egon dis li megi-li mudei.
 
-zan-iasin wei ensa egon lon bugi, wei bena buna ei vo-bengo da wei gan-zewi, wei giawin vis lon iasin.
+go "dan busi ba, mi wei egon ei dis esi, mi li wei moili"
 
-#<h3># man mengi# -- The Town</h3>
+zan-iasin wei esebin ensa ei i busi is-mon li buna dan va-wei egon ei egon dis. is-mon wei esebin ei busi muli is-mon lon giawin muli is-mon. egon dis wei gein li vedelin-besa bi busi is-mon. 
+
+egon li lugin luga ei mugi buna. zan-iasin wei ensa lon bugi, wei bena elo ei vo-bengo da wei gan-zewi, wei giawin vis lon iasin.
+
+<h3> man mengi # -- The Town#</h3>
 
 don bi wega esuno la, man mengi li guma lon lugin. lon wei guma bo, is-mon wei lugin ei elo enon bi man mengi. is-mon wei gein lugin ei enon bi lon boina, deso la enon dis li wei biagela, enon vis li "Veluga" 
 
@@ -90,7 +94,13 @@ zan vuli edo bi mengi di go "mi li belin ubei dan boina, mi wei luga" is-mon wei
 
 lon beni la, zan muli wei mugo buna, zan muli wei giawin musi, zan muli wei guma luga ei mudei dan wei bena.
 
-don bununei wei beni la, #--- the old woman offers a bed#
+don bununei li beni la, min mezuni bi mengi won, bi go "mi va-wei deso lugo", go "mi li belin ubei dan boina, mi wei luga ei man liabie da vin. vin wei gein liabei lon gan-oiga zugi mengi"
+
+lon esuno vis devin la, is-mon wei gan-zugi ei vo-giawin is-mon la, zan leli bi man mengi wei guma go "o zan buna, vin wei va-zon ei egon vin"
+
+is-mon go "buna la, vin o luga uwein da don bi i mengi vin wei belin belin egin"
+
+
 
 
 
