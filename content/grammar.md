@@ -532,8 +532,8 @@ These pronouns can be assigned using to following phrase
 
     <person> is-<number> la
 
--- zan Elenuna is-won la, li buna    
-.. Elenuna, who we shall call is-won is/was good
+-- zan Elenuna is-buna la, li buna    
+.. Elenuna, who we shall call "is-buna" is/was good
 
 ### "va"
 
