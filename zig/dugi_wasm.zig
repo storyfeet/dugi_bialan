@@ -16,7 +16,7 @@ extern "dugi" fn show_dugi(s: [*]const u8, len: u32) void;
 
 export fn convert(s: [*]const u8, len: u32) void {
     var alloc = gpa.allocator();
-    var ss = s[0..len];
+    const ss = s[0..len];
 
     var res = std.ArrayList(u8).init(alloc);
     defer res.deinit();

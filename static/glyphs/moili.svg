@@ -7,7 +7,7 @@
    viewBox="0 0 50 50"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    sodipodi:docname="moili.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.397375"
-     inkscape:cx="75.954405"
-     inkscape:cy="95.625231"
+     inkscape:zoom="3.5533347"
+     inkscape:cx="103.84612"
+     inkscape:cy="102.15756"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -40,9 +40,19 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
+       style="fill:#000000;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 5.5991681,45.475054 46.585046,24.776877"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 32.390768,35.496766 C 19.659272,27.859225 36.430576,4.4571883 44.608574,20.181316 50.218104,30.96691 40.165256,36.534253 28.455532,35.617933 16.389959,34.673767 7.8074282,35.475728 5.1786932,35.215246"
-       id="path14457"
-       sodipodi:nodetypes="cssc" />
+       d="M 27.863442,4.2146309 C 22.523604,3.4954859 13.984869,14.021621 16.913769,20.188748 c 2.928887,6.167127 13.46647,5.978421 17.206245,0.570134 C 37.859789,15.3506 33.203293,4.9337759 27.863442,4.2146309 Z"
+       id="path14478"
+       sodipodi:nodetypes="zzzz" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 46.403303,46.035196 7.0099103,25.68045"
+       id="path1-3"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

@@ -44,14 +44,14 @@ pub const Tokenizer = struct {
     pub fn nextToken(self: *@This()) !?Token {
         self.skipWhiteSpace();
         self.start = self.it.i;
-        var c = self.it.nextCodepoint() orelse return null;
+        const c = self.it.nextCodepoint() orelse return null;
         switch (c) {
             ',' => return self.makeToken(TokenType.COMMA),
             '.' => return self.makeToken(TokenType.STOP),
             '-' => return self.makeToken(TokenType.DASH),
             '"' => return self.makeToken(TokenType.QUOTE),
             '\n' => {
-                var tk = self.makeToken(TokenType.NEWLINE);
+                const tk = self.makeToken(TokenType.NEWLINE);
                 self.line += 1;
                 return tk;
             },
@@ -69,24 +69,24 @@ pub const Tokenizer = struct {
     }
     pub fn tag(self: *@This()) !?Token {
         while (true) {
-            var c = self.it.nextCodepoint() orelse return error.UnexpectedEOFInHtmlTag;
+            const c = self.it.nextCodepoint() orelse return error.UnexpectedEOFInHtmlTag;
             if (c == '>') return self.makeToken(TokenType.COMMENT);
         }
     }
     pub fn comment(self: *@This()) !Token {
         self.start = self.it.i;
         while (true) {
-            var pk = self.it.peek(1);
+            const pk = self.it.peek(1);
             if (pk.len == 0) {
                 return self.makeToken(TokenType.COMMENT);
             }
-            var c = try std.unicode.utf8Decode(pk);
+            const c = try std.unicode.utf8Decode(pk);
             switch (c) {
                 '\n' => {
                     return self.makeToken(TokenType.COMMENT);
                 },
                 '#' => {
-                    var tk = self.makeToken(TokenType.COMMENT);
+                    const tk = self.makeToken(TokenType.COMMENT);
                     _ = self.it.nextCodepoint();
                     return tk;
                 },

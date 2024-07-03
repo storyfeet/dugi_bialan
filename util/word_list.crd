@@ -156,6 +156,8 @@ unis [peace,rest,safe,rescue] [NEW]
 eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
 wendo [bird,"flying creature"] [NEW,PRE]
+gegon [slip,slide,slippery,smooth] [NEW,NOGLYPH]
+guvi [alive,live] [NEW,NOGLYPH]
 
 udon [wave,shake] [NEW]
 lesi [direct,straight] [NEW]
