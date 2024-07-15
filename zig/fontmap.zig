@@ -1,5 +1,7 @@
 const std = @import("std");
 
+//NOTE IF NUMBERS CHANGE fix in content/math.html
+
 pub const WordType = enum {
     Par,
     Con,

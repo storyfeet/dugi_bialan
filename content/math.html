@@ -1,0 +1,43 @@
+{{export title="math"}}
+
+<p><span id="num_out">_</span></p>
+
+<button onclick="newNumber()">New Number</button>
+
+<script>
+const D_ZERO = '\\uE1ED';
+const D_ONE = '\\uE1FA';
+const D_TWO = '\\ue15a';
+const D_THREE = '\\ue1e3';
+const D_FOUR = '\\ue1c1';
+const D_FIVE = '\\ue19a';
+const D_SIX = '\\ue205';
+const D_SEVEN = '\\ue1ef';
+const D_EIGHT = '\\ue1ad';
+const D_NINE = '\\ue1a1';
+const D_TEN = '\\ue1af';
+const D_THOUSAND = '\\ue200';
+
+const nums = [D_ZERO,D_ONE,D_TWO,D_THREE,D_FOUR,D_FIVE,D_SIX,D_SEVEN,D_EIGHT,D_NINE,D_TEN,D_THOUSAND];
+
+
+const dom = {
+	numOut:document.getElementById("num_out"),
+};
+
+function rand(n,off = 0){
+	return Math.floor(Math.random() * n) + off;
+}
+
+function newNumber() {
+	
+	let rval = rand(12);
+	if (nums[rval] == undefined){
+		console.log("Undefined at " + rval);
+	}
+	dom.numOut.innerText = nums[rval];
+
+}
+</script>
+
+
