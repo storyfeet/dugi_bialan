@@ -334,27 +334,27 @@ Numbers
 
 Numbers before another object are cardinal, and dicatate the amount of an object.
 
-> 5 cars : {{ uqoth "van bengo"}} 
+> 5 cars : {{ uqoth "lan bengo"}} 
 
 Numbers after an object are ordinal and mark place or position.
 
-> The 5th car : {{uqoth "bengo van"}}
+> The 5th car : {{uqoth "bengo lan"}}
 
 Number words are : 
 
-* {{uqoth "viazo"}} : 0
-* {{uqoth "won"}} : 1    
-* {{uqoth "di"}} : 2    
-* {{uqoth "van"}} : 3    
-* {{uqoth "mo"}} : 4    
-* {{uqoth "lan"}} : 5
-* {{uqoth "zeis"}} : 6
-* {{uqoth "vos"}} : 7 
-* {{uqoth "lis"}} : 8
-* {{uqoth "lein"}} : 9
+>0: {{uqoth "viazo"}}    
+1: {{uqoth "won"}}    
+2: {{uqoth "di"}}     
+3: {{uqoth "van"}}     
+4: {{uqoth "mo"}}     
+5: {{uqoth "lan"}}     
+6: {{uqoth "zeis"}}     
+7: {{uqoth "vos"}}     
+8: {{uqoth "lis"}}     
+9: {{uqoth "lein"}}     
 
-* {{uqoth "lo"}} : 10
-* {{uqoth "za"}} : 1000
+>10: {{uqoth "lo"}}     
+1000: {{uqoth "za"}}     
 
 {{uqoth "viazo"}} to {{uqoth "lein"}} act as decimal digits, and numbers may be written and spoken in this way.
 
