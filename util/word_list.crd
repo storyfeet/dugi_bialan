@@ -168,6 +168,9 @@ gelin [family] [NEW]
 eliawi [machine] [NEW]
 viazo [zero,none,nothing] [NEW]
 bebi [bug,insect] [NEW,PRE]
+gezuwi [step,ladder,stairs,"discreet amount"] [NEW]
+veso [lizard,reptile] [NEW,PRE]
+
 
 
 i [subject] [PAR,en] "1eua"
@@ -221,9 +224,7 @@ zeis [six] [number]
 vos [seven] [number]
 lis [eight] [number]
 lein [nine] [number]
-mas [ten]
-
-in [twenty] [mute,number,DEPRECATED] Pcsb
+lo [ten]
 za [thousand] [mute,ali,number] Bcsb
 
 mudei [several,increase] [mute,amount] "2sadCwf"

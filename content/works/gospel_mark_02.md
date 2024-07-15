@@ -19,7 +19,7 @@ lon don egesa dis, zan Zesuwa wei zon ei esebin bi guli-belin is-mudei, go <span
 
 is-va-gein wei gan-zewi ei begi ei zugi labei begi wei wega begi lon enbin lugin muli zan.  muli zan li belin wiawa wei bena wiawa da enma veli go, "mi lon va-don wei lugin ei mugi egin dis"
 
-mas van : dugi guma da zan Levi
+lo van : dugi guma da zan Levi
 #--------
 
 egin la zan Zesuwa wei giawin lon bo delo vuli. zan zan vuli wei guma da is-mon, i is-mon wei begin bena zon.
@@ -32,7 +32,7 @@ dan wei lugin ei dis, zan Vialesi wei wi zon ei zan moini go "is-mon da wi vemi,
 
 dan wei gudei ei dis la, zan Zesuwa wei dugi moini go <span class="red">"zan va-usis va-wei belin ei zan miasegegi, deso zan usis. mi va wei guma dugi guma da zan buna buna, deso zan egi"</span>
 
-mas lis : wi zon bi don va-mugo
+lo lis : wi zon bi don va-mugo
 #-----------
 
 zan moini bi zan Zuwan wei va-mugo. leli zan wei guma da zan Zesuwa da wei wi zon ei is-mon "dan vemi, zan moini bi zan Zuwan wei va-mugo, deso is-vin va-wei"
@@ -45,7 +45,7 @@ egin la va-zan wei bena ei delo ga-una da ensa velo delo mezuni. esi la, i velo 
 
 va-la zan wei bena ei delo vin da enso velo delo vis."</span>
 
-di mas van : liawa bi esuno unis
+di lo van : liawa bi esuno unis
 #-----------
 
 won esuno unis la zan Zesuwa wei giawin lon man bi zi ban. zan moini wei leban ei leli zi ban.

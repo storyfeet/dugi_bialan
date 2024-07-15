@@ -331,33 +331,61 @@ If possible put "semi" in the first item of the sentence, though this is not a s
 
 Numbers
 --------
-Build numbers use hyphens to show they are still the same number
+
+Numbers before another object are cardinal, and dicatate the amount of an object.
+
+> 5 cars : {{ uqoth "van bengo"}} 
+
+Numbers after an object are ordinal and mark place or position.
+
+> The 5th car : {{uqoth "bengo van"}}
 
 Number words are : 
-* {{uqoth "won"}} : 1
-* {{uqoth "di"}} : 2
-* {{uqoth "van"}} : 3
-* {{uqoth "mo"}} : 4
+
+* {{uqoth "viazo"}} : 0
+* {{uqoth "won"}} : 1    
+* {{uqoth "di"}} : 2    
+* {{uqoth "van"}} : 3    
+* {{uqoth "mo"}} : 4    
 * {{uqoth "lan"}} : 5
-* {{uqoth "in"}} : 20
-* {{uqoth "za"}} : 100
+* {{uqoth "zeis"}} : 6
+* {{uqoth "vos"}} : 7 
+* {{uqoth "lis"}} : 8
+* {{uqoth "lein"}} : 9
 
-A low number before a higher number multiplies it.
+* {{uqoth "lo"}} : 10
+* {{uqoth "za"}} : 1000
+
+{{uqoth "viazo"}} to {{uqoth "lein"}} act as decimal digits, and numbers may be written and spoken in this way.
+
+> 345 : {{qq "van mo lan"}}
+
+However, when writing larger numbers, {{uqoth "lo"}} and {{uqoth "za"}} can be used to mulitply the number before them, and set the place for the next digit.
+
+> 13 : {{qq "lo-van"}} or {{qq "won-van"}}    
+    103: {{qq "lo-lo-viazo-van"}}    
+    130 : {{qq "lo-lo-van"}}    
+    133 : {{qq "lo-lo-van-van"}}    
+    303 : {{qq "van-lo-lo-viazo van"}}    
+
+{{qq "lo"}} before {{qq "za"}} allows sub 1000 separations at large numbers
+
+> 30,000,000 : {{qq "van lo za za"}}
+
+{{uqoth "gin"}} can be used to separate parts of a number if the number has separate parts
+
+> 3003 : {{qq "van-za gin van"}} or {{ qq "van za viazo viazo van"}}
+
+{{uqoth "wiawa"}}, that is "power" can be used to give very large numbers
+
+> 5 *10 ^ 28 : {{qq "lan lo bi za wiawa lein"}}  (that is: 50 of 1000 ^ 9)
 
 
-1 - 4: {{qq "won, di, van, mo"}}    
-5 - 9 : {{qq "lan, lan-won, lan-di, lan-van, lan-mo"}}    
-10 - 14 : {{qq " di-lan, di-lan-won, di-lan-di , di-lan-van, di-lan-mo"}}      
-15 - 19 : {{qq "van-lan, van-lan-won, van-lan-di, van-lan-van, van-lan-mo"}}    
-20 : {{qoth "in"}}    
-25 : in-lan    
-30 : in-di-lan    
-35 : in-van-lan    
-40 : di-in    
-45 : di-in-lan    
-50 : di-in-di-lan    
-55 : di-in-van-lan    
-1225 : 2-5-2-100-20-5 (12 hundred and 25) = di-lan-di-za-in-lan    
+
+
+
+
+
 
 Auxiliary Particles
 ---------

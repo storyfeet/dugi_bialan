@@ -24,9 +24,9 @@ don la, zan Zesuwa wei guma dan man Eniaseleis, li wei gan-oiga i zan Zuwan lon 
 
 zan Zesuwa wei gan-zewi dan delo la is-mon wei lugin ei i zewi li wei biagela ubin, ei i gon enma zewi wei gan-oiga lon is-mon egin wendo-unis. ema-dugi wei guma dan zewi go "vin li zi-mon mi, bi li wei lin i mi. gin vin la mi li belin buna mudei"
 
-devin la, enma wei bena giawin ei is-mon da man eniasa da wei uwein lon mo-mas esuno. lon man dis la is-mon li wei bena gein egi dan enma Esiadan. gin vo-zo eniasa, deso li wei bena elo i enma zewi. 
+devin la, enma wei bena giawin ei is-mon da man eniasa da wei uwein lon mo-lo esuno. lon man dis la is-mon li wei bena gein egi dan enma Esiadan. gin vo-zo eniasa, deso li wei bena elo i enma zewi. 
 
-mas-mo : giawin wega
+lo-mo : giawin wega
 #--------
 
 devin zan Zuwan li wei ensa da mengi-loigo,  zan Zesuwa wei giawin da man Gialeli da wei dugi vuli ei vis buna bi enma veli. go "don li guma, mezan liawa bi enma veli lon bo, o gan-moini o zon ensa ei vis buna"
@@ -41,7 +41,7 @@ devin wei giawin wega leli, is-mon wei lugin ei zan Iagob edo zi mon bi zan Eseb
 
 va-gin don la, is-mon wei dugi guma da is-di, is-di wei dan ma mon edo lon bengo delo gin zan esin, wei giawin moini ei is-mon
 
-di mas won : man mengi Giabenewamm
+di lo won : man mengi Giabenewamm
 #----------
 
 is-mudei wei giawin da man mengi Giabenewamm la, lon esuno unis, zan Zesuwa wei ensa ei mengi enma, wei begin bena zon.
@@ -58,7 +58,7 @@ zan muli li belin wiawa wei wi zon ei begi endei go "zan dis li vemi, is-mon wei
 
 vis bi is-mon wei ususa giawin giawin lon man oiban Gialeli 
 
-di mas lein : ma min bi zan Esiamon
+di lo lein : ma min bi zan Esiamon
 #----------
 
 lon don bi zugo ei mengi enma, is-mudei , gin zan Iagobb , gin zan Zuwan, da mengi bi ma min bi zan Esiamon, egin bi zan Endelei.
@@ -71,7 +71,7 @@ man mengi belas wei gelubi lon bo luli mengi.
 
 zan Zesuwa wei miasegegi ei zan usis, wei wega ei enma iagi mudei. deso la is-mon va-wei bena gein dugi ei enma iagi, dan i is-iagi wei zon ei is-mon li zan vemi.
 
-van mas lan : wei giawin ensa man mengi
+van lo lan : wei giawin ensa man mengi
 #-------- 
 
 lon don esuno vis vis, boina gan-zewi esuno, zan Zesuwa wei gan-zewi, wei gaiwin dan mengi, da man bi won. lon man dis la is-mon wei dugi enma.
