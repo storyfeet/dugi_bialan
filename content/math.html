@@ -28,17 +28,36 @@ const dom = {
 	numOut:document.getElementById("num_out"),
 };
 
-function rand(n,off = 0){
-	return Math.floor(Math.random() * n) + off;
+function rand(n,max){
+	if (max) {
+		return Math.floor(Math.random() * (max-n)) + n;
+	}
+	return Math.floor(Math.random() * n); 
+}
+
+function buildNumber(n){
+	let p10 = 0;
+	while (Math.pow(10,p10) <= n) p10+=1 ;
+	p10 -=1;
+
+	let res = "";
+
+	for (let i = 0; i < p10 % 3; i++){
+		res += D_TEN;
+	}
+	for (let i = 0; i < Math.floor(p10 / 3) ; i++){
+		res += D_THOUSAND;
+	}
+	return res;
 }
 
 window.newNumber = () =>{
 	
-	let rval = rand(12);
-	if (nums[rval] == undefined){
-		console.log("Undefined at " + rval);
-	}
-	dom.numOut.innerText = nums[rval];
+	let pow = rand(1,10);
+	let n = rand(Math.pow(10,pow));
+
+	let dnum = buildNumber(n);
+	dom.numOut.innerText = `${n} ${dnum}`;
 
 }
 </script>
