@@ -188,6 +188,7 @@ export const fontMap = {
 	"mugi":"\u{e1c6}",
 	"liamon":"\u{e1a7}",
 	"delo":"\u{e154}",
+	"zeli":"\u{e129}",
 	"elena":"\u{e169}",
 	"is":"\u{e120}",
 	"o":"\u{e1cd}",

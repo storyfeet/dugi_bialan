@@ -105,6 +105,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("vo", pre(0xe124));
     try map.put("va", pre(0xe126));
     try map.put("wendo", pre(0xe128));
+    try map.put("zeli", pre(0xe129));
 
     // Regular
 
