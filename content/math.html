@@ -7,11 +7,16 @@ span {
 {{/export}}
 
 <p>
-	<button onclick="newNumber()">New Number</button> <span id="num_out">_</span>
+	<button onclick="newNumber()">New Number</button> 
+	<span id="num_out">_</span>
 </p>
 <textarea id="user_box"></textarea> <span id="user_dugi"></span>
 <p><span id="p_answer"></span></p>
-
+<p>
+	<button onclick="checkAnswer()">Check Answer</button>
+	<span id="is_correct">_</span>
+</p>
+	<span id="check_output">_</span>
 
 <script type="module">
 
@@ -37,7 +42,11 @@ const dom = {
 	numOut:document.getElementById("num_out"),
 	userBox:document.getElementById("user_box"),
 	userDugi:document.getElementById("user_dugi"),
+	checkOutput:document.getElementById("check_output"),
+	isCorrect: document.getElementById("is_correct"),
 };
+
+var currentNumber = 0;
 
 function rand(n,max){
 	if (max) {
@@ -80,9 +89,23 @@ window.newNumber = () =>{
 	let pow = Math.abs(rand(1,12)-3)+1;
 	let n = rand(Math.pow(10,pow));
 
-	let dnum = buildNumber(n,rnums,"-");
 	dom.numOut.innerText = ` ${n} `;
+	currentNumber = n;
+	dom.isCorrect.innerHTML = "_";
+	dom.checkOutput.innerHTML = "_";
 
+}
+
+window.checkAnswer = () => {
+	console.log("Checking answer");
+	let romAns = buildNumber(currentNumber,rnums,"-");
+	let dugAns = buildNumber(currentNumber,nums,"");
+	dom.checkOutput.innerHTML = `${dugAns}<br>${romAns}`
+	if (dom.userBox.value == romAns) {
+		dom.isCorrect.innerHTML = "Correct";
+	}else {
+		dom.isCorrect.innerHTML = "Sorry, Incorrect";
+	}
 }
 
 function userBoxUpdate(e) {
