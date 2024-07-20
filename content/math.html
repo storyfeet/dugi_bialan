@@ -1,4 +1,9 @@
 {{export title="math"}}
+{{@export style}}
+span {
+	font-size:300%;
+}
+{{/export}}
 
 <p><span id="num_out">_</span></p>
 
@@ -8,7 +13,7 @@
 
 import {fontMap} from "/js/jsfontmapper.js";
 
-const D_ZERO = fontMap["viazo"];
+const D_ZERO = fontMap["lo"];
 const D_ONE = fontMap["won"];
 const D_TWO = fontMap["di"];
 const D_THREE = fontMap["van"];
@@ -18,11 +23,11 @@ const D_SIX = fontMap["zeis"];
 const D_SEVEN = fontMap["vos"];
 const D_EIGHT = fontMap["lis"];
 const D_NINE = fontMap["lein"];
-const D_TEN = fontMap["lo"];
 const D_THOUSAND = fontMap["za"];
 
-const nums = [D_ZERO,D_ONE,D_TWO,D_THREE,D_FOUR,D_FIVE,D_SIX,D_SEVEN,D_EIGHT,D_NINE,D_TEN,D_THOUSAND];
+const nums = [D_ZERO,D_ONE,D_TWO,D_THREE,D_FOUR,D_FIVE,D_SIX,D_SEVEN,D_EIGHT,D_NINE,D_THOUSAND];
 
+const rnums = ["lo","won","di","van","mo","lan","zeis","vos","lis","lein","za"]
 
 const dom = {
 	numOut:document.getElementById("num_out"),
@@ -35,20 +40,33 @@ function rand(n,max){
 	return Math.floor(Math.random() * n); 
 }
 
-function buildNumber(n){
+function buildNumber(n,mlist){
 	let p10 = 0;
 	while (Math.pow(10,p10) <= n) p10+=1 ;
 	p10 -=1;
 
 	let res = "";
 
-	for (let i = 0; i < p10 % 3; i++){
-		res += D_TEN;
+	let pZa = Math.pow(10,p10 - (p10 % 3))
+	let front = Math.floor(n / pZa);
+	let back = n % pZa;
+	console.log("front",front);
+
+	while (front > 0) {
+		res = mlist[front % 10 ] + res 
+		front = Math.floor(front/10);
 	}
+
 	for (let i = 0; i < Math.floor(p10 / 3) ; i++){
-		res += D_THOUSAND;
+		res += mlist[10];
 	}
-	return res;
+
+	let bres = "";
+	while (back > 0){
+		bres =  mlist[back%10]+ bres;
+		back = Math.floor(back/10);
+	}
+	return res+bres;
 }
 
 window.newNumber = () =>{
@@ -56,7 +74,7 @@ window.newNumber = () =>{
 	let pow = rand(1,10);
 	let n = rand(Math.pow(10,pow));
 
-	let dnum = buildNumber(n);
+	let dnum = buildNumber(n,rnums);
 	dom.numOut.innerText = `${n} ${dnum}`;
 
 }
