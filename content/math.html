@@ -3,11 +3,15 @@
 span {
 	font-size:300%;
 }
+
 {{/export}}
 
-<p><span id="num_out">_</span></p>
+<p>
+	<button onclick="newNumber()">New Number</button> <span id="num_out">_</span>
+</p>
+<textarea id="user_box"></textarea> <span id="user_dugi"></span>
+<p><span id="p_answer"></span></p>
 
-<button onclick="newNumber()">New Number</button>
 
 <script type="module">
 
@@ -31,6 +35,8 @@ const rnums = ["lo","won","di","van","mo","lan","zeis","vos","lis","lein","za"]
 
 const dom = {
 	numOut:document.getElementById("num_out"),
+	userBox:document.getElementById("user_box"),
+	userDugi:document.getElementById("user_dugi"),
 };
 
 function rand(n,max){
@@ -40,44 +46,62 @@ function rand(n,max){
 	return Math.floor(Math.random() * n); 
 }
 
-function buildNumber(n,mlist){
+function buildNumber(n,mlist,join=""){
 	let p10 = 0;
 	while (Math.pow(10,p10) <= n) p10+=1 ;
 	p10 -=1;
 
-	let res = "";
+	let res = [];
 
 	let pZa = Math.pow(10,p10 - (p10 % 3))
 	let front = Math.floor(n / pZa);
 	let back = n % pZa;
-	console.log("front",front);
 
 	while (front > 0) {
-		res = mlist[front % 10 ] + res 
+		res.unshift( mlist[front % 10 ]);
 		front = Math.floor(front/10);
 	}
 
 	for (let i = 0; i < Math.floor(p10 / 3) ; i++){
-		res += mlist[10];
+		res.push(mlist[10]);
 	}
 
-	let bres = "";
-	while (back > 0){
-		bres =  mlist[back%10]+ bres;
+	let bres = [];		
+	while (pZa > 1){
+		bres.unshift( mlist[back%10]);
 		back = Math.floor(back/10);
+		pZa = Math.floor(pZa/10);
 	}
-	return res+bres;
+	return res.concat(bres).join(join);
 }
 
 window.newNumber = () =>{
 	
-	let pow = rand(1,10);
+	let pow = Math.abs(rand(1,12)-3)+1;
 	let n = rand(Math.pow(10,pow));
 
-	let dnum = buildNumber(n,rnums);
-	dom.numOut.innerText = `${n} ${dnum}`;
+	let dnum = buildNumber(n,rnums,"-");
+	dom.numOut.innerText = ` ${n} `;
 
 }
+
+function userBoxUpdate(e) {
+	let sp = dom.userBox.value.split("-");
+	let rText = "";
+	for (let i in sp){
+		let s = fontMap[sp[i]];
+		if (s !== undefined){
+			rText += s;
+		}else {
+			rText += "_";
+		}
+	}
+
+	dom.userDugi.innerText = rText;
+
+}
+
+dom.userBox.oninput = userBoxUpdate;
 </script>
 
 
