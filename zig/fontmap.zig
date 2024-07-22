@@ -105,7 +105,6 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("vo", pre(0xe124));
     try map.put("va", pre(0xe126));
     try map.put("wendo", pre(0xe128));
-    try map.put("zeli", pre(0xe129));
 
     // Regular
 
@@ -310,12 +309,13 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("won", nm(0xe1fa));
     try map.put("wuwi", nm(0xe1fb));
 
-    try map.put("za", nm(0xe200));
-    try map.put("zan", nm(0xe201));
-    try map.put("zelula", nm(0xe202));
-    try map.put("zema", nm(0xe203));
-    try map.put("zenan", nm(0xe204));
-    try map.put("zeis", nm(0xe205));
+    try map.put("za", nm(0xe1ff));
+    try map.put("zan", nm(0xe200));
+    try map.put("zelula", nm(0xe201));
+    try map.put("zema", nm(0xe202));
+    try map.put("zenan", nm(0xe203));
+    try map.put("zeis", nm(0xe204));
+    try map.put("zeli", nm(0xe205));
     try map.put("zewi", nm(0xe206));
     try map.put("ziana", nm(0xe207));
     try map.put("zi", nm(0xe208));
