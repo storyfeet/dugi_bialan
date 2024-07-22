@@ -20,7 +20,11 @@ span {
 
 <script type="module">
 
-import {fontMap} from "/js/jsfontmapper.js";
+import {fontMap,letterMap} from "/js/jsfontmapper.js";
+
+import * as TD from "/js/type_dugi.js" ;
+
+let converter = new TD.Converter(fontMap,letterMap);
 
 const D_ZERO = fontMap["lo"];
 const D_ONE = fontMap["won"];
@@ -108,21 +112,29 @@ window.checkAnswer = () => {
 	}
 }
 
-function userBoxUpdate(e) {
-	let sp = dom.userBox.value.split("-");
-	let rText = "";
-	for (let i in sp){
-		let s = fontMap[sp[i]];
-		if (s !== undefined){
-			rText += s;
-		}else {
-			rText += "_";
-		}
-	}
+function userBoxUpdate(e){
 
-	dom.userDugi.innerText = rText;
+	let sp = dom.userBox.value;
+	let ns = converter.convert(sp);
+	dom.userDugi.innerText = ns;
 
 }
+
+//function userBoxUpdate(e) {
+//	let sp = dom.userBox.value.split("-");
+//	let rText = "";
+//	for (let i in sp){
+//		let s = fontMap[sp[i]];
+//		if (s !== undefined){
+//			rText += s;
+//		}else {
+//			rText += "_";
+//		}
+//	}
+//
+//	dom.userDugi.innerText = rText;
+//
+//}
 
 dom.userBox.oninput = userBoxUpdate;
 </script>
