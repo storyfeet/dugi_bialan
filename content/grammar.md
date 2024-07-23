@@ -399,6 +399,7 @@ They are:
 * {{qoth "egin"}} : also / same
 * {{qoth "boina"}} : Before
 * {{qoth "devin"}} : After
+* {{qoth "zeli"}} : Comparatively
 
 ### {{qoth "bi"}} - of
 

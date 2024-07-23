@@ -134,7 +134,6 @@ is [they] [pronoun, ona,PRE] Tsub
 vo [animal] [soweli,PRE] Swua
 megi [measure,distance] [weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
-zeli [comparatively] [PRE]
 
 zi [child,offspring,seed] [lili,sike] QcauWu
 bas [striped] ["linja mute",NEW] WcufMd
@@ -152,7 +151,6 @@ usis [sick,infection] [ike,NEW]
 zenan [ public ] [NEW]
 meseni [institute] [NEW]
 mezan [country] [NEW]
-wi [purpose] [AUX, NEW]
 unis [peace,rest,safe,rescue] [NEW]
 eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
@@ -183,8 +181,6 @@ gin [with,using,also,"and-PAR"] [PAR,kin] CsubRfu
 lon [at,in] [PAR,lon] CsubRadMc
 wei [do,verb] [PAR,li] BaadMc
 o [imperetive] [PAR,o] WmubCfd
-boina [before] [AUX,tenpo,lili,pini] SsufMa
-devin [after,then] [AUX,tenpo,suli,kama] SaufMs
 go [quote] [PAR,quote] TmabWu
 edo ["who is","which is"] [PAR]
 
@@ -199,11 +195,16 @@ elena [dust,sand] [] Jddb
 geva [partner,spouse] [kulupu,kin] HsufBa
 
 
+bi [of] [AUX,pi] Lsub
+wi [purpose] [AUX, NEW]
+
+boina [before] [AUX,tenpo,lili,pini] SsufMa
+devin [after,then] [AUX,tenpo,suli,kama] SaufMs
 
 egin [same,equal] [sama, AUX] "2cfdBa"
 iani [or] [question,anu,AUX] RsadRou
 deso [but, however, except] [taso,AUX] LafaRad
-bi [of] [AUX,pi] Lsub
+zeli [compare,comparatively,more] [AUX]
 
 # Pronouns
 mi [me,i,my] [pronoun,mi] Tcsd
