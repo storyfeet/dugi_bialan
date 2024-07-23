@@ -27,7 +27,24 @@ zan ban go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi 
 
 dan iasin lon man zugi eleba, is-ban wei li wei lugin i vo-bengo. go "vin da vemi. o da mi, gin gon wuwi vin".
 
-deso la, zan ban egin go "dan 
+deso la, zan ban egin go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi li zan bi ban demego vi"
+
+vo-bengo, i vo-devo, i min-leli, i mon leli wei giawin moini, deso la, zan ban wei giawin zeli mudei. is-mudei va wei gein leban.
+
+zan bein wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li zelula.
+
+dan moini giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-moini mi esi, mi wei giawin delo munin ei delo".
+
+zan bi ban demegi wei esebin ei i dis li esebin buna, wei gan-moini ei vo-vi, devin vo-vi wei giawin.
+
+lon memuso delo, vo-vi go, delo dis li megi-oiga vuli, o giawin da liawa mi, da va-li velo delo.  zan ban wei dis 
+
+lon don egesa dis, vo-vi wei gan-zewi ei liawa begi, wei wega gan-zewi ei zan ban. devin wei ubin ei una, wei leban ei zan ban lon una, wei mugo ensa gin won buli una
+
+dis li beni bi zan bi ban demego.
+
+
+
 
 
 

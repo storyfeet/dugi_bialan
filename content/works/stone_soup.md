@@ -100,11 +100,3 @@ lon esuno vis devin la, is-mon wei gan-zugi ei vo-giawin is-mon la, zi bi man me
 
 is-mon go "buna la, vin o luga uwein da don bi i mengi vin wei belin belin egin"
 
-
-
-
-
-
-
-
-
