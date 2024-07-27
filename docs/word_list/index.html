@@ -105,6 +105,9 @@ body {
     margin: 1px 5px;
 }
 
+.hidden {
+    display:none;
+}
 @media print{
     .no-print, .no-print * {
         display:none; 
@@ -129,7 +132,8 @@ body {
     <div class="content">
         
 
-<div class="word-list">
+<div class="search">Find : <input id="search_box" type="text"></input></div>
+<div class="word-list" id="words_div">
 
 <div class="word-box">
 <span style="font-weight:bold">ba</span><br>
@@ -104003,6 +104007,26 @@ monsi weka
 
 </div>
 
+<script>
+let dom = {
+    searchBox : document.getElementById("search_box"),
+    wordsDiv : document.getElementById("words_div"),
+}
+
+dom.searchBox.oninput = (e) => {
+    let ch = dom.wordsDiv.children;
+    let tx = dom.searchBox.value;
+    for (let c in ch){
+
+        if (ch[c].innerText?.includes(tx)){
+            ch[c].classList?.remove("hidden");
+        }else {
+            ch[c].classList?.add("hidden");
+        }
+    }
+}
+
+</script>
 
     </div>
 </body>
