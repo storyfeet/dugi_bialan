@@ -9,6 +9,7 @@ uwein [stand,wait] [awen] VsufRdb
 esin [trade,buy,sell] [esin] FsfuBf
 zo [thing] [ijo] Fcsd
 egi [bad] [ike] PmubMs
+
 elo [tool] [ilo] FsuaMpRfa
 ensa [inside] [insa] "2cbwCua"
 iagi [yucky,"bad tasting", unclean,gross] [jaki] "2mafRab"
@@ -157,6 +158,7 @@ liazi [blackjack] [NEW]
 wendo [bird,"flying creature"] [NEW,PRE]
 gegon [slip,slide,slippery,smooth] [NEW,NOGLYPH]
 guvi [alive,live] [NEW,NOGLYPH]
+ludi [sad] [NEW]
 
 udon [wave,shake] [NEW]
 lesi [direct,straight] [NEW]
