@@ -1,7 +1,7 @@
 {{export 
     card_files = ["players.crd"];
-    card_width = 65;
-    card_height= 90;
+    card_width = 95;
+    card_height= 135;
     padding = 1;
     margin=4;
 	front_path = "out/players_f"
@@ -14,10 +14,10 @@
 {{- /export}}
 
 {{global front}}
-    <rect {{xywh 0 0 65 90}} {{fl_stk "white" "black" 2}} />
-	<rect {{xywh 1 5 63 25}} {{fl_stk "#bbffff" "none" 0}} />
-    <text {{font 8 "Arial"}} {{xy 32.5 15}} text-anchor="middle" font-weight="bold" {{fl_stk "black" "none" 0}}>{{.Name}}</text>
-    <text {{font 6 "Arial"}} {{xy 32.5 25}} text-anchor="middle" {{fl_stk "black" "none" 0}}>{{.job}}</text>
+    <rect {{xywh 0 0 95 135}} {{fl_stk "white" "black" 2}} />
+	<rect {{xywh 1 5 93 25}} {{fl_stk "#bbffff" "none" 0}} />
+    <text {{font 8 "Arial"}} {{xy 10 15}} text-anchor="left" font-weight="bold" {{fl_stk "black" "none" 0}}>{{.Name}}</text>
+    <text {{font 6 "Arial"}} {{xy 12 25}} text-anchor="left" {{fl_stk "black" "none" 0}}>{{.job}}</text>
 	<text {{font 6 "Arial"}} {{xy 6 40 }} {{fl_stk "black" "none" 0}} font-weight="bold">Skills</text>
 	{{for k v in .skills}}
 		<text {{font 5 "Arial"}} {{xy 10 (add 50 (mul $k 6))}}>{{$v}}</text>
