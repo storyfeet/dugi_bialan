@@ -98,5 +98,5 @@ don bununei li beni la, min mezuni bi mengi won, bi go "mi va-wei deso lugo", go
 
 lon esuno vis devin la, is-mon wei gan-zugi ei vo-giawin is-mon la, zi bi man mengi wei guma go "o zan buna, vin wei va-zon ei egon vin"
 
-is-mon go "buna la, vin o luga uwein da don bi i mengi vin wei belin belin egin"
+is-mon go "buna la, vin o luga uwein. da don bi i vin wei belin belin egin"
 
