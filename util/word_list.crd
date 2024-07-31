@@ -26,7 +26,7 @@ zin [metal] [kiwen] FsfdWf
 gedin [tooth,bite] [kiwen] "5mufFQ"
 goigo [clay,dirt,earth] [ko] QffuCfa
 gon [air,breath] [kon] "5auaWa"
-gudei [listen,hear,obey] [kute] Heuf
+gudei [listen,hear,obey,ear] [kute] Heuf
 leban [hook,take,catch,trap] [lanpan] HffdMs
 liabei [sleep] [lape] EaadRua
 liawa [head,control] [lawa] ReubRua
@@ -80,8 +80,6 @@ bugi [container] [poki] CsfuWa
 buna [good,simple] [pona] TmabWu
 lebuni [skilled] [pona] HcfwMsRfa
 bialan [balanced] [pona] "2FfaMs"
-buguni ["interact with toki pona"] [pu,ku] CcfdRfu
-bubumi ["interact with dugi bialan"] [pu,ku] "2cfdRfu"
 zewi [sky,heaven] [sewi] QuadDw
 velo [skin,peal,cover] [selo] JdabBs
 vi [hot,fire,cook] [seli] JcfwDu
@@ -127,7 +125,7 @@ benon ["the word"] [PRE,quote] Ewsd
 gela [fish] [PRE,kala] "5ffaWa"
 edi [taste] [namako,PRE] RmafCuf
 edin [atom,molecule] [PRE] JaadWu
-ema [sound] [PRE,kalam,kalamaa] Jeub
+ema [sound] [PRE,kalama] Jeub
 ga [colour] [PRE,kule] Luaf
 geni [shape] [PRE] Lwwf
 guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE] EaabMs
@@ -156,10 +154,8 @@ unis [peace,rest,safe,rescue] [NEW]
 eselin [hooker] [NEW]
 liazi [blackjack] [NEW]
 wendo [bird,"flying creature"] [NEW,PRE]
-gegon [slip,slide,slippery,smooth] [NEW,NOGLYPH]
-guvi [alive,live] [NEW,NOGLYPH]
-ludi [sad] [NEW]
-
+gegon [slip,slide,slippery,smooth] [NEW]
+guvi [alive,live] [NEW]
 udon [wave,shake] [NEW]
 lesi [direct,straight] [NEW]
 besa [meaning] [NEW]
@@ -171,6 +167,12 @@ viazo [zero,none,nothing] [NEW]
 bebi [bug,insect] [NEW,PRE]
 gezuwi [step,ladder,stairs,"discreet amount"] [NEW]
 veso [lizard,reptile] [NEW,PRE]
+ludi [sad] [NEW,NOGLYPH]
+meda [lie,decieve,trick] [NEW,NOGLYPH]
+uwi [urgent, important, quick] [NEW,NOGLYPH]
+lema [ask,question] [NEW,NOGLYPH]
+
+
 
 
 
@@ -189,8 +191,8 @@ edo ["who is","which is"] [PAR]
 esi [if] [CON,la] QsubRuf
 la [then,context] [CON,la] QsufMpRfd
 
-vemi [what] [question,seme] HsouWu
-mugi [unknown,some] [question,seme] Hsad
+vemi [what] [FILLER,QUESTION,seme] HsouWu
+mugi [unknown,some] [FILLER,seme] Hsad
 gelubi [group,meeting] [kulupu] HcadCaf
 guba [connection] [kulupu] BsubBa
 elena [dust,sand] [] Jddb
@@ -204,7 +206,7 @@ boina [before] [AUX,tenpo,lili,pini] SsufMa
 devin [after,then] [AUX,tenpo,suli,kama] SaufMs
 
 egin [same,equal] [sama, AUX] "2cfdBa"
-iani [or] [question,anu,AUX] RsadRou
+iani [or,choose] [anu,AUX] RsadRou
 deso [but, however, except] [taso,AUX] LafaRad
 zeli [compare,comparatively,more] [AUX]
 

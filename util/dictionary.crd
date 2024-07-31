@@ -216,7 +216,7 @@ please ["gin buna","buna","buna esi"]
 available ["gein leban", "gein elo"]
 copyright ["gein ziasi", "gein egin"]
 support ["bena buna", "bena ga-zewi"]
-message ["dugi"]
+message ["dugi","dugi wega","lebo leli"]
 after ["devin"]
 best ["buna dan muli"]
 software ["lebo buli","lebo buli uno"]
@@ -261,24 +261,23 @@ full ["belas"]
 map ["lebo man"]
 reviews ["dugi lugin"]
 program ["lebo buli","lebo buli uno","lebo oindi"]
-life ["guli-vi" ,"don guli-vi"]
+life ["guvi" ,"don guvi"]
 know ["zon"]
 games ["ziasi"]
 way ["iasin"]
-days ["esuno"]
 management ["liawa buli"]
-part ["din","doimo"]
+part ["din","zo din"]
 could ["gein lon boina"]
 great ["vuli"]
-united ["gelubi won"]
+united ["guma won","won enbin","guma won enbin"]
 hotel ["mengi liabei"]
 real ["veli"]
 item ["zo"]
-international ["bi man liawa mudei"]
+international ["bi mezan mudei"]
 center ["man memuso", "man ensa"]
-ebay ["man lena ebei"]
+ebay ["man bi lena guba Ibei"]
 must ["li o"]
-store ["man esin", "man uwein zo"]
+store ["mengi esin", "mengi uwein","luga uwein"]
 travel ["giawin man vis"]
 comments ["dugi dugi"]
 made ["buli lon boina"]
@@ -315,7 +314,7 @@ states ["man liawa","man oindi liawa","guli-man"]
 area ["man" "man geni-geni"]
 want ["wei belin"]
 phone ["elo dugi","elo dugi wega"]
-dvd ["vegei zon"]
+dvd ["vegei zon","vegei zon gezuwi"]
 shipping ["bengo delo","wega bengo delo"]
 reserved ["lebo va-deso won"]
 subject ["benon i","man dugi"]
@@ -331,7 +330,7 @@ black ["ga-va-zo"]
 check ["lugin buna","lugin vis","lebo bena miani"]
 special ["buna endei","vega buna"]
 prices ["miani belin","uno miani"]
-website ["man lena"]
+website ["man bi lena geva","man lena"]
 index ["uno man"]
 being ["enma", "zan enma" , "lon li"]
 women ["min","zan min"]
@@ -529,7 +528,7 @@ model ["ziasi leli"]
 features ["vega gein"]
 air ["gon"]
 industry ["meseni buli"]
-plan ["esebin"]
+plan ["esebin","esebin buli"]
 human ["zan"]
 provided ["bena","esi .. la"]
 tv ["elo lugin","elo bi vedelin wega"]
@@ -738,71 +737,59 @@ agreement ["dugi egin","belin egin"]
 format ["megi-lugin","megi-lebo"]
 least ["leli","leli dan muli"]
 society ["zenan","zenan gelubi"]
-log
-safety
-friends
-sure
-faq
-trade
-edition
-cars
-messages
-marketing
-tell
-further
-updated
-association
-able
-having
-provides
-david
-fun
-already
-green
-studies
-close
-common
-drive
-specific
-several
-gold
-feb
-living
-sep
-collection
-called
-short
-arts
-lot
-ask
-display
-limited
-powered
-solutions
-means
-director
-daily
-beach
-past
-natural
-whether
-due
-et
-electronics
-five
-upon
-period
-planning
-database
-says
-official
-weather
-mar
-land
-average
-done
-technical
-window
+log ["belesa","lebo belesa","lebo don"]
+safety ["uwein unis","man uwein"]
+sure ["zon veli","veli"]
+faq ["lema oiban"]
+trade ["esin"]
+edition ["zo endei"]
+marketing ["ususa esin"]
+tell ["dugi"]
+further ["megi-wega zeli mudei"]
+updated ["endei vis"]
+association ["meseni gelubi"]
+able ["gein"]
+having ["beni la"]
+provides ["bena"]
+david ["zan Dewid"]
+fun ["ziavi buna","musi buna"]
+already ["beni la"]
+green ["ga eleba"]
+close ["lon bo","wei viala"]
+common ["bi oiban"]
+drive ["wei bengo","wei giawin"]
+specific ["egesa","enon egesa", "vega egesa"]
+several ["mudei"]
+gold ["edin-esuno","edin-vos-lien"]
+collection ["gelubi","gelubi oindi"]
+called ["enon"]
+short [megi-zewi leli"]
+lot [mudei, "man bi gein esin"]
+ask [lema]
+display ["bena lugin","bena da man lugin"]
+limited ["una leli"]
+powered ["wiawa","wiawa biawi"]
+solution ["iasin gein" ]
+means ["gein"]
+director ["liawa buli"]
+daily ["bi esuno muli"]
+beach ["man elena","man elena delo"]
+past ["don boina", "don boina boina"]
+natural ["bi guvi man"]
+whether ["iani"]
+due ["dan"]
+electronics ["zon biawi"]
+five ["lan"]
+upon ["lon zugi"]
+period ["don","don min","won megi-don"]
+database ["uwein bi zon gezuwi"]
+official ["bi meseni","bi mezan"]
+weather ["buli zewi"]
+land ["man goigo","mezan"]
+average ["memuso", "memuso gelubi"]
+done ["beni la"]
+technical ["egesa","lebo egesa"]
+window ["luli lugin"]
 france
 pro
 region
@@ -1113,7 +1100,6 @@ silver
 corporation
 wish
 inside
-solution
 mature
 role
 rather
@@ -1301,7 +1287,7 @@ hold
 ratings
 chicago
 forms
-glass
+glass ["zin lugin"]
 happy
 tue
 smith
@@ -2188,7 +2174,6 @@ finding
 pennsylvania
 examples
 ipod
-saying
 spirit
 ar
 claims
@@ -4739,7 +4724,6 @@ acres
 venue
 athletic
 thermal
-essays
 behaviour
 vital
 telling
@@ -5460,6 +5444,7 @@ adjustable
 allocation
 michelle
 essay
+saying
 discipline
 amy
 ts
