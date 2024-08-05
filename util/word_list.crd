@@ -71,7 +71,7 @@ biagela [broken] [pakala] FcfdMsRfa
 biagei [stop] [pake] EcufAb
 buli [make,do,build] [pali] FcabCuf
 belesa [stick,rod] [palisa] "2huaMc"
-ban [bread,grain] [pan] "5cadMm"
+ban [bread,loaf] [pan] "5cadMm"
 bena [give] [pana] HcauSuf
 belin [heart,feeling,want,need] [pilin] CcuaCwu
 beni [end,finish,already] [pini] EcfdMsRfa
@@ -83,7 +83,7 @@ bialan [balanced] [pona] "2FfaMs"
 zewi [sky,heaven] [sewi] QuadDw
 velo [skin,peal,cover] [selo] JdabBs
 vi [hot,fire,cook] [seli] JcfwDu
-vegei [round,ring,orbit] [segei] QcuaCua
+vegei [round,ring,orbit,around] [segei] QcuaCua
 vis [new,young,again] [sin] EcadMsRub
 enbin [face,front] [sinpin] EssbCau
 vedelin [writing,drawing,image] [sitelen] "2habDd"
@@ -163,7 +163,6 @@ bununei [joy,pleasure,happiness] [NEW]
 zema [sibling] [NEW]
 gelin [family] [NEW]
 eliawi [machine] [NEW]
-viazo [zero,none,nothing] [NEW]
 bebi [bug,insect] [NEW,PRE]
 gezuwi [step,ladder,stairs,"discreet amount"] [NEW]
 veso [lizard,reptile] [NEW,PRE]
@@ -171,6 +170,7 @@ ludi [sad] [NEW,NOGLYPH]
 meda [lie,decieve,trick] [NEW,NOGLYPH]
 uwi [urgent, important, quick] [NEW,NOGLYPH]
 lema [ask,question] [NEW,NOGLYPH]
+dedei [grain] [NEW,NOGLYPH]
 
 
 
