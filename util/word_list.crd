@@ -128,7 +128,7 @@ edin [atom,molecule] [PRE] JaadWu
 ema [sound] [PRE,kalama] Jeub
 ga [colour] [PRE,kule] Luaf
 geni [shape] [PRE] Lwwf
-guli [core,gut,organ,"body part"] [sijelo,pilin,insa,PRE] EaabMs
+guli [organ,"body part"] [sijelo,pilin,insa,PRE] EaabMs
 is [they] [pronoun, ona,PRE] Tsub
 vo [animal] [soweli,PRE] Swua
 megi [measure,distance] [weka,PRE] Beub
@@ -218,9 +218,7 @@ dis [this] [pronoun,ni] "TsabM*R*"
 das [that] [pronoun,ni] "TaabM*R*"
 begi [self] [pronoun,ona,mi,sina] TsabSfu
 
-
 # Amounts / numbers
-
 won [one] [wan,number] "1csb"
 di [two] [tu,number] "2csb"
 van [three] [san,"tu wan",number] "3csb"
@@ -240,20 +238,9 @@ egesa [exact,point] [ni] "1suaMcRdw"
 loigo [lock,tie,know,tight] [] FcuaRub
 veli [real,true] [lon] "2sufRdb"
 
-
-
-
 #measurable
 ziasi [reflect,opposite] [amount,ante] PsuaBf
-
 ziazon [mass,weight] [measure,suli] EafwSuwRfa
 oiban [frequency] [measure] EafaSuwSuw
-
 belas [full] [suli,measure] BcadMm
-
-
-
-
-
-
 
