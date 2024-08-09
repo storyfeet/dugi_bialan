@@ -1,0 +1,25 @@
+{{export title="Text Adventure"}}
+{{@export style}}
+span {
+	font-size:300%;
+}
+
+{{/export}}
+
+<div id="game_output">
+</div>
+<input type="text" id="game_input"/><button onclick="doText()">Do</button>
+
+<script type="module">
+
+const dom = {
+	gameInput:document.getElementById("game_input"),
+	gameOutput:document.getElementById("game_output"),
+}
+
+window.doText = ()=> {
+	const tx = dom.gameInput.value;
+	console.log("doing :" ,tx);
+}
+
+</script>

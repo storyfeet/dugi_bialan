@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Text Adventure</title>
+<style>
+
+@font-face {
+  font-family: dugi_bialan;
+  src: url(/fonts/DugiBialanThick.otf);
+}
+body {
+    background-color:#aaaa77;
+    font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
+}
+.red {
+    color:red;
+}
+
+.content{
+    width : 90%; 
+    margin : auto;
+    background-color:#bbbb88;
+    padding : 10px;
+}
+.g-base {
+    height:3em;
+    width:auto;
+}
+
+.g-second { 
+    height:1.8em;
+    width:auto;
+    padding-bottom:1.2em;
+}
+.g-follow { 
+    height: 2.5em;
+    width:auto;
+    margin-left:-0.8em;
+}
+.g-s-follow {
+    height:1.8em;
+    width:auto;
+    margin-left:-1.3em;
+}
+
+.glyph-box {
+    text-align:center;
+    height:55px;
+    width:60px;
+    border:1px solid black;
+    overflow:hidden;
+    float:left;
+}
+.glyph-box img {
+    width : 50%;
+    height: 50%;
+    background: #bbbbbb;
+}
+.glyph-box text {
+}
+.word-list {
+    display:flex;
+    flex-wrap:wrap;
+}
+.word-box {
+    text-align:center;
+    height:140px;
+    width:90px;
+    border:1px solid black;
+    page-break-inside:avoid;
+    overflow-y:hidden;
+}
+.word-box img {
+    width : 30%;
+    height: 30%;
+}
+
+#question {
+    padding:10px;
+    font-size:300%;
+}
+#answers > div {
+    border: 1px solid black;
+    padding:5px;
+    min-width:150px;
+    min-height:150px;
+    float:left;
+    font-size:200%;
+    text-align:center;
+    
+}
+
+
+.menu {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menu a {
+    padding:20px; 
+    background : grey;
+    margin: 1px 5px;
+}
+
+.hidden {
+    display:none;
+}
+@media print{
+    .no-print, .no-print * {
+        display:none; 
+    }
+}
+
+
+span {
+	font-size:300%;
+}
+
+
+
+</style>
+</head>
+<body>
+    <div class="no-print menu">
+        <a href="/">Home</a>
+        <a href="/word_list">Word List</a>
+        <a href="/grammar">Grammar</a>
+        <a href="/grammar_faq">Grammar Faq</a>
+        <a href="/phonology">Phonology</a>
+        <a href="/works">Works</a>
+        <a href="/dictionary">Dictionary</a>
+    </div>
+    <h1>Text Adventure</h1>
+    <div class="content">
+        
+
+
+<div id="game_output">
+</div>
+<input type="text" id="game_input"/><button onclick="doText()">Do</button>
+
+<script type="module">
+
+const dom = {
+	gameInput:document.getElementById("game_input"),
+	gameOutput:document.getElementById("game_output"),
+}
+
+window.doText = ()=> {
+	const tx = dom.gameInput.value;
+	console.log("doing :" ,tx);
+}
+
+</script>
+
+    </div>
+</body>
+</html>
