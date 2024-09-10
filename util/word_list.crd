@@ -13,6 +13,7 @@ egi [bad] [ike] PmubMs
 elo [tool] [ilo] FsuaMpRfa
 ensa [inside] [insa] "2cbwCua"
 iagi [yucky,"bad tasting", unclean,gross] [jaki] "2mafRab"
+
 zan [person] [jan] Vsdb
 guma [come,become,arrive,achieve] [kama] EfabMs
 giasi [tree] [kasi] "5sufMu"
@@ -123,7 +124,6 @@ vega [species,type] [kule] JafdSuw
 
 benon ["the word"] [PRE,quote] Ewsd
 gela [fish] [PRE,kala] "5ffaWa"
-edi [taste] [namako,PRE] RmafCuf
 edin [atom,molecule] [PRE] JaadWu
 ema [sound] [PRE,kalama] Jeub
 ga [colour] [PRE,kule] Luaf
@@ -134,6 +134,7 @@ vo [animal] [soweli,PRE] Swua
 megi [measure,distance] [weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
 
+edi [taste] [namako] RmafCuf
 zi [child,offspring,seed] [lili,sike] QcauWu
 bas [striped] ["linja mute",NEW] WcufMd
 ususa [spreading,sprawling] [NEW] 
@@ -171,10 +172,7 @@ meda [lie,decieve,trick] [NEW,NOGLYPH]
 uwi [urgent, important, quick] [NEW,NOGLYPH]
 lema [ask,question] [NEW,NOGLYPH]
 dedei [grain] [NEW,NOGLYPH]
-
-
-
-
+umeni [poop,compost,"body waste"] [jaki,NEW]
 
 i [subject] [PAR,en] "1eua"
 ei ["object-marker"] [PAR,e] Qaad

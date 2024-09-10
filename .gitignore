@@ -1,7 +1,7 @@
 out
 out/**/*
-ungit
-ungit/**/*
+**/ungit
+**/ungit/**/*
 zig/**/*.o
 zig/convert
 zig/**/*.wasm

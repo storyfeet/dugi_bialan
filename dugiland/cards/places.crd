@@ -3,22 +3,27 @@
 Uwenegein "enin zewi"
 .description : "The large mountain at the centre of the island. It is steep, and ragged, and can be seen from everwhere."
 
-
 Beneluda "man mengi" 
-.specialties : ["cloth","livestock"]
+.specialties : ["woodwork","fishing"]
+.location : "Central Village"
+.description : "A sharing village with a central hub building where everyone comes for breakfst each morning."
 
 Edlialan "man mengi"
-.specialties : ["woodwork","fishing"]
+.specialties : ["cloth","livestock"]
+.location : "Northern Village"
 
 Guduleis "man mengi"
 .specialties : ["metalwork","hunting"]
+.location : "Southern Village"
 
 Iadebei "man elena"
+.location : "east of the village"
 .description : "The place where your ship runs aground, and can be found throughout the story"
 
 "Rivers Edge" : 
 
 "Rocky pass hideout" :
+.location : 
 .description : "A short way along the mountain, a fire pit, and ground, are out of site.
 .connections: "Uwenegein pass"
 
