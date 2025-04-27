@@ -110,7 +110,6 @@ bengo [vehicle] [tomo,tawa] KsuaMa
 denso ["non binary"] [tonsi] JmadMe
 una [mouth] [uta] Pmaf
 udiala [fight] [utala] "2msbMpRfa"
-uli [compete] [utala] "2msbCuf"
 wiasa [wing] [waso] "BufdWd"
 wiawa [mighty,strong] [wawa] FwuaDu
 biawi [electric] [wawa] "LuufSad"
@@ -229,8 +228,8 @@ lein [nine] [number]
 lo [ten]
 za [thousand] [mute,ali,number] Bcsb
 
-mudei [several,increase] [mute,amount] "2sadCwf"
-zelula [shitloads,too,much,many] [mute,amount] "2sadMu"
+dei [plural,several,increase,more] [mute,amount] "2sadCwf"
+deni [few,decrease,less]
 muli [all,every] [ali,ale,amount] HcauCwf
 egesa [exact,point] [ni] "1suaMcRdw"
 loigo [lock,tie,know,tight] [] FcuaRub

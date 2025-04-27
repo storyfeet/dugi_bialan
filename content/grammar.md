@@ -683,9 +683,11 @@ If you want to be precise just use the atomic number
 
 * megi-zo : Measurement
 * megi-liawa : Height
+* megi-oiga : Depth
 * megi-vi : Tempurature
 * megi-munin : Width
-* megi-giawin : Length
+* megin enbin : Length
+* megi-giawin : Speed
 * megi-lei : Angle
 
 Repeated Particles

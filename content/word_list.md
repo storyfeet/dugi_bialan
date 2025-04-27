@@ -6,15 +6,15 @@
 <div class="search">Find : <input id="search_box" type="text"></input></div>
 <div class="word-list" id="words_div">
 {{for k c in $cards}}
-<div class="word-box">
-<span style="font-weight:bold">{{$c.Name}}</span><br>
-{{for kk g in $glyphs}}
-    {{if eq $g  (cat $c.Name ".svg")}}<img src="/glyphs/{{$c.Name}}.svg"/> {{/if}}
-{{/for}}
-<br>
-{{for ww w in $c.en}}{{$w}} {{/for}}
-{{if $c.tags}}{{for ww w in $c.tags}}{{$w}} {{/for}}{{/if}}
-</div>
+    <div class="word-box">
+    <span style="font-weight:bold">{{$c.Name}}</span><br>
+    {{for kk g in $glyphs -}}
+        {{if eq $g  (cat $c.Name ".svg")}}<img src="/glyphs/{{$c.Name}}.svg"/> {{/if}}
+    {{- /for}}
+    <br>
+    {{for ww w in $c.en}}{{$w}} {{/for}}
+    {{if $c.tags}}{{for ww w in $c.tags}}{{$w}} {{/for}}{{/if}}
+    </div>
 {{/for}}
 </div>
 
