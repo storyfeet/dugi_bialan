@@ -6,7 +6,7 @@ o guma buna da dugi "bialan". won dugi bialan
 {{/with_pics}}
 Welcome to Dugi Bialan, a language of Balance.
 
-{{with_pics "wei bialan ei iasin leli gin gein bi dugi zelula"}}    
+{{with_pics "wei bialan ei iasin leli gin gein bi dugi dei dei"}}    
 It balances minimalism, with the ability to say a lot.
 
 {{with_pics "dugi dis li guma veli dan dugi \"dugi buna\" dan guma zon mi bi dugi dis"}}    

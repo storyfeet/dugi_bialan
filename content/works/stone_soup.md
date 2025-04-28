@@ -58,7 +58,7 @@ zan iasin wei esebin, wei dugi go ,"ba - egon dis li egon bi wiawa oimi, mi wei 
 
 di zi wei giawin wei liasi bena ei bugi vi delo. zan iasin wei bena ei egon da ensa bugi, wei begin vis ema musi
 
-zi wei giawin lon ema-musi. zan leli endei wei guma egin, wei begin musi giawin. is-mudei li belin buna mudei, li belin buna zelula, deso la. won zan leli vis go "o zan buna la, vin da wi vemi wei ema-musi da egon lon bugi?"
+zi wei giawin lon ema-musi. zan leli endei wei guma egin, wei begin musi giawin. is-mudei li belin buna mudei, li belin buna dei, deso la. won zan leli vis go "o zan buna la, vin da wi vemi wei ema-musi da egon lon bugi?"
 
 "ba" go "egon dis li wiawa oimi. mi wei ema-musi da is-egon esi, is-egon wei buli ei delo beba da mi, da zan muli lon man mengi dis, deso la, is-delo li o luga vi, li o luga delo. vin wei va-wei gein bena elo da mi?"
 

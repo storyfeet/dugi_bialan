@@ -31,7 +31,7 @@ deso la, zan ban egin go "o giawin giawin gin muli wiawa vin, vin va wei gein le
 
 vo-bengo, i vo-devo, i min-leli, i mon leli wei giawin moini, deso la, zan ban wei giawin zeli mudei. is-mudei va wei gein leban.
 
-zan bein wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li zelula.
+zan bein wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li vuli.
 
 dan moini giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-moini mi esi, mi wei giawin delo munin ei delo".
 

@@ -5,7 +5,7 @@
 veso-mengi i vo-gudei munin # : (The Tortoise and the Hare)
 #===========
 
-vo-gudei munin wei gein giawin zeli muli dan vo-zo muli bi man giasi. deso la, is-gudei wei zelula zon ei zon ei dis. 
+vo-gudei munin li dei gein giawin dan vo-zo muli bi man giasi. deso la, wei dei zon ei dis. 
 
 muli begin esuno la, wei bo ei vo-zo mugi go, "o uli giawin gin mi". va-won wei belin uli giawin gin is-gudei.
 

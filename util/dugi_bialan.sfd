@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 4 0 0 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup benon-benon"  } ['liga' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,7 +45,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 57632 16 9
+WinInfo: 57664 16 9
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114137 250
@@ -927,7 +926,6 @@ EndChar
 StartChar: uniE155
 Encoding: 57685 57685 25
 Width: 1000
-Flags: H
 HStem: 211.018 79.998<231.41 759.924 760.281 791.893>
 VStem: 458.516 79.9785<-164.044 -130.012>
 LayerCount: 2
@@ -951,12 +949,12 @@ SplineSet
  760.28125 285.720703125 267.46875 291.013671875 267.03125 291.015625 c 0
  244.955078125 291.015625 227.03125 273.091796875 227.03125 251.015625 c 0
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: uniE156
 Encoding: 57686 57686 26
 Width: 1000
-Flags: HO
 HStem: 273.986 79.998<212.699 741.194 741.551 773.162>
 VStem: 458.537 79.957<493.67 743.048> 482.202 83.4795<-21.6602 87.9745>
 LayerCount: 2
@@ -980,6 +978,7 @@ SplineSet
  741.55078125 348.689453125 248.7578125 353.982421875 248.3203125 353.984375 c 0
  226.244140625 353.984375 208.3203125 336.060546875 208.3203125 313.984375 c 0
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: uniE157
