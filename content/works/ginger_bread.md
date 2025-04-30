@@ -19,7 +19,7 @@ go "uwein" i min leli.
 
 deso-la, zan bi ban demego wei wega begi lon viala, go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi li zan bi ban demego vi"
 
-min leli, i mon leli wei giawin giawin moini. deso zan bi ban demego wei giawin zeli mudei.
+min leli, i mon leli wei giawin giawin moini. deso zan bi ban demego wei dei giawin.
 
 lon iasin, is-ben wei bo ei vo-devo edo go "vin wei bena gon bi buna mugo, o da mi"
 
@@ -29,7 +29,7 @@ dan iasin lon man zugi eleba, is-ban wei li wei lugin i vo-bengo. go "vin da vem
 
 deso la, zan ban egin go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi li zan bi ban demego vi"
 
-vo-bengo, i vo-devo, i min-leli, i mon leli wei giawin moini, deso la, zan ban wei giawin zeli mudei. is-mudei va wei gein leban.
+vo-bengo, i vo-devo, i min-leli, i mon leli wei giawin moini, deso la, zan ban wei dei giawin. is-dei va wei gein leban.
 
 zan bein wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li vuli.
 

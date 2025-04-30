@@ -105,19 +105,19 @@ go "o guma lon ensa" wei dugi i vo-ezan
 
 # "O come in said the wolf"
 
-is-leli wei giawin ensa wei lugin ei ma ma min is-leli. go "ba ma ma min mi. lugin vin li guma vuli mudei"
+is-leli wei giawin ensa wei lugin ei ma ma min is-leli. go "ba ma ma min mi. lugin vin li guma dei vuli"
 
 # She came inside and looked and her grandmother. "O granny, your eyes have gotten soo big"
 
-go "li buna mudei da wei lugin ei vin"
+go "li dei buna da wei lugin ei vin"
 
 # "This is very good so I can look at you."
 
-go "ba ma ma min mi. gudei vin li guma vuli mudei"
+go "ba ma ma min mi. gudei vin li guma dei vuli"
 
 # "Oh my granny. your ears have gotten soo big"
 
-go "li buna mudei da wei gudei ei vin"
+go "li dei buna da wei gudei ei vin"
 
 # "this is very good so I can hear you"
 
@@ -125,15 +125,15 @@ vo-ezan li dugi go "o guma lon bo mi, mi wei belin mugo leli ei mugo delo vin"
 
 # The wolf said, "O come closer, I'd like to taste some of your soup"
 
-is-leli wei guma da bo mudei, wei lugin bo mudei.
+is-leli wei guma da dei bo, wei lugin dei bo.
 
 # She came closer, and looked closer.
 
-go "ba ma ma min mi. gedin vin li wei guma vuli mudei"
+go "ba ma ma min mi. gedin vin li wei guma dei vuli"
 
 # "O my granny. your teeth have gotten soo big"
 
-go "li buna mudei da wei mugo ei vin"
+go "li dei buna da wei mugo ei vin"
 
 # "This is very good, so I can EAT you"
 
@@ -149,7 +149,7 @@ deso la, wei giawin lon bo mengi dis i zan bi din giasi
 
 # However, Walking beside this house was a woodcutter.
 
-is-zan wei gudei ei ema-liabei wei esebin ei go "zan mezuni dis va-wei ema-liabei mudei egin dis"
+is-zan wei gudei ei ema-liabei wei esebin ei go "zan mezuni dis va-wei dei ema-liabei egin dis"
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 

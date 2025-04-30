@@ -58,11 +58,11 @@ mi wei. mi wei dugi ei lebo gan-zewi.
 
 # Sorry, not this one either. why don't you have another go.
 
-"mi biagela egin" wei dugi. deso dan vemi va-wei lugin mudei won.
+"mi biagela egin" wei dugi. deso dan vemi va-wei dei lugin won.
 
 # Another go?? Surely not, I can't get it wrong now.  
 
-"mudei won ???" mi va-wei gein egi. "lon memuso" mi dugi.
+"dei lugin won ???" mi va-wei gein egi. "lon memuso" mi dugi.
 
 # but he showed me again this was still "this" card.
 
@@ -90,7 +90,7 @@ lon gan-zewi, va-li
 
 # "Sorry, no that's that card. One more go"
 
-deso la dis egin va-li lebo mi. is-mon wei dugi go "mudei won?"
+deso la dis egin va-li lebo mi. is-mon wei dugi go "dei lugin won?"
 
 # "The middle then"
 

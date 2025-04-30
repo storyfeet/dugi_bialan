@@ -43,9 +43,9 @@ The other two {{wei "giawin"}} on their way. They {{wei "lugin ei zan bi wei esi
 "That's perfect" {{wei "dugi i "}} second pig, this will be stronger than {{qq "mengi bi"}} brother {{qq "mi"}}, but still {{qq "mi wei gein mengi ei"}} it in {{qq "don"}} little.
 
 - {{qoth "is-di"}} : He / She / The second / The two 
-- {{qoth "mudei"}} : Many / More / Add
+- {{qoth "dei"}} : Many / More / Add
 
-{{qq "is-di wei esin ei belesa mudei"}} 
+{{qq "is-di wei esin ei dei belesa"}} 
 
 - {{qoth "lego"}} : Bricks / blocks
 
@@ -68,11 +68,11 @@ The third {{qq "vo-esegi wei giawin"}} on his way, {{wei "lugin ei zan bi wei es
 - {{qoth "da"}} : To / For / In order
 - {{qoth "elo"}} : tool
 
-{{qq "vo-esegi van wei elo ei don mudei da wei mengi ei mengi is-van"}}
+{{qq "vo-esegi van wei elo ei dei don da wei mengi ei mengi is-van"}}
 
 - {{qoth "ba"}} : So / Soooo 
 
-In fact : {{qq "is-van wei elo ei don ba mudei"}} that {{qq "vo-di endei wei"}} made fun of {{qq "is-van"}}
+In fact : {{qq "is-van wei elo ei don ba dei"}} that {{qq "vo-di endei wei"}} made fun of {{qq "is-van"}}
 
 - {{qoth "li"}} : is / are / was / were
 - {{qoth "i"}} : Marks the subject when not the first word
@@ -97,7 +97,7 @@ In fact : {{qq "is-van wei elo ei don ba mudei"}} that {{qq "vo-di endei wei"}} 
 - {{qoth "is-ezan"}} : He / She / The fierce one.
 - {{qoth "mugo"}} : food / eat
 
-{{"is-ezan wei lugin ei vo-esegi mudei wei"}} wanted {{qq "mugo ei is-esegi"}}.
+{{"is-ezan wei lugin ei vo-esegi wei"}} wanted {{qq "mugo ei is-esegi"}}.
 
 - {{qoth "belesa eleba"}} : Straw (Sticks of Grass)
 

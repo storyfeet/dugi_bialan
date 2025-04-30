@@ -83,7 +83,7 @@ o lugin egon egin egon veli.
 
 # ah, but I know no matter how many times I do this, I've noticed that the egg always comes back invisible
 
-ba, deso la mi zon ei i mi lon megi-oiban mudei wei buli ei dis, esegi zi wei guma vis, li va-gein lugin.
+ba, deso la mi zon ei i mi lon dei-oiban wei buli ei dis, esegi zi wei guma vis, li va-gein lugin.
 
 # But it's ok because all I have to do is throw it back into the bag and it becomes visble again.
 
@@ -91,6 +91,6 @@ deso la va-gein egi, dan dis. mi va-wei deso wega zewi ei esegi da ensa bigu la 
 
 # Thank you very much
 
-bianei mudei
+dei bianei
 
 

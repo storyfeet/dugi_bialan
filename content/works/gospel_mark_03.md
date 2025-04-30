@@ -26,7 +26,7 @@ vos : zan zan wei giawin moini zan Zesuwa
 
 zan Zesuwa wei wega begi gin zan moini da delo vuli. zan zan wei guma moini.
 
-is-zan wei gudei ei i is-mon ba wei buli la mudei zan dan man Zudei, dan man Zewuselei dan man Edumei dan munin lena delo Zoidan dan man Dewa, dan man Esedon.
+is-zan wei gudei ei i is-mon ba wei buli la dei zan dan man Zudei, dan man Zewuselei dan man Edumei dan munin lena delo Zoidan dan man Dewa, dan man Esedon.
 
 dan wi zan zan, is-mon da zan moini wei dugi ei o buna ei bengo delo leli, da wei uwein ei zan zan dan is-mon.
 

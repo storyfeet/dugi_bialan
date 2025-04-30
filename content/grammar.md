@@ -31,7 +31,7 @@ Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. De
     * A sub-clause
 * The Particle {{qoth "li" }} is followed by:
     * An adjective phrase    
-    eg : {{qoth "buna mudei"}} "good many / very good"
+    eg : {{qoth "dei buna"}} "much good/ very good"
     * A quantifier and a noun phrase.    
     eg : {{qoth "won zan"}} "a person".
 * The Particle {{qoth "wei"}} is followed by
@@ -527,7 +527,7 @@ The clarifier doesn't have to be first/main word, just the least ambiguous.
 
 #### Simple clarifiers
 
-* is-mudei : they : the group of people
+* is-dei : they : the group of people
 * is-muli : they all 
 * is-zan : this/these person(s)
 * is-leli : The small one
@@ -596,7 +596,7 @@ Describe colours how you like, but these are some good starters.
 * ga-una : red
 * ga-beba : green
 * ga-goigo : brown
-* ga-mudei : Multicoloured
+* ga-dei : Multicoloured
 * ga-muli : White
 
 * ga-dugi : accent

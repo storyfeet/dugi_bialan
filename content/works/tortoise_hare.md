@@ -27,9 +27,9 @@ va-zan wei gein egon biagei ei uwein dugi veso-mengi. dan dis la, is-di li giawi
 
 vo-muli wei gelubi lon man begin. vo-begin go "begin".
 
-is-di wei giawin giawin, lon iasin giawin zeli mudei, dan egsegi udiala giawin giawin.  dis li dugi ei vo-gudei wei giawin egin dis. veso-mengi deso wei giawin, deso da wei lugin, i zan o lugin lugin lugin da wei zon veli.
+is-di wei giawin giawin, lon iasin wei dei giawin, dan egsegi udiala giawin giawin.  dis li dugi ei vo-gudei wei giawin egin dis. veso-mengi deso wei giawin, deso da wei lugin, i zan o lugin lugin lugin da wei zon veli.
 
-don leli la vo-gudei li wega mudei dan vo-muli, wei lugin moini va-wei lugin ei vo-zo, wei esebin ei wei gein elo ei liabei uwein.
+don leli la vo-gudei li dei wega dan vo-muli, wei lugin moini va-wei lugin ei vo-zo, wei esebin ei wei gein elo ei liabei uwein.
 
 wei beni ei guli-lugin da don leli. ubin la, wei lugin moini, va-wei gein lugin ei vo-zo, wei esebin go "gein la, da beni "
 

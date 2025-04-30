@@ -55,7 +55,7 @@ lon begin la mi wei luga ei lena won. lon don dis la mi wei luga ei lena di. dan
 
 # But we can do more, what if we took these two ropes and turned them into one?
 
-deso la, mi wei gein mudei. lena di dis wei duga won esi.
+deso la, mi wei dei gein. lena di dis wei duga won esi.
 
 # This is going to blow your minds, your heads will explode, as you see two ropes becoming one before your very eyes.
 

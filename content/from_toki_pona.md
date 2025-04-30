@@ -185,7 +185,7 @@ In Dugi Bialan, it can be anything. {{uqoth "is"}} must be followed by an adject
 {{qoth "is-zo"}} : The thing ( it )    
 {{qoth "is-mon"}} : The male ( He / They (m))    
 {{qoth "is-min"}} : The female ( She / They (f))    
-{{qoth "is-mudei"}} : The many ( They )    
+{{qoth "is-dei"}} : The many ( They )    
 {{qoth "is-vuli"}} : The big ( He / She / They )    
 {{qoth "is-won"}} : The one / The first     
 {{qoth "is-buna"}} : The good     
