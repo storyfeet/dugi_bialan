@@ -11,9 +11,9 @@ dan dis la, min leli wei buli ei zan bi ban demego. wei elo ei gela va-delo da l
 
 is-min da ensa vi ei zan bi ban demego.
 
-devin don leli la, is-min wei gudei ei ema-dugi dan ensa vi, go "o obin, o obin",
+don leli la, wei gudei ei ema-dugi dan ensa vi, go "o obin, o obin",
 
-is-min wei ubin ei vi la, zan wei munin dan vi wei munin da viala mengi.
+uwi la, wei ubin ei vi. dei la zan wei munin dan vi wei munin da viala mengi.
 
 go "uwein" i min leli.
 
@@ -35,11 +35,11 @@ zan bein wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li vuli
 
 dan moini giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-moini mi esi, mi wei giawin delo munin ei delo".
 
-zan bi ban demegi wei esebin ei i dis li esebin buna, wei gan-moini ei vo-vi, devin vo-vi wei giawin.
+zan bi ban demegi wei esebin ei i dis li esebin buna, wei gan-moini ei vo-vi. vo-vi wei giawin.
 
 lon memuso delo, vo-vi go, delo dis li megi-oiga vuli, o giawin da liawa mi, da va-li velo delo.  zan ban wei dis 
 
-lon don egesa dis, vo-vi wei gan-zewi ei liawa begi, wei wega gan-zewi ei zan ban. devin wei ubin ei una, wei leban ei zan ban lon una, wei mugo ensa gin won buli una
+lon don egesa dis, vo-vi wei gan-zewi ei liawa begi, wei wega gan-zewi ei zan ban. wei ubin ei una, wei leban ei zan ban lon una, wei mugo ensa gin won buli una
 
 dis li beni bi zan bi ban demego.
 

@@ -29,13 +29,13 @@ vo-muli wei gelubi lon man begin. vo-begin go "begin".
 
 is-di wei giawin giawin, lon iasin giawin zeli mudei, dan egsegi udiala giawin giawin.  dis li dugi ei vo-gudei wei giawin egin dis. veso-mengi deso wei giawin, deso da wei lugin, i zan o lugin lugin lugin da wei zon veli.
 
-devin don leli la vo-gudei li wega mudei dan vo-muli, wei lugin moini va-wei lugin ei vo-zo, wei esebin ei wei gein elo ei liabei uwein.
+don leli la vo-gudei li wega mudei dan vo-muli, wei lugin moini va-wei lugin ei vo-zo, wei esebin ei wei gein elo ei liabei uwein.
 
 wei beni ei guli-lugin da don leli. ubin la, wei lugin moini, va-wei gein lugin ei vo-zo, wei esebin go "gein la, da beni "
 
 wei giawin, deso, beni lon lugin la, wei gein lugin ei vo-muli lon man beni.  veso-mengi da lena, lon don leli.
 
-vo-gudei wei giawin, giawin gin giawin begi muli, deso la, boina is-gudei la, veso-mengi wei munin ei lena.
+vo-gudei wei giawin, giawin gin giawin begi muli, deso la, is-gudei va-la, veso-mengi wei munin ei lena.
 
 go "vin gin vemi wei zeli uli ei mi"
 

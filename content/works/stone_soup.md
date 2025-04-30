@@ -5,7 +5,7 @@
 
 <h3>zan iasin # -- The Traveller #</h3>
 
-zan iasin wei giawin lon don mudei. devin don mudei lon iasin, is-mon li belin liabei, wei belin mudei ei mengi begi.    
+zan iasin wei giawin lon dei don. dei don lon iasin vuli. beni la, is-mon li belin liabei, wei belin mudei ei mengi begi.    
 lon moini vo-bengo gin elo ema-musi lena, wei ema-musi.
 
 oiga vo-bengo wei egon ei mugi. vo-bengo wei gan-oiga. is-mon egin wei gan-oiga, wei egon ei goigo.
@@ -20,9 +20,9 @@ egon li lugin luga ei mugi buna. zan-iasin wei ensa ei dis lon bugi, wei bena el
 
 <h3> man mengi # -- The Town#</h3>
 
-gan-oiga esuno la, man mengi li guma lon lugin. devin wei guma bo la, zan iasin wei lugin ei vedelin enon bi man mengi. is-mon wei gein lugin ei enon bi boina, deso la enon dis li wei biagela, enon vis li "Veluga" 
+gan-oiga esuno la, man mengi li guma lon lugin. wei guma bo la, zan iasin wei lugin ei vedelin enon bi man mengi. is-mon wei gein lugin ei enon bi don deni, deso la enon dis li wei biagela, enon vis li "Veluga" 
 
-lon man mengi, is-mon wei lugin ei man esin. is-mon wei gein lugin ei i man dis, lon don boina, li buli vuli bi zan mudei, deso la, lon don dis, li guma biagela mezuni.
+lon man mengi, is-mon wei lugin ei man esin. li wei lugin egin, lon don deni deni, li buli vuli bi zan mudei, deso la, lon don dis, li guma biagela mezuni.
 
 is-mon wei begin liasi ei man liabei. lon iasin mengi, is-mon wei begin, wei ema-egon lon viala mengi. viala wei ubin leli. lon moini li luga ei min mezuni leli.
 
@@ -32,9 +32,9 @@ go "o mi wei belin .. deso la mi wei luga ei va-deso leli da mi da zi mi. mi va-
 
 lon wei dugi ei dis la, is-min wei viala ei viala.
 
-da mengi devin la, is-mon wei giawin. 
+da mengi la, is-mon wei giawin. 
 
-viala di li endei. devin ema-egon la, viala wei ubin wega. zan vuli wiawa wei uwein lon ensa, go "vin wei belin ei vemi"
+viala di li endei. wei ema-egon la, viala wei ubin wega. zan vuli wiawa wei uwein lon ensa, go "vin wei belin ei vemi"
 
 zan-iasin go "mi li zan iasin, mi wei giawin wega mudei, wei giawin da mengi mi. lon don dis la, mi wei lugin liasi ei man liabei. vin wei va-wei gein bena elo da mi. gein la, ei man liabei"
 
@@ -90,13 +90,13 @@ leli zan wei giawin mengi, wei egin guma gin beba.
 
 zan lugin endei wei esebin zon ei wei mugi, wei giawin egin, wei egin guma gin mudei beba.
 
-zan vuli edo bi mengi di go "mi li belin ubei dan boina, mi wei luga" is-mon wei gaiwin wei egin guma gin mugo vo-zo da bugi devo.
+zan vuli edo bi mengi di go "mi li belin ubei dan don beni, mi wei luga" is-mon wei gaiwin wei egin guma gin mugo vo-zo da bugi devo.
 
 lon beni la, zan muli wei mugo buna, zan muli wei musi giawin, zan muli wei guma luga ei mudei dan wei bena.
 
-don bununei li beni la, min mezuni bi mengi won, bi go "mi va-wei deso lugo", go "mi li belin ubei dan boina, mi wei luga ei man liabie da vin. vin wei gein liabei lon gan-oiga zugi mengi"
+don bununei li beni la, min mezuni bi mengi won, bi go "mi va-wei deso lugo", go "mi li belin ubei dan don deni, mi wei luga ei man liabie da vin. vin wei gein liabei lon gan-oiga zugi mengi"
 
-lon esuno vis devin la, is-mon wei gan-zugi ei vo-giawin is-mon la, zi bi man mengi wei guma go "o zan buna, vin wei va-zon ei egon vin"
+esuno vis la, is-mon wei gan-zugi ei vo-giawin is-mon la, zi bi man mengi wei guma go "o zan buna, vin wei va-zon ei egon vin"
 
 is-mon go "buna la, vin o luga uwein. da don bi i vin wei belin belin egin"
 

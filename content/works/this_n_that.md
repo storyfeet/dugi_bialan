@@ -34,7 +34,7 @@ is-mon wei luga ei lebo busi van wei dugi ei i mi o va-deso lugin bo ei won.
 
 # He had "this" card, "this" card, and "that", put down a pound, he said, if you can find, that card, I'll give you two back.
 
-is-mon wei bena lugin ei lebo "dis", ei lebo "dis" ei lebo "das". go "o bena lon zugi ei miani Enlis won. devin la vin wei gein dugi ei lebo das li lon vemi esi, mi da vin ei miani di.
+is-mon wei bena lugin ei lebo "dis", ei lebo "dis" ei lebo "das". go "o bena lon zugi ei miani Enlis won. dei la, vin wei gein dugi ei lebo das li lon vemi esi, mi da vin ei miani di.
 
 # As he said this he put 1 card on the bottom.
 

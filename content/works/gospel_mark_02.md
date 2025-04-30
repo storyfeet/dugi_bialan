@@ -5,7 +5,7 @@
 won : zan va-gein
 #---------
 
-devin leli esuno la lon don bi i zan Zesuwa wei ensa ei man Giabenewamm la muli zan wei gudei ei i is-mon wei guma.
+leli esuno la lon don bi i zan Zesuwa wei ensa ei man Giabenewamm la muli zan wei gudei ei i is-mon wei guma.
 
 zan wei guma ba dei dei la va-li luga ei man va-laban, ba lon wega viala. is-mon wei dugi zon ei enon dugi da is-mudei.
 
@@ -54,7 +54,7 @@ zan bi Vialesi wei dugi da is-mon. is-mudei dan vemi wei buli ei va-liawa lon es
 
 is-mon go, <span class="red">"vin lon va-don wei lugin lebo ei i zan Devidd wei vemi, dan li belin mugo, li belin belin. lon don bi zan enma Ebiass la is-mon wei ensa ei mengi bi enma veli wei mugo ei ban vi zewi ego va-deso zan enma wei gein mugo lon lebo liawa. egin la is-mon wei bena ei ban vi da zan big is-mon. "</span>
 
-devin la is-mon go <span class="red">"esuno unis li wei buli da zan. zan va li wei buli da esuno unis"</span>
+dei la is-mon go <span class="red">"esuno unis li wei buli da zan. zan va li wei buli da esuno unis"</span>
 
 
 

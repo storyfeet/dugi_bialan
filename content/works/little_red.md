@@ -5,7 +5,7 @@ zan Elenuna leli
 
 # Little Redhood
 
-lon don won la, li wei luga i zan leli min bi enon Elenuna
+won don la, li wei luga i zan leli min bi enon Elenuna
 
 # Once there was a little girl called Elenuna
 
@@ -69,7 +69,7 @@ go "dan dis la, vin o megi-giawin. mi wei zon ei iasin leli" i vo-ezan wei dugi
 
 # "You'd better be quick then, I know a short cut" said the wolf
 
-is-ezan devin bena lugin ei iasin leli, wei giawin lon iasin begi
+is-ezan li beni bena lugin ei iasin leli la, wei giawin lon iasin begi
 
 # He showed her the short cut, then went on his own way.
 

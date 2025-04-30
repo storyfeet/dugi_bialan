@@ -83,7 +83,7 @@ zan esamm wei zugi liamon wei mugo. egin la, va-zan wei mugo gin is-mon.
 
 # After school, coming home off the bus, sam began to walk the rest of his way home, and as he was walking he came to a narrow section.
 
-devin mengi zon la, dan bengo la, zan esamm wei giawin da mengi begi. lon wei giawin, is-mon wei guma da man bi megi-munin leli
+mengi zon li beni la, dan bengo la, zan esamm wei giawin da mengi begi. lon wei giawin, is-mon wei guma da man bi megi-munin leli
 
 # But just as he was going down it, someone else was coming down it, the other way.
 

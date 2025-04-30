@@ -250,16 +250,13 @@ Conjunctions define a relationship between the clause before it, and the clause 
 -- mi wei giawin esi, vin o gein uwein    
 .. If I go, you can stay.
 
--- mi wei giawin boina, vin wei gein uwein     
-.. before I go, you can stay
-
--- mi devin giawin , vin wei gein uwein    
+-- mi li beni giawin la, vin wei gein uwein    
 .. after i go, you can stay
 
 The first clause can be something as simple as a "dis"
 
--- dis devin, mi wei giawin    
-.. after this I'm going
+-- dis la, mi wei giawin    
+.. when this happens this I'm going
 
 
 Vocatives / Imperatives
@@ -397,8 +394,6 @@ They are:
 * {{qoth "deso"}} : except / but / however
 * {{qoth "iani"}} :  or
 * {{qoth "egin"}} : also / same
-* {{qoth "boina"}} : Before
-* {{qoth "devin"}} : After
 * {{qoth "zeli"}} : Comparatively
 
 ### {{qoth "bi"}} - of
@@ -500,8 +495,6 @@ It can also mean "the same"
 
 {{qoth "mi li belin liabei, egin la, mi li belin mugo"}}
 -- I'm tired, moreover, I'm hungry.
-
-### {{qoth "boina / devin"}} - Before / After
 
 
 
