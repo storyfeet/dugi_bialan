@@ -1,7 +1,7 @@
 Changes
 =======
 
-This file is to log inteded/completed changes for the language. Some may need more consideration
+This file is to log inteded changes for the language. Some may need more consideration
 
 Consider
 --------
@@ -25,12 +25,5 @@ Consider
 * devin boina enbin moini
 
 
-Implement
----------
 
 
-Complete
----------
-* (27/4/2025)mudei to dei , remove zelula
-
-* (27/4/2025)consider word for "few"  deni
