@@ -418,11 +418,10 @@ compare :
 
 For dependent clauses.
 
-'bi' can be followed by any other particle, and mean "that"
+'bi' can be followed by any other particle, and mean "that" referring to an intrinisic property
 
-{{qoth "vo-wuwi bi wei moili ei gela-zo mi \\[la\\] li luga ei guli-delo lon luga is-vo."}}
+- {{qoth "wendo-delo bi wei moili"}} : ducks that kill / killer ducks
 
-The 'cat', that killed my fish, has blood on it's hands.
 
 ### {{qoth "wi"}} - purpose
 
@@ -431,8 +430,14 @@ The 'cat', that killed my fish, has blood on it's hands.
 - {{qoth "bugi delo"}} :  Container of Water
 - {{qoth "bugi wi delo" }} : Container whose purpose is water
 
-THe latter may not have any water in it.
+The latter may not have any water in it.
 
+### {{qoth "edo"}} - Which
+ 
+{{q "edo"}} is used for properties not intrinsic to an object.  
+
+{{qoth "vo-wuwi edo wei moili ei gela-zo mi, wei luga ei guli-deli lon luga is-vo."}}
+The 'cat', that killed my fish, has blood on it's hands.
 
 ### {{qoth "deso"}} - Except/But
 
