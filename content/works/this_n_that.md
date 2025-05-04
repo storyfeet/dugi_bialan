@@ -50,7 +50,7 @@ lon wei dugi ei dis la, is-mon wei giawin ei lebo das da gan-oiga.
 
 # Tell you what, why don't you have another go. You got 50.50 odds here.
 
-"mi wei dugi ei dis : vin dan vemi va-wei lugin vis. li din di wei uli din di" 
+"mi wei dugi ei dis : vin dan vemi va-wei lugin vis. busi li won dan won"
 
 # So I did, I tried the top card.
 

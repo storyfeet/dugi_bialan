@@ -7,23 +7,23 @@ veso-mengi i vo-gudei munin # : (The Tortoise and the Hare)
 
 vo-gudei munin li dei gein giawin dan vo-zo muli bi man giasi. deso la, wei dei zon ei dis. 
 
-muli begin esuno la, wei bo ei vo-zo mugi go, "o uli giawin gin mi". va-won wei belin uli giawin gin is-gudei.
+muli begin esuno la, wei bo ei vo-zo mugi go, "o dei deni giawin gin mi". va-won wei belin dei deni giawin gin is-gudei.
 
-muli don bi i vo-zo wei gelubi dugi la vo-gudei munin lon dis, go "o uli giawin. o uli giawin"
+muli don bi i vo-zo wei gelubi dugi la vo-gudei munin lon dis, go "o dei deni. o dei deni"
 
 dis wei egi-ezan ei muli vo-zo.
 
-won esuno deso la, dan ezan, i veso-egon go "mi wei uli giawin ei vin".
+won esuno deso la, dan ezan, i veso-egon go "mi wei dei deni giawin ei vin".
 
-vo-gudei go "vin ... vin wei uli giawin ei mi. eniasa."
+vo-gudei go "vin ... vin wei dei deni ei mi. eniasa."
 
-go "dan vami va-wei. vin wei va-wei belin ei uli"
+go "dan vami va-wei. vin wei va-wei belin ei dei deni"
 
 go "deso va-gin vin. vin li deni megi-giawin dan muli" 
 
 go "mi wei uwein dugi"
 
-va-zan wei gein egon biagei ei uwein dugi veso-mengi. dan dis la, is-di li giawin uli giawin.
+va-zan wei gein egon biagei ei uwein dugi veso-mengi. dan dis la, is-di li giawin wei dei deni.
 
 vo-muli wei gelubi lon man begin. vo-begin go "begin".
 
