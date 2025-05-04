@@ -58,9 +58,9 @@ If instead an adjective is needed {{qoth "li"}} is used, to mark the "being" for
 
 Conjunctions (CON) join sentences together into with "if" and "context".
 
-{{qoth "vin li buna esi mi da vin a elo vedelin dis" }} "you ARE good IF I TO you - this pen" 
+{{qoth "vin li buna esi, mi da vin ei elo vedelin dis" }} "you ARE good IF I TO you - this pen" 
 
-Note the {{qoth "esi"}}  "A esi B" means "if A then B". This the meaning is "If you are good, I'll give you this pen.
+Note the {{qoth "esi"}}  "A esi B" means "if A then B". So the meaning is "If you are good, I'll give you this pen.
 
 Auxiliaries (AUX) are a small set of special words that can be used in a variety of ways that other words cannot.
 
@@ -209,9 +209,9 @@ Because a Complex item may be sub-clause, and sub-clauses must always be Strict 
 
 ### da wei : to do / in order to
 
--- {{qoth "zan dis wei mugo da wei guma wiawa"}}    
-.. this person eats to become strong    
-?? person this DO food TO DO become strong
+-- {{qoth "zan dis wei buli da wei bena mugo ei zi begi"}}    
+.. this person works to feed his children 
+?? person this DO work TO DO give food -OB children self 
 
 ### dan wei : from doing / because did
 
