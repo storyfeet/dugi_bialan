@@ -19,7 +19,7 @@ vo-gudei go "vin ... vin wei uli giawin ei mi. eniasa."
 
 go "dan vami va-wei. vin wei va-wei belin ei uli"
 
-go "deso va-gin vin. megi-giawin vin li zeli leli dan muli" 
+go "deso va-gin vin. vin li deni megi-giawin dan muli" 
 
 go "mi wei uwein dugi"
 
@@ -37,7 +37,7 @@ wei giawin, deso, beni lon lugin la, wei gein lugin ei vo-muli lon man beni.  ve
 
 vo-gudei wei giawin, giawin gin giawin begi muli, deso la, is-gudei va-la, veso-mengi wei munin ei lena.
 
-go "vin gin vemi wei zeli uli ei mi"
+go "vin gin vemi wei dei won ei mi"
 
 go "mi va wei biagei"
 

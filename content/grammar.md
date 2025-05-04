@@ -394,7 +394,6 @@ They are:
 * {{qoth "deso"}} : except / but / however
 * {{qoth "iani"}} :  or
 * {{qoth "egin"}} : also / same
-* {{qoth "zeli"}} : Comparatively
 
 ### {{qoth "bi"}} - of
 
