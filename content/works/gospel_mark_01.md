@@ -10,36 +10,36 @@ won : begin
 
 dis li begin bi vis buna bi zan Zesuwa, edo zan deli, edo zi bi enma veli. 
 
-lon lebo bi zan bi dugi enma, li lebo go "mi wei bena giawin ei zan lebo lon enbin vin, is-mon wei buna gein ei muli. li ema-dugi bi wei ema-vuli lon man va-delo go " o buna gein ei iasin liawa, o veli ei iasin is-mon" ".
+lon lebo zan bi dugi enma, li lebo go "mi wei bena giawin ei zan lebo lon enbin vin, dis wei buna gein ei muli. li ema-dugi bi wei ema-vuli lon man va-delo go " o buna gein ei iasin liawa, o veli ei iasin dis" ".
 
-dis la zan Zuwan wei guma wei gan-delo lon man elena, wei dugi ususa ei gan-delo bi gan-moini, da bena wega ei egi.
+dis la zan Zuwan wei guma wei gan-delo lon man elena, wei dugi ususa ei gan-delo bi gan-moini, da delo wega ei egi.
 
-dan man Zewuselei, dan man Zudei, muli zan wei guma, wei dugi ei egi begi li wei gan-delo i is-zan lon delo giawin Zoidan.
+dan man Zewuselei, dan man Zudei, muli zan wei guma, wei dugi ei egi begi li wei gan-delo i zan Zuwan lon delo giawin Zoidan.
 
-zan Zuwan wei elein lon elein bi vo-bengo elena, gin lena bi velo vo-zo lon vegei guli-memuso. is-mon wei mugo ei vo-zeis munin ei deli wuwi bi vo-zeis bas.
+zan Zuwan wei elein lon elein bi vo-bengo elena, gin lena bi velo vo-zo lon vegei guli-memuso. is-mon wei mugo ei bebi munin ei deli wuwi bi bebi-bas.
 
-lebo giawin is-mon li go "won wei guma bi dei wiawa dan mi. lena elein oiga is-mon ba la, mi va-li belas da wei gan-oiga wei va-loigo.  mi wei gan-delo ei vin gin delo, deso la is-mon gan-delo ei vin gin gon enma zewi"
+lebo giawin dis li go "won wei guma bi dei wiawa dan mi. lena elein oiga dis ba la, mi va-li belas da wei gan-oiga wei va-loigo.  mi wei gan-delo ei vin gin delo, deso la dis wei gan-delo ei vin gin gon enma zewi"
 
 don la, zan Zesuwa wei guma dan man Eniaseleis, li wei gan-oiga i zan Zuwan lon delo giawin Zoidan.
 
-zan Zesuwa wei gan-zewi dan delo la is-mon wei lugin ei i zewi li wei biagela ubin, ei i gon enma zewi wei gan-oiga lon is-mon egin wendo-unis. ema-dugi wei guma dan zewi go "vin li zi-mon mi, bi li wei lin i mi. gin vin la mi li belin dei buna"
+zan Zesuwa wei gan-zewi dan delo la wei lugin ei i zewi li wei biagela ubin, ei i gon enma zewi wei gan-oiga lon dis egin wendo-unis. ema-dugi wei guma dan zewi go "vin li zi-mon mi, bi i mi wei lin. vin la mi li belin dei buna"
 
-dei la, enma wei bena giawin ei is-mon da man eniasa da wei uwein lon mo-lo esuno. lon man dis la is-mon li wei bena gein egi dan enma Esiadan. gin vo-zo eniasa, deso li wei bena elo i enma zewi. 
+dei la, enma wei bena giawin da man eniasa va-delo da wei uwein lon mo-lo esuno. lon man dis la is-mon li wei bena gein egi dan enma Esiadan. gin vo-zo eniasa, deso li wei bena elo i enma zewi. 
 
 lo-mo : giawin wega
 #--------
 
-zan Zuwan li wei ensa da mengi-loigo la, zan Zesuwa wei giawin da man Gialeli da wei dugi vuli ei vis buna bi enma veli. go "don li guma, mezan liawa bi enma veli lon bo, o gan-moini o zon ensa ei vis buna"
+zan Zuwan li wei ensa da mengi-loigo la, zan Zesuwa wei giawin da man Gialeli da wei dugi ususa ei vis buna bi enma veli. go "don li guma, mezan liawa bi enma veli lon bo, o gan-moini o zon ensa ei vis buna"
 
-zan Zesuwa lon wei giawin lon bo delo vuli, wei lugin ei zan Esiamon ei zi ma mon dis, zan Endelu. is-di wei gan-delo ei lena ususa gela-zo, dan li zan gela-zo.
+zan Zesuwa lon wei giawin lon bo delo vuli, wei lugin ei zan Esiamon ei zi ma mon dis, zan Endelu. dis-di wei gan-delo ei lena ususa gela-zo, dan li zan gela-zo.
 
 go "o guma gin mi la mi wei buli bi vin ei zan gela-zan."
 
-lon don egesa la, is-di wei giawin dan lena ususa, wei giawin moini ei is-mon
+lon don egesa la, dis-di wei giawin dan lena ususa, wei gan-moini
 
-giawin leli la, is-mon wei lugin ei zan Iagob edo zi mon bi zan Esebedi, gin zi ma is-lugin zan Zuwan. is-di wei buna ei lena ususa is-di. 
+giawin leli la, wei lugin ei zan Iagob edo zi mon bi zan Esebedi, gin zema zan Zuwan. dis-di wei buna ei lena ususa dis. 
 
-va-gin don la, is-mon wei dugi guma da is-di, is-di wei dan ma mon edo lon bengo delo gin zan esin, wei giawin moini ei is-mon
+uwi-la, wei dugi guma, dis-di wei dan ma mon edo lon bengo delo gin zan esin, wei gan-moini 
 
 di lo won : man mengi Giabenewamm
 #----------
