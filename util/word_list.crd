@@ -128,7 +128,6 @@ ema [sound] [PRE,kalama] Jeub
 ga [colour] [PRE,kule] Luaf
 geni [shape] [PRE] Lwwf
 guli [organ,"body part"] [sijelo,pilin,insa,PRE] EaabMs
-is [they] [pronoun, ona,PRE] Tsub
 vo [animal] [soweli,PRE] Swua
 megi [measure,distance] [weka,PRE] Beub
 gan [direction] [tawa,PRE] Lasf
@@ -207,9 +206,9 @@ deso [but, however, except] [taso,AUX] LafaRad
 mi [me,i,my] [pronoun,mi] Tcsd
 vin [you,your] [pronoun,sina] "Tcsu*"
 
-dis [this] [pronoun,ni] "TsabM*R*"
-das [that] [pronoun,ni] "TaabM*R*"
-begi [self] [pronoun,ona,mi,sina] TsabSfu
+dis [this,him,her] [pronoun,ni] "TsabM*R*"
+das [that,him,her] [pronoun,ni] "TaabM*R*"
+begi [self,"his/her own"] [pronoun,ona,mi,sina] TsabSfu
 
 # Amounts / numbers
 won [one] [wan,number] "1csb"
