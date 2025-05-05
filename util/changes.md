@@ -24,6 +24,7 @@ Consider
 
 * devin boina enbin moini
 
+* shrink ziasi->zas, and add return meaning to it
 
-
+* assert begi can mean his/her own, belonging to the subject
 
