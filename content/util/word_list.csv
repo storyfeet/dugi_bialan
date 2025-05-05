@@ -1,0 +1,11 @@
+{{export title="enon bi dugi bialan";
+    type="csv.csv"
+}}
+{{let cfile = (r_card ( file "util/word_list.crd"));
+    cards = sort_on $cfile "Name" ;
+    glyphs = sort (dir "static/glyphs/" );
+}}
+{{for k c in $cards -}}
+{{$c.Name}}:{{for ww w in $c.en}}{{$w}},{{/for}}
+{{/for}}
+
