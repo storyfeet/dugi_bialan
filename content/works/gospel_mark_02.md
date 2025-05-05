@@ -5,19 +5,19 @@
 won : zan va-gein
 #---------
 
-leli esuno la lon don bi i zan Zesuwa wei ensa ei man Giabenewamm la muli zan wei gudei ei i is-mon wei guma.
+beni deni esuno la lon don bi i zan Zesuwa wei ensa ei man Giabenewamm, muli zan wei gudei ei wei guma.
 
-zan wei guma ba dei dei la va-li luga ei man va-laban, ba lon wega viala. is-mon wei dugi zon ei enon dugi da is-dei.
+zan wei guma ba dei dei la va-li luga ei man va-laban, ba lon wega viala. zan Zesuwa wei dugi zon ei dugi veli da muli.
 
-leli zan wei guma da is-mon gin zan va-gein. dan i is-leli va-wei gein da zan Zezuwa dan zan zan la is-leli wei luli ei zugi mengi wei gan-oiga ei is-va-gein lon zugi liabei gin lena.
+deni zan wei guma gin zan va-gein. dan wei giawin va-gein da zan Zesuwa dan zan zan la dis deni wei luli ei zugi mengi wei gan-oiga ei zan-va-gein lon zugi liabei gin lena.
 
-lon wei lugin ei esebin gein is-leli la, zan Zesuwa da zan va-gein go <span class="red">"o zi mi, egi vin li wei bena wega."</span>
+dan wei lugin ei esebin gein dis deni la, zan Zesuwa da zan-va-gein go <span class="red">"o zi mi, egi vin li wei bena wega."</span>
 
-dei zan bi bena zon bi liawa wei liamon lon man dis, wei esebin lon is-dei go "dan vemi i zan dis wei dugi egin dis, vemi li gein bena wega ei egi va-deso enma veli"
+deni zan bena zon bi lebo liawa wei liamon lon man, wei esebin gelubi go "dan vemi i dis zan wei dugi egin das, vemi li gein bena wega ei egi va-deso enma veli"
 
-lon don egesa dis, zan Zesuwa wei zon ei esebin bi guli-belin is-dei, go <span class="red">"vin dan vemi wei esebin ei dis. vemi li dei gein gein? da zan dis go "egi vin li wei bena wega" iani go "o gan zewi ei vin ei zugi liabei vin o giawin oiga". deso la, da wei bena lugin da vin ei i zi mon wei gein bena wega ei egi""</span> da zan va-gain go <span class="red">"o gan-zewi ei vin ei zugi liabei vin o giawin da mengi vin"</span>
+zan Zesuwa wei zon ei esebin bi guli-belin dis-deni, go <span class="red">"vin dan vemi wei esebin ei dis. vemi li dei gein gein? da zan dis go "egi vin li wei bena wega" iani go "o gan zewi ei vin ei zugi liabei vin o giawin oiga". deso la, da wei bena lugin da vin ei i zi mon wei gein bena wega ei egi""</span> da zan va-gain go <span class="red">"o gan-zewi ei vin ei zugi liabei vin o giawin da mengi vin"</span>
 
-is-va-gein wei gan-zewi ei begi ei zugi labei begi wei wega begi lon enbin lugin muli zan.  muli zan li belin wiawa wei bena wiawa da enma veli go, "mi lon va-don wei lugin ei mugi egin dis"
+zan-va-gein wei gan-zewi ei begi ei zugi labei, wei wega begi lon enbin lugin muli zan.  muli zan li belin wiawa wei bianei benuna da enma veli go, "dei mi lon va-don wei lugin ei egin dis"
 
 lo van : dugi guma da zan Levi
 #--------
