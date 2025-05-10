@@ -33,9 +33,9 @@ vo-bengo, i vo-devo, i min-leli, i mon leli wei giawin moini, deso la, zan ban w
 
 zan ban wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li vuli.
 
-dan moini giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-moini mi esi, mi wei giawin delo munin ei delo".
+dan moini giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-zugi ei moini mi esi, mi wei giawin delo munin ei delo".
 
-zan bi ban demegi wei esebin ei i dis li esebin buna, wei gan-moini ei vo-vi. vo-vi wei giawin.
+zan bi ban demegi wei esebin ei i dis li esebin buna, wei gan-zugi ei moini vo-vi. vo-vi wei giawin.
 
 lon memuso delo, vo-vi go, delo dis li megi-oiga vuli, o giawin da liawa mi, da va-li velo delo.  zan ban wei dis 
 
