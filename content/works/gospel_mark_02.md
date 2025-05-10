@@ -22,11 +22,11 @@ zan-va-gein wei gan-zewi ei begi ei zugi labei, wei wega begi lon enbin lugin mu
 lo van : dugi guma da zan Levi
 #--------
 
-egin la zan Zesuwa wei giawin lon bo delo vuli. zan zan vuli wei guma da is-mon, i is-mon wei begin bena zon.
+egin la zan Zesuwa wei giawin lon bo delo vuli. dei dei zan wei guma da dis, edo wei begin bena zon.
 
-lon wei giawin is-mon wei lugin ei zan Levi, edo zi Eleveis wei liamon lon mengi leli bi miani liawa. go <span class="red">"o guma moini ei mi"</span>. i zan Levi wei gan-zewi wei guma moini ei zan Zesuwa.
+lon wei giawin wei lugin ei zan Levi, edo zi Eleveis wei liamon lon mengi leli wi miani liawa. go <span class="red">"o gan-moini ei mi"</span>. i zan Levi wei gan-zewi wei gan-moini ei zan Zesuwa.
 
-zan Zesuwa lon wei mugo lon mengi bi zan Levi la, li wei luga ei dei zan bi miani liawa, ei dei zan egi, dan i dei zan wei moini ei is-mon.
+zan Zesuwa lon wei mugo lon mengi bi zan Levi la, li luga ei dei zan bi miani liawa, ei dei zan egi, dan i dei zan wei gan-moini.
 
 dan wei lugin ei dis, zan Vialesi wei wi zon ei zan moini go "is-mon da wi vemi, wei mugo gin zan bi miani liawa, gin zan egi"
 
@@ -35,26 +35,26 @@ dan wei gudei ei dis la, zan Zesuwa wei dugi moini go <span class="red">"zan va-
 lo lis : wi zon bi don va-mugo
 #-----------
 
-zan moini bi zan Zuwan wei va-mugo. leli zan wei guma da zan Zesuwa da wei wi zon ei is-mon "dan vemi, zan moini bi zan Zuwan wei va-mugo, deso is-vin va-wei"
+zan moini bi zan Zuwan, i bi zan Vialesi lon wei va-mugo. deni zan wei guma da zan Zesuwa wei wi zon go "dan vemi, zan moini bi zan Zuwan wei va-mugo, deso i bi vin va-wei"
 
-zan Zesuwa go <span class="red">"zan guma buna bi mon bi da geva, wei vemi va-mugo esi is-mon li gin gin. va-wei gein, esi is-mon li gin is-dei. deso la, don wei guma is-mon li wei leban dan is-dei. lon esuno dis la, is-dei wei va-mugo.
+zan Zesuwa go <span class="red">"mon gan-geva gin gin la, zan guma buna, wei vemi va-mugo. va-wei gein. deso la, don wei guma bi li wei leban dan dei dis. lon dis esuno la, wei va-mugo.
 
-va-zan wei lena ei megi-elein va-guma leli da ensa elein mezuni. esi la is-vis wei leban begi dan is-mezuni, wei vuli ei biagela.
+va-zan wei lena ei elein va-leli da ensa elein mezuni. esi la vis wei leban giawin dan mezuni, wei vuli ei luli.
 
-egin la va-zan wei bena ei delo ga-una da ensa velo delo mezuni. esi la, i velo i delo li wei guma egi.
+egin la va-zan wei man ei delo ga-una da ensa velo delo mezuni. esi la, i velo wei luli, wei egi ei di dis.
 
-va-la zan wei bena ei delo vin da enso velo delo vis."</span>
+ba, zan wei man ei delo vin da enso velo delo vis."</span>
 
 di lo van : liawa bi esuno unis
 #-----------
 
-won esuno unis la zan Zesuwa wei giawin lon man bi zi ban. zan moini wei leban ei leli zi ban.
+won esuno unis la, zan Zesuwa wei giawin lon man ubin bi zi ban. zan moini wei mugo leli ei dis.
 
-zan bi Vialesi wei dugi da is-mon. is-dei dan vemi wei buli ei va-liawa lon esuno unis.
+zan Vialesi edo lugin go "dan vemi wei buli ei va-liawa lon esuno unis."
 
-is-mon go, <span class="red">"vin lon va-don wei lugin lebo ei i zan Devidd wei vemi, dan li belin mugo, li belin belin. lon don bi zan enma Ebiass la is-mon wei ensa ei mengi bi enma veli wei mugo ei ban vi zewi ego va-deso zan enma wei gein mugo lon lebo liawa. egin la is-mon wei bena ei ban vi da zan big is-mon. "</span>
+zan Zesuwa wei ziasi go, <span class="red">"vin lon va-don wei lugin lebo ei i zan Devidd wei vemi, dan li belin mugo, li belin belin. lon don bi zan enma Ebiass, wei ensa ei mengi bi enma veli wei mugo ei ban bi bena zewi edo va-deso zan enma wei gein mugo dan lebo liawa. egin la mon wei bena ei ban da dei zan begi. "</span>
 
-dei la is-mon go <span class="red">"esuno unis li wei buli da zan. zan va li wei buli da esuno unis"</span>
+egin go <span class="red">"esuno unis li wei buli da zan. zan va li wei buli da esuno unis"</span>
 
 
 
