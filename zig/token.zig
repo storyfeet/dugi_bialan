@@ -8,6 +8,7 @@ pub const TokenType = enum {
     COMMENT,
     DASH,
     NEWLINE,
+    LONG_SPACE,
 };
 
 pub const specialChars = &[10]u21{ '\\', '\n', '\r', ' ', '\t', ',', '.', '#', '-', '"' };
@@ -42,7 +43,10 @@ pub const Tokenizer = struct {
     }
 
     pub fn nextToken(self: *@This()) !?Token {
-        self.skipWhiteSpace();
+        const ws = self.whiteSpace();
+        if (ws)|tk|{
+            return tk;
+        }
         self.start = self.it.i;
         const c = self.it.nextCodepoint() orelse return null;
         switch (c) {
@@ -116,15 +120,22 @@ pub const Tokenizer = struct {
         };
     }
 
-    pub fn skipWhiteSpace(self: *@This()) void {
+    //Treat one whitespace as null, otherwise return token for space
+    pub fn whiteSpace(self: *@This()) ?Token {
+        self.start = self.it.i;
+        var count: usize = 0;
         while (true) {
             const c = self.it.peek(1);
-            if (c.len == 0) return;
-            const cp = std.unicode.utf8Decode(c) catch return;
+            if (c.len == 0) return null;
+            const cp = std.unicode.utf8Decode(c) catch return null;
             switch (cp) {
                 ' ', '\t', '\r' => _ = self.it.nextCodepoint(),
-                else => return,
+                else => {
+                    if (count == 0 ) return null;
+                    return self.makeToken(TokenType.LONG_SPACE);
+                },
             }
+            count += 1;
         }
     }
 };

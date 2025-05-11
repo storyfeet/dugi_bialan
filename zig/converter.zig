@@ -64,6 +64,7 @@ pub fn Converter(comptime tp: type) type {
                 TType.WORD => {
                     try self.printWord(t);
                 },
+                TType.LONG_SPACE => try w.print("{s}",.{s[t.start..t.end]}),
             }
         }
 
