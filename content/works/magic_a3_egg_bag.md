@@ -1,96 +1,80 @@
 {{export title="Egg Bag"}}
 {{@md}}{{@exec_stdin "zig/convert" @ }}
 
-# Ladies and Gentlemen,
 
-o zan buna muli
+o min mon buna    
+# Ladies and Gentlemen, 
 
+mi wei luga ei esegi zi, ei bugi lena    
 # Here I have an Egg, and Bag
 
-mi wei luga ei esegi zi, ei bugi
-
+esegi, bugi, bugi, esegi     
 # Egg, Bag , Bag, Egg
 
-esegi zi, bugi, bugi, esegi zi
-
+mi da ensa bugi ei esegi zi. vin gin va gin mi    
 # I'm going to place the Egg inside the bag, are you with me?
 
-mi da ensa bugi ei esegi zi. vin gin va gin mi
+don la, o lugin buna. dan i vin wei zon ei i zan oimi, lon don mugi, wei gein eniasa.    
+# Now you need to watch carefully, because you know that magicians, at any moment could do something tricky
 
-# Now you need to watch carefully, because at any moment I could do something tricky
+(wei ensa ei egesi lon bugi, deso wei lugin egin man, ei mugi lon gan-oiga belesa luga.)    
+# (puts egg into bag, but appears to put something under the arm)
 
-don la, o lugin buna. vin wei zon ei zan bi lebuni oimi, lon don mugi, wei gein eniasa.
-
+mi wei giawin ei luga mi lon zugi bugi. o lugin. esegi zi li wega.    
 # Now I just wave my hand over the bag, and look, the egg has gone.
 
-mi wei giawin ei luga mi lon zugi bugi. o lugin. esegi zi li wega.
+vin wei va-wei belin lugin lon ensa bugi, wei velo ensa, wei zon ei i esegi zi veli li veli wega.    
+# Would you like to check inside the bag, feel inside, and see that the egg has indeed vanished.
 
-# Would you like to check inside the bag, and see that it has indeed vanished.
-
-vin wei va-wei belin lugin lon ensa bugi, wei belin velo lon ensa bugi, da wei zon ei i esegi zi veli li veli wega.
-
+buna buna    
 # Good good.
 
-buna buna
-
+va-zan wei luga ei zon leli bi i esegi wei gein lon man vemi    
 # And noboday has any idea where the egg could possibly be??
 
-va-zan wei luga ei zon leli bi i esegi wei gein lon man vemi
-
+-- lon gan-oiga belesa luga vin    
 # -- Under your arm
 
--- lon gan-oiga belesa luga vin
-
+-- va-lon, va-lon gan-oiga belesa luga mi    
 # No it's not under my arm
 
--- va-lon, va-lon gan-oiga belesa luga mi
-
+-- va-li , lon gan-oiga belesa endai    
 # -- No the other arm
 
--- va-li , lon gan-oiga belesa endai
-
+va-lon belesa dis egin.    
 # It's not under that arm either.
 
-va-lon belesa dis egin.
-
+-- va-li. o gan-zewi ei di belesa     
 # -- No put both your arms up.
 
--- va-li. o gan-zewi ei di belesa 
-
+buna, egin dis.        
 # OK like this
 
-buna, egin dis.
-
+-- va-li. di belesa wei gan-zewi, egin dis.    
 # -- no both of your arm up like this.
 
--- va-li. di belesa wei gan-zewi, egin dis.
-
+buna, egin dis.    
 # OK, Like this.
 
-buna, egin dis.
-
+ba, va-lon man dis, deso la mi li va-li o dugi da vin ei lon vemi.    
 # Ah see it's not there, shall I tell you where it is.
 
-ba, va-lon man dis, deso la mi li va-li o dugi da vin ei lon vemi.
-
+lon moini gudei vin.    
 # Behind your ear.
 
-lon moini gudei vin.
+-- va li luga    
+# -- It's not there
 
+o lugin egon egin egon veli.    
 # see solid as a rock, do you want to touch it.
 
-o lugin egon egin egon veli.
-
+ba, deso la mi zon ei i mi lon dei-oiban wei buli ei dis, esegi zi wei guma vis, li va-gein lugin.    
 # ah, but I know no matter how many times I do this, I've noticed that the egg always comes back invisible
 
-ba, deso la mi zon ei i mi lon dei-oiban wei buli ei dis, esegi zi wei guma vis, li va-gein lugin.
-
+deso la, va-gein egi, dan dis. mi va-wei deso wega ei esegi da ensa bugi la, wei guma gein lugin, vis.    
 # But it's ok because all I have to do is throw it back into the bag and it becomes visble again.
 
-deso la va-gein egi, dan dis. mi va-wei deso wega zewi ei esegi da ensa bigu la is-zi wei guma gein lugin.
-
+dei bianei    
 # Thank you very much
-
-dei bianei
 
 
