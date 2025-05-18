@@ -22,7 +22,7 @@ To aid the listener/reader, each type of word is only used as one of these thing
 
 The particle types are marked with each word in the [word list](/word_list). Words without a marking are ATOMs
 
-Particles are used to tell the role that whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle {{qoth "i"}} is assumed, meaning that the first words will be the "subject" of the sentence.
+Particles are used to mark the role of whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle {{qoth "i"}} is assumed, meaning that the first words will be the "subject" of the sentence.
 
 Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
 
@@ -305,24 +305,24 @@ To answer "yes", is "li", and "no" is "va-li"
 information questions
 ----------------
 
-To ask an information question, simply replace the information you with to know with "semi".
+To ask an information question, simply replace the information you with to know with "vemi".
 
-If possible put "semi" in the first item of the sentence, though this is not a strict requirement.
+If possible put "vemi" in the first item of the sentence, though this is not a strict requirement.
 
--- lon semi?        
+-- lon vemi?        
 .. Where
 
--- semi wei giawin?    
+-- vemi wei giawin?    
 .. Who is going?
 
--- dan semi i vin wei zon.    
+-- dan vemi i vin wei zon.    
 .. how do you know?
 
--- wei semi i vin gin elein liawa mi    
+-- wei vemi i vin gin elein liawa mi    
 .. What are you doing with my hat?    
 ?? DO what SUB you WITH hat me
 
--- gin iasin semi wei buli ei bengo    
+-- gin iasin vemi wei buli ei bengo    
 .. How does one make a car    
 ?? WITH way what DO make OB vehicle?
 
@@ -376,12 +376,6 @@ However, when writing larger numbers, {{uqoth "lo"}} and {{uqoth "za"}} can be u
 {{uqoth "wiawa"}}, that is "power" can be used to give very large numbers
 
 > 5 *10 ^ 28 : {{qq "lan lo bi za wiawa lein"}}  (that is: 50 of 1000 ^ 9)
-
-
-
-
-
-
 
 
 Auxiliary Particles
@@ -500,21 +494,17 @@ It can also mean "the same"
 {{qoth "mi li belin liabei, egin la, mi li belin mugo"}}
 -- I'm tired, moreover, I'm hungry.
 
-
-
 Prefix Particles
 ----------------
 
 Prefix Particles do not break the flow of meaning, but are always followed by another word that completes them. Because of this "bi" is not needed to separate these words from any words before them. In the Romanisation, it is appropriate to hyphenate the join.
 
 these are : 
-* {{uqoth "edi"}} : taste
 * {{uqoth "edin"}} : atom 
 * {{uqoth "ema"}} : Sound
 * {{uqoth "ga"}} : colour 
 * {{uqoth "geni"}} : shape 
 * {{uqoth "guli"}} : body part
-* {{uqoth "is"}} : pronoun 
 * {{uqoth "megi"}} : distance
 * {{uqoth "va"}} : negator
 * {{uqoth "vo"}} : animal
@@ -524,44 +514,7 @@ When joined to each other the child prefix has its own clarifier
 * ga-(vo-ezan) : Wolf-coloured
 * ga-(vo-zo) : Animal coloured
 
-### The Pronoun "is"
-
-"is" is the general pronoun for anyone or anything in a previous sentence. It is always followed a clarifying word disambiguate. 
-The clarifier doesn't have to be first/main word, just the least ambiguous.
-
-#### Simple clarifiers
-
-* is-dei : they : the group of people
-* is-muli : they all 
-* is-zan : this/these person(s)
-* is-leli : The small one
-
-#### is-zo, The General It*
-
-The general "it", such as "It's raining" "It's dark" "there is" "It is required"
-
-* is-zo : it / the sky / the world / generic it
-
--- is-zo li ga-va-zo
-.. It's dark
-
-#### Possesive instances
-
-"Mine", as opposed to "My thing". Does not need an object specified as conversation already implies that.
-
-* is-mi : mine
-* is-vin : Yours
-
-#### Labeled Pronouns
-
-These pronouns can be assigned using to following phrase
-
-    <person> is-<number> la
-
--- zan Elenuna is-buna la, li buna    
-.. Elenuna, who we shall call "is-buna" is/was good
-
-### "va"
+### {{uqoth "va"}}
 
 "va" before a particle, says the whole coming particle is false.
 
@@ -586,7 +539,7 @@ These pronouns can be assigned using to following phrase
 * va-deso : only
 * va-zon : forget
 
-### Colours with "ga"
+### Colours with {{uqoth "ga"}}
 
 Describe colours how you like, but these are some good starters.
 
@@ -700,4 +653,19 @@ The following particles may be repeated to achieve commmunicate that that partic
 - {{qoth "mi lon lon"}} I'm HERE
 
 - {{qoth "mi wei wei"}} I'm DOING
+
+Pronouns
+---------
+
+//TODO
+
+Time
+-----
+
+//TODO
+
+Comparisons
+--------
+
+//TODO
 
