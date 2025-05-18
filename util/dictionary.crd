@@ -148,25 +148,25 @@ here ["lon man dis"]
 business ["esin","meseni esin"]
 who ["vemi","zan vemi"]
 web ["lena ususa"]
-also ["egin"]
-now ["lon don dis"]
+also ["egin","dei la","egin la"]
+now ["lon don dis","don la"]
 help ["bena gein"]
-get ["guma luga","giawin luga"]
-pm ["devin don memuso"]
-view ["lugin","bi gein lugin"]
+get ["guma luga","giawin ]
+"p.m" ["don dei memuso"]
+view ["zo lugin","bi gein lugin"]
 online ["lon lena"]
 first ["lon won"]
-am ["boina don memuso"]
-been ["li","boina la li"]
-would ["boina la wei belin"]
+"a.m" ["deni don memuso"]
+been ["li","deni la li"]
+would ["deni la wei belin"]
 how ["gin vemi","iasin vemi","elo vemi"]
-were ["li","boina la li"]
+were ["li","deni la li"]
 me ["mi"]
 services ["gein elo","gein buna"]
 some ["mudei"]
 these ["dis","dis mudei","dis di"]
 click ["ema-belesa luga","ema-gedin"]
-its ["is-is","dis"]
+its ["dis"]
 like ["egin","belin buna da .."]
 service ["gein elo", "gein buna"]
 than ["dan"]
@@ -190,8 +190,8 @@ two ["di"]
 health ["guli-buna"]
 world ["esegi man"]
 re ["lon dugi"]
-next ["devin"]
-used ["elo", "lon boina don"]
+next ["lon dei"]
+used ["elo", "lon deni don"]
 go ["giawin"]
 work ["buli"]
 last ["lon beni"]
@@ -201,12 +201,12 @@ music ["ema-musi"]
 buy ["esin", "esin luga"]
 data ["lebo uno","lebo zon"]
 make ["buli" ]
-them ["is-mudei","is-di"]
+them ["dis-mudei","dis-di"]
 should ["li o"]
 product ["zo esin"]
 system ["zo buli", "iasin","iasin liawa"] 
 post ["belesa","lebo wega"]
-her ["is-min"]
+her ["dis-min","min"]
 city ["man mengi", "man mengi vuli"]
 add ["bena","gin","mudei"]
 policy ["lebo egon"] TODO
@@ -217,10 +217,10 @@ available ["gein leban", "gein elo"]
 copyright ["gein ziasi", "gein egin"]
 support ["bena buna", "bena ga-zewi"]
 message ["dugi","dugi wega","lebo leli"]
-after ["devin"]
+after ["lon dei"]
 best ["buna dan muli"]
 software ["lebo buli","lebo buli uno"]
-then ["devin la"]
+then ["dei la"]
 good ["buna"]
 video ["vedelin giawin"]
 well ["buna","man bena delo"]
@@ -234,7 +234,7 @@ school ["mengi zon"]
 through ["ensa wega"]
 each ["muli won","zo muli", "zan muli","zan muli won"]
 links ["guba","lena guba"]
-she ["is-min"]
+she ["min"]
 review ["lugin vis"]
 years ["vegei esuno"]
 order ["oindi","bena liawa", "wei o"]
@@ -267,7 +267,7 @@ games ["ziasi"]
 way ["iasin"]
 management ["liawa buli"]
 part ["din","zo din"]
-could ["gein lon boina"]
+could ["gein bi deni don"]
 great ["vuli"]
 united ["guma won","won enbin","guma won enbin"]
 hotel ["mengi liabei"]
@@ -280,7 +280,7 @@ must ["li o"]
 store ["mengi esin", "mengi uwein","luga uwein"]
 travel ["giawin man vis"]
 comments ["dugi dugi"]
-made ["buli lon boina"]
+made ["buli"]
 development ["buli esebin"]
 report ["lebo buli", "bena lebo"]
 off ["dan","va-lon", "va-gein","giawin"]
@@ -288,24 +288,23 @@ member ["zan gelubi"]
 details ["lebo egesa","zon egesa"]
 line ["lena"]
 terms ["lebo uno"]
-before ["boina"]
+before ["don deni","lon enbin"]
 hotels ["man liabei"]
-did ["buli lon boina"]
+did ["buli","wei"]
 send ["bena wega"]
 right ["degis","gein liawa"]
 type ["vega"]
 because ["dan"]
 local ["va-wega","bo bo"] 
 those ["dis mudei", "das","das mudei"]
-using ["gin","lon wei elo"]
-results ["lebo bi lon devin"]
+results ["lebo beni"]
 office ["doimo buli","doimo buli lebo"]
 education ["guma zon"]
 national ["bi man liawa"]
 car ["bengo"]
 design ["esebin buli"]
 take ["leban"]
-posted ["bena da man lugin","bena lena","bena wega lon boina"]
+posted ["bena da man lugin","bena lena","bena wega"]
 internet ["lena guba"]
 address ["enon man mengi"]
 community ["gelubi"]
@@ -372,9 +371,8 @@ three ["van"]
 total ["uno belas"]
 place ["man"]
 end ["beni","man beni"]
-following ["giawin lon moini"]
 download ["leban lena"]
-him ["is-mon"]
+him ["mon"]
 without ["va-gin"]
 per ["dan muli won"]
 access ["gein giawin","gein lugin"]
@@ -394,7 +392,6 @@ size ["megi vuli"]
 art ["musi"]
 personal ["begi","bi mi begi"]
 since ["dan","dan don"]
-including ["gin"]
 guide ["lebo bena gein","lebo iasin", "zan iasin","zan bena zon"]
 shop ["esin","mengi esin"]
 directory ["lebo lugin uno"]
@@ -404,7 +401,6 @@ change ["endei", "guma"]
 white ["ga-muli"]
 text ["vedelin dugi"]
 small ["leli"]
-rating ["megi buna"]
 rate ["megi giawin"]
 government ["meseni liawa"]
 children ["zi","zan leli"]
@@ -412,14 +408,13 @@ during ["lon don bi","lon wei"]
 usa ["mezan gelubi Emeigg"]
 return ["guma moini","giawin moini","da begin"]
 students ["zan bi guma zon"]
-shopping ["esin"]
 account ["miani","uno miani","man uno miani"]
 times ["don"]
 sites ["man"]
 level ["megi gan-zewi","megi","zugi","man zugi","zugi mengi"]
 digital ["bi uno zon"]
 profile ["zon zan","lebo zon zan"]
-previous ["boina","dan boina"]
+previous ["bi deni","dan deni"]
 form ["lebo","vega","geni","lebo belin"]
 events ["zo don"]
 love ["lin"]
@@ -483,7 +478,6 @@ process ["lon buli","buli giawin"]
 teen ["zan bi guma vuli"]
 room ["doimo"]
 stock ["zo uwein"]
-training ["buli lebuni"]
 too ["egin"]
 credit ["luga","bena leban","miani gan-zewi"]
 point ["man egesa","egesa"]
@@ -547,7 +541,6 @@ say ["dugi","go"]
 questions ["dugi wi zon"]
 july ["muni luga won"]
 yahoo ["wiawa","Esin Iawu"]
-going ["giawin"]
 medical ["bi miasegegi"]
 test ["megi-zon","megi-gein"]
 friend ["zan buna","zan bo"]
@@ -559,10 +552,9 @@ study ["buli zon"]
 application ["lebo wi gein","bena begi","buli zon"]
 cart ["bengo bugi"]
 staff ["belesa","zan buli"]
-feedback ["dugi bi lon devin"]
+feedback ["dugi beni"]
 again ["vis"]
 play ["ziasi"]
-looking ["lugin"]
 issues ["lebo","gein egi"]
 april ["muni mo"]
 never ["lon va-don"]
@@ -573,7 +565,6 @@ topic ["vega dugi"]
 comment ["dugi"]
 financial ["bi miani"]
 thing ["zo"]
-working ["lon wei buli"]
 against ["egon da","va-da","va-belin"]
 standard ["bi oiban","bo muli"]
 tax ["miani zenan","miani liawa","miani mezan"]
@@ -608,7 +599,7 @@ language ["dugi","vega dugi"]
 story ["dugi musi"]
 sell ["esin"]
 options ["gein iani","iani"]
-experience ["boina buli"]
+experience ["buli buli"]
 rates ["oiban","megi oiban","miani"]
 create ["buli"]
 key ["elo loigo"]
@@ -650,7 +641,7 @@ seller ["zan esin","zan esin bena"]
 court ["mengi oiban"]
 february ["muni di"]
 always ["lon don muli"]
-result ["enma boina"]
+result ["beni gein","zo beni"]
 audio ["bi ema-ema"]
 light ["lena esuno"]
 write ["lebo vedelin"]
@@ -665,7 +656,6 @@ analysis ["lugin esebin"]
 request ["dugi dan belin"]
 fax ["wega biawi vedelin"]
 china ["mezan Zoingo"]
-making ["buli"]
 picture ["vedelin"]
 needs ["wei belin belin","belin da guli-vi"]
 possible ["gein"]
@@ -700,7 +690,6 @@ added ["mudei","bena"]
 reference ["uno lugin"]
 listed ["lon lebo"]
 baby ["zi leli"]
-learning ["wi zon"]
 energy ["wiawa","gein wiawa"]
 run ["giawin giawin"]
 delivery ["giawin bena","guma bena"]
@@ -716,7 +705,7 @@ welcome ["guma buna"]
 central ["lon memuso","bi memuso"]
 president ["liawa zenan"]
 notice ["guma lugin"]
-original ["bi won","bi boina muli"]
+original ["bi won","bi enbin muli"]
 head ["liawa"]
 radio ["udon wega"]
 until ["da don bi"]
@@ -774,7 +763,7 @@ means ["gein"]
 director ["liawa buli"]
 daily ["bi esuno muli"]
 beach ["man elena","man elena delo"]
-past ["don boina", "don boina boina"]
+past ["don deni", "don deni deni"]
 natural ["bi guvi man"]
 whether ["iani"]
 due ["dan"]
@@ -805,22 +794,21 @@ style ["vega","iasin elein"]
 url ["lebo eliasi man gezuwi"]
 front ["enbin"]
 statement ["dugi leli"]
-update
-parts
-aug
-ever
-downloads
-early
-miles
-sound
-resource
-present
-applications
-either
-ago
-document
-word
-works
+update ["vis"]
+parts ["din leli"]
+aug ["mini lis"]
+ever ["lon mugi don"]
+downloads ["dan guba"]
+early ["don deni","don vis"]
+miles ["megi-bengo"]
+sound ["ema-zo"]
+resource ["zo elo"]
+present ["zo bena"]
+applications ["lebo belin gein","buli biawi"]
+either ["iani"]
+ago ["bi deni"]
+document ["lebo"]
+word ["enon lebo"]
 material
 bill
 apr
@@ -846,7 +834,6 @@ third
 rock
 gifts
 europe
-reading
 topics
 bad
 individual
@@ -863,7 +850,6 @@ fast
 function
 fact
 unit
-getting
 global
 tech
 meet
@@ -974,7 +960,6 @@ designed
 along
 among
 death
-writing
 speed
 html
 countries
@@ -1003,7 +988,6 @@ french
 storage
 oh
 japan
-doing
 loans
 shoes
 entry
@@ -1108,7 +1092,6 @@ nothing
 certain
 usr
 executive
-running
 lower
 necessary
 union
@@ -1153,7 +1136,6 @@ opportunities
 taking
 values
 division
-coming
 tuesday
 object
 lesbian
@@ -1185,7 +1167,6 @@ lead
 george
 choice
 went
-starting
 registration
 fri
 thursday
@@ -1275,7 +1256,6 @@ approach
 cameras
 brown
 physical
-operating
 hill
 maps
 medicine
@@ -1336,7 +1316,6 @@ publisher
 hall
 larger
 anti
-networks
 earth
 parents
 nokia
@@ -1392,7 +1371,6 @@ success
 maximum
 ma
 operation
-existing
 quite
 selected
 boy
@@ -1420,7 +1398,6 @@ manufacturer
 ways
 est
 son
-providing
 rule
 mac
 housing
@@ -1431,7 +1408,6 @@ bring
 catalog
 searches
 max
-trying
 mother
 authority
 considered
@@ -1449,10 +1425,8 @@ bin
 modern
 senior
 ireland
-teaching
 door
 grand
-testing
 trial
 charge
 units
@@ -1466,7 +1440,6 @@ ships
 entire
 educational
 md
-leading
 metal
 positive
 fl
@@ -1487,7 +1460,6 @@ develop
 employees
 artists
 alternative
-processing
 responsibility
 resolution
 java
@@ -1520,7 +1492,6 @@ il
 expected
 ring
 grade
-dating
 pacific
 mountain
 organizations
@@ -1536,7 +1507,6 @@ behind
 panel
 floor
 german
-buying
 match
 proposed
 default
@@ -1594,7 +1564,6 @@ ability
 maybe
 functions
 ed
-moving
 brands
 places
 php
@@ -1627,7 +1596,6 @@ msn
 itself
 defined
 papers
-playing
 awards
 fee
 studio
@@ -1640,11 +1608,9 @@ rent
 las
 remote
 dark
-programming
 external
 apple
 le
-regarding
 instructions
 min
 offered
@@ -1721,7 +1687,6 @@ peace
 traditional
 campus
 tom
-showing
 creative
 coast
 benefit
@@ -2117,7 +2082,6 @@ ac
 thoughts
 creek
 ft
-worked
 quantity
 urban
 practices
@@ -2504,10 +2468,8 @@ eligible
 checkout
 reality
 forgot
-handling
 origin
 knew
-gaming
 feeds
 billion
 destination
@@ -2573,7 +2535,6 @@ gb
 netherlands
 obtain
 bc
-consulting
 recreation
 offices
 designer
@@ -2617,15 +2578,12 @@ figures
 married
 protected
 proposal
-sharing
 philadelphia
 portal
-waiting
 birthday
 beta
 fail
 gratis
-banking
 officials
 brian
 toward
@@ -2636,10 +2594,8 @@ conduct
 contained
 lingerie
 legislation
-calling
 parameters
 jazz
-serving
 bags
 profiles
 miami
@@ -2652,7 +2608,6 @@ relationships
 tennessee
 wear
 controls
-breaking
 combined
 ultimate
 wales
@@ -2718,7 +2673,6 @@ eat
 permanent
 agriculture
 dell
-cleaning
 constitutes
 portfolio
 practical
@@ -2767,16 +2721,13 @@ ski
 soccer
 math
 import
-posting
 presence
 instant
 mentioned
 automatic
 healthcare
-viewing
 maintained
 ch
-increasing
 majority
 connected
 christ
@@ -2795,7 +2746,6 @@ preview
 fly
 manner
 matrix
-containing
 combination
 devel
 amendment
@@ -2811,7 +2761,6 @@ singapore
 enterprises
 delta
 fear
-seeking
 inches
 phoenix
 rs
@@ -2819,12 +2768,10 @@ convention
 shares
 principal
 daughter
-standing
 comfort
 colors
 wars
 cisco
-ordering
 kept
 alpha
 appeal
@@ -2868,7 +2815,6 @@ panasonic
 hide
 permalink
 signature
-gambling
 refer
 miller
 provision
@@ -2895,7 +2841,6 @@ hip
 printers
 faqs
 nine
-adding
 kentucky
 mostly
 eric
@@ -2940,7 +2885,6 @@ copies
 recipe
 zum
 permit
-seeing
 proof
 dna
 diff
@@ -3018,7 +2962,6 @@ usage
 cap
 ink
 charts
-continuing
 mixed
 census
 interracial
@@ -3033,13 +2976,10 @@ salt
 compact
 poetry
 lights
-tracking
 angel
 bell
-keeping
 preparation
 attempt
-receiving
 matches
 accordance
 width
@@ -3058,12 +2998,10 @@ playstation
 alcohol
 greek
 instruction
-managing
 annotation
 sister
 raw
 differences
-walking
 explain
 smaller
 newest
@@ -3105,14 +3043,12 @@ connecticut
 heritage
 personals
 immediate
-holding
 trouble
 spread
 coach
 kevin
 agricultural
 expand
-supporting
 audience
 assigned
 jordan
@@ -3131,9 +3067,6 @@ hat
 institution
 directed
 dealers
-searching
-sporting
-helping
 perl
 affected
 lib
@@ -3196,13 +3129,10 @@ edward
 investor
 identification
 ram
-leaving
 wildlife
 appliances
 matt
 elementary
-cooking
-speaking
 sponsors
 fox
 unlimited
@@ -3216,7 +3146,6 @@ arm
 keys
 launch
 wave
-checking
 costa
 belgium
 printable
@@ -3334,7 +3263,6 @@ discovery
 draw
 mysql
 classified
-relating
 assume
 confidence
 alliance
@@ -3358,7 +3286,6 @@ organisation
 babe
 checks
 reached
-becoming
 safari
 objective
 indicated
@@ -3432,7 +3359,6 @@ contributions
 continuous
 db
 czech
-resulting
 cambridge
 initiative
 novel
@@ -3471,10 +3397,8 @@ slot
 psp
 outstanding
 ha
-eating
 perspective
 planned
-watching
 lodge
 messenger
 mirror
@@ -3523,8 +3447,6 @@ guard
 properly
 orleans
 saving
-nfl
-remaining
 empire
 resume
 twenty
@@ -3533,7 +3455,6 @@ raise
 prepare
 avatar
 gary
-depending
 illegal
 expansion
 vary
@@ -3549,8 +3470,6 @@ milk
 decide
 consent
 drama
-visiting
-performing
 downtown
 keyboard
 contest
@@ -3572,7 +3491,6 @@ muscle
 featuring
 iso
 implement
-clicking
 scheduled
 polls
 typical
@@ -3587,7 +3505,6 @@ temporary
 attend
 shower
 alan
-sending
 jason
 tonight
 dear
@@ -3605,7 +3522,6 @@ beer
 seemed
 contribution
 measurement
-swimming
 spyware
 formula
 constitution
@@ -3653,7 +3569,6 @@ candidates
 charlotte
 ordered
 biological
-fighting
 transition
 happens
 preferences
@@ -3679,12 +3594,10 @@ wikipedia
 cellular
 norway
 vermont
-asking
 blocks
 normally
 lo
 spiritual
-hunting
 diabetes
 suit
 ml
@@ -3702,7 +3615,6 @@ marks
 flexible
 loved
 favourites
-mapping
 numerous
 relatively
 birds
@@ -3714,7 +3626,6 @@ pittsburgh
 superior
 preferred
 saved
-paying
 cartoon
 shots
 intellectual
@@ -3722,11 +3633,9 @@ moore
 granted
 choices
 carbon
-spending
 comfortable
 magnetic
 interaction
-listening
 effectively
 registry
 crisis
@@ -3752,7 +3661,6 @@ revolution
 consolidation
 displays
 plasma
-allowing
 earnings
 voip
 mystery
@@ -3761,7 +3669,6 @@ dependent
 mechanical
 journey
 delaware
-bidding
 consultants
 risks
 banner
@@ -3812,7 +3719,6 @@ holds
 router
 concrete
 si
-editing
 poland
 folder
 womens
@@ -3823,7 +3729,6 @@ pulse
 universities
 technique
 contractors
-voting
 courts
 notices
 subscriptions
@@ -3861,14 +3766,11 @@ uniprotkb
 strike
 consumption
 birmingham
-flashing
 lp
 narrow
 afternoon
 threat
 surveys
-sitting
-putting
 consultant
 controller
 ownership
@@ -3888,7 +3790,6 @@ labels
 willing
 bio
 molecular
-acting
 heads
 stored
 exam
@@ -3928,7 +3829,6 @@ asset
 ag
 scan
 elections
-drinking
 reaction
 blank
 enhanced
@@ -3961,7 +3861,6 @@ capabilities
 pmid
 contrast
 recommendation
-flying
 recruitment
 sin
 berlin
@@ -3971,7 +3870,6 @@ ba
 para
 siemens
 adoption
-improving
 cr
 expensive
 meant
@@ -3987,7 +3885,6 @@ programmes
 desire
 expertise
 mechanism
-camping
 ee
 jewellery
 meets
@@ -4001,20 +3898,17 @@ measured
 medline
 bottle
 agreements
-considering
 innovative
 marshall
 massage
 rubber
 conclusion
-closing
 tampa
 thousand
 meat
 legend
 grace
 susan
-ing
 ks
 adams
 python
@@ -4066,13 +3960,11 @@ neck
 hd
 wing
 governments
-purchasing
 scripts
 abc
 stereo
 appointed
 taste
-dealing
 commit
 tiny
 operational
@@ -4086,7 +3978,6 @@ gap
 sides
 tube
 turns
-corresponding
 descriptions
 cache
 belt
@@ -4120,7 +4011,6 @@ voltage
 anthony
 nintendo
 usual
-loading
 stamps
 appeared
 franklin
@@ -4128,16 +4018,12 @@ angle
 rob
 vinyl
 highlights
-mining
 designers
 melbourne
 ongoing
 worst
-imaging
-betting
 scientists
 liberty
-wyoming
 blackjack
 argentina
 era
@@ -4147,7 +4033,6 @@ analyst
 commissioner
 dangerous
 garage
-exciting
 reliability
 thongs
 gcc
@@ -4234,15 +4119,12 @@ capable
 douglas
 debian
 till
-involving
 pen
-investing
 christopher
 admission
 epson
 shoe
 elected
-carrying
 victory
 sand
 madison
@@ -4308,11 +4190,9 @@ temple
 substances
 prove
 discovered
-wings
 breaks
 genetic
 restrictions
-participating
 waters
 promise
 thin
@@ -4323,7 +4203,6 @@ cabinet
 modem
 harris
 mph
-bringing
 sick
 dose
 evaluate
@@ -4338,7 +4217,6 @@ nationwide
 vector
 definitely
 shaved
-turning
 buffer
 purple
 existence
@@ -4362,7 +4240,6 @@ chairs
 nl
 everyday
 apparently
-surrounding
 mountains
 moves
 popularity
@@ -4394,7 +4271,6 @@ victims
 epa
 spaces
 fundamental
-burning
 escape
 coupons
 somewhat
@@ -4419,15 +4295,11 @@ obvious
 fiber
 depression
 graph
-covering
 platinum
 judgment
 bedrooms
 talks
-filing
 foster
-modeling
-passing
 awarded
 testimonials
 trials
@@ -4481,10 +4353,8 @@ eligibility
 venture
 clinic
 korean
-healing
 princess
 mall
-entering
 packet
 spray
 studios
@@ -4502,7 +4372,6 @@ roads
 subsequent
 pat
 dublin
-rolling
 fell
 motorcycle
 yard
@@ -4540,7 +4409,6 @@ rescue
 undergraduate
 losses
 combat
-reducing
 stopped
 occupation
 lakes
@@ -4552,7 +4420,6 @@ radiation
 diary
 seriously
 kings
-shooting
 kent
 adds
 nsw
@@ -4691,7 +4558,6 @@ tall
 rm
 somewhere
 vacuum
-dancing
 attributes
 recognize
 brass
@@ -4723,7 +4589,6 @@ athletic
 thermal
 behaviour
 vital
-telling
 fairly
 coastal
 config
@@ -4748,7 +4613,6 @@ regardless
 lan
 enemy
 puzzle
-rising
 aluminum
 wells
 wishlist
@@ -4813,7 +4677,6 @@ charger
 regularly
 believed
 pine
-cooling
 tend
 gulf
 rt
@@ -4853,7 +4716,6 @@ experiments
 afghanistan
 dd
 boost
-spanking
 scholarship
 governance
 mill
@@ -4863,7 +4725,6 @@ chronic
 icons
 moral
 den
-catering
 aud
 finger
 keeps
@@ -4873,7 +4734,6 @@ camcorder
 pl
 trained
 burn
-implementing
 roses
 labs
 ourselves
@@ -4895,14 +4755,12 @@ chest
 pension
 billy
 revenues
-emerging
 worship
 capability
 ak
 fe
 craig
 herself
-producing
 churches
 precision
 damages
@@ -4923,14 +4781,12 @@ sole
 franchise
 recorder
 complaints
-facing
 sm
 nancy
 promotions
 tones
 passion
 rehabilitation
-maintaining
 sight
 laid
 clay
@@ -4958,7 +4814,6 @@ consequences
 makers
 hearts
 geography
-appearing
 integrity
 worry
 ns
@@ -4974,7 +4829,6 @@ widely
 processed
 phrase
 genuine
-raising
 implications
 functionality
 paradise
@@ -4990,7 +4844,6 @@ glory
 platforms
 ja
 bigger
-billing
 diesel
 versus
 combine
@@ -5038,7 +4891,6 @@ showtimes
 cal
 portions
 infant
-promoting
 sectors
 samuel
 fluid
@@ -5123,7 +4975,6 @@ meta
 humans
 analog
 facial
-choosing
 talent
 dated
 flexibility
@@ -5146,7 +4997,6 @@ poems
 deadline
 jurisdiction
 robot
-displaying
 witness
 collins
 equipped
@@ -5165,7 +5015,6 @@ entrance
 gnome
 roots
 declaration
-losing
 attempts
 gadgets
 noble
@@ -5180,11 +5029,9 @@ loves
 induced
 ll
 knight
-preparing
 loose
 aims
 recipient
-linking
 extensions
 appeals
 cl
@@ -5198,7 +5045,6 @@ ho
 alternatives
 pending
 parker
-determining
 lebanon
 corp
 personalized
@@ -5230,7 +5076,6 @@ rocks
 conventional
 titans
 applicants
-wearing
 axis
 sought
 genes
@@ -5254,7 +5099,6 @@ bachelor
 attitude
 camcorders
 engaged
-falling
 basics
 montreal
 carpet
@@ -5288,7 +5132,6 @@ moments
 atlas
 strings
 dawn
-representing
 observation
 feels
 torture
@@ -5300,7 +5143,6 @@ mrs
 rica
 restoration
 convenience
-returning
 ralph
 opposition
 container
@@ -5330,7 +5172,6 @@ assumed
 departure
 minneapolis
 belief
-killing
 bikini
 memphis
 shoulder
@@ -5362,7 +5203,6 @@ intervention
 fed
 plugin
 attraction
-diving
 invite
 modification
 alice
@@ -5387,7 +5227,6 @@ mercedes
 zus
 assurance
 clerk
-happening
 vast
 mills
 outline
@@ -5414,15 +5253,12 @@ gr
 attractive
 xhtml
 occasion
-recordings
 jefferson
 victim
 demands
-sleeping
 careful
 ext
 beam
-gardening
 obligations
 arrive
 orchestra
@@ -5435,19 +5271,16 @@ lottery
 tops
 framed
 aside
-outsourcing
 licence
 adjustable
 allocation
 michelle
 essay
-saying
 discipline
 amy
 ts
 demonstrated
 dialogue
-identifying
 alphabetical
 camps
 declared
@@ -5460,7 +5293,6 @@ shut
 florists
 packs
 ge
-installing
 switches
 romania
 voluntary
@@ -5469,9 +5301,7 @@ thou
 consult
 phd
 greatly
-blogging
 mask
-cycling
 midnight
 ng
 commonly
@@ -5481,7 +5311,6 @@ inform
 turkish
 coal
 cry
-messaging
 pentium
 quantum
 murray
@@ -5493,12 +5322,10 @@ pleasant
 announce
 constructed
 additions
-requiring
 spoke
 aka
 arrow
 engagement
-sampling
 rough
 weird
 tee
@@ -5536,11 +5363,9 @@ netscape
 cleaner
 cricket
 beef
-feeding
 stroke
 township
 rankings
-measuring
 cad
 hats
 robin
@@ -5571,7 +5396,6 @@ gloves
 israeli
 medicare
 cord
-skiing
 cloud
 facilitate
 subscriber
@@ -5581,7 +5405,6 @@ hewlett
 explains
 proceed
 flickr
-feelings
 knife
 jamaica
 priorities
@@ -5589,7 +5412,6 @@ shelf
 bookstore
 timing
 liked
-parenting
 adopt
 denied
 fotos
@@ -5642,7 +5464,6 @@ ace
 voices
 acute
 halloween
-climbing
 stood
 sing
 tons
@@ -5661,7 +5482,6 @@ housewares
 reputation
 resistant
 democrats
-recycling
 hang
 gbp
 curve
@@ -5669,14 +5489,12 @@ creator
 amber
 qualifications
 museums
-coding
 slideshow
 tracker
 variation
 passage
 transferred
 trunk
-hiking
 lb
 pierre
 jelsoft
@@ -5688,9 +5506,7 @@ waves
 camel
 distributor
 lamps
-underlying
 hood
-wrestling
 suicide
 archived
 photoshop
@@ -5698,7 +5514,6 @@ jp
 chi
 bt
 arabia
-gathering
 projection
 juice
 chase
@@ -5734,7 +5549,6 @@ detected
 decades
 paintings
 walked
-arising
 nissan
 bracelet
 ins
@@ -5753,7 +5567,6 @@ indicator
 pointed
 hb
 jpg
-causing
 mistake
 norton
 locked
@@ -5763,7 +5576,6 @@ fusion
 mineral
 sunglasses
 ruby
-steering
 beads
 fortune
 preference
@@ -5814,7 +5626,6 @@ gp
 shaped
 compression
 seasonal
-establishing
 farmer
 counters
 puts
@@ -5826,10 +5637,8 @@ slave
 instantly
 cultures
 norfolk
-coaching
 examined
 trek
-encoding
 litigation
 submissions
 oem
@@ -5838,7 +5647,6 @@ painted
 lycos
 ir
 zdnet
-broadcasting
 horizontal
 artwork
 cosmetic
@@ -5855,7 +5663,6 @@ builders
 ties
 struggle
 schemes
-suffering
 neutral
 fisher
 rat
@@ -5863,11 +5670,8 @@ spears
 prospective
 bedding
 ultimately
-joining
-heading
 equally
 artificial
-bearing
 spectacular
 coordination
 connector
@@ -5912,10 +5716,8 @@ branches
 anymore
 oclc
 delhi
-holdings
 alien
 locator
-selecting
 processors
 pantyhose
 plc
@@ -5927,7 +5729,6 @@ juan
 complexity
 msg
 constantly
-browsing
 resolve
 barcelona
 presidential
@@ -5949,7 +5750,6 @@ trim
 nigeria
 ceiling
 pixels
-ensuring
 hispanic
 cv
 cb
@@ -5965,11 +5765,9 @@ untitled
 bunch
 totals
 marriott
-singing
 theoretical
 afford
 exercises
-starring
 referral
 nhl
 surveillance
@@ -5984,7 +5782,6 @@ inclusion
 hopefully
 brilliant
 turner
-sucking
 cents
 reuters
 ti
@@ -6024,7 +5821,6 @@ depend
 differ
 macintosh
 movements
-ranging
 monica
 repairs
 breath
@@ -6033,7 +5829,6 @@ virtually
 cole
 mart
 candle
-hanging
 colored
 authorization
 tale
@@ -6047,9 +5842,7 @@ comparative
 std
 seeks
 herbal
-loving
 strictly
-routing
 docs
 stanley
 psychological
@@ -6063,7 +5856,6 @@ vid
 genealogy
 opposed
 deemed
-scoring
 expenditure
 brooklyn
 liverpool
@@ -6084,7 +5876,6 @@ salon
 collaborative
 norman
 fda
-excluding
 turbo
 headed
 voters
@@ -6117,13 +5908,11 @@ expansys
 panels
 repeated
 assault
-connecting
 spare
 logistics
 deer
 kodak
 tongue
-bowling
 tri
 danish
 pal
@@ -6136,7 +5925,6 @@ invest
 honey
 um
 analyses
-drawings
 significance
 scenario
 ye
@@ -6149,12 +5937,10 @@ arabic
 gauge
 essentials
 junction
-protecting
 nn
 faced
 mat
 rachel
-solving
 transmitted
 weekends
 screenshots
@@ -6168,7 +5954,6 @@ sixth
 engage
 deviant
 noon
-switching
 quoted
 adapters
 correspondence
@@ -6193,7 +5978,6 @@ gym
 celebration
 kde
 adjacent
-filtering
 tuition
 spouse
 exotic
@@ -6202,7 +5986,6 @@ signup
 threats
 luxembourg
 puzzles
-reaching
 vb
 damaged
 cams
@@ -6225,7 +6008,6 @@ benjamin
 deployment
 teeth
 cloth
-studying
 colleagues
 stamp
 lotus
@@ -6259,7 +6041,6 @@ maple
 luke
 grocery
 offshore
-governing
 retailers
 depot
 kenneth
@@ -6272,7 +6053,6 @@ ls
 julie
 occasionally
 cbs
-attending
 emission
 pete
 spec
@@ -6281,12 +6061,10 @@ realty
 janet
 bow
 penn
-recruiting
 apparent
 instructional
 phpbb
 autumn
-traveling
 probe
 midi
 permissions
@@ -6299,7 +6077,6 @@ packed
 excited
 outreach
 helen
-mounting
 recover
 tied
 lopez
@@ -6320,7 +6097,6 @@ villas
 ebook
 consolidated
 exclude
-peeing
 occasions
 brooks
 equations
@@ -6366,7 +6142,6 @@ raleigh
 stud
 fold
 essentially
-designing
 threaded
 uv
 qualify
@@ -6389,7 +6164,6 @@ pos
 attach
 licenses
 utils
-removing
 advised
 brunswick
 spider
@@ -6405,7 +6179,6 @@ calgary
 interim
 assisted
 divine
-streaming
 approve
 chose
 compound
@@ -6420,7 +6193,6 @@ wellness
 calcium
 newport
 antivirus
-addressing
 pole
 discounted
 indians
@@ -6445,7 +6217,6 @@ candles
 graduation
 mega
 bend
-sailing
 variations
 moms
 sacred
@@ -6453,11 +6224,9 @@ addiction
 morocco
 chrome
 tommy
-springfield
 refused
 brake
 exterior
-greeting
 ecology
 oliver
 congo
@@ -6506,20 +6275,17 @@ rolls
 thomson
 barnes
 soundtrack
-wondering
 malta
 daddy
 lc
 ferry
 rabbit
 profession
-seating
 dam
 cnn
 separately
 physiology
 lil
-collecting
 das
 exports
 omaha
@@ -6553,7 +6319,6 @@ drag
 ceremony
 somehow
 arrested
-expanding
 provincial
 investigations
 icq
@@ -6564,19 +6329,15 @@ medications
 hebrew
 gained
 rochester
-dying
 laundry
 stuck
 solomon
-placing
 stops
 homework
 adjust
 assessed
 advertiser
-enabling
 encryption
-filling
 downloadable
 sophisticated
 imposed
@@ -6613,7 +6374,6 @@ sox
 stockings
 joke
 respondent
-packing
 statute
 rejected
 satisfy
@@ -6638,11 +6398,9 @@ bench
 univ
 tub
 rider
-scheduling
 radius
 perspectives
 mortality
-logging
 hampton
 christians
 borders
@@ -6653,7 +6411,6 @@ inns
 bobby
 impressive
 sheep
-accordingly
 architect
 railroad
 lectures
@@ -6689,7 +6446,6 @@ preserve
 jvc
 poem
 unsigned
-staying
 cosmetics
 easter
 theories
@@ -6702,8 +6458,6 @@ estonia
 christianity
 veteran
 streams
-landing
-signing
 executed
 katie
 negotiations
@@ -6715,7 +6469,6 @@ integral
 asks
 relax
 namibia
-generating
 christina
 congressional
 synopsis
@@ -6759,13 +6512,11 @@ fancy
 equality
 samoa
 gc
-achieving
 tap
 stickers
 fisheries
 exceptions
 reactions
-leasing
 lauren
 beliefs
 ci
@@ -6803,11 +6554,8 @@ lithuania
 mastercard
 wheat
 chronicles
-obtaining
 beaver
-updating
 distribute
-readings
 decorative
 kijiji
 confused
@@ -6858,7 +6606,6 @@ dresses
 baptist
 scientist
 starsmerchant
-hiring
 clocks
 arthritis
 bios
@@ -6884,7 +6631,6 @@ stylus
 compounds
 pope
 drums
-contracting
 arnold
 structured
 reasonably
@@ -6898,24 +6644,19 @@ radical
 graduates
 rover
 recommends
-controlling
 treasure
 reload
 distributors
 flame
 levitra
 tanks
-assuming
 monetary
 elderly
 pit
-arlington
 mono
 particles
-floating
 extraordinary
 tile
-indicating
 bolivia
 spell
 hottest
@@ -6933,7 +6674,6 @@ struck
 rx
 illustration
 plymouth
-warnings
 construct
 apps
 inquiries
@@ -6944,18 +6684,15 @@ gsm
 inspiration
 tribal
 curious
-affecting
 freight
 rebate
 meetup
 eclipse
 sudan
 ddr
-downloading
 rec
 shuttle
 aggregate
-stunning
 cycles
 affects
 forecasts
@@ -6972,7 +6709,6 @@ fastest
 butler
 shopzilla
 injured
-decorating
 payroll
 cookbook
 expressions
@@ -7004,7 +6740,6 @@ jd
 rarely
 gpl
 infected
-offerings
 martha
 genesis
 barrier
@@ -7013,8 +6748,6 @@ incorrect
 trains
 metals
 bicycle
-furnishings
-letting
 arise
 guatemala
 celtic
@@ -7027,7 +6760,6 @@ minerals
 advise
 humidity
 bottles
-boxing
 wy
 dm
 bangkok
@@ -7055,7 +6787,6 @@ reveal
 canal
 amino
 phi
-contributing
 herbs
 clinics
 mls
@@ -7064,7 +6795,6 @@ manitoba
 analytical
 missions
 watson
-lying
 costumes
 strict
 dive
@@ -7087,11 +6817,8 @@ technician
 inline
 executives
 enquiries
-washing
 audi
-staffing
 cognitive
-exploring
 trick
 enquiry
 closure
@@ -7105,7 +6832,6 @@ playlist
 registrar
 showers
 supporters
-ruling
 steady
 dirt
 statutes
@@ -7150,8 +6876,6 @@ numerical
 ons
 geek
 uncle
-defining
-counting
 reflection
 sink
 accompanied
@@ -7181,7 +6905,6 @@ captured
 watt
 thehun
 decent
-casting
 dayton
 translated
 shortly
@@ -7196,14 +6919,11 @@ warrior
 diploma
 cabin
 innocent
-scanning
 ide
 consensus
 polo
 valium
-copying
 rpg
-delivering
 cordless
 patricia
 horn
@@ -7259,12 +6979,10 @@ ribbon
 calculations
 doe
 jpeg
-conducting
 startup
 suzuki
 trinidad
 ati
-kissing
 wal
 handy
 swap
@@ -7315,7 +7033,6 @@ selections
 projectors
 inappropriate
 exhaust
-comparing
 shanghai
 speaks
 burton
@@ -7323,14 +7040,12 @@ vocational
 davidson
 copied
 scotia
-farming
 gibson
 pharmacies
 fork
 troy
 ln
 roller
-introducing
 batch
 organize
 appreciated
@@ -7340,7 +7055,6 @@ latino
 ghana
 edges
 uc
-mixing
 handles
 skilled
 fitted
@@ -7363,7 +7077,6 @@ oriental
 reward
 windsor
 zambia
-completing
 gmbh
 buf
 ld
@@ -7417,7 +7130,6 @@ msgid
 transexual
 mainstream
 invoice
-evaluating
 lip
 subcommittee
 sap
@@ -7430,7 +7142,6 @@ colonial
 mf
 carey
 motels
-forming
 embassy
 cave
 journalists
@@ -7461,13 +7172,10 @@ decreased
 patio
 dp
 tolerance
-surfing
 creativity
 lloyd
-describing
 optics
 pursue
-lightning
 overcome
 eyed
 ou
@@ -7483,7 +7191,6 @@ disable
 snake
 succeed
 leonard
-lending
 oops
 reminder
 xi
@@ -7560,7 +7267,6 @@ throws
 moisture
 hungarian
 roster
-referring
 symantec
 spencer
 wichita
@@ -7571,7 +7277,6 @@ hz
 transform
 timer
 tablets
-tuning
 gotten
 educators
 tyler
@@ -7581,7 +7286,6 @@ verse
 highs
 humanities
 independently
-wanting
 custody
 scratch
 launches
@@ -7619,7 +7323,6 @@ hart
 bernard
 resolutions
 ment
-accessing
 forty
 tubes
 attempted
@@ -7650,7 +7353,6 @@ skins
 mailed
 oc
 fujitsu
-spelling
 arctic
 exams
 rewards
@@ -7688,7 +7390,6 @@ neo
 motivation
 lenders
 pharmacology
-fitting
 fixtures
 bloggers
 mere
@@ -7722,7 +7423,6 @@ backgrounds
 treasurer
 guitars
 essence
-flooring
 lightweight
 ethiopia
 tp
@@ -7735,13 +7435,11 @@ holmes
 complications
 scholars
 dpi
-scripting
 gis
 remembered
 galaxy
 chester
 snapshot
-caring
 loc
 worn
 synthetic
@@ -7775,7 +7473,6 @@ sponsorship
 headphones
 fraction
 trio
-proceeding
 cube
 defects
 volkswagen
@@ -7790,11 +7487,9 @@ clarity
 rugs
 sandra
 adelaide
-encouraging
 furnished
 monaco
 settled
-folding
 emirates
 terrorists
 airfare
@@ -7809,7 +7504,6 @@ promised
 volvo
 penny
 robust
-bookings
 threatened
 minolta
 republicans
@@ -7848,15 +7542,12 @@ soma
 ser
 cooler
 appraisal
-consisting
 maritime
 periodic
-submitting
 overhead
 ascii
 prospect
 shipment
-breeding
 citations
 geographical
 donor
@@ -7885,10 +7576,8 @@ sheffield
 bailey
 aus
 endif
-finishing
 emotions
 wellington
-incoming
 prospects
 lexmark
 cleaners
@@ -7902,7 +7591,6 @@ aboriginal
 remarkable
 rotation
 nam
-preventing
 productive
 boulevard
 eugene
@@ -7925,7 +7613,6 @@ closest
 activated
 actress
 mess
-conferencing
 assign
 armstrong
 politicians
@@ -7950,7 +7637,6 @@ dietary
 symphony
 clarke
 sudden
-accepting
 precipitation
 marilyn
 lions
@@ -7972,9 +7658,7 @@ programmer
 fighters
 chambers
 dump
-greetings
 inherited
-warming
 incomplete
 vocals
 chronicle
@@ -8028,7 +7712,6 @@ metallica
 outlined
 consequently
 headline
-treating
 punch
 appointments
 str
@@ -8068,7 +7751,6 @@ shake
 algebra
 shadows
 holly
-formatting
 silly
 nutritional
 yea
@@ -8109,13 +7791,11 @@ mesa
 fatal
 remedy
 realtors
-breathing
 briefly
 thickness
 adjustments
 graphical
 genius
-discussing
 aerospace
 fighter
 meaningful
@@ -8129,7 +7809,6 @@ rug
 democrat
 borough
 maintains
-failing
 shortcuts
 ka
 retained
@@ -8137,13 +7816,11 @@ voyeurweb
 pamela
 andrews
 marble
-extending
 jesse
 specifies
 hull
 logitech
 surrey
-briefing
 belkin
 dem
 accreditation
@@ -8154,11 +7831,9 @@ meditation
 modular
 microphone
 macedonia
-combining
 brandon
 instrumental
 giants
-organizing
 shed
 balloon
 moderators
@@ -8169,7 +7844,6 @@ solved
 tide
 kazakhstan
 hawaiian
-standings
 partition
 invisible
 gratuit
@@ -8185,11 +7859,9 @@ jaguar
 reel
 sheer
 commodity
-posing
 kilometers
 rp
 bind
-thanksgiving
 rand
 hopkins
 urgent
@@ -8223,7 +7895,6 @@ emma
 consultancy
 finances
 accepts
-enjoying
 conventions
 eva
 patrol
@@ -8238,7 +7909,6 @@ carnival
 roughly
 sticker
 promises
-responding
 reef
 physically
 divide
@@ -8250,7 +7920,6 @@ cornell
 satin
 bon
 deserve
-attempting
 mailto
 promo
 jj
@@ -8259,7 +7928,6 @@ chan
 worried
 tunes
 garbage
-competing
 combines
 mas
 beth
@@ -8269,7 +7937,6 @@ phrases
 kai
 peninsula
 chelsea
-boring
 reynolds
 dom
 jill
@@ -8289,13 +7956,11 @@ prefix
 lucia
 savannah
 barrel
-typing
 nerve
 dans
 planets
 deficit
 boulder
-pointing
 renew
 coupled
 viii
@@ -8313,7 +7978,6 @@ incurred
 acknowledge
 thoroughly
 antigua
-nottingham
 thunder
 tent
 caution
@@ -8321,7 +7985,6 @@ identifies
 questionnaire
 qualification
 locks
-modelling
 namely
 miniature
 dept
@@ -8344,9 +8007,7 @@ lamb
 madagascar
 nathan
 tobago
-presenting
 cos
-troubleshooting
 uzbekistan
 indexes
 pac
@@ -8361,17 +8022,13 @@ hindu
 dh
 fragrances
 vocabulary
-licking
 earthquake
 vpn
-fundraising
 fcc
 markers
 weights
 albania
 geological
-assessing
-lasting
 wicked
 eds
 introduces
@@ -8389,7 +8046,6 @@ junk
 handhelds
 wax
 lucy
-answering
 hans
 impressed
 slope
@@ -8412,7 +8068,6 @@ allergy
 sake
 twisted
 combinations
-preceding
 merit
 enzyme
 cumulative
@@ -8428,7 +8083,6 @@ ambien
 arbitrary
 prominent
 retrieve
-lexington
 vernon
 sans
 worldcat
@@ -8447,7 +8101,6 @@ leslie
 casio
 deutsche
 ana
-postings
 innovations
 kitty
 postcards
@@ -8458,7 +8111,6 @@ fires
 algeria
 blessed
 luis
-reviewing
 cardiff
 cornwall
 favors
@@ -8506,7 +8158,6 @@ mauritius
 valued
 cage
 checklist
-requesting
 courage
 verde
 lauderdale
@@ -8517,7 +8168,6 @@ divx
 extraction
 batman
 elevation
-hearings
 coleman
 hugh
 lap
@@ -8531,12 +8181,10 @@ anaheim
 ping
 textbook
 dried
-entertaining
 prerequisite
 luther
 frontier
 settle
-stopping
 refugees
 knights
 hypothesis
@@ -8557,7 +8205,6 @@ enhancements
 renewable
 intersection
 passwords
-sewing
 consistency
 collectors
 conclude
@@ -8579,9 +8226,7 @@ advisors
 pavilion
 tactics
 trusts
-occurring
 supplemental
-travelling
 talented
 annie
 pillow
@@ -8590,9 +8235,7 @@ derek
 precisely
 shorter
 harley
-spreading
 provinces
-relying
 finals
 paraguay
 steal
@@ -8616,7 +8259,6 @@ rays
 asn
 shannon
 toddler
-enhancing
 flavor
 alike
 walt
@@ -8652,7 +8294,6 @@ marathon
 ant
 proposition
 gays
-pressing
 gasoline
 apt
 dressed
@@ -8689,7 +8330,6 @@ heath
 tremendous
 ballot
 lexus
-varying
 remedies
 validity
 trustee
@@ -8719,14 +8359,12 @@ geology
 pct
 wb
 creatures
-coating
 commented
 wallet
 cleared
 smilies
 vids
 accomplish
-boating
 drainage
 shakira
 corners
@@ -8755,7 +8393,6 @@ kenny
 specially
 owen
 routines
-hitting
 yukon
 beings
 bite
@@ -8763,7 +8400,6 @@ issn
 aquatic
 reliance
 habits
-striking
 myth
 infectious
 podcasts
@@ -8812,15 +8448,11 @@ differently
 firewire
 mods
 nextel
-framing
 organised
 musician
-blocking
 rwanda
 sorts
-integrating
 vsnet
-limiting
 dispatch
 revisions
 papua
@@ -8833,11 +8465,9 @@ remark
 dozens
 varies
 msie
-reasoning
 wn
 liz
 rendered
-picking
 charitable
 guards
 annotated
@@ -8846,8 +8476,6 @@ sv
 convinced
 openings
 buys
-burlington
-replacing
 researcher
 watershed
 councils
@@ -8871,12 +8499,10 @@ merge
 privilege
 edgar
 develops
-qualifying
 chassis
 dubai
 estimation
 barn
-pushing
 llp
 fleece
 pediatric
@@ -8886,7 +8512,6 @@ dg
 asus
 pierce
 allan
-dressing
 techrepublic
 sperm
 vg
@@ -8904,7 +8529,6 @@ sally
 yacht
 tracy
 prefers
-drilling
 brochures
 herb
 tmp
@@ -8930,7 +8554,6 @@ antibody
 competent
 momentum
 fin
-wiring
 io
 pastor
 mud
@@ -8943,7 +8566,6 @@ phases
 grateful
 emerald
 gradually
-laughing
 grows
 cliff
 desirable
@@ -9031,7 +8653,6 @@ rosa
 conviction
 hash
 omissions
-writings
 hamburg
 lazy
 mv
@@ -9041,7 +8662,6 @@ qualities
 cindy
 fathers
 carb
-charging
 cas
 marvel
 lined
@@ -9056,7 +8676,6 @@ upc
 terrain
 dui
 pens
-explaining
 yen
 strips
 gossip
@@ -9076,7 +8695,6 @@ polyester
 cubic
 deaf
 commitments
-suggesting
 sapphire
 kinase
 skirts
@@ -9086,7 +8704,6 @@ crawford
 labeled
 privileges
 televisions
-specializing
 marking
 commodities
 pvc
@@ -9135,7 +8752,6 @@ variance
 navigator
 investigators
 cameroon
-baking
 marijuana
 adaptive
 computed
@@ -9158,8 +8774,6 @@ generous
 madness
 emacs
 climb
-blowing
-fascinating
 landscapes
 heated
 lafayette
@@ -9175,14 +8789,12 @@ salvation
 dover
 adrian
 predictions
-accompanying
 vatican
 brutal
 learners
 gd
 selective
 arbitration
-configuring
 token
 editorials
 zinc
@@ -9198,7 +8810,6 @@ levy
 suited
 numeric
 anthropology
-skating
 kinda
 aberdeen
 emperor
@@ -9215,16 +8826,13 @@ burke
 proudly
 pix
 necessity
-rendering
 mic
 inserted
-pulling
 basename
 kyle
 obesity
 curves
 suburban
-touring
 clara
 vertex
 bw
@@ -9243,11 +8851,9 @@ specialties
 hayes
 humanitarian
 invitations
-functioning
 delight
 survivor
 garcia
-cingular
 economies
 alexandria
 bacterial
@@ -9271,7 +8877,6 @@ ata
 teaches
 ventures
 nil
-bufing
 stranger
 tragedy
 julian
@@ -9317,11 +8922,9 @@ wc
 worcester
 sbjct
 demographic
-charming
 mai
 tooth
 disciplinary
-annoying
 respected
 stays
 disclose
@@ -9330,7 +8933,6 @@ drove
 washer
 upset
 restrict
-springer
 beside
 mines
 portraits
@@ -9362,7 +8964,6 @@ concord
 graduated
 endorsed
 ty
-surprising
 walnut
 lance
 ladder
@@ -9379,7 +8980,6 @@ senators
 workout
 mali
 yugoslavia
-bleeding
 characterization
 colon
 likelihood
@@ -9391,7 +8991,6 @@ mtv
 endangered
 compromise
 optimize
-stating
 dome
 caroline
 leu
@@ -9400,7 +8999,6 @@ namespace
 align
 peripheral
 bless
-engaging
 negotiation
 crest
 opponents
@@ -9409,7 +9007,6 @@ nominated
 confidentiality
 electoral
 changelog
-welding
 deferred
 alternatively
 heel
@@ -9421,7 +9018,6 @@ yang
 gently
 greensboro
 tulsa
-locking
 casey
 controversial
 draws
@@ -9435,7 +9031,6 @@ elliott
 recovered
 fraser
 justify
-upgrading
 blades
 pgp
 loops
@@ -9446,7 +9041,6 @@ aw
 tahoe
 advert
 possess
-demanding
 defensive
 sip
 flashers
@@ -9472,7 +9066,6 @@ smithsonian
 hollow
 vault
 securely
-examining
 fioricet
 groove
 revelation
@@ -9483,7 +9076,6 @@ wires
 bl
 dictionaries
 mails
-backing
 greenhouse
 sleeps
 vc
@@ -9499,7 +9091,6 @@ currencies
 niger
 bacon
 survivors
-positioning
 heater
 colony
 cannon
@@ -9509,7 +9100,6 @@ forbes
 mae
 moldova
 mel
-descending
 paxil
 spine
 trout
@@ -9536,7 +9126,6 @@ joyce
 detective
 surgeon
 cement
-experiencing
 fireplace
 endorsement
 bg
@@ -9659,7 +9248,6 @@ richards
 mrna
 budgets
 toolkit
-promising
 relaxation
 goat
 render
@@ -9676,7 +9264,6 @@ commissioners
 dense
 dts
 brave
-forwarding
 qt
 awful
 nightmare
@@ -9703,7 +9290,6 @@ willow
 resumes
 bolt
 gage
-throwing
 existed
 generators
 lu
@@ -9728,7 +9314,6 @@ optimum
 neon
 interventions
 quilt
-huntington
 creature
 ours
 mounts
@@ -9765,12 +9350,10 @@ legendary
 bool
 sympathy
 choir
-avoiding
 beautifully
 blond
 expects
 cho
-jumping
 fabrics
 antibodies
 polymer
@@ -9804,7 +9387,6 @@ roommates
 adware
 qui
 intl
-threatening
 spokesman
 zoloft
 activists
@@ -9819,7 +9401,6 @@ assembled
 earliest
 donated
 stuffed
-restructuring
 insects
 terminals
 crude
@@ -9841,12 +9422,10 @@ crossword
 bother
 budapest
 conceptual
-knitting
 attacked
 hl
 bhutan
 liechtenstein
-mating
 compute
 redhead
 arrives
@@ -9873,10 +9452,8 @@ wagner
 constraint
 groundwater
 touched
-strengthening
 cologne
 gzip
-wishing
 ranger
 smallest
 insulation
