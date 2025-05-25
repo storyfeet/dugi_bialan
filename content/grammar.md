@@ -36,7 +36,7 @@ Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. De
     eg : {{qoth "won zan"}} "a person".
 * The Particle {{qoth "wei"}} is followed by
     * A verb / verb phrase.    
-    eg : {{qoth "giawin moini"}} "going back"
+    eg : {{qoth "giawin meni"}} "going back"
 
 The particle-idea pairs can be put together in any order to make a sentence. Verbs are not necessarily needed. For example :    
 

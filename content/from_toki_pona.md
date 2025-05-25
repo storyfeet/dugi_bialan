@@ -119,6 +119,8 @@ And those sounds do not appear elsewhere.  There are a separate set of vowels th
 Because some of these sounds glide. I had to dissallow words from starting with an "a" to avoid a problem after words ending with an 'i'.  I also dissallowed "n" or "s", from the start of words for the same reason.
 
 Then, because I wasn't paying attention, I allowed the "i" at the start of words. But since there are only three possible words that start with "i" it wasn't a big problem. This is the language of "Balance" not "Perfection" after all. I like the words I already have that start with an 'i', and even though "goigo" can collide with "go i go", the later is grammatically very unlikely.
+( This has since been fixed as 'oi' has now been removed from the language)
+
 
 ### Minimalist Word Set, but not exactly Toki Pona words.
 

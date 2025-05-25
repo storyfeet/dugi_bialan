@@ -3,7 +3,7 @@
 
 # Who is Aesop (Esobb) --- (p111)
 
-zan Esobb la, dis zan bi dei dugi bo la, dis zan bi wei buna dei da zan muli la. dan zi zugo li bi man Veligg, deso dan va-busi la, li zan oiga.
+zan Esobb la, dis zan bi dei dugi bo la, dis zan bi wei buna dei da zan muli la. dan zi zugo li bi man Veligg, deso dan va-busi la, li zan uga.
 
 zan Esobb li lugin dei iagi, lon wei buli li va-elo. 
 
@@ -15,7 +15,7 @@ dan va-dugi la, zan liawa li lugin ei i zan Esobb va-wei gein buli lon man mengi
 
 # His first test (p112)
 
-liawa wei giawin lugin ei man ban giasi, wei lugin ei geli wuwi, wei mugo ei won. dei la da zan oiga bi enon Egedubios go "buna ba. geli dis li dei buna. o da mengi mi ei bugi geli dis da - i mi li beni delo begi la, o bena da mi."
+liawa wei giawin lugin ei man ban giasi, wei lugin ei geli wuwi, wei mugo ei won. dei la da zan uga bi enon Egedubios go "buna ba. geli dis li dei buna. o da mengi mi ei bugi geli dis da - i mi li beni delo begi la, o bena da mi."
 
 zan Egedubios lon wei giawin wei belin mugo ei geli dis, wei leban mugo ei va-deso won. deso la wei belin dei mugo, li belin egi dan dis.
 
@@ -23,15 +23,15 @@ lugin ei dis la zan buna begi go "vin wei gein dei mugo. zan liawa wei belin mug
 
 zan di dis wei begin mugo ei geli lon wei dugi go "zan Esobb ubei ba, li va-deso zo bi li wei egi, li va-deso zo va-elo. dis dei la, mi i vin wei gein dei egi. va-o deso dugi ei i Esobb wei buli"
 
-zan liawa wei guma la, liawa wei dugi belin ei geli begi. zan Egedubios go "ba zan oiga Esobb wei lugin ei geli wei mugo ei dis"
+zan liawa wei guma la, liawa wei dugi belin ei geli begi. zan Egedubios go "ba zan uga Esobb wei lugin ei geli wei mugo ei dis"
 
-liawa dan belin egi va-mugo wei dugi guma ei zan Esobb. zan Esobb li wei leban da oiga bi zan liawa.
+liawa dan belin egi va-mugo wei dugi guma ei zan Esobb. zan Esobb li wei leban da uga bi zan liawa.
 
 go "li zan leban ba, dan vemi wei esebin gein mugo ei mugo mi"
 
 zan Esobb wei dugi luga belin belin, wei leli ei go "o uwein, o da mi ei delo"
 
-zan liawa dan wei belin gan-oiga buna da zan Esobb, wei bena gein.
+zan liawa dan wei belin gan-uga buna da zan Esobb, wei bena gein.
 
 zan Esobb wei mugo delo, wei zugo mugo, deso la va-wei deso zugo ei delo.
 
@@ -43,11 +43,11 @@ zan di dis li wei egon lena, dis edo wei belin bena da zan Esobb lon deni. wei d
 
 # The priestess of Isis (p113)
 
-zan liawa wei moini da man mengi la, zan Esobb wei buli lon man beba.
+zan liawa wei meni da man mengi la, zan Esobb wei buli lon man beba.
 
 zan zewi min bi enma zewi Esis wei dei va-iasin da bo man beba dis. wei lugin ei zan Esobb, deso va-wei zon ei busi egi dis, wei dugi da zan Esobb.
 
-go "zan buna mi o, vin luga ei buna da enma bi gein moili esi, o bena lugin ei iasin da man mengi, dan i mi wei va-iasin"
+go "zan buna mi o, vin luga ei buna da enma bi gein meli esi, o bena lugin ei iasin da man mengi, dan i mi wei va-iasin"
 
 zan Esobb wei lei lugin, wei lugin gein ei zan bi li elein egin zan zewi min.  dan li zan bi enma buna la, gin luga go "vin dan vemi wei wega dan iasin"
 

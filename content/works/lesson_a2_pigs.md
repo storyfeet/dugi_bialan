@@ -110,9 +110,9 @@ In fact : {{qq "is-van wei elo ei don ba dei"}} that {{qq "vo-di endei wei"}} ma
 
 - {{qoth "va"}} : Not / no
 - {{qoth "lena"}} : line / cord / hair
-- {{qoth "oiga enbin"}} : Chin (foot/base of face)
+- {{qoth "uga enbin"}} : Chin (foot/base of face)
 
-{{qq "vo esegi"}} replied " {{qq "va-o"}} by {{qq "lena"}} on {{qq "oiga enbin mi, mi va-wei"}} let you come in"
+{{qq "vo esegi"}} replied " {{qq "va-o"}} by {{qq "lena"}} on {{qq "uga enbin mi, mi va-wei"}} let you come in"
 
 - {{qoth "go"}} : Begins a quote
 - {{qoth "gon"}} : Air  / Blow
@@ -120,9 +120,9 @@ In fact : {{qq "is-van wei elo ei don ba dei"}} that {{qq "vo-di endei wei"}} ma
 
 {{qq "vo-ezan go \"la mi wei gon, ei gon giawin da wei"}} break {{qq "ei mengi vin\""}}
 
-- {{qoth "gan-oiga" }} : Down ( Direction of Foot)
+- {{qoth "gan-uga" }} : Down ( Direction of Foot)
 
-And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa eleba wei gan-oiga"}}
+And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa eleba wei gan-uga"}}
 
 - {{qoth "zi ma"}} : Sibling (child of parent)
 - {{qoth "egin"}} : The same / Equal 
@@ -133,13 +133,13 @@ And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa e
 
 {{go "o vo-esegi leli, o vo-esegi leli, o bena ensa ei mi"}}
 
-{{go "va-o, va-o, va-gin lena bi oiga enbin mi, mi va wei bena ensa ei vin"}}
+{{go "va-o, va-o, va-gin lena bi uga enbin mi, mi va wei bena ensa ei vin"}}
 
-{{go "la mi wei gon, ei gon giawin, da wei gan-oiga ei mengi vin"}}
+{{go "la mi wei gon, ei gon giawin, da wei gan-uga ei mengi vin"}}
 
 - {{qoth "ba wiawa"}} : Sooo mighty
 
-{{qq "is-ezan wei gon ei gon giawin ba wiawa la, i mengi belesa wei gan-oiga wiawa"}}
+{{qq "is-ezan wei gon ei gon giawin ba wiawa la, i mengi belesa wei gan-uga wiawa"}}
 
 {{qq "di vo-esegi wei giawin giawin da mengi be zi ma van, is-van wei bena ensa"}}
 
@@ -151,9 +151,9 @@ And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa e
 
 {{qq "vo-ezan wei guma da mengi bi vo-esegi van, mengi bi lego go \"o vo-esegi leli, o vo-esegi leli, o bena ensa ei mi\""}}
 
-{{go "va-o, va-o, va gin lena bi oiga enbin mi, mi va-wei bena ensa ei vin"}}
+{{go "va-o, va-o, va gin lena bi uga enbin mi, mi va-wei bena ensa ei vin"}}
 
-{{go "la mi wei gon ei gon giawin, da wei gan-oiga ei mengi vin"}}
+{{go "la mi wei gon ei gon giawin, da wei gan-uga ei mengi vin"}}
 
 - {{qoth "uwein"}} : Stand
 
@@ -165,10 +165,10 @@ And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa e
 {{qq "vo-ezan li belin egi ezan, is-ezan wei belin mugo ei vo-esegi"}}
 
 - {{qoth "gan-zugi"}} : climbed on top (direction top)
-- {{qoth "gan-oiga"}} : went down (direction foot)
+- {{qoth "gan-uga"}} : went down (direction foot)
 - {{qoth "luli vi"}} : chimney (hole of fire)
 
-{{qq "is-ezan wei gan zugi ei mengi, wei gan-oiga ei luli vi"}}
+{{qq "is-ezan wei gan zugi ei mengi, wei gan-uga ei luli vi"}}
 
 - {{qoth "gein esebin"}} : smart / can think
 - {{qoth "vi"}} : fire / heat

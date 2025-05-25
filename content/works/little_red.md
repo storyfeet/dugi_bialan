@@ -13,7 +13,7 @@ li buna, wei elein liawa bi ga-una ga-vuli.
 
 # She was good, and wore a bright red hood
 
-min Elenuna wei doimo lon bo man giasi ga-va-zo
+min Elenuna wei dumo lon bo man giasi ga-va-zo
 
 # Elenuna lived beside a dark forest
 

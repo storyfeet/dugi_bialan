@@ -6,11 +6,11 @@
 
 # I need to tell you something. Not all magicians are completely honest.
 
-mi o dugi mugi da vin. zan bi iasin oimi va-li dugi vuli muli.
+mi o dugi mugi da vin. zan bi iasin emi va-li dugi vuli muli.
 
 # Sometimes they use their magic to trick you.
 
-lon don mugi i zan dis wei elo ei oimi da wei eniasa ei zan, ei vin.
+lon don mugi i zan dis wei elo ei emi da wei eniasa ei zan, ei vin.
 
 # So watch out.
 
@@ -38,11 +38,11 @@ is-mon wei bena lugin ei lebo "dis", ei lebo "dis" ei lebo "das". go "o bena lon
 
 # As he said this he put 1 card on the bottom.
 
-lon wei dugi ei dis la, is-mon wei giawin ei lebo das da gan-oiga.
+lon wei dugi ei dis la, is-mon wei giawin ei lebo das da gan-uga.
 
 # Easy I said, it's the bottom card.
 
-"gein gein" mi wei dugi, "das" lon gan-oiga 
+"gein gein" mi wei dugi, "das" lon gan-uga 
 
 # Sorry, he said, this is "this" card.
 
@@ -74,7 +74,7 @@ mi da zon go "lebo das lon vemi"
 
 # He said "it's on the bottom."
 
-wei dugo go "lon gan-oiga" o lugin.
+wei dugo go "lon gan-uga" o lugin.
 
 # "Tell you what, why don't you look for this card instead, there are two of them, and you know where 'that' card is already."
 
@@ -102,7 +102,7 @@ dis egin li das.
 
 # At this point I said, OK, I know your cheating. You have three that cards"
 
-lon don dis la mi li belin egi wei dugi go "mi zon ei i vin wei oimi ei mugi. vin wei luga ei lebo das van"
+lon don dis la mi li belin egi wei dugi go "mi zon ei i vin wei emi ei mugi. vin wei luga ei lebo das van"
 
 # He said "No, I have three "this Cards" This, THis and this.
 

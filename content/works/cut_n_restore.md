@@ -22,7 +22,7 @@ vin wei va wei luga ei lebo gein bi elo din?
 
 # -- Yes
 
-lon iasin oimi dis la, li va-li buna i mi wei guma din ei liawa vin dan guli-guli dan va-busi
+lon iasin emi dis la, li va-li buna i mi wei guma din ei liawa vin dan guli-guli dan va-busi
 
 # Do you mind if while we're performing this we accidently cut your head off?
 
@@ -30,7 +30,7 @@ lon iasin oimi dis la, li va-li buna i mi wei guma din ei liawa vin dan guli-gul
 
 # -- OK
 
-buna, mi wei begin. mi wei luga ei lena, ei belesa oimi (veli la li elo di din) .
+buna, mi wei begin. mi wei luga ei lena, ei belesa emi (veli la li elo di din) .
 
 # Ok, lets get started, here I have a rope and a magic wand (really its a pair of scissors).
 
@@ -74,15 +74,15 @@ o lugin ei i di lena wei guma won lon enbin lugin vin. dei buna dan muli bi vin 
 
 # Look ladies and gentlemen, two ropes into 1. Isn't this the most amazing thing you have ever seen in your lives.
 
--- vin va-wei deso loigo
+-- vin va-wei deso lugo
 
 # -- you just tied a knot
 
-dugi vemi ba, mi va-wei deso loigo.
+dugi vemi ba, mi va-wei deso lugo.
 
 # what do you mean I just tied a knot?
 
-mi wei va-wei gein bena esebin da vin ei i loigo dis li loigo bi iasin oimi
+mi wei va-wei gein bena esebin da vin ei i lugo dis li lugo bi iasin emi
 
 # what would it take to convince you that this knot is a magic knot.
 
@@ -94,7 +94,7 @@ o lugin buna, li wega
 
 # watch closely, see it's gone.
 
-ba mi biagela, dis li eniasa leli, li lon moini luga mi
+ba mi biagela, dis li eniasa leli, li lon meni luga mi
 
 # no, sorry that was just a joke, it was behind my hand. 
 
@@ -110,7 +110,7 @@ lon don dis la veli veli
 
 # Ok, for real this time.
 
-deso la vin wei esebin esebin ei i loigo lon vemi.
+deso la vin wei esebin esebin ei i lugo lon vemi.
 
 # But I'm sure you're wondering where the knot is.
 

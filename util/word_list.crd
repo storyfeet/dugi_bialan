@@ -25,7 +25,7 @@ din [cut, divide] [kipisi] EsuaMpRfa
 egon [hard,rock,horn,hit] [kiwen] BsfdWf
 zin [metal] [kiwen] FsfdWf
 gedin [tooth,bite] [kiwen] "5mufFQ"
-goigo [clay,dirt,earth] [ko] QffuCfa
+gugo [clay,dirt,earth] [ko] QffuCfa
 gon [air,breath] [kon] "5auaWa"
 gudei [listen,hear,obey,ear] [kute] Heuf
 leban [hook,take,catch,trap] [lanpan] HffdMs
@@ -49,8 +49,8 @@ memuso [average] [meso,measure] KsuaAd
 mon [male] [mije] QmubWd
 miasegegi [medicine] [misikeke] FcuaCwf
 mugo [food,consume,eat] [moku] HcauMm
-moili [die,death] [moli] SyubFF
-moini [back] [monsi] CsubCbu
+meli [die,death] [moli] SyubFF
+meni [back] [monsi] CsubCbu
 liamon [bum,ass] [monsi] Cffd
 zugo [exit] [monsi,weka] FcabMfRfa
 muni [moon] [mun] Cusd
@@ -62,9 +62,9 @@ eniasa [mad,wild] [nasa] ReabCuf
 iasin [way,path] [nasin] "2sdbMf"
 enin [hill,bump] [nein] CsadMu
 enon [name,word] [nimi] "2hsfMw"
-oiga [foot,base, bottom] [noka] EdfdWa
-oimi [hidden,secret] [weka] EmsfWf
-oindi [list] [nasin] QadbMs
+uga [foot,base, bottom] [noka] EdfdWa
+emi [hidden,secret] [weka] EmsfWf
+undi [list] [nasin] QadbMs
 lin [love] [olin] CcuaRfu
 begin [start,begin] [open] QsfdRfu
 ubin [open, free] [open] EcadRua
@@ -105,7 +105,7 @@ dugi [talk,speak,communicate] [toki] QmuaSuf
 lei [joint, bend,corner] [] KcsdFEFK
 duga [fuse,alloy,stick,weld] [] EauaFF
 mengi [building,build] [tomo,pali] KsuaRad
-doimo [room,area,reside] [tomo,ma] KsuaRfa
+dumo [room,area,reside] [tomo,ma] KsuaRfa
 bengo [vehicle] [tomo,tawa] KsuaMa
 denso ["non binary"] [tonsi] JmadMe
 una [mouth] [uta] Pmaf
@@ -227,12 +227,12 @@ dei [plural,several,increase,more] [mute,amount] "2sadCwf"
 deni [few,decrease,less]
 muli [all,every] [ali,ale,amount] HcauCwf
 egesa [exact,point] [ni] "1suaMcRdw"
-loigo [lock,tie,know,tight] [] FcuaRub
+lugo [lock,tie,know,tight] [] FcuaRub
 veli [real,true] [lon] "2sufRdb"
 
 #measurable
 ziasi [reflect,opposite] [amount,ante] PsuaBf
 ziazon [mass,weight] [measure,suli] EafwSuwRfa
-oiban [frequency] [measure] EafaSuwSuw
+uban [frequency] [measure] EafaSuwSuw
 belas [full] [suli,measure] BcadMm
 
