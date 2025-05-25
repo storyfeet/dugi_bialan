@@ -35,7 +35,7 @@ zan ban wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li vuli.
 
 dan meni giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-zugi ei meni mi esi, mi wei giawin delo munin ei delo".
 
-zan bi ban demegi wei esebin ei i dis li esebin buna, wei gan-zugi ei meni vo-vi. vo-vi wei giawin.
+zan bi ban demegi wei ebin ei i dis li ebin buna, wei gan-zugi ei meni vo-vi. vo-vi wei giawin.
 
 lon memuso delo, vo-vi go, delo dis li megi-uga vuli, o giawin da liawa mi, da va-li velo delo.  zan ban wei dis 
 

@@ -4,10 +4,10 @@
 zan esamm wei luga ei gein egi. wei mugi la, da man mugi la, zan-muli wei giawin, wei uwein lon iasin dis.    
 # Sam had a problem, it seemed no matter what he did, wherever he went people, would get in his way.
 
-go "va-lon esuno dis" wei esebin begi lon wei gan-zewi dan zugi liabei. "esuno dis wei guma endei"    
+go "va-lon esuno dis" wei ebin begi lon wei gan-zewi dan zugi liabei. "esuno dis wei guma endei"    
 # Well, not today he thought to himself as he got out of bed, today is going to be different.
 
-wei esebin gein ei esebin buli da i va-zan wei uwein lon iasin     
+wei ebin gein ei ebin buli da i va-zan wei uwein lon iasin     
 # and he came up with a great plan, to make sure nobody would stay in his way.
 
 wei giawin da dumo delo da wei delo gedin, deso zema min, Lula, lon lon. lon iasin Esamm.    
@@ -28,7 +28,7 @@ zan Lula wei gan-wega dan iasin, zan Esamm wei gein delo ei gedin.
 zan Esamm wei guma da uwein bengo la, li luga ei lena zan vuli. deso la, zan Esamm wei belin lon bengo lon won.    
 # When sam arrived at the busstop there was already a long line, but sam wanted to be on the bus first.
 
-wei guma esebin ei i zan muli lon iasin begi    
+wei guma ebin ei i zan muli lon iasin begi    
 # He realized everyone there was in his way.
 
 go "o wega dan iasin mi"    

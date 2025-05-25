@@ -27,7 +27,7 @@ zan liawa wei guma la, liawa wei dugi belin ei geli begi. zan Egedubios go "ba z
 
 liawa dan belin egi va-mugo wei dugi guma ei zan Esobb. zan Esobb li wei leban da uga bi zan liawa.
 
-go "li zan leban ba, dan vemi wei esebin gein mugo ei mugo mi"
+go "li zan leban ba, dan vemi wei ebin gein mugo ei mugo mi"
 
 zan Esobb wei dugi luga belin belin, wei leli ei go "o uwein, o da mi ei delo"
 

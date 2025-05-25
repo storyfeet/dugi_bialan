@@ -25,7 +25,7 @@ You can learn the [WORDS here](https://app.memrise.com/course/6447575/dugi-biala
 And the associated [SIGN LANGUAGE here](https://app.memrise.com/course/6444892/luga-bialan-dugi-bialan-sign/)
 
 
-{{with_pics "deso la, wei gein gein dugi ei dei esebin"}}    
+{{with_pics "deso la, wei gein gein dugi ei dei ebin"}}    
 However it can communicate more ideas easily.
 
 

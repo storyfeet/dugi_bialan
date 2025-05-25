@@ -62,11 +62,11 @@ deso la, mi wei dei gein. lena di dis wei duga won esi la.
 
 # But we can do more, what if we took these two ropes and turned them into one?
 
-dis wei vi wega ei guli-esebin vin, wei vi wega ei liawa vin. vin wei lugin ei i lena di guma won lon enbin lugin vin.
+dis wei vi wega ei guli-ebin vin, wei vi wega ei liawa vin. vin wei lugin ei i lena di guma won lon enbin lugin vin.
 
 # This is going to blow your minds, your heads will explode, as you see two ropes becoming one before your very eyes.
 
-vin li guma esebin dei wiawa, wei esebin va-gein ei li dei vuli wiawa.
+vin li guma ebin dei wiawa, wei ebin va-gein ei li dei vuli wiawa.
 
 # You will be soooo amazed you won't be able to comprehend how awesome it is?
 
@@ -82,7 +82,7 @@ dugi vemi ba, mi va-wei deso lugo.
 
 # what do you mean I just tied a knot?
 
-mi wei va-wei gein bena esebin da vin ei i lugo dis li lugo bi iasin emi
+mi wei va-wei gein bena ebin da vin ei i lugo dis li lugo bi iasin emi
 
 # what would it take to convince you that this knot is a magic knot.
 
@@ -110,7 +110,7 @@ lon don dis la veli veli
 
 # Ok, for real this time.
 
-deso la vin wei esebin esebin ei i lugo lon vemi.
+deso la vin wei ebin ebin ei i lugo lon vemi.
 
 # But I'm sure you're wondering where the knot is.
 

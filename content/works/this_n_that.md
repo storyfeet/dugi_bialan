@@ -18,7 +18,7 @@ dan dis la o lugin buna
 
 # One Time I was walking down the road, minding my business, when a man approached me.
 
-lon don won la. mi wei giawin lon iasin, wei esebin ei zo mi la, zan mon wei guma da mi.
+lon don won la. mi wei giawin lon iasin, wei ebin ei zo mi la, zan mon wei guma da mi.
 
 # He asked me if I'd like to make a little money
 
@@ -118,11 +118,11 @@ lon don dis la mi li belin egi wei dugi go "mi zon ei i vin wei emi ei mugi. vin
 
 # What do you think it is.
 
-vin wei esebin dis le vemi?
+vin wei ebin dis le vemi?
 
 # I thought this card, but he said. "You know in life, you always get a bit of this, a bit of that, but you also get a bit of the other.
 
-mi wei esebin ei dis, deso la. is-mon go "vin zon ei dis. lon don guli-vi vin wei luga ei leli dis, ei leli das.  ei leli endei.
+mi wei ebin ei dis, deso la. is-mon go "vin zon ei dis. lon don guli-vi vin wei luga ei leli dis, ei leli das.  ei leli endei.
 
 # And that's the story of how I lost £10
 

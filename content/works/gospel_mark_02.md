@@ -11,11 +11,11 @@ zan wei guma ba dei dei la va-li luga ei man va-laban, ba lon wega viala. zan Ze
 
 deni zan wei guma gin zan va-gein. dan wei giawin va-gein da zan Zesuwa dan zan zan la dis deni wei luli ei zugi mengi wei gan-uga ei zan-va-gein lon zugi liabei gin lena.
 
-dan wei lugin ei esebin gein dis deni la, zan Zesuwa da zan-va-gein go <span class="red">"o zi mi, egi vin li wei bena wega."</span>
+dan wei lugin ei ebin gein dis deni la, zan Zesuwa da zan-va-gein go <span class="red">"o zi mi, egi vin li wei bena wega."</span>
 
-deni zan bena zon bi lebo liawa wei liamon lon man, wei esebin gelubi go "dan vemi i dis zan wei dugi egin das, vemi li gein bena wega ei egi va-deso enma veli"
+deni zan bena zon bi lebo liawa wei liamon lon man, wei ebin gelubi go "dan vemi i dis zan wei dugi egin das, vemi li gein bena wega ei egi va-deso enma veli"
 
-zan Zesuwa wei zon ei esebin bi guli-belin dis-deni, go <span class="red">"vin dan vemi wei esebin ei dis. vemi li dei gein gein? da zan dis go "egi vin li wei bena wega" iani go "o gan zewi ei vin ei zugi liabei vin o giawin uga". deso la, da wei bena lugin da vin ei i zi mon wei gein bena wega ei egi""</span> da zan va-gain go <span class="red">"o gan-zewi ei vin ei zugi liabei vin o giawin da mengi vin"</span>
+zan Zesuwa wei zon ei ebin bi guli-belin dis-deni, go <span class="red">"vin dan vemi wei ebin ei dis. vemi li dei gein gein? da zan dis go "egi vin li wei bena wega" iani go "o gan zewi ei vin ei zugi liabei vin o giawin uga". deso la, da wei bena lugin da vin ei i zi mon wei gein bena wega ei egi""</span> da zan va-gain go <span class="red">"o gan-zewi ei vin ei zugi liabei vin o giawin da mengi vin"</span>
 
 zan-va-gein wei gan-zewi ei begi ei zugi labei, wei wega begi lon enbin lugin muli zan.  muli zan li belin wiawa wei bianei benuna da enma veli go, "dei mi lon va-don wei lugin ei egin dis"
 

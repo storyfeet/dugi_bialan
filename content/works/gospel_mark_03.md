@@ -19,7 +19,7 @@ wei lugin, ei muli gin belin ezan, gin belin gan-uga dan guli-belin egon dis den
 
 zan wei ususa ei luga, li guma buna belas.
 
-dan dis la, zan bi Vialesi wei giawan wei esebin esebin gin zan bi zan Elodd ei wei vemi meli ei zan Zesuwa.
+dan dis la, zan bi Vialesi wei giawan wei ebin ebin gin zan bi zan Elodd ei wei vemi meli ei zan Zesuwa.
 
 vos : zan zan wei gan-meni zan Zesuwa
 #----------

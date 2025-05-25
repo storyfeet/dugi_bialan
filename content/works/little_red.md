@@ -149,7 +149,7 @@ deso la, wei giawin lon bo mengi dis i zan bi din giasi
 
 # However, Walking beside this house was a woodcutter.
 
-wei gudei ei ema-liabei, wei esebin go "min mezuni dis va-wei dei ema-liabei egin dis"
+wei gudei ei ema-liabei, wei ebin go "min mezuni dis va-wei dei ema-liabei egin dis"
 
 # He heard the snoring and thought, "The old lady here doesn't snore this loud."
 
@@ -169,7 +169,7 @@ muli wei lugin ei delo beba.
 
 # They all looked at the soup Elenuna had brought.
 
-min Elenuna go "vin di wei va-wei esebin ei i delo beba dis wei belin ei mugo vo-vo"
+min Elenuna go "vin di wei va-wei ebin ei i delo beba dis wei belin ei mugo vo-vo"
 
 # "Do you think this soup would like some meat", suggested Elenuna
 

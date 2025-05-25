@@ -14,7 +14,7 @@ liawa is-zan li wei biagei i gugo lon bo egon. egon dis li dei megi-gedin.
 
 go "dan busi ba, mi wei egon ei dis esi, mi li wei meli"
 
-wei esebin ensa ei --  i busi is-mon li buna dan va-wei egon ei egon dis. is-mon wei esebin ei busi muli is-mon lon giawin muli is-mon. egon dis wei gein li vedelin-besa bi busi is-mon. 
+wei ebin ensa ei --  i busi is-mon li buna dan va-wei egon ei egon dis. is-mon wei ebin ei busi muli is-mon lon giawin muli is-mon. egon dis wei gein li vedelin-besa bi busi is-mon. 
 
 egon li lugin luga ei mugi buna. zan-iasin wei ensa ei dis lon bugi, wei bena elo ei vo-bengo da wei gan-zewi, wei egin giawin lon iasin.
 
@@ -44,7 +44,7 @@ gin dis la is-mon wei viala egon ei viala lon enbin zan iasin.
 
 dan mengi da mengi - li egin. va-zan wei gein bena elo da is-mon, va-zan wei luga ei mugi. 
 
-beni la is-mon da man esin da wei liabei.  lon man dis la, is-mon wei lugin lon bugi, wei lugin ei elo ema-musi, ei egon. wei esebin ei muli bi i is-mon wei buli lon iasin, wei bena da gugo ei egon, wei begin ema-musi. 
+beni la is-mon da man esin da wei liabei.  lon man dis la, is-mon wei lugin lon bugi, wei lugin ei elo ema-musi, ei egon. wei ebin ei muli bi i is-mon wei buli lon iasin, wei bena da gugo ei egon, wei begin ema-musi. 
 
 <h3> zi wei guma # -- The Children Arrive #</h3>
 
@@ -52,7 +52,7 @@ is-mon wei ema-musi la, zi bi man mengi, wei guma bo, wei gudei, wei begin musi 
 
 won zi go "o zan buna, vin da wi vemi wei ema-musi da egon das?"
 
-zan iasin wei esebin, wei dugi go ,"ba - egon dis li egon bi wiawa emi, mi wei ema musi da is-egon la, is-egon wei buli ei delo beba da mi, da zan muli lon man mengi dis"
+zan iasin wei ebin, wei dugi go ,"ba - egon dis li egon bi wiawa emi, mi wei ema musi da is-egon la, is-egon wei buli ei delo beba da mi, da zan muli lon man mengi dis"
 
 "deso la, da buli la, mi li o luga ei bugi wi vi delo vuli"
 
@@ -88,7 +88,7 @@ zan iasin go "ba egon dis li egon bi wiawa emi. mi wei ema-musi esi, egon wei bu
 
 leli zan wei giawin mengi, wei egin guma gin beba.
 
-zan lugin endei wei esebin zon ei wei mugi, wei giawin egin, wei egin guma gin dei beba.
+zan lugin endei wei ebin zon ei wei mugi, wei giawin egin, wei egin guma gin dei beba.
 
 zan vuli edo bi mengi di go "mi li belin ubei dan don beni, mi wei luga" is-mon wei gaiwin wei egin guma gin mugo vo-zo da bugi devo.
 

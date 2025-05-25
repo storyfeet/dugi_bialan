@@ -170,10 +170,10 @@ And so {{qq "is-ezan wei gon ei gon giawin"}} mighty {{qq "la, mengi bi belesa e
 
 {{qq "is-ezan wei gan zugi ei mengi, wei gan-uga ei luli vi"}}
 
-- {{qoth "gein esebin"}} : smart / can think
+- {{qoth "gein ebin"}} : smart / can think
 - {{qoth "vi"}} : fire / heat
 
-{{qq "deso la, vo-esegi van li gein esebin, wei vi ei vi, wei vi ei vo-ezan."}}
+{{qq "deso la, vo-esegi van li gein ebin, wei vi ei vi, wei vi ei vo-ezan."}}
 
 - {{qoth "belas"}} : complete / full
 
