@@ -7,7 +7,7 @@ won : zan bi luga guma leli
 
 don endei la zan Zesuwa wei ensa ei mengi enma la, li luga ei zan gin luga edo guma leli.
 
-deni zan lon man dis wei eliasa ei busi gein da wei ubei zan Zesuwa. dis deni wei lugin egesa ei wei va-wei miasegegi lon esuno unis.
+deni zan lon man dis wei eliasa ei busi gein da wei ubei zan Zesuwa. dis deni wei lugin egesa ei wei va-wei megegi lon esuno unis.
 
 zan Zesuwa da zan bi luga leli go <span class="red" "o uwein lon ensa bi muli zan"</span>
 

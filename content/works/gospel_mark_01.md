@@ -67,7 +67,7 @@ dis-ma lon zugi liabei gin usis vi. gelubi wei dugi ei dis da zan Zesuwa, edo da
 
 va-esuno la, esuno li beni gan-uga la, muli da zan Zesuwa ei muli gin usis, ei muli gin enma iagi. ba man mengi belas wei gelubi lon wega viala.
 
-zan Zesuwa wei miasegegi ei zan usis, wei wega ei enma iagi. deso la, va-wei bena gein dugi ei enma iagi, dan i das-iagi wei zon li zan vemi.
+zan Zesuwa wei megegi ei zan usis, wei wega ei enma iagi. deso la, va-wei bena gein dugi ei enma iagi, dan i das-iagi wei zon li zan vemi.
 
 van lo lan : wei giawin ensa man mengi
 #-------- 

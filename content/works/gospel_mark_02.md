@@ -30,7 +30,7 @@ zan Zesuwa lon wei mugo lon mengi bi zan Levi la, li luga ei dei zan bi miani li
 
 dan wei lugin ei dis, zan Vialesi wei wi zon ei zan meni go "is-mon da wi vemi, wei mugo gin zan bi miani liawa, gin zan egi"
 
-dan wei gudei ei dis la, zan Zesuwa wei dugi meni go <span class="red">"zan va-usis va-wei belin ei zan miasegegi, deso zan usis. mi va wei guma dugi guma da zan buna buna, deso zan egi"</span>
+dan wei gudei ei dis la, zan Zesuwa wei dugi meni go <span class="red">"zan va-usis va-wei belin ei zan megegi, deso zan usis. mi va wei guma dugi guma da zan buna buna, deso zan egi"</span>
 
 lo lis : wi zon bi don va-mugo
 #-----------
