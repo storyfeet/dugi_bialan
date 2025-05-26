@@ -1,5 +1,5 @@
 Am          G
-lon iasin dis dan don vuli,
+lon dis iasin dan don vuli,
 mi wei giawin, 
 da mengi mi
 
@@ -14,12 +14,26 @@ o uwein.
 
 uwein ei mi.
 
-man mengi dis va wei luga
+dis man mengi va wei luga
 ei mugi bena
 ei mugi gein
 
-mi li gas mugo,
-gas liabei
+deso viala li egon
+loigo loigo
 
-deso mi wei gein ema musi,
-mi wei luga ei egon
+# chorus
+
+mi wei zon ei ema musi bi iasin mi
+busi bi won zan iasin, busi bi guvi
+zi wei guma musi uga, belas bi bununei 
+bununei, bununei
+
+o va-deso leli buna
+leli bena
+leli gein
+
+va-deso bugi gas  
+belesa vi
+
+dis egon wei luga ei emi 
+
