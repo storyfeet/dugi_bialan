@@ -32,7 +32,7 @@ o va-deso leli buna
 leli bena
 leli gein
 
-va-deso bugi gas  
+va-deso bugi vas  
 belesa vi
 
 dis egon wei luga ei emi 
