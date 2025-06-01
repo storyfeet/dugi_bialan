@@ -179,7 +179,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("enma", nm(0xe172));
     try map.put("enon", nm(0xe173));
     try map.put("ensa", nm(0xe174));
-    try map.put("esebin", nm(0xe175));
+    try map.put("ebin", nm(0xe175));
     try map.put("eselin", nm(0xe176));
     try map.put("esenis", nm(0xe177));
     try map.put("esi", con(0xe178));
@@ -257,7 +257,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("mezan", nm(0xe1bc));
     try map.put("mezuni", nm(0xe1bd));
     try map.put("miani", nm(0xe1be));
-    try map.put("miasegegi", nm(0xe1bf));
+    try map.put("megegi", nm(0xe1bf));
     try map.put("mi", nm(0xe1c0));
     try map.put("min", nm(0xe1c1));
     try map.put("mo", nm(0xe1c2));
