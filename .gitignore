@@ -7,5 +7,6 @@ zig/.zig-cache
 zig/zig-out
 zig/convert
 zig/**/*.wasm
+zig/gen
 public
 public/**/*

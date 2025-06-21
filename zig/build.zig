@@ -34,8 +34,22 @@ pub fn build(b: *std.Build) void {
         .optimize = optimize,
     });
 
+    const mapGen = b.addExecutable(.{
+        .name = "gen_fontmap",
+        .root_module = b.addModule("gen_fontmap", .{
+            .root_source_file = b.path("src/gen_map.zig"),
+            .target = target,
+            .optimize = optimize,
+        }),
+    });
+
     const pkg = b.dependency("card_format", .{ .target = target, .optimize = optimize });
-    rmod.addImport("card_format", pkg.module("card_format"));
+    mapGen.root_module.addImport("card_format", pkg.module("card_format"));
+
+    const mapStep = b.addRunArtifact(mapGen);
+
+    const genStep = b.step("gen", "Generate zig map file");
+    genStep.dependOn(&mapStep.step);
 
     const exe = b.addExecutable(.{
         .name = "dugi_convert",
@@ -44,8 +58,7 @@ pub fn build(b: *std.Build) void {
     });
 
     // This declares intent for the executable to be installed into the
-    // standard location when the user invokes the "install" step (the default
-    // step when running `zig build`).
+    // standard location when the user invokes the "install" step ().
     b.installArtifact(exe);
 
     // This *creates* a Run step in the build graph, to be executed when another
