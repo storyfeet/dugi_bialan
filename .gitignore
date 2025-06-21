@@ -3,6 +3,8 @@ out/**/*
 **/ungit
 **/ungit/**/*
 zig/**/*.o
+zig/.zig-cache
+zig/zig-out
 zig/convert
 zig/**/*.wasm
 public
