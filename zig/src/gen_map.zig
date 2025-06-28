@@ -21,18 +21,41 @@ pub fn main() !void {
     var p = try crd.Parser.init(s, al);
     defer p.deinit();
     var name: []const u8 = try al.dupe(u8, "NOTHING");
+    var addFn: []const u8 = "nm";
 
     while (true) {
-        var cdata = try p.next() orelse break;
+        var cdata = p.next() catch {
+            try p.printErrs(stdout);
+            continue;
+        } orelse break;
 
         switch (cdata) {
             .NAME => |cname| {
                 al.free(name);
                 name = cname;
+                addFn = "nm";
             },
             .KEYVAL => |*kv| {
-                if (std.mem.eql(u8, kv.k, "sign")) {
-                    try fout.writer().print("{s}  -  {s}\n", .{ name, kv.v.Str });
+                if (std.mem.eql(u8, kv.k, "ucode")) {
+                    switch (kv.v) {
+                        .Str => |st| {
+                            _ = std.fmt.parseInt(u21, st, 16) catch {
+                                try stdout.print("Error on {s}: Cannot convert {s} to hex unicode val", .{ name, st });
+                                continue;
+                            };
+                            try fout.writer().print("\ttry {s}(\"{s}\",0x{s});\n", .{ addFn, name, st });
+                        },
+                        else => {
+                            try stdout.print("Error on {s}: Cannot read non str as hex unicode val", .{name});
+                            continue;
+                        },
+                    }
+                }
+                if (std.mem.eql(u8, kv.k, "tags")) {
+                    if (kv.v.containsStr("AUX")) addFn = "aux";
+                    if (kv.v.containsStr("PRE")) addFn = "pre";
+                    if (kv.v.containsStr("PAR")) addFn = "par";
+                    if (kv.v.containsStr("CON")) addFn = "con";
                 }
                 kv.deinit(al);
             },

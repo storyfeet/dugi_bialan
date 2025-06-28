@@ -44,6 +44,7 @@ pub fn letterMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("o", pre(0xe0f1));
     try map.put("u", pre(0xe0f2));
     try map.put("ei", pre(0xe03));
+    try map.put("ya", pre(0xe0f4));
     try map.put("ia", pre(0xe0f4));
     try map.put("oi", pre(0xe0f6));
 
@@ -66,6 +67,7 @@ pub fn letterMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("U", pre(0xe0f2));
     try map.put("Ei", pre(0xe03));
     try map.put("Ia", pre(0xe0f4));
+    try map.put("Ya", pre(0xe0f4));
     try map.put("Io", pre(0xe0f5));
     try map.put("Oi", pre(0xe0f6));
 
@@ -258,7 +260,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("mezuni", nm(0xe1bd));
     try map.put("miani", nm(0xe1be));
     try map.put("megegi", nm(0xe1bf));
-    try map.put("mi", nm(0xe1c0));
+    try map.put("bei", nm(0xe1c0));
     try map.put("min", nm(0xe1c1));
     try map.put("mo", nm(0xe1c2));
     try map.put("mon", nm(0xe1c3));
@@ -316,7 +318,7 @@ pub fn fontMap(alloc: std.mem.Allocator) !FontMap {
     try map.put("wiasa", nm(0xe1f8));
     try map.put("wiawa", nm(0xe1f9));
 
-    try map.put("won", nm(0xe1fa));
+    try map.put("gi", nm(0xe1fa));
     try map.put("wuwi", nm(0xe1fb));
 
     try map.put("za", nm(0xe1ff));
