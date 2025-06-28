@@ -17,6 +17,7 @@ pub fn main() !void {
 
     var fout = try std.fs.cwd().createFile("gen/words.zig", .{ .truncate = true });
     defer fout.close();
+    _ = try fout.write(FMapStart);
 
     var p = try crd.Parser.init(s, al);
     defer p.deinit();
@@ -43,7 +44,7 @@ pub fn main() !void {
                                 try stdout.print("Error on {s}: Cannot convert {s} to hex unicode val", .{ name, st });
                                 continue;
                             };
-                            try fout.writer().print("\ttry {s}(\"{s}\",0x{s});\n", .{ addFn, name, st });
+                            try fout.writer().print("\ttry m.put_{s}(\"{s}\",0x{s});\n", .{ addFn, name, st });
                         },
                         else => {
                             try stdout.print("Error on {s}: Cannot read non str as hex unicode val", .{name});
@@ -64,10 +65,21 @@ pub fn main() !void {
             },
         }
     }
+    _ = try fout.write(FMapFin);
 
     // Prints to stderr (it's a shortcut based on `std.io.getStdErr()`)
 
 }
+
+const FMapStart =
+    \\fn fillMap(m:anytype)!void{
+    \\
+;
+
+const FMapFin =
+    \\}
+    \\
+;
 
 test "simple test" {
     var list = std.ArrayList(i32).init(std.testing.allocator);
