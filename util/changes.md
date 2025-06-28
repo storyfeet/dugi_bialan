@@ -28,3 +28,8 @@ Consider
 
 * assert begi can mean his/her own, belonging to the subject
 
+esuno -> eno
+ia -> ya
+liasi -> yasi
+lugin -> ugin
+ziavi -> yavi
