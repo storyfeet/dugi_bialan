@@ -15,10 +15,21 @@ pub fn main() !void {
 
     const s = try f.readToEndAlloc(al, 10_000);
 
-    var fout = try std.fs.cwd().createFile("gen/words.zig", .{ .truncate = true });
-    defer fout.close();
-    _ = try fout.write(FMapStart);
+    var fontOut = try std.fs.cwd().createFile("gen/words.zig", .{ .truncate = true });
+    defer fontOut.close();
 
+    try genFontMap(s, fontOut.writer());
+
+    var humanOut = try std.fs.cwd().createFile("../static/gen/human_dict.md", .{ .truncate = true });
+    defer humanOut.close();
+
+    try genHumanDict(s, humanOut.writer());
+}
+
+pub fn genFontMap(s: []const u8, fout: anytype) !void {
+    const stdout = std.io.getStdOut().writer();
+
+    _ = try fout.write(FMapStart);
     var p = try crd.Parser.init(s, al);
     defer p.deinit();
     var name: []const u8 = try al.dupe(u8, "NOTHING");
@@ -44,7 +55,7 @@ pub fn main() !void {
                                 try stdout.print("Error on {s}: Cannot convert {s} to hex unicode val", .{ name, st });
                                 continue;
                             };
-                            try fout.writer().print("\ttry m.put_{s}(\"{s}\",0x{s});\n", .{ addFn, name, st });
+                            try fout.print("\ttry m.put_{s}(\"{s}\",0x{s});\n", .{ addFn, name, st });
                         },
                         else => {
                             try stdout.print("Error on {s}: Cannot read non str as hex unicode val", .{name});
@@ -69,6 +80,40 @@ pub fn main() !void {
 
     // Prints to stderr (it's a shortcut based on `std.io.getStdErr()`)
 
+}
+
+pub fn genHumanDict(s: []const u8, fout: anytype) !void {
+    const stdout = std.io.getStdOut().writer();
+
+    var p = try crd.Parser.init(s, al);
+    defer p.deinit();
+
+    while (true) {
+        var nx = p.next() catch |e| {
+            try stdout.print("Error: {}", .{e});
+            return e;
+        } orelse return;
+
+        switch (nx) {
+            .NAME => |*n| {
+                try fout.print("\n{s} - ", .{n.*});
+                al.free(n.*);
+            },
+            .KEYVAL => |*kv| {
+                if (std.mem.eql(u8, kv.k, "en")) {
+                    try kv.v.printSep(fout, ",");
+                }
+                if (std.mem.eql(u8, kv.k, "tags")) {
+                    try fout.print(" (", .{});
+                    try kv.v.printSep(fout, ",");
+                    try fout.print(")", .{});
+                }
+                al.free(kv.k);
+                kv.v.deinit(al);
+            },
+            else => {},
+        }
+    }
 }
 
 const FMapStart =
