@@ -23,7 +23,7 @@ byalan [balanced] [pona] e13c "2FfaMs"
 byanei [gratitude,thank] [pona] e13d
 byawi [electric] [wawa] e13f "LuufSad"
 bo [beside,with] [poka] e140 Cwwd
-bubyado [poison,bitter,danger] [] e134 WmafRad
+bubyado [poison,bitter,danger] [] e143 WmafRad
 bugi [container] [poki] e145 CsfuWa
 buli [make,do,build] [pali] e147 eFcabCuf
 buna [good,simple] [pona] e148 TmabWu
@@ -32,8 +32,8 @@ busi [random,chance] [nasa] e14a RcabCuf
 da [for,"in order to"] [PAR,tawa] e14b RsuaRfa
 dan [from,because] [PAR,tan] e14c RsfaRua
 das [that,him,her] [pronoun,ni] e14d "TaabM*R*"
-dedei [grain] [] e150 
-degis [right,side] [teje] e14f EcuaSuw
+dedei [grain] [] e14e 
+degis [right,side] [teje] e150 EcuaSuw
 dei [plural,several,increase,more] [mute,amount] e155 "2sadCwf"
 deli [oil] [deli] e151 "5cfaDfWa"
 delo [water] [telo] e152 JsfaMf
@@ -49,7 +49,7 @@ don [time,hour] [tenpo] e15d BsfdRfa
 duga [fuse,alloy,stick,weld] [] e15e  EauaFF
 dugi [talk,speak,communicate] [toki] e15f QmuaSuf
 dumo [room,area,reside] [tomo,ma] e15c KsuaRfa
-edi [taste] [namako] e112 RmafCuf
+edi [taste] [namako] e161 RmafCuf
 edin [atom,molecule] [PRE] e114 JaadWu
 edo ["who is","which is"] [PAR] e162
 egesa [exact,point] [ni] e163 "1suaMcRdw"
@@ -59,7 +59,7 @@ egin [same,equal] [sama, AUX] e166 "2cfdBa"
 egon [hard,rock,horn,hit] [kiwen] e167 BsfdWf
 ei ["object-marker"] [PAR,e] e168 Qaad
 eleba [grass] ["kasi lili" ] e169
-elein [cloth] [len] e168 EsabCuf 
+elein [cloth] [len] e16a EsabCuf 
 elena [dust,sand] [] e16b Jddb 
 elyawi [machine] [] e16c
 elo [tool] [ilo] e16d FsuaMpRfa
