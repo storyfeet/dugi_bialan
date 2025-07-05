@@ -8,5 +8,7 @@ zig/zig-out
 zig/convert
 zig/**/*.wasm
 zig/gen
+static/js/jsfontmapper.js
+static/gen
 public
 public/**/*
