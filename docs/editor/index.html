@@ -173,13 +173,15 @@ body {
 		}
 	};
 
+	(async ()=>{
+		let response = await fetch("wasm/dugi.wasm");
+		let buf	= await response.arrayBuffer();
+		let ob = await WebAssembly.instantiate(buf,forImport);
+		window.w_dugi = ob.instance; 
+		w_dugi.exports.init();
+		whenReady();
+	})();
 
-	WebAssembly.instantiateStreaming(fetch("wasm/dugi.wasm"),forImport)
-		.then((ob) => {
-			window.w_dugi = ob.instance;
-			w_dugi.exports.init();
-			whenReady();
-		});
 
 
 	const decodeString = (pointer, length) => {
