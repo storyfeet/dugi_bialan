@@ -38,7 +38,7 @@ dei [plural,several,increase,more] [mute,amount] e155 "2sadCwf"
 deli [oil] [deli] e151 "5cfaDfWa"
 delo [water] [telo] e152 JsfaMf
 demego [zing , bite, bling] [namako] e14f
-deni [few,decrease,less] e156
+deni [few,decrease,less] [] e156
 denso ["non binary"] [tonsi] e154 JmadMe
 deso [but, however, except] [taso,AUX] e157 LafaRad
 devo [milk] [telo] e153
@@ -131,7 +131,7 @@ lyawa [head,control] [lawa] e1aa ReubRua
 lyazi [blackjack] [] e1ab
 lin [love] [olin] e1ac CcuaRfu
 lis [eight] [number] e1ad
-lo [ten] e1af
+lo [ten] [] e1af
 lon [at,in] [PAR,lon] e1b0 CsubRadMc
 ludi [sad] [] e1b1
 luga [hand] [luka] e1b2 Hcua
