@@ -12,7 +12,7 @@ wasm:
 	cp zig/dugi_wasm.wasm static/wasm/dugi.wasm
 
 converter:
-	cd zig; zig build-exe --name convert dugi_convert.zig
+	cd zig; zig build
 
 all: jsfont converter  wasm  site 
 

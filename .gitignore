@@ -7,7 +7,7 @@ zig/.zig-cache
 zig/zig-out
 zig/convert
 zig/**/*.wasm
-zig/gen
+zig/src/gen
 static/js/jsfontmapper.js
 static/gen
 public
