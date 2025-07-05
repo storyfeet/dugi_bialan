@@ -1,5 +1,5 @@
 {{export title = "Aesops Romance"}}
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 # Who is Aesop (Esobb) --- (p111)
 

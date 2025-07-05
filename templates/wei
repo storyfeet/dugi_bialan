@@ -1,1 +1,1 @@
-{{exec_stdin "zig/convert" (cat "wei " (first $0 "")) }}
+{{exec_stdin "zig/zig-out/bin/dugi_convert" (cat "wei " (first $0 "")) }}

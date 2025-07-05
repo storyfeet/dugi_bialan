@@ -4,7 +4,7 @@
     cards = sort_on $cfile "Name" ;
 }}
 <div style="max-width:100vw;"><p>
-{{@exec_stdin "zig/convert" @ }}
+{{@qq }}
 {{for k v in $cards}}{{$v.Name}}\\ {{/for}}
-{{/exec_stdin}}
+{{/qq}}
 </p></div>

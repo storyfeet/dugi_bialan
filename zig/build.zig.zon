@@ -67,6 +67,7 @@
         "build.zig",
         "build.zig.zon",
         "src",
+        "gen",
         // For example...
         //"LICENSE",
         //"README.md",

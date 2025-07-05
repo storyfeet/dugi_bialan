@@ -1,5 +1,5 @@
 {{export title="Out of My Way"}}
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 zan esamm wei luga ei gein egi. wei mugi la, da man mugi la, zan-muli wei giawin, wei uwein lon iasin dis.    
 # Sam had a problem, it seemed no matter what he did, wherever he went people, would get in his way.

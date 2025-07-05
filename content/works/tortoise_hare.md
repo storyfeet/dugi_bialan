@@ -1,6 +1,6 @@
 {{export title = "The Tortoise and the Hare"}}
 
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq }}
 
 veso-mengi i vo-gudei munin # : (The Tortoise and the Hare)
 #===========

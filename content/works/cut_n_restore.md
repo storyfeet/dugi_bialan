@@ -1,5 +1,5 @@
 {{export title="Cut and Restored - Magic Script"}}
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 
 ei lena wei din, wei buna

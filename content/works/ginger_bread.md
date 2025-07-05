@@ -1,6 +1,6 @@
 {{export title = "The Gingerbread Man:"}}
 
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 zan bi ban demego # : (The Gingerbread Man)
 #========

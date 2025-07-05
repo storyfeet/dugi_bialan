@@ -1,5 +1,5 @@
 {{export title="Egg Bag"}}
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 
 o min mon buna    

@@ -1,6 +1,6 @@
 {{export title = "Stone Soup"}}
 
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 <h2>delo mugo egon</h2>
 
 <h3>zan iasin # -- The Traveller #</h3>

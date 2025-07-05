@@ -1,6 +1,6 @@
 {{export title = "Gospel of Mark:  Chapter 3"}}
 
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 won : zan bi luga guma leli
 #------

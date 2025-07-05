@@ -1,6 +1,6 @@
 {{export title = "Gospel of Mark:  Chapter 1"}}
 
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 vis buna bi zan Magg, din won
 #=====

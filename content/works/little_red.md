@@ -1,5 +1,5 @@
 {{export title="zan Elenuna leli"}}
-{{@md}}{{@exec_stdin "zig/convert" @ }}
+{{@md}}{{@qq}}
 
 min Elenuna leli
 

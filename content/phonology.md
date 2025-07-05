@@ -67,7 +67,7 @@ Writing Loan Words
 Loan Words are underlined to show they are names, and are read using a phonetic system which is based on words in the logography.
 
 Consonants - Tall
-{{@exec_stdin "zig/convert" @ }}
+{{@qq }}
 * b#b : biawi
 * d#d : dan
 * g#g : giasi
@@ -76,16 +76,16 @@ Consonants - Tall
 * v#v : vin
 * w#w : won
 * z#z : zan
-{{/exec_stdin}}
+{{/qq}}
 
 Finals - High up. (Finals cannot start a word)
-{{@exec_stdin "zig/convert" @ }}
+{{@qq }}
 * n#n : enin - short on bottom
 * s#s : deso - line down for final
-{{/exec_stdin}}
+{{/qq}}
 
 Vowels - Low down
-{{@exec_stdin "zig/convert" @ }}
+{{@qq }}
 * E#e : edin    
 * Oi#oi : oiga    
 * Ia#ia : ziazon
@@ -94,4 +94,4 @@ Vowels - Low down
 * O#o : vo    
 * A#a : ga    
 * I#i : i     
-{{/exec_stdin}}
+{{/qq}}

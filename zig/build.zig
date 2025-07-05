@@ -57,6 +57,8 @@ pub fn build(b: *std.Build) void {
         .optimize = optimize,
     });
 
+    exe.step.dependOn(genStep);
+
     // This declares intent for the executable to be installed into the
     // standard location when the user invokes the "install" step ().
     b.installArtifact(exe);
