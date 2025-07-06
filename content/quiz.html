@@ -10,6 +10,7 @@ Max<input id="r-max" type="number" min="10" max="230" value="230"/>
 		
 <script type="module">
 import {items} from "/js/items.js";
+import {fontMap} from "/js/jsfontmapper.js";
 
 const dom = {
 	minBox : document.getElementById("r-min"),
@@ -113,8 +114,8 @@ function modeNode(item,mode){
 		case 0 : 
 			return document.createTextNode(item.Name);
 		case 1:
-			let pic = document.createElement("img");
-			pic.src = "/glyphs/" + item.Name + ".svg"
+			let pic = document.createElement("span");
+			pic.innerHTML = fontMap[item.Name] ?? 'Not in Font Map';	
 			return pic;
 		default:
 			let node = document.createElement("span");

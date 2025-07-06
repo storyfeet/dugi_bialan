@@ -180,7 +180,7 @@ const JMapMid =
 ;
 
 const JMapFin =
-    \\];
+    \\};
     \\
 ;
 
