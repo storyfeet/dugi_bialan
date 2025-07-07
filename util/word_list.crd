@@ -20,7 +20,6 @@ beyega [stop] [pake] e13b EcufAb
 beyegi [broken] [pakala] e13a FcfdMsRfa
 beyuni [gratitude,thank] [pona] e13d
 bi [of] [AUX,pi] e139 Lsub
-ya [me,i,my] [pronoun,mi] e1c0 Tcsd
 bo [beside,with] [poka] e140 Cwwd
 bugi [container] [poki] e145 CsfuWa
 buli [make,do,build] [pali] e147 eFcabCuf
@@ -57,7 +56,6 @@ egesi [scale,salt] [akesi] e164 BdfdWd
 egi [bad] [ike] e165 PmubMs
 egin [same,equal] [sama, AUX] e166 "2cfdBa"
 egon [hard,rock,horn,hit] [kiwen] e167 BsfdWf
-eyi ["object-marker"] [PAR,e] e168 Qaad
 eleba [grass] ["kasi lili" ] e169
 elena [dust,sand] [] e16b Jddb 
 elesa [hunt,search] [alasa] e1a9 CffaMs
@@ -78,7 +76,9 @@ eselin [hooker] [] e176
 esenis [left,side] [soto] e177 EcuaSda
 esi [if] [CON,la] e178 QsubRuf
 esin [trade,buy,sell] [esin] e179 FsfuBf
+ewi [pain] [ike] e196
 eyewi [machine] [] e16c
+eyi ["object-marker"] [PAR,e] e168 Qaad
 ezan [fierce,wolf] [soweli] e17b SufdDf
 ga [colour] [PRE,kule] e118 Luaf
 gan [direction] [tawa,PRE] e11a Lasf
@@ -103,7 +103,6 @@ gugo [clay,dirt,earth] [ko] e18a QffuCfa
 guli [organ,"body part"] [sijelo,pilin,insa,PRE] e11e EaabMs
 guvi [alive,live] [] e18f
 guyela [flower,bloom] [kasi] e185 "FsufF5"
-yi [subject] [PAR,en] e192 "1eua"
 la [then,context] [CON,la] e199 QsufMpRfd
 lan [five] [luka,number] e19a "5csb"
 leban [hook,take,catch,trap] [lanpan] e19b HffdMs
@@ -155,8 +154,8 @@ uba [rubber,stretch] [] e1d4
 uban [frequency] [measure] e1ce EafaSuwSuw
 ubeyi [shame,guilt] [apeja] e1d5 "2subMd"
 ubin [open, free] [open] e1d6 EcadRua
-udon [wave,shake] [] e1d8
 udela [fight] [utala] e1d7 "2msbMpRfa"
+udon [wave,shake] [] e1d8
 uga [foot,base, bottom] [noka] e1cf EdfdWa
 ugin [look,see,eye] [lukin,oko] e1b3 "2yuaRfa"
 umeni [poop,compost,"body waste"] [jaki] e1da 
@@ -189,8 +188,8 @@ wega [yeet,away,gone] [weka] e1f5 "FcfuMdF5"
 wendo [bird,"flying creature"] [PRE] e128
 wi [purpose,meaning] [AUX] e1f7 
 wuwi [sweet] [suwi] e1fb EsdbWu
+ya [me,i,my] [pronoun,mi] e1c0 Tcsd
 yela ["removable cover",lid,door] [supa,nena] e1ea QcadWu
-ewi [pain] [ike] e196
 yeman [bum,ass] [monsi] e1a8 Cffd
 yena [flat,sheet,paper,leaf] [supa,lipu] e207 EmadDd
 yeni [or,choose] [anu,AUX] e194 RsadRou
@@ -199,6 +198,7 @@ yesin [way,path] [nasin] e195 "2sdbMf"
 yewa [head,control] [lawa] e1aa ReubRua
 yewin [go,come,"move something"] [tawa] e187 VsdbMf
 yezon [mass,weight] [measure,suli] e20c EafwSuwRfa
+yi [subject] [PAR,en] e192 "1eua"
 yugi [yucky,"bad tasting", unclean,gross] [jaki] e193 "2mafRab"
 yuvi [play] [musi] e20b RsfdBa
 yuwa [mighty,strong] [wawa] e1f9 FwuaDu
