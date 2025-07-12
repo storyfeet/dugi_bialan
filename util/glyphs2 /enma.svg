@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="belesa.svg"
+   sodipodi:docname="enma.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
-     inkscape:cx="32.872114"
+     inkscape:cx="34.342005"
      inkscape:cy="33.272993"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
@@ -41,12 +41,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 18.479102,9.1359239 H 1.5969269 c 1.319706,-0.100626 3.770926,-2.446032 3.535533,-4.772972"
-       id="path9"
+       d="M 1.90625,18.532577 10,12.970078 l 8.09375,5.562499"
+       id="path32"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 9.3750999,11.168854 12.291917,15.14633"
-       id="path10" />
+       d="m 7.305509,10.350055 c 0,0 -0.031617,-1.382896 0,-4.9010482 0.03802,-4.2307448 5.35247,-4.3531964 5.403037,0"
+       id="path14"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>

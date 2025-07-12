@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="belesa.svg"
+   sodipodi:docname="ebin.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,12 +41,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 18.479102,9.1359239 H 1.5969269 c 1.319706,-0.100626 3.770926,-2.446032 3.535533,-4.772972"
-       id="path9"
-       sodipodi:nodetypes="ccc" />
+       d="M 13.399584,12.545958 C 13.501379,8.8413008 6.6969235,9.1211131 6.6103461,12.079002 c -0.086578,2.957887 2.6952541,3.592109 3.3946189,4.150722 0.699365,0.558614 0.506563,1.929332 0.04144,2.685822"
+       id="path26"
+       sodipodi:nodetypes="czzc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 9.3750999,11.168854 12.291917,15.14633"
-       id="path10" />
+       d="M 10.697242,7.9606718 C 8.0603882,4.2173198 12.482857,4.2315808 10.061031,0.89869924"
+       id="path21"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

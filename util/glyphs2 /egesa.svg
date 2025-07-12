@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="belesa.svg"
+   sodipodi:docname="egesa.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
-     inkscape:cx="32.872114"
+     inkscape:cx="34.342005"
      inkscape:cy="33.272993"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
@@ -41,12 +41,22 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 18.479102,9.1359239 H 1.5969269 c 1.319706,-0.100626 3.770926,-2.446032 3.535533,-4.772972"
-       id="path9"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 9.3750999,11.168854 12.291917,15.14633"
-       id="path10" />
+       d="M 7.8973253,7.7384713 C 6.102103,6.4964163 5.610543,2.1309833 9.9397167,1.9773453 c 4.3291703,-0.153639 4.1261213,4.381146 2.0423883,5.761126"
+       id="path27"
+       sodipodi:nodetypes="czc" />
+    <g
+       id="g31"
+       transform="translate(-40.116191,-73.36443)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+         d="m 50.116191,82.819882 v 9.457553"
+         id="path30"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+         d="M 45.254832,87.548658 H 54.97755"
+         id="path31"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
 </svg>
