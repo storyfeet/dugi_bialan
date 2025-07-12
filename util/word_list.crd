@@ -4,11 +4,10 @@ ban [bread,loaf] [pan] e12d "5cadMm"
 bas [striped] ["linja mute"] e12e WcufMd
 beba [vegetable] [kili] e12f "FsadF5"
 bebi [bug,insect] [PRE] e110 
-bunei [gratitude,thank] [pona] e13d
 bega [stop] [pake] e13b EcufAb
 begin [start,begin] [open] e131 QsfdRfu
 bei [I,me,self,"his/her own"] [pronoun,ona,mi,sina] e130 TsabSfu
-belan [balanced] [pona] e13c "2FfaMs"
+belan [balanced,same,equal] [pona] e13c "2FfaMs"
 belas [full] [suli,measure] e132 BcadMm
 beledi [plastic] [] e141  
 belesa [stick,rod] [palisa] e133 "2huaMc"
@@ -23,15 +22,17 @@ bo [beside,with] [poka] e140 Cwwd
 bugi [container] [poki] e145 CsfuWa
 buli [make,do,build] [pali] e147 eFcabCuf
 buna [good,simple] [pona] e148 TmabWu
+bunei [gratitude,thank] [pona] e13d
 bununi [joy,pleasure,happiness] [] e149
 busi [random,chance] [nasa] e14a RcabCuf
-buyedo [poison,bitter,danger] [] e143 WmafRad
+buyado [poison,bitter,danger] [] e143 WmafRad
 buyegi [broken] [pakala] e13a FcfdMsRfa
 da [for,"in order to"] [PAR,tawa] e14b RsuaRfa
 dan [from,because] [PAR,tan] e14c RsfaRua
 das [that,him,her] [pronoun,ni] e14d "TaabM*R*"
 dedi [grain] [] e14e 
 degis [right,side] [teje] e150 EcuaSuw
+dei [plural,several,increase,more] [mute,amount] e155 "2sadCwf"
 deli [oil] [deli] e151 "5cfaDfWa"
 delo [water] [telo] e152 JsfaMf
 demego [zing , bite, bling] [namako] e14f
@@ -41,7 +42,6 @@ devo [milk] [telo] e153
 di [two] [tu,number] e15a "2csb"
 din [cut, divide] [kipisi] e159 EsuaMpRfa
 dis [this,him,her] [pronoun,ni] e15b "TsabM*R*"
-do [plural,several,increase,more] [mute,amount] e155 "2sadCwf"
 don [time,hour] [tenpo] e15d BsfdRfa
 duga [fuse,alloy,stick,weld] [] e15e  EauaFF
 dugi [talk,speak,communicate] [toki] e15f QmuaSuf
@@ -53,7 +53,6 @@ edo ["who is","which is"] [PAR] e162
 egesa [exact,point] [ni] e163 "1suaMcRdw"
 egesi [scale,salt] [akesi] e164 BdfdWd
 egi [bad] [ike] e165 PmubMs
-egin [same,equal] [sama, AUX] e166 "2cfdBa"
 egon [hard,rock,horn,hit] [kiwen] e167 BsfdWf
 ei ["object-marker"] [PAR,e] e168 Qaad
 eleba [grass] ["kasi lili" ] e169
@@ -70,9 +69,9 @@ enma [being,soul,spirit,state] [zan,sijelo] e172 "5cfwSwu"
 eno [sun,bright,day] [suno] e17a "QusdF5"
 enon [name,word] [nimi] e173 "2hsfMw"
 ensa [inside] [insa] e174 "2cbwCua"
-enyesa [mad,wild] [nasa] e170 ReabCuf
+enyasa [mad,wild] [nasa] e170 ReabCuf
+esa [hook,trap,trick] [] e176
 esegi [ball,planet] [sike] e17c
-eselin [hooker] [] e176
 esenis [left,side] [soto] e177 EcuaSda
 esi [if] [CON,la] e178 QsubRuf
 esin [trade,buy,sell] [esin] e179 FsfuBf
@@ -187,15 +186,15 @@ wei [do,verb] [PAR,li] e1f6 BaadMc
 wendo [bird,"flying creature"] [PRE] e128
 wi [purpose,meaning] [AUX] e1f7 
 wuwi [sweet] [suwi] e1fb EsdbWu
+yamon [bum,ass] [monsi] e1a8 Cffd
+yani [or,choose] [anu,AUX] e194 RsadRou
+yasin [way,path] [nasin] e195 "2sdbMf"
+yazon [mass,weight] [measure,suli] e20c EafwSuwRfa
 yela ["removable cover",lid,door] [supa,nena] e1ea QcadWu
-yeman [bum,ass] [monsi] e1a8 Cffd
 yena [flat,sheet,paper,leaf] [supa,lipu] e207 EmadDd
-yeni [or,choose] [anu,AUX] e194 RsadRou
 yesa [wing] [waso] e1f8 "BufdWd"
-yesin [way,path] [nasin] e195 "2sdbMf"
 yewa [head,control] [lawa] e1aa ReubRua
 yewin [go,come,"move something"] [tawa] e187 VsdbMf
-yezon [mass,weight] [measure,suli] e20c EafwSuwRfa
 yi [subject] [PAR,en] e192 "1eua"
 yugi [yucky,"bad tasting", unclean,gross] [jaki] e193 "2mafRab"
 yuvi [play] [musi] e20b RsfdBa
