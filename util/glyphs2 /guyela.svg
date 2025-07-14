@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="guyela.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#e4e4e4"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#a3a3a3"
+     inkscape:document-units="mm"
+     inkscape:zoom="7.4835468"
+     inkscape:cx="52.515206"
+     inkscape:cy="51.312567"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g36"
+       transform="matrix(-0.72988045,0,0,-0.73628599,88.737368,79.938535)"
+       style="stroke-width:1.36412">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.72822;paint-order:stroke fill markers"
+         d="M 102.48764,96.479745 113.26651,82.343518"
+         id="path6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.72822;paint-order:stroke fill markers"
+         d="m 107.87707,89.411631 5.38944,7.068114"
+         id="path36"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="M 10.147053,1.0814882 C 8.2490796,1.0372225 5.8589906,3.9522094 6.7887349,5.7332 c 0.9297442,1.7809906 5.4340911,1.7324798 6.3916341,0 0.957545,-1.7324806 -1.135344,-4.6074493 -3.033316,-4.6517118 z"
+       id="path25"
+       sodipodi:nodetypes="zzzz" />
+  </g>
+</svg>
