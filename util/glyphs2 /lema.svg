@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="ledi.svg"
+   sodipodi:docname="lema.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -41,13 +41,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 2.3492024,5.6686535 C 10.454628,-3.1041335 10.423749,11.609379 17.640388,3.5519875"
-       id="path21"
+       d="m 2.1792289,13.7732 c 5.795081,5.12112 10.9063541,4.151533 15.6447371,0"
+       id="path3"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="m 1.9451505,17.230423 h 9.3652505 l 2.9156,-6.006953 2.91559,6.53612"
-       id="path40"
-       sodipodi:nodetypes="cccc" />
+       d="m 13.545194,5.5136955 c 1.429451,-3.5690695 -7.15419,-3.647607 -7.2466,-0.4973283 -0.09241,3.1502771 2.876822,3.8257516 3.6233,4.4206987 0.746478,0.5949481 0.540688,2.0548221 0.04423,2.8605171"
+       id="path26"
+       sodipodi:nodetypes="czzc" />
   </g>
 </svg>

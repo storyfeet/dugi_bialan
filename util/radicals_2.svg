@@ -378,5 +378,15 @@
        d="m 75.108631,112.07575 c -0.07114,8.63898 -7.547905,8.39597 -7.601395,0 -0.04448,-6.98183 0,-8.13871 0,-8.13871 l -4.332238,4.75046"
        id="path14-9"
        sodipodi:nodetypes="cscc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 82.631537,102.16914 c 0.05349,8.39597 7.530255,8.63898 7.601395,0 l 0.06707,15.95586 7.174996,-15.75"
+       id="path14-9-0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       d="M 6.0562499,109.22708 H 15.260415"
+       id="path38-1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
