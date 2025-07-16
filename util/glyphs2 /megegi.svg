@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="lezi.svg"
+   sodipodi:docname="megegi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
-     inkscape:zoom="7.4835468"
-     inkscape:cx="33.00574"
-     inkscape:cy="33.272993"
+     inkscape:zoom="10.583333"
+     inkscape:cx="37.795276"
+     inkscape:cy="37.795276"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -39,20 +39,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
-       d="M 16.199922,18.698017 V 2.3019833 l -7.2920374,2e-6"
-       id="path1"
-       sodipodi:nodetypes="ccc" />
+    <g
+       id="g23"
+       transform="matrix(0.71010474,0,0,0.71029709,-12.37343,-42.419364)"
+       style="stroke-width:1.40805">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.8161;paint-order:stroke fill markers"
+         d="M 31.616177,76.923985 31.398275,61.258083"
+         id="path22" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.8161;paint-order:stroke fill markers"
+         d="m 24.806841,62.343596 6.700384,8.268116 6.700386,-8.268116"
+         id="path23"
+         sodipodi:nodetypes="ccc" />
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 3.3649696,8.6845881 8.4691076,5.1904065 13.573246,8.6845881"
-       id="path32"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="m 3.364969,11.315412 5.1041383,3.494182 5.1041397,-3.494182"
-       id="path32-0"
-       sodipodi:nodetypes="ccc" />
+       d="M 2.3492026,17.128244 C 10.454628,8.355457 10.423749,23.068969 17.640388,15.011578"
+       id="path21"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

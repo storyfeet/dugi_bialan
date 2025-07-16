@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="lezi.svg"
+   sodipodi:docname="lesi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -40,19 +40,23 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
-       d="M 16.199922,18.698017 V 2.3019833 l -7.2920374,2e-6"
-       id="path1"
-       sodipodi:nodetypes="ccc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 3.3649696,8.6845881 8.4691076,5.1904065 13.573246,8.6845881"
-       id="path32"
+       d="M 1.5131584,17.474131 H 16.185623 l -3.71231,-3.977476"
+       id="path16"
        sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="m 3.364969,11.315412 5.1041383,3.494182 5.1041397,-3.494182"
-       id="path32-0"
-       sodipodi:nodetypes="ccc" />
+    <g
+       id="g31"
+       transform="translate(-40.116191,-81.294013)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+         d="m 50.116191,82.819882 v 9.457553"
+         id="path30"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+         d="M 45.254832,87.548658 H 54.97755"
+         id="path31"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
 </svg>
