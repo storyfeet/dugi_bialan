@@ -141,8 +141,7 @@ mo [four] [po,number] e1c2 "4csb"
 mon [male] [mije] e1c3 QmubWd
 mugo [food,consume,eat] [moku] e1c8 HcauMm
 muli [all,every] [ali,ale,amount] e1c9 HcauCwf
-muni [moon] [mun] e1ca Cusd
-munin [over] [supa] e1cb CwuaSua
+munin [over,cross,leap] [supa] e1cb CwuaSua
 musi [art] [musi] e1cc "1sdbRuf-Rdb"
 o [imperetive] [PAR,o] e1cd WmubCfd
 uba [rubber,stretch] [] e1d4
@@ -160,15 +159,16 @@ unis [peace,rest,safe,rescue] [] e1dc
 uno [number] [nanpa] e1dd "1cabF2"
 usis [sick,infection] [ike] e1d1
 ususa [spreading,sprawling] [] e1df  
+uwein [stand,wait] [awen] e1e0 VsufRdb
 uwi [urgent, important, quick] [] e1e1
-uwin [stand,wait] [awen] e1e0 VsufRdb
 uyewi [machine] [] e16c
 va [not,none,lack,un] [ala] e126 Ecsd
 van [three] [san,"tu wan",number] e1e3 "3csb"
 vas [lack,empty] [] e1e2 
-vedelin [writing,drawing,image] [sitelen] e1e4 "2habDd"
+vedin [writing,drawing,image] [sitelen] e1e4 "2habDd"
 vega [species,type] [kule] e1e5 JafdSuw
-vegei [round,ring,orbit,around] [segei] e1e6 QcuaCua
+vegi [moon,round,ring,orbit,around] [segei] e1e6 QcuaCua
+veis [tail,follow] [] e1e6 
 veli [real,true] [lon] e1e7 "2sufRdb"
 velo [skin,peal,cover] [selo] e1e8 JdabBs
 vemi [what] [FILLER,QUESTION,seme] e1e9 HsouWu
