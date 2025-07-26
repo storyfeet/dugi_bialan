@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="zi.svg"
+   sodipodi:docname="yala.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
-     inkscape:zoom="10.583333"
-     inkscape:cx="37.842521"
-     inkscape:cy="35.244096"
+     inkscape:zoom="7.4835468"
+     inkscape:cx="32.270794"
+     inkscape:cy="33.272993"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="0"
@@ -41,7 +41,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 6.552855,13.529095 C 7.701903,11.643478 8.850952,9.7578603 10,7.8722433 c 1.149048,1.885617 2.298097,3.7712347 3.447145,5.6568517"
-       id="path19" />
+       d="M 1.5131587,5.9238096 H 16.185624 l -3.71231,-3.977479"
+       id="path16"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 1.4507877,17.451847 c 0,0 2.744379,0.04448 9.7262083,0 8.39598,-0.05349 8.638987,-7.5302546 0,-7.6013946"
+       id="path14"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>

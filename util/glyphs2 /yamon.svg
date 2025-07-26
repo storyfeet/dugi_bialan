@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="zi.svg"
+   sodipodi:docname="yamon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
-     inkscape:zoom="10.583333"
-     inkscape:cx="37.842521"
-     inkscape:cy="35.244096"
+     inkscape:zoom="7.4835468"
+     inkscape:cx="34.275192"
+     inkscape:cy="33.272993"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="0"
@@ -40,8 +40,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 6.552855,13.529095 C 7.701903,11.643478 8.850952,9.7578603 10,7.8722433 c 1.149048,1.885617 2.298097,3.7712347 3.447145,5.6568517"
-       id="path19" />
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       d="m 12.882406,16.04044 c -1.37998,2.08373 -5.9147654,2.28678 -5.7611264,-2.04239 0.153638,-4.3291706 4.5190714,-3.837611 5.7611264,-2.04239 V 1.5196894"
+       id="path27-5"
+       sodipodi:nodetypes="czcc" />
   </g>
 </svg>
