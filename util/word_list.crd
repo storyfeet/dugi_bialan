@@ -1,34 +1,34 @@
 @param en tags ucode sign
-ba [ah] [exclaim,a,soo] e12c HmubRuf
-ban [bread,loaf] [pan] e12d "5cadMm"
-bas [striped] ["linja mute"] e12e WcufMd
-beba [vegetable] [kili] e12f "FsadF5"
-bebi [bug,insect] [PRE] e110 
-bega [stop] [pake] e13b EcufAb
-begin [start,begin] [open] e131 QsfdRfu
-bei [I,me,self,"his/her own"] [pronoun,ona,mi,sina] e130 TsabSfu
-belan [balanced,same,equal] [pona] e13c "2FfaMs"
-belas [full] [suli,measure] e132 BcadMm
-beledi [plastic] [] e141  
-belesa [stick,rod] [palisa] e133 "2huaMc"
-belin [heart,feeling,want,need] [pilin] e134 CcuaCwu
-bena [give] [pana] e135 HcauSuf
-bengo [vehicle] [tomo,tawa] e136 KsuaMa
-beni [end,finish,already] [pini] e137 EcfdMsRfa
-benon ["the word"] [PRE,quote] e111 Ewsd
-besi [electric] [wawa] e13f "LuufSad"
-bi [of] [AUX,pi] e139 Lsub
-bo [beside,with] [poka] e140 Cwwd
-bugi [container] [poki] e145 CsfuWa
-buli [make,do,build] [pali] e147 eFcabCuf
-buna [good,simple] [pona] e148 TmabWu
-bunei [gratitude,thank] [pona] e13d
-bununi [joy,pleasure,happiness] [] e149
-busi [random,chance] [nasa] e14a RcabCuf
-buyado [poison,bitter,danger] [] e143 WmafRad
-buyegi [broken] [pakala] e13a FcfdMsRfa
-da [for,"in order to"] [PAR,tawa] e14b RsuaRfa
-dan [from,because] [PAR,tan] e14c RsfaRua
+ba [ah] [exclaim,a,soo] e12b HmubRuf
+ban [bread,loaf] [pan] e12c "5cadMm"
+bas [striped] ["linja mute"] e12d WcufMd
+beba [vegetable] [kili] e12e "FsadF5"
+bebi [bug,insect] [PRE] e12f 
+bega [stop] [pake] e132 EcufAb
+begin [start,begin] [open] e133 QsfdRfu
+bei [I,me,self,"his/her own"] [pronoun,ona,mi,sina] e134 TsabSfu
+belan [balanced,same,equal] [pona] e135 "2FfaMs"
+belas [full] [suli,measure] e138 BcadMm
+beledi [plastic] [] e139
+belesa [stick,rod] [palisa] e13a "2huaMc"
+belin [heart,feeling,want,need] [pilin] e13b CcuaCwu
+bena [give] [pana] e13c HcauSuf
+bengo [vehicle] [tomo,tawa] e13e KsuaMa
+beni [end,finish,already] [pini] e13f EcfdMsRfa
+benon ["the word"] [PRE,quote] e140 Ewsd
+besi [electric] [wawa] e141 "LuufSad"
+beyagi [broken] [pakala] e142 FcfdMsRfa
+bi [of] [AUX,pi] e145 Lsub
+bo [beside,with] [poka] e146 Cwwd
+bugi [container] [poki] e147 CsfuWa
+buli [make,do,build] [pali] e148 eFcabCuf
+buna [good,simple] [pona] e149 TmabWu
+bunei [gratitude,thank] [pona] e14a
+bununei [joy,pleasure,happiness] [] e14b
+busi [random,chance] [nasa] e14c RcabCuf
+buyado [poison,bitter,danger] [] e14d WmafRad
+da [for,"in order to"] [PAR,tawa] e14e RsuaRfa
+dan [from,because] [PAR,tan] e14f RsfaRua
 das [that,him,her] [pronoun,ni] e14d "TaabM*R*"
 dedi [grain] [] e14e 
 degis [right,side] [teje] e150 EcuaSuw
@@ -99,7 +99,7 @@ gudei [listen,hear,obey,ear] [kute] e18c Heuf
 gugo [clay,dirt,earth] [ko] e18a QffuCfa
 guli [organ,"body part"] [sijelo,pilin,insa,PRE] e11e EaabMs
 guvi [alive,live] [] e18f
-guyela [flower,bloom] [kasi] e185 "FsufF5"
+guyala [flower,bloom] [kasi] e185 "FsufF5"
 la [then,context] [CON,la] e199 QsufMpRfd
 lan [five] [luka,number] e19a "5csb"
 leban [take,catch] [lanpan] e19b HffdMs
@@ -160,8 +160,8 @@ usis [sick,infection] [ike] e1d1
 ususa [spreading,sprawling] [] e1df  
 uwein [stand,wait] [awen] e1e0 VsufRdb
 uwi [urgent, important, quick] [] e1e1
-uyewi [machine] [] e16c
-va [not,none,lack,un] [ala] e126 Ecsd
+uyawi [machine] [] e16c
+va [not,no,"un..."] [ala] e126 Ecsd
 van [three] [san,"tu wan",number] e1e3 "3csb"
 vas [lack,empty] [] e1e2 
 vedin [writing,drawing,image] [sitelen] e1e4 "2habDd"
@@ -183,18 +183,18 @@ wei [do,verb] [PAR,li] e1f6 BaadMc
 weno [bird,"flying creature"] [PRE] e128
 wi [purpose,meaning] [AUX] e1f7 
 wuwi [honey] [suwi] e1fb EsdbWu
-yamon [bum,ass] [monsi] e1a8 Cffd
+yala ["removable cover",lid,hat,roof] [supa,nena] e1ea QcadWu
+yamon [bum,ass] [monsi] e0a8 Cffd
+yana [flat,sheet,paper,leaf] [supa,lipu] e207 EmadDd
 yani [or,choose] [anu,AUX] e194 RsadRou
+yasa [wing] [waso] e1f8 "BufdWd"
 yasin [way,path] [nasin] e195 "2sdbMf"
+yawa [head,control] [lawa] e1aa ReubRua
+yawin [go,come,"move something"] [tawa] e187 VsdbMf
 yazon [mass,weight] [measure,suli] e20c EafwSuwRfa
-yela ["removable cover",lid,hat] [supa,nena] e1ea QcadWu
-yena [flat,sheet,paper,leaf] [supa,lipu] e207 EmadDd
-yesa [wing] [waso] e1f8 "BufdWd"
-yewa [head,control] [lawa] e1aa ReubRua
-yewin [go,come,"move something"] [tawa] e187 VsdbMf
-yi [subject] [PAR,en] e192 "1eua"
-yuvi [play] [musi] e20b RsfdBa
-yuwa [mighty,strong] [wawa] e1f9 FwuaDu
+ye [subject] [PAR,en] e192 "1eua"
+yovi [play] [musi] e20b RsfdBa
+yowa [mighty,strong] [wawa] e1f9 FwuaDu
 za [thousand] [mute,ali,number] e1ff Bcsb
 zan [person] [jan] e200 Vsdb
 zeis [six] [number] e204
