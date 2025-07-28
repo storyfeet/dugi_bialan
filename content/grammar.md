@@ -569,7 +569,6 @@ As with colours, these are guidelines.
 * geni-din : pointy
 * geni-muni : crescent
 * geni-lego : Square/rectangle
-* geni-belesa : Stick shaped
 * geni-belin : Heart shaped 
 * geni-ledei : Snowflake shaped
 * geni-va-zo : formless
@@ -614,12 +613,18 @@ If you want to be precise just use the atomic number
 * guli-gein : muscles
 * guli-lei : joint
 
-### Tastes with edi
-* edi-zo : taste
-* edi-gon : smell
-* edi-wuwi : Sweet
-* edi-giala : Sweet like flower
-* edi-vi : Spicy
+### Plants with wa
+* wa-zo : plant
+* wa-wuwi : flower
+* wa-zi : fruit
+* wa-zewi : tall tree
+* wa-ususa : Spreading tree
+* wa-mugo : vegetalbles
+* wa-gedin : thorns
+* wa-ewi : stinging plants
+* wa-esa : trapping plannts
+* wa-lena : vines
+
 
 ### Sounds with ema
 
