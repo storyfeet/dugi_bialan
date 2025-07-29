@@ -108,29 +108,28 @@ lena [line,cord,string] [linja] e1bb QeubMd
 lesi [direct,straight,rod] [] e1bc
 lezi ["playing cards"] [] e1bd
 li [is,be,adjective] [PAR,li] e1be "2sabRdb"
-## You are here ##
-lin [love] [olin] e1ac CcuaRfu
-lis [eight] [number] e1ad
-lo [ten] [] e1af
-lon [at,in] [PAR,lon] e1b0 CsubRadMc
-ludi [sad] [] e1b1
-luga [hand] [luka] e1b2 Hcua
-lugo [lock,tie,know,tight] [] e1ae FcuaRub
-luli [hole,entrance] [lupa] e1b4 HcadRau
-ma [parent] [mama] e1b5 HcauWu
-man [place] [ma] e1b6 CcadCuf
-meda [lie,decieve,trick] [] e1b7 
-megegi [medicine] [misikeke] e1bf FcuaCwf
-megi [measure] [weka,PRE] e122 Beub
-meli [die,death] [moli] e1c4 SyubFF
-memuso [average] [meso,measure] e1b8 KsuaAd
-mengi [building,build] [tomo,pali] e1b9 KsuaRad
-meni [back] [monsi] e1c5 CsubCbu
-menuga [wall,barrier] [tomo] e1ba 
-meseni [institute] [] e1bb
-mezan [country] [] e1bc
-mezuni [old,ancient] [majuno] e1bd CyauMd
-min [female,feminine] [meli] e1c1 Jeua
+lin [love] [olin] e1c0 CcuaRfu
+lis [eight] [number] e1c1
+lo [ten] [] e1c2
+lon [at,in] [PAR,lon] e1c3 CsubRadMc
+ludi [sad] [] e1c4
+luga [hand] [luka] e1c7 Hcua
+lugo [lock,tie,know,tight] [] e1c8 FcuaRub
+luli [hole,entrance] [lupa] e1c9 HcadRau
+ma [parent] [mama] e1ca HcauWu
+man [place] [ma] e1cb CcadCuf
+meda [lie,decieve,trick] [] e1cd 
+megegi [medicine] [misikeke] e1ce FcuaCwf
+megi [measure] [weka,PRE] e1cf Beub
+meli [die,death] [moli] e1d0 SyubFF
+memuso [average] [meso,measure] e1d1 KsuaAd
+mengi [building,build] [tomo,pali] e1d4 KsuaRad
+meni [back,"turn back"] [monsi] e1d5 CsubCbu
+menuga [wall,barrier] [tomo] e1d6 
+meseni [institute] [] e1d7
+mezan [country] [] e1d8
+min [female,feminine] [meli] e1d8 Jeua
+# You are here #
 mo [four] [po,number] e1c2 "4csb"
 mon [male] [mije] e1c3 QmubWd
 mugo [food,consume,eat] [moku] e1c8 HcauMm
