@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="vyala.svg"
+   sodipodi:docname="zewi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
      inkscape:cx="33.00574"
-     inkscape:cy="33.339806"
+     inkscape:cy="22.649688"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="0"
@@ -55,13 +55,13 @@
        sodipodi:nodetypes="czcc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 1.90625,8.428899 10,2.8664 18.09375,8.428899"
+       d="m 1.8001839,18.96479 8.09375,-5.562499 8.0937501,5.562499"
        id="path32"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
-       d="m 6.788225,9.7934288 h 4.914392 v 8.8034792"
-       id="path1"
-       sodipodi:nodetypes="ccc" />
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="M 10.721221,11.168341 C 5.6752256,5.6524107 14.138251,5.6734246 9.5037422,0.76233374"
+       id="path21"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

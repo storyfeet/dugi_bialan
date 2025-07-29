@@ -55,7 +55,7 @@ egon [hard,rock,horn,hit] [kiwen] e170 BsfdWf
 ei ["object-marker"] [PAR,e] e172 Qaad
 elena [dust,sand] [] e174 Jddb 
 elesa [hunt,search] [alasa] e175 CffaMs
-elin [cloth] [len] e1176 EsabCuf 
+elin [cloth] [len] e176 EsabCuf 
 elo [tool] [ilo] e179 FsuaMpRfa
 ema [sound] [PRE,kalama] e17a Jeub
 emi [hidden,secret] [weka] e17b EmsfWf
@@ -76,10 +76,10 @@ ewi [pain] [ike] e18d
 ezan [fierce,wolf] [soweli] e18e SufdDf
 ga [colour] [PRE,kule] e18f Luaf
 gan [direction] [tawa,PRE] e190 Lasf
-gedin [tooth,bite,sharp] [kiwen] e191 "5mufFQ"
-gegon [slip,slide,slippery,smooth] [] e192
-gein [can,able] [ken] e193 FwfaSua
-gela [fish] [PRE,kala] e194 "5ffaWa"
+gedin [tooth,bite,sharp] [kiwen] e193 "5mufFQ"
+gegon [slip,slide,slippery,smooth] [] e194
+gein [can,able] [ken] e195 FwfaSua
+gela [fish] [PRE,kala] e196 "5ffaWa"
 gelin [family] [] e199
 gelubi [group,meeting] [kulupu] e18a HcadCaf
 geni [shape] [PRE] e19b Lwwf
@@ -128,78 +128,77 @@ meni [back,"turn back"] [monsi] e1d5 CsubCbu
 menuga [wall,barrier] [tomo] e1d6 
 meseni [institute] [] e1d7
 mezan [country] [] e1d8
-min [female,feminine] [meli] e1d8 Jeua
-# You are here #
-mo [four] [po,number] e1c2 "4csb"
-mon [male] [mije] e1c3 QmubWd
-mugo [food,consume,eat] [moku] e1c8 HcauMm
-muli [all,every] [ali,ale,amount] e1c9 HcauCwf
-munin [over,cross,leap] [supa] e1cb CwuaSua
-musi [art] [musi] e1cc "1sdbRuf-Rdb"
-o [imperetive] [PAR,o] e1cd WmubCfd
-uba [rubber,stretch] [] e1d4
-uban [frequency] [measure] e1ce EafaSuwSuw
-ubei [shame,guilt] [apeja] e1d5 "2subMd"
-ubin [open, free] [open] e1d6 EcadRua
-udela [fight] [utala] e1d7 "2msbMpRfa"
-udon [wave,shake] [] e1d8
-uga [foot,base, bottom] [noka] e1cf EdfdWa
-ugin [look,see,eye] [lukin,oko] e1b3 "2yuaRfa"
-umeni [poop,compost,"body waste"] [jaki] e1da 
-una [mouth] [uta] e1db Pmaf
-undi [list] [nasin] e1d1 QadbMs
-unis [peace,rest,safe,rescue] [] e1dc
-uno [number] [nanpa] e1dd "1cabF2"
-usis [sick,infection] [ike] e1d1
-ususa [spreading,sprawling] [] e1df  
-uwein [stand,wait] [awen] e1e0 VsufRdb
-uwi [urgent, important, quick] [] e1e1
-uyawi [machine] [] e16c
-va [not,no,"un..."] [ala] e126 Ecsd
-van [three] [san,"tu wan",number] e1e3 "3csb"
-vas [lack,empty] [] e1e2 
-vedin [writing,drawing,image] [sitelen] e1e4 "2habDd"
-vega [species,type] [kule] e1e5 JafdSuw
-vegi [moon,round,ring,orbit,around] [segei] e1e6 QcuaCua
-veis [tail,follow] [] e1e6 
-veli [real,true] [lon] e1e7 "2sufRdb"
-velo [skin,peal,cover] [selo] e1e8 JdabBs
-vemi [what] [FILLER,QUESTION,seme] e1e9 HsouWu
-veso [lizard,reptile] [PRE] e123
-vi [hot,fire,cook] [seli] e1ec JcfwDu
-vin [you,your] [pronoun,sina] e1eb "Tcsu*"
-vis [new,young,again] [sin] e1ee EcadMsRub
-vo [animal] [soweli,PRE] e124 Swua
-vos [seven] [number] e1ef 
-vyala [door] [] e1f1
-wa [plant] [PRE] e100
-wega [yeet,away,gone] [weka] e1f5 "FcfuMdF5"
-wei [do,verb] [PAR,li] e1f6 BaadMc
-weno [bird,"flying creature"] [PRE] e128
-wi [purpose,meaning] [AUX] e1f7 
-wuwi [honey] [suwi] e1fb EsdbWu
-yala ["removable cover",lid,hat,roof] [supa,nena] e1ea QcadWu
-yamon [bum,ass] [monsi] e0a8 Cffd
-yana [flat,sheet,paper,leaf] [supa,lipu] e207 EmadDd
-yani [or,choose] [anu,AUX] e194 RsadRou
-yasa [wing] [waso] e1f8 "BufdWd"
-yasin [way,path] [nasin] e195 "2sdbMf"
-yawa [head,control] [lawa] e1aa ReubRua
-yawin [go,come,"move something"] [tawa] e187 VsdbMf
-yazon [mass,weight] [measure,suli] e20c EafwSuwRfa
-ye [subject] [PAR,en] e192 "1eua"
-yovi [play] [musi] e20b RsfdBa
-yowa [mighty,strong] [wawa] e1f9 FwuaDu
-za [thousand] [mute,ali,number] e1ff Bcsb
-zan [person] [jan] e200 Vsdb
-zeis [six] [number] e204
-zema [sibling] [] e202
-zenan [ public ] [] e203
-zenga [money,wealth] [mani] e1be VeufMd
-zewi [sky,heaven] [sewi] e206 QuadDw
-zi [child,offspring,seed] [lili,sike] e208 QcauWu
-zin [metal] [kiwen] e209 FsfdWf
-zo [thing] [ijo] e20d Fcsd
-zon [know] [sona] e20e QhadBw
-zugi [surface,counter,table] [supa] e20f EcadMfRfd
-zugo [exit] [monsi,weka] e210 FcabMfRfa
+min [female,feminine] [meli] e1db Jeua
+mo [four] [po,number] e1dc "4csb"
+mon [male] [mije] e1dd QmubWd
+mugo [food,consume,eat] [moku] e1de HcauMm
+muli [all,every] [ali,ale,amount] e1e1 HcauCwf
+munin [over,cross,leap] [supa] e1e2 CwuaSua
+musi [art] [musi] e1e3 "1sdbRuf-Rdb"
+o [imperetive] [PAR,o] e1e4 WmubCfd
+uba [rubber,stretch] [] e1e5
+uban [frequency] [measure] e1e7 EafaSuwSuw
+ubei [shame,guilt] [apeja] e1e8 "2subMd"
+ubin [open, free] [open] e1e9 EcadRua
+udela [fight] [utala] e1ea "2msbMpRfa"
+udon [wave,shake] [] e1eb
+uga [foot,base, bottom] [noka] e1ee EdfdWa
+ugin [look,see,eye] [lukin,oko] e1ef "2yuaRfa"
+umeni [poop,compost,"body waste"] [jaki] e1f0 
+una [mouth] [uta] e1f1 Pmaf
+undi [list] [nasin] e1f2 QadbMs
+unis [peace,rest,safe,rescue] [] e1f4
+uno [number] [nanpa] e1f5 "1cabF2"
+usis [sick,infection] [ike] e1f6
+ususa [spreading,sprawling] [] e1f7  
+uwein [stand,wait] [awen] e1f8 VsufRdb
+uwi [urgent, important, quick] [] e1fb
+uyawi [machine] [] e1fc
+va [not,no,"un..."] [ala] e1fd Ecsd
+van [three] [san,"tu wan",number] e1fe "3csb"
+vas [lack,empty] [] e1ff
+vedin [writing,drawing,image] [sitelen] e200 "2habDd"
+vega [species,type] [kule] e201 JafdSuw
+vegi [moon,round,ring,orbit,around] [segei] e202 QcuaCua
+veis [tail,follow] [] e203 
+veli [real,true] [lon] e204 "2sufRdb"
+velo [skin,peal,cover] [selo] e205 JdabBs
+vemi [what] [FILLER,QUESTION,seme] e1e5 HsouWu
+veso [lizard,reptile] [PRE] e208
+vi [hot,fire,cook] [seli] e209 JcfwDu
+vin [you,your] [pronoun,sina] e20a "Tcsu*"
+vis [new,young,again] [sin] e20b EcadMsRub
+vo [animal] [soweli,PRE] e20c Swua
+vos [seven] [number] e20e 
+vyala [door] [] e20f
+wa [plant] [PRE] e210
+wega [yeet,away,gone] [weka] e211 "FcfuMdF5"
+wei [do,verb] [PAR,li] e212 BaadMc
+weno [bird,"flying creature"] [PRE] e213
+wi [purpose,meaning] [AUX] e215 
+wuwi [honey] [suwi] e216 EsdbWu
+yala ["removable cover",lid,hat,roof] [supa,nena] e217 QcadWu
+yamon [bum,ass] [monsi] e218 Cffd
+yana [flat,sheet,paper,leaf] [supa,lipu] e219 EmadDd
+yani [or,choose] [anu,AUX] e21b RsadRou
+yasa [wing] [waso] e21c "BufdWd"
+yasin [way,path] [nasin] e21d "2sdbMf"
+yawa [head,control] [lawa] e21e ReubRua
+yawin [go,come,"move something"] [tawa] e21f VsdbMf
+yazon [mass,weight] [measure,suli] e222 EafwSuwRfa
+ye [subject] [PAR,en] e223 "1eua"
+yovi [play] [musi] e224 RsfdBu
+yowa [mighty,strong] [wawa] e225 FwuaDu
+za [thousand] [mute,ali,number] e226 Bcsb
+zan [person] [jan] e228 Vsdb
+zeis [six] [number] e229
+zema [sibling] [] e22a
+zenan [ public ] [] e22b
+zenga [money,wealth] [mani] e22c VeufMd
+zewi [sky,heaven] [sewi] e22f QuadDw
+zi [child,offspring,seed] [lili,sike] e230 QcauWu
+zin [metal] [kiwen] e231 FsfdWf
+zo [thing] [ijo] e232 Fcsd
+zon [know] [sona] e233 QhadBw
+zugi [surface,counter,table] [supa] e235 EcadMfRfd
+zugo [exit] [monsi,weka] e236 FcabMfRfa
