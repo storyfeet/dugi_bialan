@@ -7,6 +7,8 @@ const TType = token.TokenType;
 const WType = fmap.WordType;
 var gpa = GPAlloc{};
 
+const LOWER_SET = "abdeghilmnosuvwy";
+
 pub fn Converter(comptime tp: type) type {
     return struct {
         words: fmap.FontMap,
@@ -64,37 +66,49 @@ pub fn Converter(comptime tp: type) type {
                 TType.WORD => {
                     try self.printWord(t);
                 },
-                TType.LONG_SPACE => try w.print("{s}",.{s[t.start..t.end]}),
+                TType.LONG_SPACE => try w.print("{s}", .{s[t.start..t.end]}),
             }
         }
 
         pub fn printWord(self: *@This(), t: token.Token) !void {
             const wd = self.s[t.start..t.end];
             const w = self.w;
+
+            //Try word in main map
+
             if (self.words.get(wd)) |fp| {
-                var space = false;
                 if (fp.wType == WType.Par and self.prev == WType.Norm) {
-                    space = true;
+                    try w.print("<wbr>", .{});
                 }
-                if (space) {
-                    try w.print(" {u}", .{fp.code});
-                } else {
-                    try w.print("{u}", .{fp.code});
-                }
+                try w.print("{u}", .{fp.code});
                 self.prev = fp.wType;
-            } else {
-                try w.print(" ", .{});
-                var it = std.unicode.Utf8Iterator{ .bytes = wd, .i = 0 };
-                while (it.nextCodepointSlice()) |c| {
-                    if (self.letters.get(c)) |fp| {
-                        try w.print("{u}", .{fp.code});
-                    } else {
-                        try w.print("{s}", .{c});
-                    }
-                }
-                try w.print(" ", .{});
-                self.prev = WType.Norm;
+                return;
             }
+            try w.print(" ", .{});
+
+            var it = std.unicode.Utf8Iterator{ .bytes = wd, .i = 0 };
+
+            // If word starts with lower case letter, but is not in set we should print it RED
+            const first = it.nextCodepointSlice() orelse return error.PrintWordOnEmptyString;
+            if (std.mem.count(u8, LOWER_SET, first) > 0) {
+                try w.print(" <span class=\"err_no_word\">{s}</span> ", .{wd});
+                return;
+            }
+
+            var startPos: usize = 0;
+            if (self.letters.get(wd[startPos..it.i])) |bit| {
+                try w.print("{u}", .{bit.code});
+                startPos = it.i;
+            }
+            // Else print it as a name using letter-map  provided
+            while (it.nextCodepointSlice()) |_| {
+                if (self.letters.get(wd[startPos..it.i])) |bit| {
+                    try w.print("{u}", .{bit.code});
+                    startPos = it.i;
+                }
+            }
+            try w.print("{s} ", .{wd[startPos..it.i]});
+            self.prev = WType.Norm;
         }
     };
 }
