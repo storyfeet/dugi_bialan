@@ -3,6 +3,11 @@
     cards = sort_on $cfile "Name" ;
 }}
 <div class="search">Find : <input id="search_box" type="text"></input></div>
+<div class="letters">
+{{for k c in ["A","B","D","E","Ei","G","I","L","M","N","O","S","U","V","W","Y","Z"] -}}
+{{$c}} {{qq $c}},
+{{- /for}}
+</div>
 <div class="word-list" id="words_div">
 {{for k c in $cards}}
     <div class="word-box">
