@@ -89,25 +89,25 @@ pub fn Converter(comptime tp: type) type {
             var it = std.unicode.Utf8Iterator{ .bytes = wd, .i = 0 };
 
             // If word starts with lower case letter, but is not in set we should print it RED
-            const first = it.nextCodepointSlice() orelse return error.PrintWordOnEmptyString;
-            if (std.mem.count(u8, LOWER_SET, first) > 0) {
+            const first = it.peek(1);
+            if (first.len > 0 and std.mem.count(u8, LOWER_SET, first) > 0) {
                 try w.print(" <span class=\"err_no_word\">{s}</span> ", .{wd});
                 return;
             }
 
-            var startPos: usize = 0;
-            if (self.letters.get(wd[startPos..it.i])) |bit| {
-                try w.print("{u}", .{bit.code});
-                startPos = it.i;
-            }
             // Else print it as a name using letter-map  provided
-            while (it.nextCodepointSlice()) |_| {
-                if (self.letters.get(wd[startPos..it.i])) |bit| {
-                    try w.print("{u}", .{bit.code});
-                    startPos = it.i;
+            outer: while (it.peek(1).len > 0) {
+                for (0..3) |m| {
+                    const n = 3 - m;
+                    const pk = it.peek(n);
+                    if (self.letters.get(pk)) |bit| {
+                        try w.print("{u}", .{bit.code});
+                        it.i += pk.len;
+                        continue :outer;
+                    }
                 }
+                try w.print("{s}", .{it.nextCodepointSlice() orelse break});
             }
-            try w.print("{s} ", .{wd[startPos..it.i]});
             self.prev = WType.Norm;
         }
     };
