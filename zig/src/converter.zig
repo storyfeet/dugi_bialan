@@ -57,9 +57,9 @@ pub fn Converter(comptime tp: type) type {
             const w = self.w;
             const s = self.s;
             switch (t.kind) {
-                TType.QUOTE => try w.print(" {u}", .{0xe0e6}),
-                TType.STOP => try w.print("{u} ", .{0xe0e7}),
-                TType.COMMA => try w.print("{u} ", .{0xe0e8}),
+                TType.QUOTE => try self.writeNamedSymbol("_open", "\""),
+                TType.STOP => try self.writeNamedSymbol("_stop", "."),
+                TType.COMMA => try self.writeNamedSymbol("_comma", ","),
                 TType.DASH => {},
                 TType.NEWLINE => try w.print("\n", .{}),
                 TType.COMMENT => try w.print("{s}", .{s[t.start..t.end]}),
@@ -68,6 +68,14 @@ pub fn Converter(comptime tp: type) type {
                 },
                 TType.LONG_SPACE => try w.print("{s}", .{s[t.start..t.end]}),
             }
+        }
+
+        pub fn writeNamedSymbol(self: *@This(), s: []const u8, def: []const u8) !void {
+            if (self.letters.get(s)) |lt| {
+                try self.w.print("{u}", .{lt.code});
+                return;
+            }
+            try self.w.print("{s}", .{def});
         }
 
         pub fn printWord(self: *@This(), t: token.Token) !void {
