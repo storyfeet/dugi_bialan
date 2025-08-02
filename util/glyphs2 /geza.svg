@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="enbin.svg"
+   sodipodi:docname="geza.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
-     inkscape:cx="34.342005"
+     inkscape:cx="33.00574"
      inkscape:cy="33.339806"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
@@ -41,8 +41,13 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 1.5131579,8.1701034 H 16.185623 l -3.71231,3.9774746"
-       id="path16"
+       d="m 5.256558,18.754227 c 0,-2.121319 -2.474875,-5.214912 -2.474875,-5.214912 4.973809,3.574314 9.225104,3.541234 14.672466,0"
+       id="path24"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 1.9451508,2.8761592 h 9.3652502 l 2.9156,6.006953 2.91559,-6.53612"
+       id="path40"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="enbin.svg"
+   sodipodi:docname="zega.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
-     inkscape:zoom="7.4835468"
-     inkscape:cx="34.342005"
-     inkscape:cy="33.339806"
+     inkscape:zoom="11.284479"
+     inkscape:cx="37.750967"
+     inkscape:cy="37.795276"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="0"
@@ -40,9 +40,19 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       d="M 12.175925,11.691666 V 0.900001"
+       id="path38"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       d="M 7.8240755,11.691666 V 0.90000136"
+       id="path38-1"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 1.5131579,8.1701034 H 16.185623 l -3.71231,3.9774746"
-       id="path16"
+       d="m 5.0265771,18.434575 c 0,-2.121319 -2.474875,-5.214913 -2.474875,-5.214913 4.973809,3.574315 9.2251049,3.541235 14.6724669,0"
+       id="path8"
        sodipodi:nodetypes="ccc" />
   </g>
 </svg>

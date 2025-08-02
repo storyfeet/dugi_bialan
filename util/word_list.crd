@@ -32,6 +32,7 @@ dedi [grain] [] e153
 degis [right,side] [teje] e154 EcuaSuw
 dei [plural,several,increase,more] [mute,amount] e155 "2sadCwf"
 deli [oil] [deli] e156 "5cfaDfWa"
+delin [blood] [deli] e157 "5cfaDfWa"
 delo [water] [telo] e158 JsfaMf
 demego [zing , bite, bling] [namako] e159
 deni [few,decrease,less] [] e15a
@@ -82,9 +83,10 @@ gegon [slip,slide,slippery,smooth] [] e194
 gein [can,able] [ken] e195 FwfaSua
 gela [fish] [PRE,kala] e196 "5ffaWa"
 gelin [family] [] e199
-gelubi [group,meeting] [kulupu] e18a HcadCaf
+gelubi [group,meeting] [kulupu] e19a HcadCaf
 geni [shape] [PRE] e19b Lwwf
 geva [partner,spouse] [kulupu,kin] e19d HsufBa
+geza [claw,scratch,nail] [] e19f
 gezuwi [step,ladder,stairs,"discreet amount"] [] e1a0
 gi [one] [wan,number] e1a1 "1csb"
 gin [with,using,also,"and-PAR"] [PAR,kin] e1a2 CsubRfu
@@ -99,8 +101,9 @@ la [then,context] [CON,la] e1ae QsufMpRfd
 lan [five] [luka,number] e1af "5csb"
 leban [take,catch] [lanpan] e1b0 HffdMs
 lebi [sleep] [lape] e1b1 EaadRua
-lebo [book,document] [lipu] e1b3 EcfdRfu
-ledi [cold] [lete] e1b4 JuufMs
+lebo [book,document] [lipu] e1b2 EcfdRfu
+ledi [cold] [lete] e1b3 JuufMs
+legin [glass] [] e1b4
 lego [brick] [leko] e1b5 LaafWu
 lei [joint, bend,corner] [] e1b6 KcsdFEFK
 lein [nine] [number] e1b7
@@ -165,7 +168,7 @@ vegi [moon,round,ring,orbit,around] [segei] e202 QcuaCua
 veis [tail,follow] [] e203 
 veli [real,true] [lon] e204 "2sufRdb"
 velo [skin,peal,cover] [selo] e205 JdabBs
-vemi [what] [FILLER,QUESTION,seme] e1e5 HsouWu
+vemi [what] [FILLER,QUESTION,seme] e206 HsouWu
 veso [lizard,reptile] [PRE] e208
 vi [hot,fire,cook] [seli] e209 JcfwDu
 vin [you,your] [pronoun,sina] e20a "Tcsu*"
@@ -193,10 +196,10 @@ yovi [play] [musi] e224 RsfdBu
 yowa [mighty,strong] [wawa] e225 FwuaDu
 za [thousand] [mute,ali,number] e226 Bcsb
 zan [person] [jan] e228 Vsdb
-zeis [six] [number] e229
-zema [sibling] [] e22a
-zenan [ public ] [] e22b
-zenga [money,wealth] [mani] e22c VeufMd
+zega [money,wealth] [mani] e229 VeufMd
+zeis [six] [number] e22a
+zema [sibling] [] e22b
+zenan [ public ] [] e22c
 zewi [sky,heaven] [sewi] e22f QuadDw
 zi [child,offspring,seed] [lili,sike] e230 QcauWu
 zin [metal] [kiwen] e231 FsfdWf

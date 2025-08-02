@@ -24,10 +24,10 @@
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
-     inkscape:cx="33.00574"
-     inkscape:cy="43.963111"
+     inkscape:cx="34.342005"
+     inkscape:cy="33.339806"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,23 +39,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="M 8.0798964,1.0958261 C 6.4405253,2.2249166 5.9562844,6.3700917 9.9449783,6.3329797 13.933672,6.2958677 13.712893,2.3502974 11.810058,1.0958261"
+       id="path27"
+       sodipodi:nodetypes="czc" />
     <g
        id="g45"
-       transform="translate(-0.75717645,-97.604239)">
+       transform="matrix(0.86943396,0,0,0.87255261,0.64803095,-82.512635)"
+       style="stroke-width:1.14812">
       <path
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;paint-order:stroke fill markers"
+         style="fill:none;stroke:#000000;stroke-width:2.29623;stroke-linejoin:bevel;paint-order:stroke fill markers"
          d="m 6.6499998,116.55 4.0250002,-6.3 4.199999,6.3"
          id="path44"
          sodipodi:nodetypes="ccc" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel;paint-order:stroke fill markers"
+         style="fill:none;stroke:#000000;stroke-width:2.29623;stroke-linejoin:bevel;paint-order:stroke fill markers"
          d="m 10.5,104.3 v 6.475"
          id="path45" />
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="M 1.90625,7.834225 10,2.271726 18.09375,7.834225"
-       id="path32"
-       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
