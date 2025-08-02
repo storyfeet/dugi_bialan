@@ -3,27 +3,27 @@
 
 # Who is Aesop (Esobb) --- (p111)
 
-zan Esobb la, dis zan bi dei dugi bo la, dis zan bi wei buna dei da zan muli la. dan zi zugo li bi man Veligg, deso dan va-busi la, li zan uga.
+zan Esobb la, dis zan bi dei dugi bo la, dis zan bi wei buna dei da muli zan la. dan wei zi zugo li bi man Veligg, deso dan va-busi la, li zan uga.
 
-zan Esobb li lugin dei iagi, lon wei buli li va-elo. 
+zan Esobb li ugin dei geni-egi. lon wei buli la, li va-elo. 
 
-guli-muli li geni-iagi. guli-liawa is-zan li geni-egi. dei la, li leli megi-liawa.
+guli-zo muli li geni-egi. yawa li geni-egi. dei la, li deni gan-zewi.
 
-egin la, zan Esobb li biagela lon man vuli, li va-gein dugi.
+egin la, zan Esobb li beyagi lon dei man. gi la, li va-dugi.
 
-dan va-dugi la, zan liawa li lugin ei i zan Esobb va-wei gein buli lon man mengi vuli, wei man ei Esobb lon man beba
+dan va-dugi la, zan yawa li ugin ei ye zan Esobb va-wei gein buli lon man mengi dei, wei man ei Esobb lon man wa-zo
 
 # His first test (p112)
 
-liawa wei giawin lugin ei man ban giasi, wei lugin ei geli wuwi, wei mugo ei won. dei la da zan uga bi enon Egedubios go "buna ba. geli dis li dei buna. o da mengi mi ei bugi geli dis da - i mi li beni delo begi la, o bena da mi."
+liawa wei giawin ugin ei man ban giasi, wei ugin ei geli wuwi, wei mugo ei won. dei la da zan uga bi enon Egedubios go "buna ba. geli dis li dei buna. o da mengi mi ei bugi geli dis da - i mi li beni delo begi la, o bena da mi."
 
 zan Egedubios lon wei giawin wei belin mugo ei geli dis, wei leban mugo ei va-deso won. deso la wei belin dei mugo, li belin egi dan dis.
 
-lugin ei dis la zan buna begi go "vin wei gein dei mugo. zan liawa wei belin mugo la, o dugi ei i zan Esobb wei mugo ei geli dis"
+ugin ei dis la zan buna begi go "vin wei gein dei mugo. zan liawa wei belin mugo la, o dugi ei i zan Esobb wei mugo ei geli dis"
 
 zan di dis wei begin mugo ei geli lon wei dugi go "zan Esobb ubei ba, li va-deso zo bi li wei egi, li va-deso zo va-elo. dis dei la, mi i vin wei gein dei egi. va-o deso dugi ei i Esobb wei buli"
 
-zan liawa wei guma la, liawa wei dugi belin ei geli begi. zan Egedubios go "ba zan uga Esobb wei lugin ei geli wei mugo ei dis"
+zan liawa wei guma la, liawa wei dugi belin ei geli begi. zan Egedubios go "ba zan uga Esobb wei ugin ei geli wei mugo ei dis"
 
 liawa dan belin egi va-mugo wei dugi guma ei zan Esobb. zan Esobb li wei leban da uga bi zan liawa.
 
@@ -45,16 +45,16 @@ zan di dis li wei egon lena, dis edo wei belin bena da zan Esobb lon deni. wei d
 
 zan liawa wei meni da man mengi la, zan Esobb wei buli lon man beba.
 
-zan zewi min bi enma zewi Esis wei dei va-iasin da bo man beba dis. wei lugin ei zan Esobb, deso va-wei zon ei busi egi dis, wei dugi da zan Esobb.
+zan zewi min bi enma zewi Esis wei dei va-iasin da bo man beba dis. wei ugin ei zan Esobb, deso va-wei zon ei busi egi dis, wei dugi da zan Esobb.
 
-go "zan buna mi o, vin luga ei buna da enma bi gein meli esi, o bena lugin ei iasin da man mengi, dan i mi wei va-iasin"
+go "zan buna mi o, vin luga ei buna da enma bi gein meli esi, o bena ugin ei iasin da man mengi, dan i mi wei va-iasin"
 
-zan Esobb wei lei lugin, wei lugin gein ei zan bi li elein egin zan zewi min.  dan li zan bi enma buna la, gin luga go "vin dan vemi wei wega dan iasin"
+zan Esobb wei lei ugin, wei ugin gein ei zan bi li elein egin zan zewi min.  dan li zan bi enma buna la, gin luga go "vin dan vemi wei wega dan iasin"
 
-dan wei lugin ei i dis mon wei gein gudei deso va wei gein dugi la, min go "mi lon man dis dan va-zon iasin, li zan zewi bi (egin i vin wei gein lugin ) enma zewi Esis. li buna da vin esi, o bena lugin ei iasin da man mengi da mi dan i mi li va-iasin"
+dan wei ugin ei i dis mon wei gein gudei deso va wei gein dugi la, min go "mi lon man dis dan va-zon iasin, li zan zewi bi (egin i vin wei gein ugin ) enma zewi Esis. li buna da vin esi, o bena ugin ei iasin da man mengi da mi dan i mi li va-iasin"
 
 zan Esopp wei gan-luga ei elo begi, wei ensa luga ei luga min da man giasi leli. lon man dis wei bena ei din bi mugo begi da dis, wei bena ei delo egin. lon man dis la, dis-min wei bena ei dugi-zewi da buna bi zan Esopp.
 
-min wei dugi belin ei iasin.  zan Esop gin luga lon luga wei bena lugin ei iasin vuli bengo, beni la wei vis ei buli begi.
+min wei dugi belin ei iasin.  zan Esop gin luga lon luga wei bena ugin ei iasin vuli bengo, beni la wei vis ei buli begi.
 
 dis min deso la, wei uwein belin da zan Esopp. wei gan-zewi ei luga begi wei dugi zewi go ...

@@ -1,31 +1,29 @@
 {{export title="Welcome to Dugi Bialan"}}
 {{@md}}
 
-{{@with_pics}}
-o guma buna da dugi "bialan". won dugi bialan
-{{/with_pics}}
-Welcome to Dugi Bialan, a language of Balance.
+{{@with_pics -}}
+o ubin buna da dugi -"belan"-. gi dugi belan
+{{- /with_pics }}    
+Welcome to Dugi Belan, a language of Balance.
 
-{{with_pics "wei bialan ei iasin leli gin gein bi dugi dei dei"}}    
+{{with_pics "wei belan ei yasin gan-deni ei gein dugi dei"}}    
 It balances minimalism, with the ability to say a lot.
 
-{{with_pics "dugi dis li guma veli dan dugi \"dugi buna\" dan guma zon mi bi dugi dis"}}    
-This language exists from toki pona, from everything I leared from [toki pona.](/from_toki_pona)
+{{@qq -}} 
+o ebin ei -"[dugi buna]#(/from_toki_pona)#"- deso, gein veli dugi-gudei.
+{{- /qq}}    
+o ebin ei "[dugi buna](/from_toki_pona)" deso, gein veli dugi-gudei.    
+Think ['Toki Pona'](/from_toki_pona) but where you can actually communicate.
 
-{{with_pics "li zi-veli bi dugi buna"}}    
-It's a real child of Toki Pona
 
-{{with_pics "li dugi gein gin enon bi uno leli dan di-za.  vin wei gein lugin wei gein gudei ei i is-dugi lon wei dugi lon man dis"}}    
-It is a capable language, with fewer than 200 words. You can watch and hear it being spoken here:
+{{with_pics "li dugi gein gin va-deso bo di-lo-lo enon.  vin wei gein ugin wei gein gudei ei li wei dugi lon dis"}}    
+It is a capable language, with only about 200 words. You can watch and hear it being spoken here:
+
+You can learn the [WORDS here](/quiz)
 
 <iframe class="no-print" width="560" height="315" src="https://www.youtube.com/embed/y45eBC6OOss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-You can learn the [WORDS here](https://app.memrise.com/course/6447575/dugi-bialan-a-language-of-balance/)
-
-And the associated [SIGN LANGUAGE here](https://app.memrise.com/course/6444892/luga-bialan-dugi-bialan-sign/)
 
 
-{{with_pics "deso la, wei gein gein dugi ei dei ebin"}}    
-However it can communicate more ideas easily.
 
 
