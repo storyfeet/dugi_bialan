@@ -57,12 +57,22 @@ pub fn Converter(comptime tp: type) type {
             const w = self.w;
             const s = self.s;
             switch (t.kind) {
-                TType.QUOTE => try self.writeNamedSymbol("_open", "\""),
                 TType.STOP => try self.writeNamedSymbol("_stop", "."),
                 TType.COMMA => try self.writeNamedSymbol("_comma", ","),
                 TType.DASH => {},
+                TType.OPEN_QUOTE => try self.writeNamedSymbol("_open", "-'"),
+                TType.CLOSE_QUOTE => try self.writeNamedSymbol("_close", "'-"),
+                TType.OPEN_HIGHLIGHT => {
+                    try self.writeNamedSymbol("_open", "-'");
+                    try w.print("<span class=\"highlight\">", .{});
+                },
+                TType.CLOSE_HIGHLIGHT => {
+                    try w.print("</span>", .{});
+                    try self.writeNamedSymbol("_close", "'-");
+                },
                 TType.NEWLINE => try w.print("\n", .{}),
-                TType.COMMENT => try w.print("{s}", .{s[t.start..t.end]}),
+                TType.COMMENT => try w.print("{s}", .{s[t.start..t.end]}), //todo ignore
+                TType.AS_IS => try w.print("{s}", .{s[t.start..t.end]}),
                 TType.WORD => {
                     try self.printWord(t);
                 },

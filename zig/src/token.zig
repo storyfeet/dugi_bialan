@@ -4,17 +4,37 @@ pub const TokenType = enum {
     WORD,
     COMMA,
     STOP,
-    QUOTE,
-    COMMENT,
-    DASH,
+    // Quotes in language
+    OPEN_QUOTE, //-"
+    CLOSE_QUOTE, //"-
+    OPEN_HIGHLIGHT, //--"
+    CLOSE_HIGHLIGHT, //"--
+    COMMENT, //#
+    AS_IS, // tags and ="..."=
+    DASH, //-
     NEWLINE,
     LONG_SPACE,
 };
 
-pub const specialChars = &[10]u21{ '\\', '\n', '\r', ' ', '\t', ',', '.', '#', '-', '"' };
+pub const TokenMap = std.static_string_map.StaticStringMap(TokenType).initComptime(.{
+    .{ ".", .STOP },
+    .{ ",", .COMMA },
+    .{ "-", .DASH },
+    .{ "-\"", .OPEN_QUOTE },
+    .{ "\"-", .CLOSE_QUOTE },
+    .{ "--\"", .OPEN_HIGHLIGHT },
+    .{ "\"--", .CLOSE_HIGHLIGHT },
+    .{ "[", .AS_IS },
+    .{ "]", .AS_IS },
+    .{ "(", .AS_IS },
+    .{ ")", .AS_IS },
+});
+
+pub const SPECIAL_CHARS = "\\\n\r\t,.#-'\"=[](){} ";
 
 pub fn special(c: u21) bool {
-    for (specialChars) |s| {
+    var it = std.unicode.Utf8Iterator{ .bytes = SPECIAL_CHARS, .i = 0 };
+    while (it.nextCodepoint()) |s| {
         if (c == s) {
             return true;
         }
@@ -43,17 +63,15 @@ pub const Tokenizer = struct {
     }
 
     pub fn nextToken(self: *@This()) !?Token {
-        const ws = self.whiteSpace();
-        if (ws)|tk|{
+        if (self.whiteSpace()) |tk| {
+            return tk;
+        }
+        if (self.simpleToken()) |tk| {
             return tk;
         }
         self.start = self.it.i;
         const c = self.it.nextCodepoint() orelse return null;
         switch (c) {
-            ',' => return self.makeToken(TokenType.COMMA),
-            '.' => return self.makeToken(TokenType.STOP),
-            '-' => return self.makeToken(TokenType.DASH),
-            '"' => return self.makeToken(TokenType.QUOTE),
             '\n' => {
                 const tk = self.makeToken(TokenType.NEWLINE);
                 self.line += 1;
@@ -71,6 +89,7 @@ pub const Tokenizer = struct {
         _ = self.it.nextCodepoint();
         return self.makeToken(TokenType.COMMENT);
     }
+
     pub fn tag(self: *@This()) !?Token {
         while (true) {
             const c = self.it.nextCodepoint() orelse return error.UnexpectedEOFInHtmlTag;
@@ -120,6 +139,18 @@ pub const Tokenizer = struct {
         };
     }
 
+    pub fn simpleToken(self: *@This()) ?Token {
+        for (0..3) |mn| {
+            const n = 3 - mn;
+            const pk = self.it.peek(n);
+            if (TokenMap.get(pk)) |tk| {
+                self.it.i += pk.len;
+                return self.makeToken(tk);
+            }
+        }
+        return null;
+    }
+
     //Treat one whitespace as null, otherwise return token for space
     pub fn whiteSpace(self: *@This()) ?Token {
         self.start = self.it.i;
@@ -131,7 +162,7 @@ pub const Tokenizer = struct {
             switch (cp) {
                 ' ', '\t', '\r' => _ = self.it.nextCodepoint(),
                 else => {
-                    if (count == 0 ) return null;
+                    if (count == 0) return null;
                     return self.makeToken(TokenType.LONG_SPACE);
                 },
             }
