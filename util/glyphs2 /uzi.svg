@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="velo.svg"
+   sodipodi:docname="uzi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#a3a3a3"
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
-     inkscape:cx="34.342005"
-     inkscape:cy="33.339806"
+     inkscape:cx="33.00574"
+     inkscape:cy="43.896298"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="0"
@@ -39,24 +39,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g45"
-       transform="matrix(0.86943396,0,0,0.87255261,0.966229,-89.004533)"
-       style="stroke-width:1.14812">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2.29623;stroke-linejoin:bevel;paint-order:stroke fill markers"
-         d="m 6.6499998,116.55 4.0250002,-6.3 4.199999,6.3"
-         id="path44"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2.29623;stroke-linejoin:bevel;paint-order:stroke fill markers"
-         d="m 10.5,104.3 v 6.475"
-         id="path45" />
-    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-       d="m 2.8604168,10.526462 v 6.470834 H 17.139583 v -6.470834"
-       id="path5"
-       sodipodi:nodetypes="cccc" />
+       d="m 2.4711856,8.073389 c 0,0 4.082068,-4.237944 6.894292,-5.303301 C 12.177701,1.704731 18.204309,1.974593 18.204309,1.974593"
+       id="path29"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 13.599807,11.30765 c -1.885617,1.149048 -3.7712364,2.298097 -5.6568532,3.447145 1.8856168,1.149048 3.7712362,2.298097 5.6568532,3.447145"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:bevel"
+       d="M 10.641957,4.6805062 V 9.3827659"
+       id="path1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

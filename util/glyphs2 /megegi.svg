@@ -53,20 +53,10 @@
          id="path23"
          sodipodi:nodetypes="ccc" />
     </g>
-    <g
-       id="g33"
-       transform="matrix(0.79863054,0,0,0.79473953,-63.020187,-57.09762)"
-       style="stroke-width:1.2552">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2.51041;paint-order:stroke fill markers"
-         d="m 91.901515,87.682011 c -2.358521,-0.05537 -5.328571,3.590856 -4.173222,5.818617 1.155349,2.227761 6.752686,2.167081 7.94258,0 1.189895,-2.167082 -1.410839,-5.763251 -3.769358,-5.818617 z"
-         id="path25-3"
-         sodipodi:nodetypes="zzzz" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2.51041;paint-order:stroke fill markers"
-         d="m 86.499997,86.749997 4.249999,4.124999"
-         id="path33"
-         sodipodi:nodetypes="cc" />
-    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 10.145939,12.58674 c -1.8835875,-0.04401 -4.2555602,2.853795 -3.3328632,4.624285 0.922697,1.77049 5.3929012,1.722265 6.3431872,0 0.950286,-1.722266 -1.126739,-4.580283 -3.010324,-4.624285 z"
+       id="path25-3"
+       sodipodi:nodetypes="zzzz" />
   </g>
 </svg>

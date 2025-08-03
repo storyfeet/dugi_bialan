@@ -96,7 +96,8 @@ guba [connection] [kulupu] e1a6 BsubBa
 gudei [listen,hear,obey,ear] [kute] e1a7 Heuf
 gugo [clay,dirt,earth] [ko] e1a8 QffuCfa
 guli [organ,"body part"] [sijelo,pilin,insa,PRE] e1a9 EaabMs
-guvi [alive,live] [] e1aa
+guma [come,become] [kuma] e1aa 
+guvi [alive,live] [] e1ab
 la [then,context] [CON,la] e1ae QsufMpRfd
 lan [five] [luka,number] e1af "5csb"
 leban [take,catch] [lanpan] e1b0 HffdMs
@@ -157,8 +158,9 @@ uno [number] [nanpa] e1f5 "1cabF2"
 usis [sick,infection] [ike] e1f6
 ususa [spreading,sprawling] [] e1f7  
 uwein [stand,wait] [awen] e1f8 VsufRdb
-uwi [urgent, important, quick] [] e1fb
-uyawi [machine] [] e1fc
+uwi [urgent, important, quick] [] e1fa
+uyawi [machine] [] e1fb
+uzi [try,attemp	] [] e1fc  
 va [not,no,"un..."] [ala] e1fd Ecsd
 van [three] [san,"tu wan",number] e1fe "3csb"
 vas [lack,empty] [] e1ff

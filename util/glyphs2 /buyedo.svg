@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      inkscape:zoom="7.4835468"
      inkscape:cx="33.00574"
-     inkscape:cy="45.833882"
+     inkscape:cy="45.900695"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,20 +39,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g33"
-       transform="translate(-81.765225,-84.985719)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-         d="m 91.901515,87.682011 c -2.358521,-0.05537 -5.328571,3.590856 -4.173222,5.818617 1.155349,2.227761 6.752686,2.167081 7.94258,0 1.189895,-2.167082 -1.410839,-5.763251 -3.769358,-5.818617 z"
-         id="path25-3"
-         sodipodi:nodetypes="zzzz" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
-         d="m 86.499997,86.749997 4.249999,4.124999"
-         id="path33"
-         sodipodi:nodetypes="cc" />
-    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="M 10.13629,2.696292 C 7.777769,2.640922 4.807719,6.287148 5.963068,8.514909 c 1.155349,2.227761 6.752686,2.167081 7.94258,0 C 15.095543,6.347827 12.494809,2.751658 10.13629,2.696292 Z"
+       id="path25-3"
+       sodipodi:nodetypes="zzzz" />
     <g
        id="g35"
        transform="matrix(1.1618768,0,0,1.1765045,-117.74098,2.4983731)"
