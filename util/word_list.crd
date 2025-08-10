@@ -1,12 +1,12 @@
 @param en tags ucode sign
-ba [ah] [exclaim,a,soo] e12b HmubRuf
-ban [bread,loaf] [pan] e12c "5cadMm"
-bas [striped] ["linja mute"] e12d WcufMd
-bebi [bug,insect] [PRE] e12f 
-bega [stop] [pake] e132 EcufAb
-begin [start,begin] [open] e133 QsfdRfu
-bei [I,me,self,"his/her own"] [pronoun,ona,mi,sina] e134 TsabSfu
-belan [balanced,same,equal] [pona] e135 "2FfaMs"
+ba [ah] [exclaim,a,soo] e12b "touch(side mouth), dir(up,out), motion(down)"
+ban [bread,loaf] [pan] e12c "on(Grain, half(Brick)"
+bas [striped] ["linja mute"] e12d "Stripe"
+bebi [bug,insect] [PRE] e12f "Bug"
+bega [stop] [pake] e132 "Stop - shape(flat,up,fd)"
+begin [start,begin] [open] e133 "shape(2 fingers, up across) turn(fd,across)"
+bei [I,me,self,"his/her own"] [pronoun,ona,mi,sina] e134 "Person(shaoe) dir(back,down)"
+belan [balanced,same,equal] [pona] e135 "Balance - both(shape(flat,fd,up), apart)"
 belas [full] [suli,measure] e138 BcadMm
 beledi [plastic] [] e139
 belin [heart,feeling,want,need] [pilin] e13b CcuaCwu
