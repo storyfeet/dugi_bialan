@@ -4,46 +4,46 @@ ban [bread,loaf] [pan] e12c "on(Grain, half(Brick)"
 bas [striped] ["linja mute"] e12d "Stripe"
 bebi [bug,insect] [PRE] e12f "Bug"
 bega [stop] [pake] e132 "Stop - shape(flat,up,fd)"
-begin [start,begin] [open] e133 "shape(2 fingers, up across) turn(fd,across)"
+begin [start,begin] [open] e133 "rotate(shape(2 fingers, up across),dir(fd,across),wrist)"
 bei [I,me,self,"his/her own"] [pronoun,ona,mi,sina] e134 "Person(shaoe) dir(back,down)"
 belan [balanced,same,equal] [pona] e135 "Balance - both(shape(flat,fd,up), apart)"
-belas [full] [suli,measure] e138 BcadMm
-beledi [plastic] [] e139
-belin [heart,feeling,want,need] [pilin] e13b CcuaCwu
-bena [give] [pana] e13c HcauSuf
-bengo [vehicle] [tomo,tawa] e13e KsuaMa
-beni [end,finish,already] [pini] e13f EcfdMsRfa
-benon ["the word"] [PRE,quote] e140 Ewsd
-besi [electric] [wawa] e141 "LuufSad"
-beyagi [broken] [pakala] e142 FcfdMsRfa
-bi [of] [AUX,pi] e145 Lsub
-bo [beside,with] [poka] e146 Cwwd
-bugi [container] [poki] e147 CsfuWa
-buli [make,do,build] [pali] e148 eFcabCuf
-buna [good,simple] [pona] e149 TmabWu
-bunei [gratitude,thank] [pona] e14a
-bununei [joy,pleasure,happiness] [] e14b
-busi [random,chance] [nasa] e14c RcabCuf
-buyado [bitter,danger] [] e14d WmafRad
-da [for,"in order to"] [PAR,tawa] e14e RsuaRfa
-dan [from,because] [PAR,tan] e14f RsfaRua
-das [that,him,her] [pronoun,ni] e152 "TaabM*R*"
-dedi [grain] [] e153 
-degis [right,side] [teje] e154 EcuaSuw
-dei [plural,several,increase,more] [mute,amount] e155 "2sadCwf"
-deli [oil] [deli] e156 "5cfaDfWa"
-delin [blood] [deli] e157 "5cfaDfWa"
-delo [water] [telo] e158 JsfaMf
-demego [zing , bite, bling] [namako] e159
-deni [few,decrease,less] [] e15a
-deso [but, however, except] [taso,AUX] e15b LafaRad
-devo [milk] [telo] e15c
-di [two] [tu,number] e15f "2csb"
-din [cut, divide] [kipisi] e160 EsuaMpRfa
-dis [this,him,her] [pronoun,ni] e161 "TsabM*R*"
-don [time,hour] [tenpo] e162 BsfdRfa
-duga [fuse,alloy,stick,weld] [] e163  EauaFF
-dugi [talk,speak,communicate] [toki] e165 QmuaSuf
+belas [full] [suli,measure] e138 "sides(More(shape,motion),half(container))"
+beledi [plastic] [] e139 "tap(half(Rock),shape(fist,up,across),knuckle,arm)" 
+belin [heart,feeling,want,need] [pilin] e13b "Heart - shape(fist,up-ac, back) tap(chest,2) "
+bena [give] [pana] e13c "motion(Hand, Forward)"
+bengo [vehicle] [tomo,tawa] e13e "both(shape(Thing),motion(Line))"
+beni [end,finish,already] [pini] e13f "shape(2 fingers, fd, across) turn(up,across)"
+benon ["the word"] [PRE,quote] e140 "touch(shape(2 fingers,up across,across down),side of forehead)"
+besi [electric] [wawa] e141 "shape(2 finger beak, up,fd) motion(down,fast)"
+beyagi [broken] [pakala] e142 "transform(Brick,both(shape(fist, up,back)))"
+bi [of] [AUX,pi] e145 "shape(L,up,forward)"
+bo [beside,with] [poka] e146 "on(Place,shape(L,up,forward))" 
+bugi [container] [poki] e147 "touch(both(L,across,back))"
+buli [make,do,build] [pali] e148 "Hand(shape) Hammer(motion)"
+buna [good,simple] [pona] e149 "on(True,Hand)"
+bunei [gratitude,thank] [pona] e14a "on(Mouth,Heart)" 
+bununei [joy,pleasure,happiness] [] e14b "Heart(motion,position),True(shape)"
+busi [random,chance] [nasa] e14c "motion(shape(Hand,fd,up),across) rotate(_,dir(fd,across),wrist)"
+buyado [bitter,danger] [] e14d "on(Thing,Fire)"
+da [for,"in order to"] [PAR,tawa] e14e "motion(Place,forward)"
+dan [from,because] [PAR,tan] e14f "motion(Place,backward)"
+das [that,him,her] [pronoun,ni] e152 "shape(scissors,or(out,to indicated thing),up)"
+dedi [grain] [] e153 "Grain - shape(2 finger beak, fd, up)"
+degis [right,side] [teje] e154 "left(flat,across,back) right(flat,out,forward)"
+dei [plural,several,increase,more] [mute,amount] e155 "More - shape(knucklebend,up,across) motion(up)"
+deli [oil] [deli] e156 "on(Grain,Water)"
+delin [blood] [deli] e157 "Water(shape) Heart(motion)"
+delo [water] [telo] e158 "Water - shape(four fingers wiggle, across, down) motion(across)"
+demego [zing , bite, bling] [namako] e159 "shape(beak) touch(tooth) motion(S, up)"
+deni [few,decrease,less] [] e15a "shape(knuckleBend,up, across), motion(down)"
+deso [but, however, except] [taso,AUX] e15b "shape(bull,forward,up)" 
+devo [milk] [telo] e15c "on(Bull,Water)"
+di [two] [tu,number] e15f "shape(2,up,back)"
+din [cut, divide] [kipisi] e160 "rotate(shape(flat,up,across),dir(forward,across),wrist)"
+dis [this,him,her] [pronoun,ni] e161 "shape(scissors,or(out,to indicated thing),down)"
+don [time,hour] [tenpo] e162 "touch(shape(flat,across up,across down),-,fingertip,wrist)"
+duga [fuse,alloy,stick,weld] [] e163 "pull(shape(4 finger U,across,back),shape(4 finger U,across,fd))"
+dugi [talk,speak,communicate] [toki] e165 "touch(finger, mouth) motion(S,up)" 
 dumo [room,area,reside] [tomo,ma] e166 KsuaRfa
 ebin [think] [isipin] e167 QhuaCuf
 edi [taste] [namako] e168 RmafCuf
@@ -66,7 +66,7 @@ endi [different,change] [ante] e17d "1sufRub"
 enin [hill,bump] [nena] e17f CsadMu
 enma [being,soul,spirit,state] [zan,sijelo] e180 "5cfwSwu"
 eno [sun,bright,day] [suno] e181 "QusdF5"
-enon [name,word] [nimi] e182 "2hsfMw"
+enon [name,word] [nimi] e182 on(Thing,shape(flat,across,down))" 
 ensa [inside] [insa] e183 "2cbwCua"
 enyasa [mad,wild] [nasa] e186 ReabCuf
 esa [hook,trap,trick] [] e187

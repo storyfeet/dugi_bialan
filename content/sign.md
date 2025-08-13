@@ -24,8 +24,11 @@ Key
 - dir(a,b) : Fingers pointing towards 'a', palm facing toward 'b'
 - circle(a,b): Move in directoin 'a', then 'b', then complete the circle.
 - on(a,b) : place # 'a' above 'b'
+- sides(a,b,distance) : Two actions 'a' and 'b', side by side. 
 - half(action) : use one hand for two handed 'action'
 - both(action) : Do the same acton with both hands
+- tap(a?,b,ta?,tb?, repeat = 1) : actions 'a' and 'b' tap against each other at points 'ta', and tb', 'repeat' times.
+- rotate(shape,dir,point): rotate 'shape' to new 'dir' turning about 'point'.  
 
 Radicals
 -------- 
@@ -47,19 +50,22 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Ear : Touch the ear
 - Electric : motion(fast, down) 
 - Fire : shape(4 finger, flat, wiggles) dir (Fd, across)
+- Fish :
 - Go : shape(scisors wiggle) motion(Fd)
 - Grain : shape(2 finger beak, fd, up)
+- Hammer : rotate(shape(fist,up,across),dir(fd, across),Elbow)
 - Hand : dir(Across,up) thumb and 1st 2 fingers pointing out, flat palm, thumb pointing down,
 - Heart : motion (tap twice back and forth), position (chest)
 - Hill : shaoe(Big C, Across, down)
 - Hole : shape(Big C. Across, up)
 - Institute
 - L-Shape : 
-- Line
+- Line : motion(left to right across body) shape(flat,across,down)
 - Lock
 - Mammel : dir(up, back) slow(close fingers pull 
 - Measure
 - Mouth : Touch the mouth
+- More : shape(knucklebend,up across) motion(up) 
 - Not : shape (Forarms X, dir(up-across, down-across) : motion(Shoulder across, waist same) , face(shake head)
 - Numbers : Use Japanese count with back of hand out, start with index finger, and use thumb for 5
 - Person/pronoun : first 2 fingeres separate (scisors)
@@ -74,12 +80,13 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Surface : shape(flat palm, fd-across,down) 
 - Tail 
 - Ten : 
+- Thing : shape(circle all fingers with thumb, up, across)
 - Think
 - Thousand: 
 - Time
 - Tooth : shape(beak) pos(mouth) dir(up,across)
 - True : shape(thumbs up, across, back)
 - Under arrows: Thumb wrapped, index finger point.
-- Water : shape(4 fingers wiggle) dir(ac, down) motion(
+- Water : shape(4 fingers wiggle,ac,down)  motion(across)
 - Wing
 - dash
