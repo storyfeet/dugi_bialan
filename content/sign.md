@@ -38,7 +38,7 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 
 - Air : motion(s moving up)
 - All: motion(circle(out, fd))
-- Atom : shape(Thumb,4 finger circle)
+- Atom : shape(C(2 fingers),across, up)
 - Balance : both(shape(flat,fd,up), apart)
 - Bird : shape(beak) point
 - Brick : shape(fist on fist) dir(across, back)
@@ -66,13 +66,13 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Measure
 - Mouth : Touch the mouth
 - More : shape(knucklebend,up across) motion(up) 
-- Not : shape (Forarms X, dir(up-across, down-across) : motion(Shoulder across, waist same) , face(shake head)
+- Not : shape (Thumb down, across, down) : motion(Shoulder across, waist same) , face(shake head)
 - Numbers : Use Japanese count with back of hand out, start with index finger, and use thumb for 5
 - Person/pronoun : first 2 fingeres separate (scisors)
 - Place : shape(2 finger beak,Across,down)
 - Plant : slowly separate fingers pointing up, and raise hand:
-- Rock : motion(bump hands together at knuckle), shape(fists) dir(up-ac, down-ac
-- Roof : pos( above head) , shape(flat palm) , dir(across, down)
+- Rock : shape(fist,up-ac, down-ac)
+- Roof : pos( above head) , shape(knuckleBend, across up, across down) ,
 - Shape : shape(Big C, wiggles), 
 - Sound : Circle away from ear.
 - Stop : Flat palm facing forwards, fingers together

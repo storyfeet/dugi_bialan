@@ -44,21 +44,21 @@ dis [this,him,her] [pronoun,ni] e161 "shape(scissors,or(out,to indicated thing),
 don [time,hour] [tenpo] e162 "touch(shape(flat,across up,across down),-,fingertip,wrist)"
 duga [fuse,alloy,stick,weld] [] e163 "pull(shape(4 finger U,across,back),shape(4 finger U,across,fd))"
 dugi [talk,speak,communicate] [toki] e165 "touch(finger, mouth) motion(S,up)" 
-dumo [room,area,reside] [tomo,ma] e166 KsuaRfa
-ebin [think] [isipin] e167 QhuaCuf
-edi [taste] [namako] e168 RmafCuf
-edin [atom,molecule] [PRE] e169 JaadWu
-edo ["who is","which is"] [PAR] e16c
-egesa [exact,point] [ni] e16d "1suaMcRdw"
-egesi [scale,salt] [akesi] e16e BdfdWd
-egi [bad] [ike] e16f PmubMs
-egin [same,equal] [] e170 	
-egon [hard,rock,horn,hit] [kiwen] e172 BsfdWf
-ei ["object-marker"] [PAR,e] e173 Qaad
-elena [dust,sand] [] e174 Jddb 
-elesa [hunt,search] [alasa] e175 CffaMs
-elin [cloth] [len] e176 EsabCuf 
-elo [tool] [ilo] e179 FsuaMpRfa
+dumo [room,area,reside] [tomo,ma] e166 "on(Roof(shape),shape(flat,up,across))"
+ebin [think] [isipin] e167 "touch(finger,forehead) motion(S, up)"
+edi [taste] [namako] e168 "touch(shape(fingers(1,4),across,back),and(eye,mouth))" 
+edin [atom,molecule] [PRE] e169 "Atom - shape(C(2 fingers),across, up)"
+edo ["who is","which is"] [PAR] e16c "rotate(shape(scissors, up across),dir(fd out,across),wrist)"
+egesa [exact,point] [ni] e16d "on(Place,True)"
+egesi ["scale of skin",salt] [akesi] e16e "touch(shape(pinch,across,up),across shoulder)"
+egi [bad] [ike] e16f "on(Not,Hand)"
+egin [same,equal] [] e170 "transform(Balance,touch)"
+egon [hard,rock,horn,hit] [kiwen] e172 "Rock - shape(fist,up-ac, down-ac)"
+ei ["object-marker"] [PAR,e] e173 "shape(fingers(3,4),up,back)"
+elena [dust,sand] [] e174 "tap(index finger,loop(thumb,second finger)),dir(across, back), motion(up)" 
+elesa [hunt,search] [alasa] e175 "both(shape(fist,fd,across)) separate(fd,back)"
+elin [cloth] [len] e176 "pinch(top, same shoulder), motion(tug)",  
+elo [tool] [ilo] e179 "Hammer - rotate(shape(fist,up,across),dir(fd, across),Elbow)"
 ema [sound] [PRE,kalama] e17a Jeub
 emi [hidden,secret] [weka] e17b EmsfWf
 enbin [face,front] [sinpin] e17c EssbCau
