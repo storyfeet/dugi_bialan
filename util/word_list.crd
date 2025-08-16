@@ -57,78 +57,79 @@ egon [hard,rock,horn,hit] [kiwen] e172 "Rock - shape(fist,up-ac, down-ac)"
 ei ["object-marker"] [PAR,e] e173 "shape(fingers(3,4),up,back)"
 elena [dust,sand] [] e174 "tap(index finger,loop(thumb,second finger)),dir(across, back), motion(up)" 
 elesa [hunt,search] [alasa] e175 "both(shape(fist,fd,across)) separate(fd,back)"
-elin [cloth] [len] e176 "pinch(top, same shoulder), motion(tug)",  
+elin [cloth] [len] e176 "pinch(top, same shoulder), motion(tug)"  
 elo [tool] [ilo] e179 "Hammer - rotate(shape(fist,up,across),dir(fd, across),Elbow)"
-ema [sound] [PRE,kalama] e17a Jeub
-emi [hidden,secret] [weka] e17b EmsfWf
-enbin [face,front] [sinpin] e17c EssbCau
-endi [different,change] [ante] e17d "1sufRub"
-enin [hill,bump] [nena] e17f CsadMu
-enma [being,soul,spirit,state] [zan,sijelo] e180 "5cfwSwu"
-eno [sun,bright,day] [suno] e181 "QusdF5"
-enon [name,word] [nimi] e182 on(Thing,shape(flat,across,down))" 
-ensa [inside] [insa] e183 "2cbwCua"
-enyasa [mad,wild] [nasa] e186 ReabCuf
-esa [hook,trap,trick] [] e187
-esegi [ball,planet] [sike] e188
-esenis [left,side] [soto] e189 EcuaSda
-esi [if] [CON,la] e18a QsubRuf
-esin [trade,buy,sell] [esin] e18c FsfuBf
-ewi [pain] [ike] e18d
-ezan [fierce,wolf] [soweli] e18e SufdDf
-ga [colour] [PRE,kule] e18f Luaf
-gan [direction] [tawa,PRE] e190 Lasf
-gedin [tooth,bite,sharp] [kiwen] e193 "5mufFQ"
-gegon [slip,slide,slippery,smooth] [] e194
-gein [can,able] [ken] e195 FwfaSua
-gela [fish] [PRE,kala] e196 "5ffaWa"
-gelin [family] [] e199
-gelubi [group,meeting] [kulupu] e19a HcadCaf
-geni [shape] [PRE] e19b Lwwf
-geva [partner,spouse] [kulupu,kin] e19d HsufBa
-geza [claw,scratch,nail] [] e19f
-gezuwi [step,ladder,stairs,"discreet amount"] [] e1a0
-gi [one] [wan,number] e1a1 "1csb"
-gin [with,using,also,"and-PAR"] [PAR,kin] e1a2 CsubRfu
-go [quote] [PAR,quote] e1a3 TmabWu
-gon [air,breath] [kon] e1a4 "5auaWa"
-guba [connection] [kulupu] e1a6 BsubBa
-gudei [listen,hear,obey,ear] [kute] e1a7 Heuf
-gugo [clay,dirt,earth] [ko] e1a8 QffuCfa
-guli [organ,"body part"] [sijelo,pilin,insa,PRE] e1a9 EaabMs
-guma [come,become] [kuma] e1aa 
-guvi [alive,live] [] e1ab
-la [then,context] [CON,la] e1ae QsufMpRfd
-lan [five] [luka,number] e1af "5csb"
-leban [take,catch] [lanpan] e1b0 HffdMs
-lebi [sleep] [lape] e1b1 EaadRua
-lebo [book,document] [lipu] e1b2 EcfdRfu
-ledi [cold] [lete] e1b3 JuufMs
-legin [glass] [] e1b4
-lego [brick] [leko] e1b5 LaafWu
-lei [joint, bend,corner] [] e1b6 KcsdFEFK
-lein [nine] [number] e1b7
-lema [ask,question] [] e1ba
-lena [line,cord,string] [linja] e1bb QeubMd
-lesi [direct,straight,rod] [] e1bc
-lezi ["playing cards"] [] e1bd
-li [is,be,adjective] [PAR,li] e1be "2sabRdb"
-lin [love] [olin] e1c0 CcuaRfu
-lis [eight] [number] e1c1
-lo [ten] [] e1c2
-lon [at,in] [PAR,lon] e1c3 CsubRadMc
-ludi [sad] [] e1c4
-luga [hand] [luka] e1c7 Hcua
+ema [sound] [PRE,kalama] e17a "touch(finger,ear) motion(S, up)"
+emi [hidden,secret] [weka] e17b "on(Place,Hole)"
+enbin [face,front] [sinpin] e17c "shape(spread(5),up,back) position(across) motion(across)"
+endi [different,change] [ante] e17d "separate(Balance,up,down)"
+enin [hill,bump] [nena] e17f "shape(C no thumb wrist back, across ,down)"
+enma [being,soul,spirit,state] [zan,sijelo] e180 "shape(scissors) motion(S,up)"
+eno [sun,bright,day] [suno] e181 "above(Thing,head)"
+enon [name,word] [nimi] e182 "on(Thing,shape(flat,across,down))" 
+ensa [inside] [insa] e183 "on(Place,half(Container))"
+enyasa [mad,wild] [nasa] e186 "above(Bull,head)"
+esa [hook,trap,trick] [] e187 "shape(hook(1 finger),up,fd) rotate(fd,down,wrist)"
+esegi [ball,planet] [sike] e188 "on(shape(big C across-fd,down),shape(big C,across-fd,up))"
+esenis [left,side] [soto] e189 "right(flat,across,back) left(flat,out,forward)"
+esi [if] [CON,la] e18a "shape(bull,across,down) wiggle"
+esin [trade,buy,sell] [esin] e18c "on(both(Hand)) motion(opposite back and forth)"
+ewi [pain] [ike] e18d "face(wince), shape(Tooth) position(chest), double_tap(back and forth3)"	    
+ezan [fierce,wolf] [soweli] e18e "shape(Tooth), position(eye)"
+ga [colour] [PRE,kule] e18f "shape(spread(5),up,across), position(out)"
+gan [direction] [tawa,PRE] e190 "shape(thumbsup,across,up)"
+gedin [tooth,bite,sharp] [kiwen] e193 "Tooth - shape(beak,up, across) position(mouth)"
+gegon [slip,slide,slippery,smooth] [] e194 "on(Water,Surface)"
+gein [can,able] [ken] e195 "on(wiggle(shape(scisors,down,out)),Thing)"
+gela [fish] [PRE,kala] e196 "shape(relaxed,across,back) wiggle(wrist), motion(across,out)"
+gelin [family] [] e199 "shape(Person), motion(Heart)"
+gelubi [group,meeting] [kulupu] e19a "bring_together(both(thing),both(across))"
+geni [shape] [PRE] e19b "beside(shape(C(2),up ,across), shape(C(2),fd,across))"
+geva [partner,spouse] [kulupu,kin] e19d "bring_together(both(1,up,fd),both(across))" 
+geza [claw,scratch,nail] [] e19f "shape(claw(3),up,fd)"
+gezuwi [step,ladder,stairs,"discreet amount"] [] e1a0 "on(both(shape(flat,across,down)))"
+gi [one] [wan,number] e1a1 "shape(1 finger, up, back)"
+gin [with,using,also,"and-PAR"] [PAR,kin] e1a2 "on(Place,Place)"
+go [quote] [PAR,quote] e1a3 "both(position(mouth), transform(shape(beak,up,back),shape(spread(5),up,back)))"
+gon [air,breath] [kon] e1a4 "shape(1,fd,down) motion(S up)"
+guba [connection] [kulupu] e1a6 "both(shape(thumbsup,fd,across),motion(shake toward each other)"
+gudei [listen,hear,obey,ear] [kute] e1a7 "shape(C no thumb,up,fd) position(ear)"
+gugo [clay,dirt,earth] [ko] e1a8 "on(Line,Thing)"
+guli [organ,"body part"] [sijelo,pilin,insa,PRE] e1a9 "shape(scissors,across,back)"
+guma [come,become] [kuma] e1aa "motion(Person,back) wiggles(fingers)"
+guvi [alive,live] [] e1ab "shape(scissors,across,back) wiggle(fingers)"
+la [then,context] [CON,la] e1ae "rotate(shape(relaxed,back,down),(fd,up),wrist)"
+lan [five] [luka,number] e1af "shape(thumbsup,up-across,back)"
+leban [take,catch] [lanpan] e1b0 "shape(hook(all fingers),fd,down) motion(pull back)"
+lebi [sleep] [lape] e1b1 "transform(shape(L,up-ac,fd),shape(cross(thumb and first,up-ac,back))) position(eye)"
+lebo [book,document] [lipu] e1b2 "shape(flatL,up,back) face(look to read)"
+ledi [cold] [lete] e1b3 "on(Rock,Water)"
+legin [glass] [] e1b4 "shape(half(Brick)) position(eye)"
+lego [brick] [leko] e1b5 "Brick - on(both(shape(fist,across,back)))" 
+lei [joint, bend,corner] [] e1b6 "shape(knucklebend,fd-down,back-down)"
+lein [nine] [number] e1b7 "shape(flatL,across-up,back)"
+lema [ask,question] [] e1ba "shape(bull,across,down) wiggle position(mouth)"
+lena [line,cord,string] [linja] e1bb "both(shape(thumbsup,fd,down)) wiggle(wrist)"
+lesi [direct,straight,rod] [] e1bc "shape(thumbsup,fd, across) motion(forward)"
+lezi ["playing cards"] [] e1bd "action(shape(flatL,fd,up) throw(across) ) "
+li [is,be,adjective] [PAR,li] e1be "shape(2 fingers,across,back)"
+lin [love] [olin] e1c0 "shape(Hand) Heart(position, motion)"
+lis [eight] [number] e1c1 "shape(8)"
+lo [ten] [] e1c2 "shape(1,up-across,fd)"
+lon [at,in] [PAR,lon] e1c3 "Place"
+ludi [sad] [] e1c4 "at(Water,eye)"
+luga [hand] [luka] e1c7 "Hand"
 lugo [lock,tie,know,tight] [] e1c8 FcuaRub
-luli [hole,entrance] [lupa] e1c9 HcadRau
+luli [hole,entrance] [lupa] e1c9 "shape(circle,across,up-back)"
 ma [parent] [mama] e1ca HcauWu
 man [place] [ma] e1cb CcadCuf
 meda [lie,decieve,trick] [] e1cd 
 megegi [medicine] [misikeke] e1ce FcuaCwf
 megi [measure] [weka,PRE] e1cf Beub
 mei ["made of"] [bi,AUX] e1d0
-meli [die,death] [moli] e1d1 SyubFF
-memuso [average] [meso,measure] e1d2 KsuaAd
+mela [weapon] [] e1d1    
+meli [die,death] [moli] e1d2 SyubFF
+memuso [average] [meso,measure] e1d3 KsuaAd
 mengi [building,build] [tomo,pali] e1d4 KsuaRad
 meni [back,"turn back"] [monsi] e1d5 CsubCbu
 menuga [wall,barrier] [tomo] e1d6 

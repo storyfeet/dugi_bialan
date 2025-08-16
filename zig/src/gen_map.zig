@@ -10,7 +10,7 @@ pub fn main() !void {
         try stdout.print("Error opening file {}\n", .{e});
         return e;
     };
-    const words = try wordf.readToEndAlloc(al, 10_000);
+    const words = try wordf.readToEndAlloc(al, 100_000);
     wordf.close();
 
     var letterf = std.fs.cwd().openFile("../util/letter_list.crd", .{}) catch |e| {

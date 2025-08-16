@@ -66,7 +66,7 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Measure
 - Mouth : Touch the mouth
 - More : shape(knucklebend,up across) motion(up) 
-- Not : shape (Thumb down, across, down) : motion(Shoulder across, waist same) , face(shake head)
+- Not : shape (Thumb down, across, fd) : motion(Shoulder across, waist same) , face(shake head)
 - Numbers : Use Japanese count with back of hand out, start with index finger, and use thumb for 5
 - Person/pronoun : first 2 fingeres separate (scisors)
 - Place : shape(2 finger beak,Across,down)
@@ -84,9 +84,17 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Think
 - Thousand: 
 - Time
-- Tooth : shape(beak) pos(mouth) dir(up,across)
+- Tooth : shape(beak,up,across) pos(mouth) 
 - True : shape(thumbs up, across, back)
 - Under arrows: Thumb wrapped, index finger point.
 - Water : shape(4 fingers wiggle,ac,down)  motion(across)
 - Wing
 - dash
+
+
+Shorthand
+------
+
+For numbers from 10 to 99. put the hand with the 10's palm forward, and the hand with the 1's face backward.
+
+To communicate yes no questions, "wei-va-wei" is applied to the particle. In sign language shake the particle up and down, and turn your head sideways to mark the question.
