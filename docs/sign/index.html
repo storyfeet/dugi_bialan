@@ -140,78 +140,90 @@ body {
     <h1>Sign Language</h1>
     <div class="content">
         
-<h1>Luga Bialan</h1>
+<h1>Luga Belan</h1>
 <p>Dugi Bialan also has a Sign Language associated with it WIP, that codifies every word.</p>
 <p>The goals of the Sign Language are:</p>
 <ul>
-<li>To be useable with just one hand.</li>
+<li>To be as useble as the spoken language</li>
 <li>To help people remember vocab with gesures that match.</li>
 </ul>
 <p>Every Dugi Bialan Word has a Luga Bialan Equivilant, so the whole language can be communicated in Sign, as though it were spoken, with just one hand.</p>
 <p>Prefixes Particles may be signed with the other hand at the same time as the item they prefix, this is not required however.</p>
-<h2>Handemes - Units of meaning.</h2>
-<p>Each Signed word is made of a Shape,  Position, Angle, followed by a series of Gestures, which may require their own parameters.</p>
-<p>Make the Shape, with your hand in the first angle, and position, them move your hand to the second angle and position.</p>
-<p>Across means, the opposite side of the body to the gesturing hand.</p>
-<h3>Shapes</h3>
-<p>//0 - Thumb touching index finger.
-1 - Index Finger up, thumb on knucle
-2 - index and second Fingers up together.
-3 - Three fingers up together. Thumb touching pinky
-4 - Four finger up, 
-5 - Fingers up, and Spread out, thumb out.
-B - Bull : Pinky and thumb wide
-C - Claw : Make a 'C' Shape with thumb and all fingers
-E - Extended : All fingers and thumb Extended
-F - Fist : Fist closed, thumb under
-H - Hand : Thumb out palm slightly curled (luga)
-J - Jiggle : Jiggle all fingers
-L - Thumb out Index raised
-K - KnuckleBend : Right angle bend all fingers at first knuckle
-P - Pinky : Pinky raisd, fist closed
-Q - sQueaze : All fingers meet thumb
-R - Ring : Ring and Pinky fingers up, spread.
-S - Spiderman : index and pinky raised, thumb out, other fingers touching palm
-T - Thumbsup : Thumb up, fist closed
-V - Victory : Index and Second finger spread, other fingers closed in fist.
-W - Double-u : Three fingers up separated</p>
-<h3>Positions</h3>
-<p>The shoulder is the shoulder of the gesturing arm</p>
-<p>a - Across : Across the body from the shoulder
-f - Forward : Out in front of the shoulder
-s - Shoulder : at the shoulder 
-w - Wide : To the outside of the shoulder
-u - Up : above the shoulder
-d - down : Below the shoulder
-p - present : Elbow at side, hand forward from elbow.</p>
-<p>m - mouth
-h - side of head.
-e - ear
-c - chest
-y - eye</p>
-<h3>Angle / Directions</h3>
-<p>2 lower case letters, first is Point, second is palm.</p>
-<p>The point is where an unbent index finger would point.
-Where the Point/palm is facing.</p>
-<p>f - Forward<br />
-b - Back 
-u - Up 
-d - down
-a - Across 
-w - Wide 
-s - Sash : Diagonal up across</p>
-<h3>Gestures</h3>
-<p>If multiple Gestures given, they happen at the same time, unless the same, or separated by a &quot;-&quot;
-If no gesture is given visibly Lock into the position given.</p>
-<p>A - Approach from the following direction
-B - Bounce : to and from the following position.
-C - Circle : in the two following directions
-D - Direction : Move in the given direction
-F - Form : Change Form to following Shape
-M - Move : Move to the following Position
-R - Rotate : Rotate to the following Angle
-S - SemiCircle : Rotage half a circle in the 2 directions given
-W - Wavey : Wave back and forth towards given direction</p>
+<p>In general, particles and prefixes will be performed with the left hand, and may overlap the actions of the right. An action done &quot;down right&quot; across the body is ne</p>
+<h2>Key</h2>
+<ul>
+<li>shape(handshape,?point-direction,?palm-direction) </li>
+<li>dir(a,b) : Fingers pointing towards 'a', palm facing toward 'b'</li>
+<li>circle(a,b): Move in directoin 'a', then 'b', then complete the circle.</li>
+<li>on(a,b) : place # 'a' above 'b'</li>
+<li>sides(a,b,distance) : Two actions 'a' and 'b', side by side. </li>
+<li>half(action) : use one hand for two handed 'action'</li>
+<li>both(action) : Do the same acton with both hands</li>
+<li>tap(a?,b,ta?,tb?, repeat = 1) : actions 'a' and 'b' tap against each other at points 'ta', and tb', 'repeat' times.</li>
+<li>rotate(shape,dir,point): rotate 'shape' to new 'dir' turning about 'point'.</li>
+</ul>
+<h2>Radicals</h2>
+<p>The radicals used to create write vedin belan, are matched to hand motions.  The majority of characters in vedin belan are a combination of 2 radicals, and we have 2 hands, so, it is normally possible to create signs that match the radicals.
+A radical can be a shape motion or position,  and when combined a shape and motion can create a word</p>
+<ul>
+<li>Air : motion(s moving up)</li>
+<li>All: motion(circle(out, fd))</li>
+<li>Atom : shape(C(2 fingers),across, up)</li>
+<li>Balance : both(shape(flat,fd,up), apart)</li>
+<li>Bird : shape(beak) point</li>
+<li>Brick : shape(fist on fist) dir(across, back)</li>
+<li>Bug : shape (4 fingers wiggles) dir(Fd, down)</li>
+<li>Child</li>
+<li>Container : shape(2 hands point in sha</li>
+<li>Directions : Thumb up, index finger point.</li>
+<li>Document : shape(flat palm) dir(up-fd, up-back)</li>
+<li>Ear : Touch the ear</li>
+<li>Electric : motion(fast, down) </li>
+<li>Fire : shape(4 finger, flat, wiggles) dir (Fd, across)</li>
+<li>Fish :</li>
+<li>Go : shape(scisors wiggle) motion(Fd)</li>
+<li>Grain : shape(2 finger beak, fd, up)</li>
+<li>Hammer : rotate(shape(fist,up,across),dir(fd, across),Elbow)</li>
+<li>Hand : dir(Across,up) thumb and 1st 2 fingers pointing out, flat palm, thumb pointing down,</li>
+<li>Heart : motion (tap twice back and forth), position (chest)</li>
+<li>Hill : shaoe(Big C, Across, down)</li>
+<li>Hole : shape(Big C. Across, up)</li>
+<li>Institute</li>
+<li>L-Shape : </li>
+<li>Line : motion(left to right across body) shape(flat,across,down)</li>
+<li>Lock</li>
+<li>Mammel : dir(up, back) slow(close fingers pull </li>
+<li>Measure</li>
+<li>Mouth : Touch the mouth</li>
+<li>More : shape(knucklebend,up across) motion(up) </li>
+<li>Not : shape (Thumb down, across, fd) : motion(Shoulder across, waist same) , face(shake head)</li>
+<li>Numbers : Use Japanese count with back of hand out, start with index finger, and use thumb for 5</li>
+<li>Person/pronoun : first 2 fingeres separate (scisors)</li>
+<li>Place : shape(2 finger beak,Across,down)</li>
+<li>Plant : slowly separate fingers pointing up, and raise hand:</li>
+<li>Rock : shape(fist,up-ac, down-ac)</li>
+<li>Roof : pos( above head) , shape(knuckleBend, across up, across down) ,</li>
+<li>Shape : shape(Big C, wiggles), </li>
+<li>Sound : Circle away from ear.</li>
+<li>Stop : Flat palm facing forwards, fingers together</li>
+<li>Stripe : shape(scissors) dir(Fd-dn-rt, Bk-dn-rt) motion(up-out)</li>
+<li>Surface : shape(flat palm, fd-across,down) </li>
+<li>Tail </li>
+<li>Ten : </li>
+<li>Thing : shape(circle all fingers with thumb, up, across)</li>
+<li>Think</li>
+<li>Thousand: </li>
+<li>Time</li>
+<li>Tooth : shape(beak,up,across) pos(mouth) </li>
+<li>True : shape(thumbs up, across, back)</li>
+<li>Under arrows: Thumb wrapped, index finger point.</li>
+<li>Water : shape(4 fingers wiggle,ac,down)  motion(across)</li>
+<li>Wing</li>
+<li>dash</li>
+</ul>
+<h2>Shorthand</h2>
+<p>For numbers from 10 to 99. put the hand with the 10's palm forward, and the hand with the 1's face backward.</p>
+<p>To communicate yes no questions, &quot;wei-va-wei&quot; is applied to the particle. In sign language shake the particle up and down, and turn your head sideways to mark the question.</p>
 
     </div>
 </body>
