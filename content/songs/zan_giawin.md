@@ -1,5 +1,5 @@
 Am          G
-lon dis yasin dan eno dei,
+lon dis yasin dan dei eno,
 bei wei yawin, 
 da mengi bei 
 deso yasin li egon,
@@ -43,7 +43,7 @@ busi bi dei zan gelubi busi bi guvi
 dei wei guma musi uga belas bi bununei
 bununei, bununei
 
-lon dis yasin, dan eno dei,
+lon dis yasin, dan dei eno,
 bei wei yawin
 da mengi bei
 deso yasin wei bena 

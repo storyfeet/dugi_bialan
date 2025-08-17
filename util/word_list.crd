@@ -130,7 +130,7 @@ mei ["made of"] [bi,AUX] e1d0
 mela [weapon] [] e1d1    
 meli [die,death] [moli] e1d2 SyubFF
 memuso [average] [meso,measure] e1d3 KsuaAd
-mengi [building,build] [tomo,pali] e1d4 KsuaRad
+mengi [building,build] [tomo,pali] e1d4 "on(Roof,half(Container))"
 meni [back,"turn back"] [monsi] e1d5 CsubCbu
 menuga [wall,barrier] [tomo] e1d6 
 meseni [institute] [] e1d7
@@ -142,7 +142,7 @@ mugo [food,consume,eat] [moku] e1de HcauMm
 muli [all,every] [ali,ale,amount] e1e1 HcauCwf
 munin [over,cross,leap] [supa] e1e2 CwuaSua
 musi [art] [musi] e1e3 "1sdbRuf-Rdb"
-o [imperetive] [PAR,o] e1e4 WmubCfd
+o [imperetive] [PAR,o] e1e4 "shape(thumb over fist,fd,up)"
 uba [rubber,stretch] [] e1e5
 uban [frequency] [measure] e1e7 EafaSuwSuw
 ubei [shame,guilt] [apeja] e1e8 "2subMd"
@@ -181,7 +181,7 @@ vos [seven] [number] e20e
 vyala [door] [] e20f
 wa [plant] [PRE] e210
 wega [yeet,away,gone] [weka] e211 "FcfuMdF5"
-wei [do,verb] [PAR,li] e212 BaadMc
+wei [do,verb] [PAR,li] e212 "shape(Thumb over fist,fd,across)"
 weno [bird,"flying creature"] [PRE] e213
 wi [purpose,meaning] [AUX] e215 
 wuwi [honey] [suwi] e216 EsdbWu
