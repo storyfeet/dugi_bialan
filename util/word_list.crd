@@ -121,30 +121,30 @@ ludi [sad] [] e1c4 "at(Water,eye)"
 luga [hand] [luka] e1c7 "Hand"
 lugo [lock,tie,know,tight] [] e1c8 FcuaRub
 luli [hole,entrance] [lupa] e1c9 "shape(circle,across,up-back)"
-ma [parent] [mama] e1ca HcauWu
-man [place] [ma] e1cb CcadCuf
-meda [lie,decieve,trick] [] e1cd 
-megegi [medicine] [misikeke] e1ce FcuaCwf
-megi [measure] [weka,PRE] e1cf Beub
-mei ["made of"] [bi,AUX] e1d0
-mela [weapon] [] e1d1    
-meli [die,death] [moli] e1d2 SyubFF
-memuso [average] [meso,measure] e1d3 KsuaAd
+ma [parent] [mama] e1ca "on(Child,Hand)" 
+man [place] [ma] e1cb "on(Place,flat)"
+meda [lie,decieve,trick] [] e1cd "position(Not,mouth),motion(S up)"
+megegi [medicine] [misikeke] e1ce "at(Heart, Thing)"
+megi [measure] [weka,PRE] e1cf "both(More,Less)"
+mei ["made of"] [bi,AUX] e1d0 "action(Hammer) shape(Thing)"
+mela [weapon] [] e1d1 "action(Hammer) shape(Fire)"
+meli [die,death] [moli] e1d2 "rotate(person,out,down, fingertips)"
+memuso [average] [meso,measure] e1d3 "beside(Place,shape(Size))"
 mengi [building,build] [tomo,pali] e1d4 "on(Roof,half(Container))"
-meni [back,"turn back"] [monsi] e1d5 CsubCbu
-menuga [wall,barrier] [tomo] e1d6 
-meseni [institute] [] e1d7
-mezan [country] [] e1d8
+meni [back,"turn back"] [monsi] e1d5 "shape(Place) touch(behind shoulder)"
+menuga [wall,barrier] [tomo] e1d6 "both(shape(flat-spread,up-across,fd))"
+meseni [institute] [] e1d7 "Institute - shape(flat-spread,fd-across, down) motion(out)" 
+mezan [country] [] e1d8 "on(Institute,place)"
 min [female,feminine] [meli] e1db Jeua
-mo [four] [po,number] e1dc "4csb"
-mon [male] [mije] e1dd QmubWd
-mugo [food,consume,eat] [moku] e1de HcauMm
-muli [all,every] [ali,ale,amount] e1e1 HcauCwf
-munin [over,cross,leap] [supa] e1e2 CwuaSua
-musi [art] [musi] e1e3 "1sdbRuf-Rdb"
-o [imperetive] [PAR,o] e1e4 "shape(thumb over fist,fd,up)"
-uba [rubber,stretch] [] e1e5
-uban [frequency] [measure] e1e7 EafaSuwSuw
+mo [four] [po,number] e1dc "shape(fingers(4),across-up,back)"
+mon [male] [mije] e1dd "on(Brick,Person)"
+mugo [food,consume,eat] [moku] e1de "at(mouth,rotate(Thing,dir(across,back),wrist))"
+muli [all,every] [ali,ale,amount] e1e1 "circle(shape(flat-spread,up-across,back),out,fd)"
+munin [over,cross,leap] [supa] e1e2 "semicircle(Place,up,fd)"
+musi [art] [musi] e1e3 "from(Document,heart,fd)"
+o [imperetive] [PAR,o] e1e4 "shape(thumbsup fist,fd,up)"
+uba [rubber,stretch] [] e1e5 "both(shape(fist,fd,across)) from(touching,apart and back,out)"
+uban [frequency] [measure] e1e7 ""
 ubei [shame,guilt] [apeja] e1e8 "2subMd"
 ubin [open, free] [open] e1e9 EcadRua
 udela [fight] [utala] e1ea "2msbMpRfa"

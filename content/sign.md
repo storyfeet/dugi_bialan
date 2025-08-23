@@ -43,7 +43,7 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Bird : shape(beak) point
 - Brick : shape(fist on fist) dir(across, back)
 - Bug : shape (4 fingers wiggles) dir(Fd, down)
-- Child
+- Child : shape(fist, across-fd,up)
 - Container : shape(2 hands point in sha
 - Directions : Thumb up, index finger point.
 - Document : shape(flat palm) dir(up-fd, up-back)  
