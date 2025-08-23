@@ -83,7 +83,7 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Thing : shape(circle all fingers with thumb, up, across)
 - Think
 - Thousand: 
-- Time
+- Time :touch(shape(flat,across up,across down),-,fingertip,wrist)
 - Tooth : shape(beak,up,across) pos(mouth) 
 - True : shape(thumbs up, across, back)
 - Under arrows: Thumb wrapped, index finger point.

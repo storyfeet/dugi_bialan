@@ -41,7 +41,7 @@ devo [milk] [telo] e15c "on(Bull,Water)"
 di [two] [tu,number] e15f "shape(2,up,back)"
 din [cut, divide] [kipisi] e160 "rotate(shape(flat,up,across),dir(forward,across),wrist)"
 dis [this,him,her] [pronoun,ni] e161 "shape(scissors,or(out,to indicated thing),down)"
-don [time,hour] [tenpo] e162 "touch(shape(flat,across up,across down),-,fingertip,wrist)"
+don [time,hour] [tenpo] e162 "Time - touch(shape(flat,across up,across down),-,fingertip,wrist)"
 duga [fuse,alloy,stick,weld] [] e163 "pull(shape(4 finger U,across,back),shape(4 finger U,across,fd))"
 dugi [talk,speak,communicate] [toki] e165 "touch(finger, mouth) motion(S,up)" 
 dumo [room,area,reside] [tomo,ma] e166 "on(Roof(shape),shape(flat,up,across))"
@@ -82,7 +82,7 @@ gedin [tooth,bite,sharp] [kiwen] e193 "Tooth - shape(beak,up, across) position(m
 gegon [slip,slide,slippery,smooth] [] e194 "on(Water,Surface)"
 gein [can,able] [ken] e195 "on(wiggle(shape(scisors,down,out)),Thing)"
 gela [fish] [PRE,kala] e196 "shape(relaxed,across,back) wiggle(wrist), motion(across,out)"
-gelin [family] [] e199 "shape(Person), motion(Heart)"
+gelin [family] [] e199 "shape(Roof), motion(Heart)"
 gelubi [group,meeting] [kulupu] e19a "bring_together(both(thing),both(across))"
 geni [shape] [PRE] e19b "beside(shape(C(2),up ,across), shape(C(2),fd,across))"
 geva [partner,spouse] [kulupu,kin] e19d "bring_together(both(1,up,fd),both(across))" 
@@ -135,7 +135,7 @@ meni [back,"turn back"] [monsi] e1d5 "shape(Place) touch(behind shoulder)"
 menuga [wall,barrier] [tomo] e1d6 "both(shape(flat-spread,up-across,fd))"
 meseni [institute] [] e1d7 "Institute - shape(flat-spread,fd-across, down) motion(out)" 
 mezan [country] [] e1d8 "on(Institute,place)"
-min [female,feminine] [meli] e1db Jeua
+min [female,feminine] [meli] e1db "on(Water,Person)"
 mo [four] [po,number] e1dc "shape(fingers(4),across-up,back)"
 mon [male] [mije] e1dd "on(Brick,Person)"
 mugo [food,consume,eat] [moku] e1de "at(mouth,rotate(Thing,dir(across,back),wrist))"
@@ -144,20 +144,20 @@ munin [over,cross,leap] [supa] e1e2 "semicircle(Place,up,fd)"
 musi [art] [musi] e1e3 "from(Document,heart,fd)"
 o [imperetive] [PAR,o] e1e4 "shape(thumbsup fist,fd,up)"
 uba [rubber,stretch] [] e1e5 "both(shape(fist,fd,across)) from(touching,apart and back,out)"
-uban [frequency] [measure] e1e7 ""
-ubei [shame,guilt] [apeja] e1e8 "2subMd"
-ubin [open, free] [open] e1e9 EcadRua
-udela [fight] [utala] e1ea "2msbMpRfa"
-udon [wave,shake] [] e1eb
-uga [foot,base, bottom] [noka] e1ee EdfdWa
-ugin [look,see,eye] [lukin,oko] e1ef "2yuaRfa"
-umeni [poop,compost,"body waste"] [jaki] e1f0 
-una [mouth] [uta] e1f1 Pmaf
-undi [list] [nasin] e1f2 QadbMs
-unis [peace,rest,safe,rescue] [] e1f4
-uno [number] [nanpa] e1f5 "1cabF2"
-usis [sick,infection] [ike] e1f6
-ususa [spreading,sprawling] [] e1f7  
+uban [frequency] [measure] e1e7 "at(Time,Heart) motion(Heart)"
+ubei [shame,guilt] [apeja] e1e8 "on(Hand,Place)"
+ubin [open, free] [open] e1e9 "both(Door)"
+udela [fight] [utala] e1ea "both(shape(fist,up,back))"
+udon [wave,shake] [] e1eb "join(at fingers,shape(flat,down,out),shape(flat,up,across)) swap"
+uga [foot,base, bottom] [noka] e1ee "both(shape(flat,fd,down))"
+ugin [look,see,eye] [lukin,oko] e1ef "touch(eye,finger)"
+umeni [poop,compost,"body waste"] [jaki] e1f0 "on(half(Container),transform(shape(fist,across,down),flat-relax)"
+una [mouth] [uta] e1f1 "touch(Mouth)"
+undi [list] [nasin] e1f2 "shape(spread(2,3,4),across,back)" 
+unis [peace,rest,safe,rescue] [] e1f4 "at(half(Container),Heart)"
+uno [number] [nanpa] e1f5 "shape(4,up-across,back) wiggle(fingers)"
+usis [sick,infection] [ike] e1f6 "at(Bug, mouth)"
+ususa [spreading,sprawling] [] e1f7 "both(shape(spreat,fd-out,down), wiggles)"
 uwein [stand,wait] [awen] e1f8 VsufRdb
 uwi [urgent, important, quick] [] e1fa
 uyawi [machine] [] e1fb
