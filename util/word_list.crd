@@ -158,42 +158,42 @@ unis [peace,rest,safe,rescue] [] e1f4 "at(half(Container),Heart)"
 uno [number] [nanpa] e1f5 "shape(4,up-across,back) wiggle(fingers)"
 usis [sick,infection] [ike] e1f6 "at(Bug, mouth)"
 ususa [spreading,sprawling] [] e1f7 "both(shape(spreat,fd-out,down), wiggles)"
-uwein [stand,wait] [awen] e1f8 VsufRdb
-uwi [urgent, important, quick] [] e1fa
-uyawi [machine] [] e1fb
-uzi [try,attemp	] [] e1fc  
-va [not,no,"un..."] [ala] e1fd Ecsd
-van [three] [san,"tu wan",number] e1fe "3csb"
-vas [lack,empty] [] e1ff
-vedin [writing,drawing,image] [sitelen] e200 "2habDd"
-vega [species,type] [kule] e201 JafdSuw
-vegi [moon,round,ring,orbit,around] [segei] e202 QcuaCua
-vei [hot,fire,cook] [seli] e203 JcfwDu
-veis [tail,follow] [] e204 
-veli [real,true] [lon] e205 "2sufRdb"
-velo [skin,peal,cover] [selo] e206 JdabBs
-vemi [what] [FILLER,QUESTION,seme] e207 HsouWu
-veso [lizard,reptile] [PRE] e208
-vin [you,your] [pronoun,sina] e20a "Tcsu*"
-vis [new,young,again] [sin] e20b EcadMsRub
-vo [animal] [soweli,PRE] e20c Swua
-vos [seven] [number] e20e 
-vyala [door] [] e20f
-wa [plant] [PRE] e210
-wega [yeet,away,gone] [weka] e211 "FcfuMdF5"
+uwein [stand,wait] [awen] e1f8 "on(Person,Flat)"
+uwi [urgent, important, quick] [] e1fa "transform(Time,both(spread,fd-up,fd,down))"
+uyawi [machine] [] e1fb "both(Hammer)"
+uzi [try,attemp	] [] e1fc "motion(Hammer), from(eye) shape(knuckle-bend,up,across)"    
+va [not,no,"un..."] [ala] e1fd "Not - shape(thumbsup,across, out)"
+van [three] [san,"tu wan",number] e1fe "Number(3)"
+vas [lack,empty] [] e1ff "both(shape(L-index,across-down,back))"
+vedin [writing,drawing,image] [sitelen] e200 "touch(finger,Document) motion(up,fd)"
+vega [species,type] [kule] e201 "shape(bull,across,down) rotate(elbow,shoulder,down)"
+vegi [moon,round,ring,orbit,around] [segei] e202 "shape(2-fingers,up,across) position(above head) circle(fingers,out,fd)"
+vei [hot,fire,cook] [seli] e203 "shape(4-fingers,fd,across) wiggle(fingers)"
+veis [tail,follow] [] e204 "shape(scissors,across,down) motion(waves,out, up-down)"
+veli [real,true] [lon] e205 "shape(thumbsup,across,back)"
+velo [skin,peal,cover] [selo] e206 "at(half(Container),same shoulder)"
+vemi [what] [FILLER,QUESTION,seme] e207 "both(shape(holdapple,fd,down),rotate(fd,up,wrist))"
+veso [lizard,reptile] [PRE] e208 "shape(spiderman,fd-across,down)"
+vin [you,your] [pronoun,sina] e20a "shape(scissors,fd-listener,down)"
+vis [new,young,again] [sin] e20b "motion(Thing,up)"
+vo [animal] [soweli,PRE] e20c "shape(Bull,fd,down)"
+vos [seven] [number] e20e "Number(7)" 
+vyala [door] [] e20f "shape(flat,across,back) rotate(fd,across,elbow)" 
+wa [plant] [PRE] e210 "transform(shape(fist,across-fd,up),shape(holdapple,across-fd,up))"
+wega [yeet,away,gone] [weka] e211 "transform(shape(fist,up,fd),shape(holdapple,up,fd))"
 wei [do,verb] [PAR,li] e212 "shape(Thumb over fist,fd,across)"
-weno [bird,"flying creature"] [PRE] e213
-wi [purpose,meaning] [AUX] e215 
-wuwi [honey] [suwi] e216 EsdbWu
-yala ["removable cover",lid,hat,roof] [supa,nena] e217 QcadWu
-yamon [bum,ass] [monsi] e218 Cffd
-yana [flat,sheet,paper,leaf] [supa,lipu] e219 EmadDd
-yani [or,choose] [anu,AUX] e21b RsadRou
-yasa [wing] [waso] e21c "BufdWd"
-yasin [way,path] [nasin] e21d "2sdbMf"
-yawa [head,control] [lawa] e21e ReubRua
-yawin [go,come,"move something"] [tawa] e21f VsdbMf
-yazon [mass,weight] [measure,suli] e222 EafwSuwRfa
+weno [bird,"flying creature"] [PRE] e213 "both(Wing)"
+wi [purpose,meaning] [AUX] e215 "shape(holdingapple,up,back) at(same(shoulder)) rotate(fd, up, elbow)"
+wuwi [honey] [suwi] e216 "on(Bug,water)"
+yala ["removable cover",lid,hat,roof] [supa,nena] e217 "Roof - shape(knucklebend,across-up,down)"
+yamon [bum,ass] [monsi] e218 "shape(flat,across,up) at(shoulder) motion(down) rotate(out,down,wrist)"
+yana [flat,sheet,paper,leaf] [supa,lipu] e219 "both(shape(flat,across,down))"
+yani [or,choose] [anu,AUX] e21b "both(thumsup,fd,up)"
+yasa [wing] [waso] e21c "Wing - shape(fist,across,down) elbow(out), rotate(elbow,down)"
+yasin [way,path] [nasin] e21d "shape(4-fingers,down,back) motion(fd)"
+yawa [head,control] [lawa] e21e "on(Thing,Brick)"
+yawin [go,come,"move something"] [tawa] e21f "shape(scissors,down,back) motion(fd) wiggles(fingers)"
+yazon [mass,weight] [measure,suli] e222 "on(Rock,Container) motion(down)"
 ye [subject] [PAR,en] e223 "1eua"
 yovi [play] [musi] e224 RsfdBu
 yowa [mighty,strong] [wawa] e225 FwuaDu
