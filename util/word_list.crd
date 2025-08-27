@@ -37,7 +37,7 @@ delo [water] [telo] e158 "Water - shape(four fingers wiggle, across, down) motio
 demego [zing , bite, bling] [namako] e159 "shape(beak) touch(tooth) motion(S, up)"
 deni [few,decrease,less] [] e15a "shape(knuckleBend,up, across), motion(down)"
 deso [but, however, except] [taso,AUX] e15b "shape(bull,forward,up)" 
-devo [milk] [telo] e15c "on(Bull,Water)"
+dezi [milk] [telo] e15c "on(Child,Water)"
 di [two] [tu,number] e15f "shape(2,up,back)"
 din [cut, divide] [kipisi] e160 "rotate(shape(flat,up,across),dir(forward,across),wrist)"
 dis [this,him,her] [pronoun,ni] e161 "shape(scissors,or(out,to indicated thing),down)"
@@ -194,17 +194,17 @@ yasin [way,path] [nasin] e21d "shape(4-fingers,down,back) motion(fd)"
 yawa [head,control] [lawa] e21e "on(Thing,Brick)"
 yawin [go,come,"move something"] [tawa] e21f "shape(scissors,down,back) motion(fd) wiggles(fingers)"
 yazon [mass,weight] [measure,suli] e222 "on(Rock,Container) motion(down)"
-ye [subject] [PAR,en] e223 "1eua"
-yovi [play] [musi] e224 RsfdBu
-yowa [mighty,strong] [wawa] e225 FwuaDu
-za [thousand] [mute,ali,number] e226 Bcsb
-zan [person] [jan] e228 Vsdb
-zega [money,wealth] [mani] e229 VeufMd
-zeis [six] [number] e22a
-zema [sibling] [] e22b
-zenan [ public ] [] e22c
-zewi [sky,heaven] [sewi] e22f QuadDw
-zi [child,offspring,seed] [lili,sike] e230 QcauWu
+ye [subject] [PAR,en] e223 "shape(3up-loop-pinkythumb,up,across)"
+yovi [play] [musi] e224 "both(shape(hand,fd,up),motion(circles,up,out),time(off))"
+yowa [mighty,strong] [wawa] e225 "on(Hand,Brick) motion(up)"
+za [thousand] [mute,ali,number] e226 "shape(1,up-across,fd) motion(up)"
+zan [person] [jan] e228 "Person - shape(scissors,down,back)"
+zega [money,wealth] [mani] e229 "both(shape(fingers and thumb together,up,back)) transform(slide thumb up,close fingers)"
+zeis [six] [number] e22a "Number(6) shape(thumb 1st finger,up-across,back)"
+zema [sibling] [] e22b "together(both(Child))"
+zenan [ public ] [] e22c "on(Person,Institute)"
+zewi [sky,heaven] [sewi] e22f "above(head) shape(4 fingers wiggle,across,down)"
+zi [child,offspring,seed] [lili,sike] e230 "Child - shape(fist,fd-across,up)" 
 zin [metal] [kiwen] e231 FsfdWf
 zo [thing] [ijo] e232 Fcsd
 zon [know] [sona] e233 QhadBw
