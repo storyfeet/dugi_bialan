@@ -119,7 +119,7 @@ lo [ten] [] e1c2 "shape(1,up-across,fd)"
 lon [at,in] [PAR,lon] e1c3 "Place"
 ludi [sad] [] e1c4 "at(Water,eye)"
 luga [hand] [luka] e1c7 "Hand"
-lugo [lock,tie,know,tight] [] e1c8 FcuaRub
+lugo [lock,tie,know,tight] [] e1c8 "Lock"
 luli [hole,entrance] [lupa] e1c9 "shape(circle,across,up-back)"
 ma [parent] [mama] e1ca "on(Child,Hand)" 
 man [place] [ma] e1cb "on(Place,flat)"
@@ -205,8 +205,8 @@ zema [sibling] [] e22b "together(both(Child))"
 zenan [ public ] [] e22c "on(Person,Institute)"
 zewi [sky,heaven] [sewi] e22f "above(head) shape(4 fingers wiggle,across,down)"
 zi [child,offspring,seed] [lili,sike] e230 "Child - shape(fist,fd-across,up)" 
-zin [metal] [kiwen] e231 FsfdWf
-zo [thing] [ijo] e232 Fcsd
-zon [know] [sona] e233 QhadBw
-zugi [surface,counter,table] [supa] e235 EcadMfRfd
-zugo [exit] [monsi,weka] e236 FcabMfRfa
+zin [metal] [kiwen] e231 "tap(Brick,beak)"
+zo [thing] [ijo] e232 "Thing - shape(circle(allfingers and thumb),up, across)"
+zon [know] [sona] e233 QhadBw "at(Thing,side of head)"
+zugi [surface,counter,table] [supa] e235 "both(spread,fd-across,down) motion(out)"
+zugo [exit] [monsi,weka] e236 "shape(flat,up-fd,across) rotate(down-fd,out,elbow) turn head away"

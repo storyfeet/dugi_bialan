@@ -61,7 +61,7 @@ A radical can be a shape motion or position,  and when combined a shape and moti
 - Institute
 - L-Shape : 
 - Line : motion(left to right across body) shape(flat,across,down)
-- Lock
+- Lock : shape(thumb across index finger,up-across,bk-out)
 - Mammel : dir(up, back) slow(close fingers pull 
 - Measure
 - Mouth : Touch the mouth
