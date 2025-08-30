@@ -47,6 +47,6 @@ lon dis yasin, dan dei eno,
 bei wei yawin
 da mengi bei
 deso yasin wei bena 
-ei busi zan
+ei zan busi
 
 
