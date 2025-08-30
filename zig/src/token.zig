@@ -18,6 +18,7 @@ pub const TokenType = enum {
 
 pub const TokenMap = std.static_string_map.StaticStringMap(TokenType).initComptime(.{
     .{ ".", .STOP },
+    .{ "?", .STOP },
     .{ ",", .COMMA },
     .{ "-", .DASH },
     .{ "-\"", .OPEN_QUOTE },
@@ -30,7 +31,7 @@ pub const TokenMap = std.static_string_map.StaticStringMap(TokenType).initCompti
     .{ ")", .AS_IS },
 });
 
-pub const SPECIAL_CHARS = "\\\n\r\t,.#-'\"=[](){} ";
+pub const SPECIAL_CHARS = "\\\n\r\t,.#-'\"=[](){}? ";
 
 pub fn special(c: u21) bool {
     var it = std.unicode.Utf8Iterator{ .bytes = SPECIAL_CHARS, .i = 0 };
