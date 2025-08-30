@@ -45,15 +45,15 @@ dis di li wei lena egon, dis edo wei belin bena da zan Esobb lon deni. wei dei g
 
 yawa mengi li wega la, zan Esobb wei buli lon man wa-mugo.
 
-min zewi bi enma Esis edo va-iasin wei guma da bo man wa-mugo dis. wei ugin ei zan Esobb, deso va-wei zon ei busi egi dis, go 
--"zan buna bei o, vin wei buna da enma esi, o bena ugin ei yasin da man mengi, dan ye bei li va-iasin"-
+min zewi bi enma Esis edo va-yasin wei guma da bo man wa-mugo dis. wei ugin ei zan Esobb, deso va-wei zon ei busi egi dis, go 
+-"zan buna bei o, vin wei buna da enma esi, o bena ugin ei yasin da man mengi, dan ye bei li va-yasin"-
 
 zan Esobb wei lei ugin, wei ugin gein ei zan bi li elin egin min zewi.  dan li zan bi enma buna la, gin luga go -"vin dan vemi wei wega dan yasin"-
 
-dan wei ugin ei i dis mon wei gein gudei deso va wei gein dugi la, min go -"mi lon man dis dan va-zon iasin, li zan zewi bi (egin i vin wei gein ugin ) enma zewi Esis. li buna da vin esi, o bena ugin ei iasin da man mengi da mi dan i mi li va-iasin"-
+dan wei ugin ei ye dis mon wei gein gudei deso va wei gein dugi la, min go -"bei lon man dis dan va-zon ei yasin, li zan zewi bi (egin ye vin wei gein ugin ) enma zewi Esis. li buna da vin esi, o bena ugin ei yasin da man mengi da bei, dan ye bei li va-yasin"-
 
-zan Esopp wei gan-luga ei elo bei, wei ensa luga ei luga min da man giasi leli. lon man dis wei bena ei din bi mugo bei da dis, wei bena ei delo egin. lon man dis la, dis-min wei bena ei dugi-zewi da buna bi zan Esopp.
+zan Esobb wei gan-luga ei elo bei, wei ensa luga ei luga min da man wa-zewi deni. lon man dis wei bena ei din bi mugo bei da dis, wei egin bena ei delo. lon man dis la, dis-min wei bena ei dugi-zewi da buna bi zan Esobb. mugo beni la wei enbin da yasin bengo dei.
 
-min wei dugi belin ei iasin.  zan Esop gin luga lon luga wei bena ugin ei iasin vuli bengo, beni la wei vis ei buli bei.
+min wei bunei ei zan Esobb, wei vis yawin lon yasin.  zan Esobb, beni la wei vis ei buli bei.
 
 dis min deso la, wei uwein belin da zan Esopp. wei gan-zewi ei luga bei wei dugi zewi go ...
