@@ -38,7 +38,7 @@ export const fontMap = {
 	"demego":"\u{e159}",
 	"deni":"\u{e15a}",
 	"deso":"\u{e15b}",
-	"devo":"\u{e15c}",
+	"dezi":"\u{e15c}",
 	"di":"\u{e15f}",
 	"din":"\u{e160}",
 	"dis":"\u{e161}",
