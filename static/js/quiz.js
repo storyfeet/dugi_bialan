@@ -4,6 +4,7 @@ function nextReady(now,score,error){
 }
 
 
+
 class QuizManager {
   constructor(wordList,display) {
 	//StartList should not change after construction
@@ -44,7 +45,7 @@ class QuizManager {
 	
 	addWord(toAdd = null){
 		let nextAdd = toAdd ?? this.nextToAdd();
-		if (this.nextAdd == null){
+		if (nextAdd == null){
 			return null;
 		}
 		let res = {
@@ -102,10 +103,17 @@ class QuizManager {
 
 	chooseOptions(activity){
 		let res = activity.buddies.map((bud)=>this.findBuddy(bud));
-		while (res.length < 4){
+		for (let i = 1; i < 20; i++){
 			let op = this.randomOption();
-			if (op) {
+			if (
+				op && 
+				(!res.find((item)=>item.name === op.name)) &&
+				(activity.name !== op.name)
+			) {
 				res.push(op);
+			}
+			if (res.length >= 4){
+				return res;
 			}
 		}
 		return res;
