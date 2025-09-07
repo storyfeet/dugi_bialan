@@ -5,8 +5,8 @@ function nextReady(now,score,error){
 
 
 
-class QuizManager {
-  constructor(wordList,display) {
+export class QuizManager {
+  constructor(wordList) {
 	//StartList should not change after construction
     this.wordList = wordList;
 	//active list shold change regularly
@@ -50,7 +50,7 @@ class QuizManager {
 		}
 		let res = {
 			index: nextAdd,
-			name: this.wordList[nextAdd].name,
+			name: this.wordList[nextAdd].Name,
 			nextReady : Date.now(),
 			score: 0,
 			error: false,
@@ -65,7 +65,7 @@ class QuizManager {
 	*/
   nextWord() {
     let ready = this.activeList
-      .filter((item) => item.nextReady < Date.Now())
+      .filter((item) => item.nextReady < Date.now())
       .sort((a, b) => a.nextReady - b.nextReady);
 
     if (ready.length == 0) {
@@ -86,7 +86,7 @@ class QuizManager {
 			}
 		}
 		for (let i = 0; i < this.wordList.length; i++){
-			if (this.wordList[i].name === name){
+			if (this.wordList[i].Name === name){
 				return this.addWord(i);
 			}
 		}
@@ -149,6 +149,7 @@ class CliDisplay{
 	}
 	
 	renderAnswer(word,mode){
+		return "${word.q} = ${word.a}";
 	}
 }
 
@@ -157,7 +158,8 @@ class CliDisplay{
 
 
 
-if (require?.main === module) {
+//if (require?.main === module) {
+if (false){
 	//MAIN
 	let quizMan = new QuizManager([
 		{name:"Hello",a:"o buna"},
@@ -167,6 +169,10 @@ if (require?.main === module) {
 		{name:"That",a:"that"},
 		{name:"Open",a:"ubin"},
 	]);
+
+	while (true){
+		let next = quizMan.nextQuestion();
+	}
 
 	console.log(quizMan.nextQuestion());
 
