@@ -24,30 +24,53 @@ const dom = {
 	aDiv : document.getElementById("answers"),
 }
 
+function showSuccess(qData){
+	dom.aDiv.innerHTML = '';
+	dom.aDiv.append(dlite.tx('Success'));
+}
+
+function showMistake(qData){
+	dom.aDiv.innerHTML = '';
+	dom.aDiv.append(dlite.tx('Error'));
+}
+
 function nextQuestion(){
 	let qData = quizMan.nextQuestion();
 
 	let mode = Math.floor(qData.active.score / 4);
-
-
 
 	let nodes = [];
 
 	{
 		let ansNode = dlite.tag('button',
 			{
-				onClick:()=>{alert('onClick')},
-				onclick:()=>{console.log('onclick');alert('onclick')},
-				click:()=>{alert('click')},
+				onclick:()=>{
+					quizMan.success(qData);
+					showSuccess(qData);
+				},
 			},
-			[modeNode(qData.active,1)]);
+			[modeNode(qData.active,mode)]);
 		nodes.push(ansNode);
 	}
+
+	nodes.push(...qData.options.map(
+		(op,index)=>dlite.tag(
+			'button',
+			{
+				onclick:()=>{
+					quizman.mistake(qData,index);
+					showMistake(qData);
+				}
+			},
+			[modeNode(op,mode)],
+		)
+	));
 	dom.aDiv.innerHTML = "";
 	dom.aDiv.append(...nodes);
-
-		
 	
+
+	dom.qDiv.innerHTML = "";
+	dom.qDiv.append( qData.active.
 }
 
 //let answers = [];
@@ -83,20 +106,32 @@ function inDiv(item){
 	return res;
 }
 
-function modeNode(item,mode){
+function questionNode(item,mode){
 	switch (mode){
 		case 0 : 
-			return document.createTextNode(item.name);
-		case 1:
-			let pic = document.createElement("span");
+			return dlite.tx(item.name);
+		case 1 : 
+			return 
+	}
+}
 
-			pic.innerHTML = fontMap[item.name] ?? `Not in Font Map - ${item.name}`;	
-			return pic;
+function optionNode(item,mode){
+	switch (mode){
+		case 0 : 
+			return dlite.tx(fontMap[item.name] ?? `Not in Font Map - ${item.name}`);	
+		case 1:
+			return dlite.tx(item.name);
 		default:
 			let node = document.createElement("span");
 			node.innerHTML = item.en.join("<br>");
 			return node;
 	}
+}
+
+function answerNode(item){
+	return dlite.tag('div',{},[
+		dlite.tx'
+	])
 }
 
 window.qmod = {
