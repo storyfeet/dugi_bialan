@@ -1,5 +1,5 @@
 
-export function tag(name,props,children){
+export function tag(name,props = {},children = []){
 	let res = document.createElement(name);
 	for (let [key,val] of Object.entries(props)){
 		res[key] = val;
@@ -8,7 +8,7 @@ export function tag(name,props,children){
 	return res;
 }
 
-export function tx(str,props){
+export function tx(str,props = {}){
 	let res = document.createTextNode(str);
 	for (let [key,val] of Object.entries(props)){
 		res[key] = val;
@@ -20,4 +20,5 @@ export function tx(str,props){
 
 export default {
 	tag:tag,
+	tx:tx,
 };

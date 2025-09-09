@@ -35,9 +35,11 @@ function showMistake(qData){
 }
 
 function nextQuestion(){
-	let qData = quizMan.nextQuestion();
 
-	let mode = Math.floor(qData.active.score / 4);
+	let qData = quizMan.nextQuestion();
+	let {active,options} = qData;
+
+	let mode = Math.floor(( active.score + 1 ) / 4);
 
 	let nodes = [];
 
@@ -49,28 +51,29 @@ function nextQuestion(){
 					showSuccess(qData);
 				},
 			},
-			[modeNode(qData.active,mode)]);
+			[optionNode(items[active.index],mode)]);
 		nodes.push(ansNode);
 	}
-
-	nodes.push(...qData.options.map(
-		(op,index)=>dlite.tag(
-			'button',
-			{
-				onclick:()=>{
-					quizman.mistake(qData,index);
-					showMistake(qData);
-				}
-			},
-			[modeNode(op,mode)],
-		)
-	));
+	if (mode > 0){
+		nodes.push(...options.map(
+			(op,index)=>dlite.tag(
+				'button',
+				{
+					onclick:()=>{
+						quizman.mistake(qData,index);
+						showMistake(qData);
+					}
+				},
+				[optionNode(items[op],mode)],
+			)
+		));
+	}
 	dom.aDiv.innerHTML = "";
 	dom.aDiv.append(...nodes);
 	
 
 	dom.qDiv.innerHTML = "";
-	dom.qDiv.append( qData.active.
+	dom.qDiv.append(questionNode(items[active.index],mode));
 }
 
 //let answers = [];
@@ -106,21 +109,25 @@ function inDiv(item){
 	return res;
 }
 
-function questionNode(item,mode){
+function questionNode(item,mode = 0){
 	switch (mode){
 		case 0 : 
-			return dlite.tx(item.name);
 		case 1 : 
-			return 
+			return dlite.tx(item.Name);
+		case 2:
+			return dlite.tx(fontMap[item.Name]) ?? `Not in font map - ${item.Name}`;
 	}
 }
 
 function optionNode(item,mode){
+		
 	switch (mode){
 		case 0 : 
-			return dlite.tx(fontMap[item.name] ?? `Not in Font Map - ${item.name}`);	
+			return answerNode(item);
 		case 1:
-			return dlite.tx(item.name);
+			return dlite.tx(fontMap[item.Name] ?? `Not in Font Map - ${item.Name}`);	
+		case 2:
+			return dlite.tx(item.en);
 		default:
 			let node = document.createElement("span");
 			node.innerHTML = item.en.join("<br>");
@@ -130,8 +137,9 @@ function optionNode(item,mode){
 
 function answerNode(item){
 	return dlite.tag('div',{},[
-		dlite.tx'
-	])
+		dlite.tx(`${item.Name} - ${fontMap[item.Name]}`),
+		dlite.tx(`${item.en}`),
+	]);
 }
 
 window.qmod = {
