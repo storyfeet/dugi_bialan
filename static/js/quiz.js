@@ -1,6 +1,7 @@
 
-function nextReady(now,score,error){
-	Date(now.getTime()+ 1000 * Math.pow(2,score));
+function nextReady(score, now = null){	
+	now = now ?? new Date();
+	return new Date(now.getTime()+ 1000 * Math.pow(2,score));
 }
 
 
@@ -11,6 +12,7 @@ export class QuizManager {
     this.wordList = wordList;
 	//active list shold change regularly
     this.activeList = [];
+	this.buddyList = new BuddyList();
 	this.nextAdd = 0;
 
   }
@@ -22,6 +24,7 @@ export class QuizManager {
 			return null;
 		}
 
+		// Make Ticket
 		return {
 			active:ans,	
 			options: this.chooseOptions(ans),
@@ -50,11 +53,10 @@ export class QuizManager {
 		}
 		let res = {
 			index: nextAdd,
-			name: this.wordList[nextAdd].Name,
-			nextReady : Date.now(),
+			name: this.wordList[nextAdd],
+			nextReady : nextReady(0),
 			score: 0,
 			error: false,
-			buddies: [],
 		};
 		this.activeList.push(res);
 		return res; 
@@ -64,8 +66,9 @@ export class QuizManager {
 	* @return Active Element
 	*/
   nextWord() {
+	let now = new Date();
     let ready = this.activeList
-      .filter((item) => item.nextReady < Date.now())
+      .filter((item) => (item.nextReady.getTime() < now.getTime()))
       .sort((a, b) => a.nextReady - b.nextReady);
 
     if (ready.length == 0) {
@@ -79,14 +82,14 @@ export class QuizManager {
   }
 
 
-	findBuddy(name){
+	findByName(name){
 		for(let a of this.activeList){
 			if (a.name === name){
 				return a;
 			}
 		}
 		for (let i = 0; i < this.wordList.length; i++){
-			if (this.wordList[i].Name === name){
+			if (this.wordList[i] === name){
 				return this.addWord(i);
 			}
 		}
@@ -102,7 +105,7 @@ export class QuizManager {
 	}
 
 	chooseOptions(activity){
-		let res = activity.buddies.map((bud)=>this.findBuddy(bud));
+		let res = this.buddyList.buddyNames(activity.name).map((bud)=>this.findByName(bud));
 		for (let i = 1; i < 20; i++){
 			let op = this.randomOption();
 			if (
@@ -120,11 +123,100 @@ export class QuizManager {
 	}
 
 
-	success(index){
+	success({active}){
+		
+		active.score += 1;
+		let minScore = active.score;
+		this.buddyList.onEach(active.name,(bud,dat)=>{
+			//Consider if not all buddies are shown,
+			dat.score += 1;
+			minScore = Math.min(minScore,dat.score);
+			return dat.score < 6;
+		});
+		
+		active.nextReady = nextReady(minScore);
 	}
 	
-	fail(index,mistakeSelected){
+	fail({active,options},selected){
+		active.score = Math.floor(ticket.active.score / 2);
+
+		active.nextReady = nextReady(0);
+
+		// Make buddies	
+		err = options[selected];
+		
+		if (! this.buddyList.addBuddy(active.name, err.name,{score:0})){
+			this.buddyList.onPair(active.name,err.name,(dat)=>{dat.score=0;});
+		}
 	}
+}
+
+
+class BuddyList {
+	constructor(){
+		this.list = [];
+	}
+
+	/**
+	* Find a buddy pair, if found perform the action required
+	* @param a,b: the two names of the buddies
+	* @param fn: a callback that will operate on internal data
+	*/
+	onPair(a,b,fn){
+		this.list = this.list.filter(
+			(bud)=>{
+				if (bud.a == a && bud.b ==b){
+					return fn(bud.data) ?? true;
+				}
+				if (bud.b == a && bud.a == b){
+					return fn(bud.data) ?? true;
+				}
+				return true;
+			}
+		);
+	}
+
+	/**
+	* For each buddy of this 
+	*/
+	onEach(name,fn){
+		this.list = this.list.filter(
+			(bud)=>{
+				if(bud.a == name) {
+					return fn(bud.b,bud.data) ?? true;
+				}
+				if (bud.b == name){
+					return fn(bud.a,bud.data) ?? true;
+				}
+				return true;
+			}
+		);
+	}
+
+	buddyNames(name){
+		let res = [];
+		this.onEach(name,(bud)=>{
+			res.push(bud);
+		});
+		return res;
+	}
+
+	/**
+	* @return true if added
+	*/
+	addBuddy(a,b,data){
+		if (
+			this.list.find((bd)=>(
+				(bd.a == a || bd.b == a) &&
+				(bd.b == b || bd.a == b)
+			))
+		) return false;
+		
+		this.list.push({a:a,b:b,data:data});
+		return true;
+	}
+
+	
 }
 
 
@@ -174,6 +266,5 @@ if (false){
 		let next = quizMan.nextQuestion();
 	}
 
-	console.log(quizMan.nextQuestion());
 
 }
