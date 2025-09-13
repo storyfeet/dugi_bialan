@@ -14,7 +14,7 @@ import {fontMap} from "/js/jsfontmapper.js";
 import {QuizManager} from "/js/quiz.js";
 import dlite from "/js/domlite.js";
 
-let quizMan = new QuizManager(items);
+let quizMan = new QuizManager(items.map((item)=>item.Name));
 
 
 const dom = {
@@ -37,9 +37,11 @@ function showMistake(qData){
 function nextQuestion(){
 
 	let qData = quizMan.nextQuestion();
+	
 	let {active,options} = qData;
+	console.log('Next Question :' ,qData,quizMan.buddyData(active.name));
 
-	let mode = Math.floor(( active.score + 1 ) / 4);
+	let mode = Math.floor(( active.score + 3 ) / 4);
 
 	let nodes = [];
 
@@ -60,14 +62,15 @@ function nextQuestion(){
 				'button',
 				{
 					onclick:()=>{
-						quizman.mistake(qData,index);
+						quizMan.fail(qData,index);
 						showMistake(qData);
 					}
 				},
-				[optionNode(items[op],mode)],
+				[optionNode(items[op.index],mode)],
 			)
 		));
 	}
+	shuffle(nodes);
 	dom.aDiv.innerHTML = "";
 	dom.aDiv.append(...nodes);
 	
@@ -83,6 +86,7 @@ function randR(min,max){
 	max = Number(max);
 	return Math.floor(Math.random() * (max - min)) + min;
 }
+
 function rWord(){
 	let mn = dom.minBox.value;
 	let mx = dom.maxBox.value;
@@ -92,7 +96,6 @@ function rWord(){
 	let n = randR(mn,mx);
 	return items[n];
 }
-
 
 function shuffle(list){
 	for (let i = 0; i < list.length; i++){

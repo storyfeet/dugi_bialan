@@ -101,7 +101,13 @@ export class QuizManager {
 		if (i < this.activeList.length){
 			return this.activeList[i];
 		}
-		return this.addWord();
+		// Try the big list
+		i = Math.floor(Math.random() * (this.wordList.length));
+		
+		return {
+			name: this.wordList[i],
+			index: i,
+		};
 	}
 
 	chooseOptions(activity){
@@ -138,16 +144,27 @@ export class QuizManager {
 	}
 	
 	fail({active,options},selected){
-		active.score = Math.floor(ticket.active.score / 2);
+		active.score = Math.floor(active.score / 2);
 
 		active.nextReady = nextReady(0);
 
 		// Make buddies	
-		err = options[selected];
+		let err = options[selected];
 		
 		if (! this.buddyList.addBuddy(active.name, err.name,{score:0})){
 			this.buddyList.onPair(active.name,err.name,(dat)=>{dat.score=0;});
 		}
+	}
+
+	buddyData(name){
+		let res = [];
+		this.buddyList.onEach(
+			name,
+			(bud,data)=>{
+				res.push({name:bud,score:data.score})
+			}
+		)
+		return res;
 	}
 }
 
@@ -200,6 +217,7 @@ class BuddyList {
 		});
 		return res;
 	}
+
 
 	/**
 	* @return true if added
