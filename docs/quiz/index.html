@@ -145,8 +145,6 @@ button {
     <div class="content">
         
 
-Min<input id="r-min" type="number" min="0" max="200" value="0"/>
-Max<input id="r-max" type="number" min="10" max="230" value="230"/>
 <button onclick="qmod.nextQuestion()">Go</button>
 <div id="question" style="min-height:150px"></div>
 <div id="answers" style="min-height:130px"></div>
@@ -171,12 +169,28 @@ const dom = {
 
 function showSuccess(qData){
 	dom.aDiv.innerHTML = '';
-	dom.aDiv.append(dlite.tx('Success'));
+	dom.aDiv.append(
+		dlite.tx('Correct'),
+		dlite.br(),
+		dlite.tag(
+			'button',
+			{onclick:()=>nextQuestion()},
+			answerNode(items[qData.active.index]),
+		),
+	);
 }
 
 function showMistake(qData){
 	dom.aDiv.innerHTML = '';
-	dom.aDiv.append(dlite.tx('Error'));
+	dom.aDiv.append(
+		dlite.tx('Keep Learning'),
+		dlite.br(),
+		dlite.tag(
+			'button',
+			{onclick:()=>nextQuestion()},
+			answerNode(items[qData.active.index]),
+		),
+	);
 }
 
 function nextQuestion(){

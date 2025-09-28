@@ -4,7 +4,11 @@ export function tag(name,props = {},children = []){
 	for (let [key,val] of Object.entries(props)){
 		res[key] = val;
 	}
-	res.append(...children);	
+	if (typeof children[Symbol.iterator] === 'function'){
+		res.append(...children);	
+	}else {
+		res.append(children);
+	}
 	return res;
 }
 
@@ -17,8 +21,12 @@ export function tx(str,props = {}){
 
 }
 
+export function br(){
+	return tag('br');
+}
 
 export default {
 	tag:tag,
 	tx:tx,
+	br,
 };
