@@ -1,4 +1,22 @@
 {{export title="quiz"}}
+{{@export style}}
+
+#answers .roman{
+	font-size:300%;
+	text-align:center;
+}
+
+#answers .dugi{
+	font-size:400%;
+	text-align:center;
+}
+
+#answers .en{
+	font-size:250%;
+	text-align:center;
+}
+
+{{/export}}
 
 <button onclick="qmod.nextQuestion()">Go</button>
 <div id="question" style="min-height:150px"></div>
@@ -29,7 +47,7 @@ function showSuccess(qData){
 		dlite.br(),
 		dlite.tag(
 			'button',
-			{onclick:()=>nextQuestion()},
+			{onclick:()=>nextQuestion() },
 			answerNode(items[qData.active.index]),
 		),
 	);
@@ -153,9 +171,14 @@ function optionNode(item,mode){
 }
 
 function answerNode(item){
-	return dlite.tag('div',{},[
-		dlite.tx(`${item.Name} - ${fontMap[item.Name]}`),
-		dlite.tx(`${item.en}`),
+	return dlite.table({},[
+		dlite.tr({},[
+			dlite.td({className:'roman'}, dlite.tx(item.Name)),
+			dlite.td({className:'dugi'},fontMap[item.Name]),
+		]),
+		dlite.tr({},[
+			dlite.td({className:'en',colspan:2},dlite.tx(item.en)),
+		]),
 	]);
 }
 
