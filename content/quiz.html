@@ -6,7 +6,7 @@
 	text-align:center;
 }
 
-#answers .dugi{
+#answers .dugi {
 	font-size:400%;
 	text-align:center;
 }
@@ -32,6 +32,7 @@ import dlite from "/js/domlite.js";
 
 let quizMan = new QuizManager(items.map((item)=>item.Name));
 
+window.words = [];
 
 const dom = {
 	minBox : document.getElementById("r-min"),
@@ -40,7 +41,20 @@ const dom = {
 	aDiv : document.getElementById("answers"),
 }
 
+function loadWord(word){
+	if (! window.words[word]){
+		let audio = new Audio(`/audio/words/${word}.ogg`);
+		window.words[word] = audio;
+	}
+}
+
+function playWord(word){
+	loadWord(word);
+	window.words[word].play();
+}
+
 function showSuccess(qData){
+	playWord(items[qData.active.index].Name);
 	dom.aDiv.innerHTML = '';
 	dom.aDiv.append(
 		dlite.tx('Correct'),
@@ -54,6 +68,7 @@ function showSuccess(qData){
 }
 
 function showMistake(qData){
+	playWord(items[qData.active.index].Name);
 	dom.aDiv.innerHTML = '';
 	dom.aDiv.append(
 		dlite.tx('Keep Learning'),
@@ -148,9 +163,10 @@ function questionNode(item,mode = 0){
 	switch (mode){
 		case 0 : 
 		case 1 : 
+			playWord(item.Name);
 			return dlite.tx(item.Name);
 		case 2:
-			return dlite.tx(fontMap[item.Name]) ?? `Not in font map - ${item.Name}`;
+			return dlite.tx(fontMap[item.Name] ?? `Not in font map - ${item.Name}`);
 	}
 }
 
@@ -160,7 +176,10 @@ function optionNode(item,mode){
 		case 0 : 
 			return answerNode(item);
 		case 1:
-			return dlite.tx(fontMap[item.Name] ?? `Not in Font Map - ${item.Name}`);	
+			return dlite.span(
+				fontMap[item.Name] ?? `Not in Font Map - ${item.Name}`,
+				{ className : 'dugi' }
+			);	
 		case 2:
 			return dlite.tx(item.en);
 		default:
