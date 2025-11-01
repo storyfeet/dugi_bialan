@@ -5,41 +5,41 @@
 zan bi ban demego # : (The Gingerbread Man)
 #========
 
-lon don won la, li luga ei zan min leli ei zan mon leli. is-mon li belin egi dan va wei luga ei zi.
+gi don la, li luga ei zan min deni ei zan mon deni. dis di li belin egi dan va wei luga ei zi.
 
-dis la, min leli wei buli ei zan bi ban demego. wei elo ei gela va-delo da lugin, da lugo elein. wei elo ei lena wuwi da vegei guli-zo.
+wi la, min deni wei buli ei zan bi ban demego. wei elo ei gela va-delo da ugin, da lugo elin. wei elo ei lena wuwi da vegi guli-zo.
 
-min da ensa vi ei zan bi ban demego.
+min da ensa bugi vei ei zan bi ban demego.
 
-don leli la, wei gudei ei ema-dugi dan ensa vi, go "o obin, o obin",
+deni don la, wei gudei ei ema-dugi dan ensa vei, go -"o ubin, o ubin"-,
 
-uwi la, wei ubin ei vi. dei la zan wei munin dan vi wei munin da viala mengi.
+uwi la, wei ubin ei bugi vei. ba, zan wei munin dan vei wei munin da vyala mengi.
 
-go "uwein" i min leli.
+go -"uwein"- ye min deni.
 
-deso-la, zan bi ban demego wei zugo giawin lon viala, go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi li zan bi ban demego vi"
+deso-la, zan bi ban demego wei zugo vyala, go -"o yawin yawin gin muli yowa vin, vin va wei gein leban ei bei, bei li zan bi ban demego vei"-
 
-min leli, i mon leli wei giawin giawin meni. deso zan bi ban demego wei dei giawin.
+min deni, ye mon deni wei yawin yawin veis. deso zan bi ban demego wei gan-dei yawin.
 
-lon iasin, zan ban wei bo ei vo-devo edo go "vin wei bena gon bi buna mugo, o da mi"
+lon yasin, zan ban wei bo ei vo-dezi, edo go -"vin wei bena gon bi buna mugo, o da bei"-
 
-zan ban go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi li zan bi ban demego vi"
+zan ban go -"o yawin yawin gin muli yowa vin, vin va wei gein leban ei bei, bei li zan bi ban demego vei"-
 
-dan iasin lon man zugi eleba, li wei lugin i vo-bengo. dis go "vin da vemi. o da mi, gin gon wuwi vin".
+dan yasin lon man wa-zugi, li wei ugin ye vo-bengo. dis go -"vin da vemi. o da bei, gin gon wuwi vin"-
 
-deso la, zan ban egin go "o giawin giawin gin muli wiawa vin, vin va wei gein leban ei mi, mi li zan bi ban demego vi"
+deso la, zan ban egin go -"o yawin yawin gin muli yowa vin, vin va wei gein leban ei bei, bei li zan bi ban demego vei"-
 
-vo-bengo, i vo-devo, i min-leli, i mon leli wei giawin meni, deso la, zan ban wei dei giawin. is-dei va wei gein leban.
+vo-bengo, ye vo-dezi, ye min-deni, ye mon deni wei yawin meni, deso la, zan ban wei gan-dei yawin. dis-dei va wei gein leban.
 
-zan ban wei guma lugin ei delo giawin, wei belin munin. deso megi-munin li vuli.
+zan ban wei guma ugin ei delo yawin, wei belin munin. deso megi-munin li dei.
 
-dan meni giasi wei guma ei vo-vi go "mi wei gein bena elo ei vin, o gan-zugi ei meni mi esi, mi wei giawin delo munin ei delo".
+dan bo meni wa-zewi wei guma ei vo-vei go -"bei wei gein bena elo ei vin, o gan-zugi ei meni bei esi, bei wei yawin delo munin ei delo gin vin"-
 
-zan bi ban demegi wei ebin ei i dis li ebin buna, wei gan-zugi ei meni vo-vi. vo-vi wei giawin.
+zan bi ban demego wei ebin ei ye dis li ebin buna, wei gan-zugi ei meni vo-vei. vo-vei wei yawin.
 
-lon memuso delo, vo-vi go, delo dis li megi-uga vuli, o giawin da liawa mi, da va-li velo delo.  zan ban wei dis 
+lon memuso delo, vo-vei go, delo dis li megi-uga dei, o yawin da yawa bei, da va-li wei velo delo.  zan ban wei dis 
 
-lon don egesa dis, vo-vi wei gan-zewi ei liawa begi, wei wega gan-zewi ei zan ban. wei ubin ei una, wei leban ei zan ban lon una, wei mugo ensa gin won buli una
+lon don egesa dis, vo-vei wei bei gan-zewi ei yawa, wei wega gan-zewi ei zan ban. wei ubin ei una, wei leban ei zan ban lon una, wei mugo ensa gin gi buli una
 
 dis li beni bi zan bi ban demego.
 
