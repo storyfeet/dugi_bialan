@@ -96,7 +96,7 @@ pub fn Converter(comptime tp: type) type {
 
             if (self.words.get(wd)) |fp| {
                 if (fp.wType == WType.Par and self.prev == WType.Norm) {
-                    try w.print("<wbr>", .{});
+                    try w.print(" ", .{});
                 }
                 try w.print("{u}", .{fp.code});
                 self.prev = fp.wType;

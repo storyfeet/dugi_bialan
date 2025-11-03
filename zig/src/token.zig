@@ -163,7 +163,7 @@ pub const Tokenizer = struct {
             switch (cp) {
                 ' ', '\t', '\r' => _ = self.it.nextCodepoint(),
                 else => {
-                    if (count == 0) return null;
+                    if (count <= 1) return null;
                     return self.makeToken(TokenType.LONG_SPACE);
                 },
             }
