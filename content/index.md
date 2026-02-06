@@ -1,4 +1,4 @@
-{{export title="Welcome to Dugi Bialan"}}
+{{export title="Welcome to Dugi Belan"}}
 {{@md}}
 
 {{@with_pics -}}
