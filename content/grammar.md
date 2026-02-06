@@ -22,35 +22,35 @@ To aid the listener/reader, each type of word is only used as one of these thing
 
 The particle types are marked with each word in the [word list](/word_list). Words without a marking are ATOMs
 
-Particles are used to mark the role of whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle {{qoth "i"}} is assumed, meaning that the first words will be the "subject" of the sentence.
+Particles are used to mark the role of whatever follows them takes in the sentence. It no particle is given at the beginning of the sentence, the particle {{qoth "ye"}} is assumed, meaning that the first words will be the "subject" of the sentence.
 
 Meaning is built by combining Atoms (and Prefixed Atoms) to describe an idea. Depending on the Particle before it, the idea is considered to be either:
 
-* The Particles {{qoth "i / ei / lon / gin / da / dan "}} are followed by.
+* The Particles {{qoth "ye / ei / lon / gin / da / dan "}} are followed by.
     * A noun phrase
     * A sub-clause
 * The Particle {{qoth "li" }} is followed by:
     * An adjective phrase    
     eg : {{qoth "dei buna"}} "much good/ very good"
     * A quantifier and a noun phrase.    
-    eg : {{qoth "won zan"}} "a person".
+    eg : {{qoth "gi zan"}} "a person".
 * The Particle {{qoth "wei"}} is followed by
     * A verb / verb phrase.    
-    eg : {{qoth "giawin meni"}} "going back"
+    eg : {{qoth "yawin meni"}} "going back"
 
 The particle-idea pairs can be put together in any order to make a sentence. Verbs are not necessarily needed. For example :    
 
-{{qoth "mi da vin ei elo vedelin dis"}} or "I to you - pen this"
+{{qoth "bei da vin ei elo vedin dis"}} or "I to you - pen this"
 
 Is equivalent to : 
 
-{{qoth "ei elo vedelin dis da vin i mi" }} " - pen this TO you SUBJECT I"
+{{qoth "ei elo vedin dis da vin ye bei" }} " - pen this TO you SUBJECT I"
 
-Note that in the second sentence, because the subject was not at the beginning, it was prefaced with {{qoth "i"}}. Even though neither sentence has a verb, the meaning is clear.
+Note that in the second sentence, because the subject was not at the beginning, it was prefaced with {{qoth "ye"}}. Even though neither sentence has a verb, the meaning is clear.
 
 If a verb is needed, {{qoth "wei"}} is used to mark the simple form. It can be roughly translated as "do".
 
-{{qoth "mi wei bena ei elo da vin"}} or "I DO give - tool TO you"
+{{qoth "bei wei bena ei elo da vin"}} or "I DO give - tool TO you"
 
 If instead an adjective is needed {{qoth "li"}} is used, to mark the "being" form. It can be roughly translated as "am/is".
 
@@ -58,7 +58,7 @@ If instead an adjective is needed {{qoth "li"}} is used, to mark the "being" for
 
 Conjunctions (CON) join sentences together into with "if" and "context".
 
-{{qoth "vin li buna esi, mi da vin ei elo vedelin dis" }} "you ARE good IF I TO you - this pen" 
+{{qoth "vin li buna esi, bei da vin ei elo vedin dis" }} "you ARE good IF I TO you - this pen" 
 
 Note the {{qoth "esi"}}  "A esi B" means "if A then B". So the meaning is "If you are good, I'll give you this pen.
 
@@ -68,21 +68,21 @@ Prefixes (PRE) must always have an item after them to complete their meaning. If
 
 Sentences can be negated by prefixing the relevant Particle with 'va'
 
-* {{qoth "mi va-li buna"}} "I am not good"
-* {{qoth "mi va-wei zon"}} "I don't know"
-* {{qoth "mi va-gin is-mon"}} I'm not with him"
+* {{qoth "bei va-li buna"}} "I am not good"
+* {{qoth "bei va-wei zon"}} "I don't know"
+* {{qoth "bei va-gin dis mon"}} I'm not with him"
 
 Yes-no questions are asked by using the "particle not-particle" structure. 
 
 * {{qoth "vin li va-li buna"}} : "you are not-are good?" / "are you good?"
-* {{qoth "vin wei va-wei giawin" }} : "you do not-do go?" / "are you going?"
-* {{qoth "vin wei giain gin va-gin mi"}} : "you go with not-with me?" / "can I come with you?"
+* {{qoth "vin wei va-wei yawin" }} : "you do not-do go?" / "are you going?"
+* {{qoth "vin wei gein gin va-gin bei"}} : "you go with not-with me?" / "can I come with you?"
 
 **Any** particle can be turned into a yes-no question like this, though only one per sentence.
 
 Information questions can be asked by replacing the missing information with the word {{qoth "vemi"}} or "what".
 
-* {{qoth "vin da mi wei bena ei vemi"}} "you to me give what?" 
+* {{qoth "vin da bei wei bena ei vemi"}} "you to me give what?" 
 * {{qoth "zan vemi wei dugi"}} "person what do speak" / "who's speaking"
 
 
@@ -95,7 +95,7 @@ __Word : PRE\* (ATOM | PRE\\2)__
 
 A Word is either an Atom, or set of Prefixes followed by an Atom.
 
-* {{qoth "doimo"}} : Room
+* {{qoth "dumo"}} : Room
 * {{qoth "guli-zo"}} : body
 * {{qoth "ga-va-zo"}} : Colour of nothing / black
 
@@ -103,11 +103,11 @@ __Item : Word+ ("bi" Complex +)\*__
 
 An Item is a list of words. Latter words act as an adjective/adverb everything before them. {{qoth "bi"}}, acts to create a separation, so that everything after it is treated becomes a single word.
 
-* {{qoth "elein ga-una"}} : clothes red
-* {{qoth "elo ema-musi vuli"}} : tool music big - big instrument
-* {{qoth "elo bi ema-musi vuli"}} : tool of (music big) - loud instrument
-* {{qoth "doimo bi delo guli-zo"}} :  Room of wash body / bathroom
-* {{qoth "vo-wuwi eliasi bi wei mugo ei gela-zo mi"}} "the cat that ate my fish"
+* {{qoth "elin ga-una"}} : clothes red
+* {{qoth "elo ema-musi dei"}} : tool music big - big instrument
+* {{qoth "elo bi ema-musi dei"}} : tool of (music big) - loud instrument
+* {{qoth "dumo bi delo guli-zo"}} :  Room of wash body / bathroom
+* {{qoth "vo-wuwi elesa bi wei mugo ei gela-zo bei"}} "the cat that ate my fish"
 
 __Complex : Item | Strict__
 
@@ -115,15 +115,15 @@ A Complex-Item can be either an Item as above, or a whole strict sentence, where
 
 Strict sentences always begin with a particle.
 
-* {{qoth "i vin wei giawin"}}. or "you go"
+* {{qoth "ye vin wei yawin"}}. or "you go"
 * {{qoth "wei mugo"}} "do eat"
-* {{qoth "da mi ei dis"}} "to me this"
+* {{qoth "da bei ei dis"}} "to me this"
 
-Each of these could follow {{qoth "mi wei belin ei"}} "I want".
+Each of these could follow {{qoth "bei wei belin ei"}} "I want".
 
-* {{qoth "mi wei belin ei i vin wei giawin"}} "I want THAT you go" / "I want you to go"
-* {{qoth "mi wei belin ei wei mugo"}} "I want THAT do eat" / "I want to eat"
-* {{qoth "mi wei belin ei da mi ei dis"}} "I want THAT to me - this" / "I want this [to come] to me"
+* {{qoth "bei wei belin ei ye vin wei yawin"}} "I want THAT you go" / "I want you to go"
+* {{qoth "bei wei belin ei wei mugo"}} "I want THAT do eat" / "I want to eat"
+* {{qoth "bei wei belin ei da bei ei dis"}} "I want THAT to me - this" / "I want this [to come] to me"
 
 
 __Question : P:(Particle) "va" $P__
@@ -138,27 +138,27 @@ __Phrase : (Marker Complex) | (QuestionMark Complex)__
 
 A Phrase is a marker, followed by the Item it marks together, this can either be a simple concept, or a whole sentence.
 
-* {{qoth "wei giawin"}} : VERB - go
+* {{qoth "wei yawin"}} : VERB - go
 * {{qoth "li belin egi"}} : IS feeling-bad  
-* {{qoth "da zan leli"}} : TO person-little : To the child
-* {{qoth "lon iasin bi mengi mi"}} ON way of house my : On the way home
+* {{qoth "da zan deni"}} : TO person-little : To the child
+* {{qoth "lon yasin bi mengi bei"}} ON way of house my : On the way home
 
-__Sentence : Item? Phrase+ | ["mi"] Item? Phrase\*__
+__Sentence : Item? Phrase+ | ["bei"] Item? Phrase\*__
 
 A sentence may begin with an unmarked Item, that will be the subject of the sentence.
 
-If a sentence begins with {{qoth "mi"}}, then it can be followed with an item representing a verb
+If a sentence begins with {{qoth "bei"}}, then it can be followed with an item representing a verb
 
 __Strict : Phrase+__
 
-A strict sentence has no implied markers, a subject is marked with {{qoth "i"}}. {{qoth "mi"}} may not be followed directly by a verb.
+A strict sentence has no implied markers, a subject is marked with {{qoth "ye"}}. {{qoth "bei"}} may not be followed directly by a verb.
 
 __Joined : ((Item | Sentence) CON)\* Sentence__
 
 Sentences may be joined with a Conjunction, making the latter sentence dependent on the prior. Items can also be used for establishing contenxt.
 
-* {{qoth "buna esi o bena da mi ei mugo"}} "If good, oh give me good." / "Please give me food"
-* {{qoth "gein la mi wei gein mugo"}} "Maybe I can eat"
+* {{qoth "buna esi o bena da bei ei mugo"}} "If good, oh give me good." / "Please give me food"
+* {{qoth "gein la bei wei gein mugo"}} "Maybe I can eat"
 
 Primary Particles
 ---------
@@ -166,7 +166,7 @@ Primary Particles
 Particles are how dugi bialan marks the beginning and end of compound items. They also declare the role of the following item in the sentence.
 
 These are :
-* "i" : subject : followed by a noun.    
+* "ye" : subject : followed by a noun.    
 dropped if sentence starts with subject
 * "wei" : do : followed by a verb
 * "li" : is : followed by an adjective, or noun.
@@ -180,20 +180,20 @@ dropped if sentence starts with subject
 
 It is important to note that the same word can be a noun, verb or adjective.
 
--- {{qoth "mi wei mugo"}}    
+-- {{qoth "bei wei mugo"}}    
 .. I eat    
 ?? I DO food
 
--- {{qoth "mi li mugo"}}     
+-- {{qoth "bei li mugo"}}     
 .. I am food    
 
--- {{qoth "mi wei vi ei vi"}}    
+-- {{qoth "bei wei vei ei vei"}}    
 .. I set alight a fire
 
--- {{qoth "mi li vi"}}    
+-- {{qoth "bei li vei"}}    
 .. I am hot
 
--- {{qoth "mi li won vi"}}    
+-- {{qoth "bei li gi vei"}}    
 .. I am a fire
 
 Particle pairs create Sub-Clauses
@@ -203,36 +203,36 @@ Because a Complex item may be sub-clause, and sub-clauses must always be Strict 
 
 ### da li : to be / in order to be
 
--- {{qoth "mi wei mugo ei beba da li wiawa"}}    
+-- {{qoth "bei wei mugo ei wa-mugo da li yowa"}}    
 .. I eat vegetables to become strong    
 ?? I DO eat OBJECT vegetable TO BE strong
 
 ### da wei : to do / in order to
 
--- {{qoth "zan dis wei buli da wei bena mugo ei zi begi"}}    
+-- {{qoth "zan dis wei buli da wei bena mugo ei zi dis"}}    
 .. this person works to feed his children 
 ?? person this DO work TO DO give food -OB children self 
 
 ### dan wei : from doing / because did
 
--- {{qoth "mi li buna dan wei giawin delo"}}    
-.. i like swimming    ?? I AM good FROM DO go water
+-- {{qoth "bei li buna dan wei yawin delo"}}    
+.. I like swimming    ?? I AM good FROM DO go water
 
 ### gin gin : and with 
 
--- {{qoth "is-min wei dugi, gin gin luga begi wei ema-egon"}}    
+-- {{qoth "dis min wei dugi, gin gin luga dis wei ema-egon"}}    
 .. She spoke, and,  with her hand, drummed.    
 
 ### "li wei" : passive form
 
 Verb that happened to subject
 
--- {{qoth "mi li wei mugo"}}     
+-- {{qoth "bei li wei mugo"}}     
 .. I am eaten
 
 ### lon wei : In the middle of
 
--- {{qoth "mi lon wei dugi"}}      
+-- {{qoth "bei lon wei dugi"}}      
 .. I'm in the middle of talking    
 
 
@@ -244,18 +244,18 @@ Conjunctions define a relationship between the clause before it, and the clause 
 * la : while / because / junction / context
 * esi : if
 
--- mi wei giawin la, vin o gein uwein    
+-- bei wei yawin la, vin o gein uwein    
 .. since I'm going, you can stay
 
--- mi wei giawin esi, vin o gein uwein    
+-- bei wei yawin esi, vin o gein uwein    
 .. If I go, you can stay.
 
--- mi li beni giawin la, vin wei gein uwein    
-.. after i go, you can stay
+-- bei li beni yawin la, vin wei gein uwein    
+.. after I go, you can stay
 
 The first clause can be something as simple as a "dis"
 
--- dis la, mi wei giawin    
+-- dis la, bei wei yawin    
 .. when this happens this I'm going
 
 
@@ -264,7 +264,7 @@ Vocatives / Imperatives
 
 The word "o" can be used as both a polite call before a name, to ask for their attention.
 
--- o [i] zan buna
+-- o [ye] zan buna
 .. Oh Good person
 
 or as the beginning of a request
@@ -272,16 +272,16 @@ or as the beginning of a request
 -- o [wei] lugin ei dis
 .. Oh look at this.
 
-The 'i' and the 'wei' can be dropped, but may be said.
+The 'ye' and the 'wei' can be dropped, but may be said.
 
 To request an action not happen. use va before the verb marker.
 
--- o va-wei giawin
+-- o va-wei yawin
 .. Oh don't go
 
 Or in more urgent cases, va can come before 'o'. But many people want to be polite before negative.
 
--- va-o giawin
+-- va-o yawin
 .. don't go
 
 
@@ -290,13 +290,13 @@ Yes or No Questions
 
 Yes or no questions, are asked by using the "particle not particle" structure
 
--- vin li va-li buna dan mi?     
+-- vin li va-li buna dan bei?     
 .. do you like me?     
 ?? you ARE not-ARE good FROM me
 
 To answer "yes", is "li", and "no" is "va-li"
 
--- vin wei va-wei giawin?    
+-- vin wei va-wei yawin?    
 .. Are you going?    
 ?? you DO not DO go
 
@@ -312,17 +312,17 @@ If possible put "vemi" in the first item of the sentence, though this is not a s
 -- lon vemi?        
 .. Where
 
--- vemi wei giawin?    
+-- vemi wei yawin?    
 .. Who is going?
 
--- dan vemi i vin wei zon.    
+-- dan vemi ye vin wei zon.    
 .. how do you know?
 
--- wei vemi i vin gin elein liawa mi    
+-- wei vemi ye vin gin elin liawa bei    
 .. What are you doing with my hat?    
 ?? DO what SUB you WITH hat me
 
--- gin iasin vemi wei buli ei bengo    
+-- gin yasin vemi wei buli ei bengo    
 .. How does one make a car    
 ?? WITH way what DO make OB vehicle?
 
@@ -339,8 +339,8 @@ Numbers after an object are ordinal and mark place or position.
 
 Number words are : 
 
->0: {{uqoth "viazo"}}    
-1: {{uqoth "won"}}    
+>0: {{uqoth "vas"}}    
+1: {{uqoth "gi"}}    
 2: {{uqoth "di"}}     
 3: {{uqoth "van"}}     
 4: {{uqoth "mo"}}     
@@ -353,17 +353,17 @@ Number words are :
 >10: {{uqoth "lo"}}     
 1000: {{uqoth "za"}}     
 
-{{uqoth "viazo"}} to {{uqoth "lein"}} act as decimal digits, and numbers may be written and spoken in this way.
+{{uqoth "vas"}} to {{uqoth "lein"}} act as decimal digits, and numbers may be written and spoken in this way.
 
 > 345 : {{qq "van mo lan"}}
 
 However, when writing larger numbers, {{uqoth "lo"}} and {{uqoth "za"}} can be used to mulitply the number before them, and set the place for the next digit.
 
-> 13 : {{qq "lo-van"}} or {{qq "won-van"}}    
-    103: {{qq "lo-lo-viazo-van"}}    
+> 13 : {{qq "lo-van"}} or {{qq "gi-van"}}    
+    103: {{qq "lo-lo-vas-van"}}    
     130 : {{qq "lo-lo-van"}}    
     133 : {{qq "lo-lo-van-van"}}    
-    303 : {{qq "van-lo-lo-viazo van"}}    
+    303 : {{qq "van-lo-lo-vas van"}}    
 
 {{qq "lo"}} before {{qq "za"}} allows sub 1000 separations at large numbers
 
@@ -371,11 +371,11 @@ However, when writing larger numbers, {{uqoth "lo"}} and {{uqoth "za"}} can be u
 
 {{uqoth "gin"}} can be used to separate parts of a number if the number has separate parts
 
-> 3003 : {{qq "van-za gin van"}} or {{ qq "van za viazo viazo van"}}
+> 3003 : {{qq "van-za gin van"}} or {{ qq "van za vas vas van"}}
 
-{{uqoth "wiawa"}}, that is "power" can be used to give very large numbers
+{{uqoth "yowa"}}, that is "power" can be used to give very large numbers
 
-> 5 *10 ^ 28 : {{qq "lan lo bi za wiawa lein"}}  (that is: 50 of 1000 ^ 9)
+> 5 *10 ^ 28 : {{qq "lan lo bi za yowa lein"}}  (that is: 50 of 1000 ^ 9)
 
 
 Auxiliary Particles
@@ -386,7 +386,7 @@ They are:
 * {{qoth "bi"}} : of
 * {{qoth "wi"}} : purpose
 * {{qoth "deso"}} : except / but / however
-* {{qoth "iani"}} :  or
+* {{qoth "yani"}} :  or
 * {{qoth "egin"}} : also / same
 
 ### {{qoth "bi"}} - of
@@ -406,15 +406,15 @@ A bi B C -> A of (B of C)
 
 compare :
 
-- {{qoth "zan miani leli"}} - (man of money) of small - the small wealthy man
-- {{qoth "zan bi miani leli"}} - man of (money of small) - the poor man.
+- {{qoth "zan zega deni"}} - (man of money) of small - the small wealthy man
+- {{qoth "zan bi zega deni"}} - man of (money of small) - the poor man.
 
 
 For dependent clauses.
 
 'bi' can be followed by any other particle, and mean "that" referring to an intrinisic property
 
-- {{qoth "wendo-delo bi wei moili"}} : ducks that kill / killer ducks
+- {{qoth "weno-delo bi wei meli"}} : ducks that kill / killer ducks
 
 
 ### {{qoth "wi"}} - purpose
@@ -430,68 +430,68 @@ The latter may not have any water in it.
  
 {{q "edo"}} is used for properties not intrinsic to an object.  
 
-{{qoth "vo-wuwi edo wei moili ei gela-zo mi, wei luga ei guli-deli lon luga is-vo."}}
+{{qoth "vo-wuwi edo wei meli ei gela-zo bei, wei luga ei guli-deli lon luga dis."}}
 The 'cat', that killed my fish, has blood on it's hands.
 
 ### {{qoth "deso"}} - Except/But
 
 {{q "deso" }} can be used like a particle to mean "except"
 
-{{qoth "mi wei mugo muli deso gela-zo"}}    
+{{qoth "bei wei mugo muli deso gela-zo"}}    
 -- I eat everything except fish
 
 {{qoth "deso la"}} allows you to begin a sentence with "however".
 
-{{qoth "mi wei giawin da man ziavi, deso la, va-zan lon man dis"}}    
+{{qoth "bei wei yawin da man ziavi, deso la, va-zan lon man dis"}}    
 -- I went to the park, however, there was no-one there.
 
 It can be used with negation to mean "nothing but","only" or "just". The va can apply to the particle or to deso directly
 
--- mi va-wei deso mugi ei gela-zo
--- mi wei va-deso mugi ei gela-zo    
+-- bei va-wei deso mugo ei gela-zo
+-- bei wei va-deso mugo ei gela-zo    
 .. I only eat fish
 
--- mi wei mugi va-ei deso gela-zo dis
--- mi wei mugo ei va-deso gela-zo dis    
+-- bei wei mugo va-ei deso gela-zo dis
+-- bei wei mugo ei va-deso gela-zo dis    
 .. I eat only this fish
 
--- me wei bena ei dis va-da deso vin
--- me wei bena ei dis da va-deso vin
+-- bei wei bena ei dis va-da deso vin
+-- bei wei bena ei dis da va-deso vin
 .. I give this to only you
 
-### {{qoth "iani"}} - or / choice
+### {{qoth "yani"}} - or / choice
 
-{{q "iani"}} can be used to separate options
+{{q "yani"}} can be used to separate options
 
-{{qoth "vin wei mugo ei delo ziana, iani delo bi zi beba"}}    
+{{qoth "vin wei mugo ei delo ziana, yani delo bi zi wa-mugo"}}    
 -- you do consume tea OR coffee?
 -- would you like to drink tea OR coffee?
 
 It can be used as a verb to mean "decide".
 
-{{qoth "me wei iani mugo ei delo ziana"}}    
+{{qoth "bei wei yani mugo ei delo ziana"}}    
 -- I choose to drink tea
 
-{{qoth "iani la"}} can mean "otherwise".
+{{qoth "yani la"}} can mean "otherwise".
 
-{{qoth "o vi buna ei delo ziana, iani la, mi va-wei gein mugo"}}    
+{{qoth "o vei buna ei delo ziana, yani la, bei va-wei gein mugo"}}    
 -- Oh cook well the tea, otherwise I can't drink [it].
 
 ### {{qoth "egin"}} - also / same
 
 {{q "egin"}} can mean "also"
 
-{{qoth "mi egin li vi"}}    
+{{qoth "bei egin li vei"}}    
 -- I too am hot
 
 It can also mean "the same"
 
-{{qoth "mi li egin vin"}}    
+{{qoth "bei li egin vin"}}    
 -- I'm the same as you
 
 {{qoth "egin la"}} can mean "moreover / again"
 
-{{qoth "mi li belin liabei, egin la, mi li belin mugo"}}
+{{qoth "bei li belin lebi, egin la, bei li belin mugo"}}
 -- I'm tired, moreover, I'm hungry.
 
 Prefix Particles
@@ -518,18 +518,18 @@ When joined to each other the child prefix has its own clarifier
 
 "va" before a particle, says the whole coming particle is false.
 
--- mi va-wei giawin
+-- bei va-wei yawin
 .. I'm not going / I don't go
 
 -- dis va-li buna    
 .. this is not good
 
--- mi va-wei zon
+-- bei va-wei zon
 .. I don't know
 
 "va" before a verb is equivelant to "un" in english
 
--- mi wei va-zon     
+-- bei wei va-zon     
 .. I unknow / I forget
 
 -- va-o va-zon
@@ -544,14 +544,14 @@ When joined to each other the child prefix has its own clarifier
 Describe colours how you like, but these are some good starters.
 
 * ga-zo : colour
-* ga-won : uniform colour
+* ga-gi : uniform colour
 * ga-gon : transparent
 * ga-va-zo : black
 * ga-esuno : yellow/orange
 * ga-delo : blue
 * ga-zewi : light-blue
 * ga-una : red
-* ga-beba : green
+* ga-wa-mugo : green
 * ga-goigo : brown
 * ga-dei : Multicoloured
 * ga-muli : White
@@ -578,7 +578,7 @@ As with colours, these are guidelines.
 
 If you want to be precise just use the atomic number
 
-* edin-won : Hydrogen
+* edin-gi : Hydrogen
 * edin-di : Helium
 * edin-vein : Lithium
 * edin-mo : berylium
@@ -592,7 +592,7 @@ If you want to be precise just use the atomic number
 * vo-zan : Monkey
 * vo-ezan : Wolf/Tiger/fierce animal 
 * vo-zon : cunning animal / fox
-* vo-beba : Herbivore/farm animal
+* vo-wa-mugo : Herbivore/farm animal
 * vo-delo : Fish
 * vo-wuwi : Cute animal.
 * vo-wiasa : Bird
@@ -639,10 +639,10 @@ If you want to be precise just use the atomic number
 * megi-zo : Measurement
 * megi-liawa : Height
 * megi-oiga : Depth
-* megi-vi : Tempurature
+* megi-vei : Tempurature
 * megi-munin : Width
 * megin enbin : Length
-* megi-giawin : Speed
+* megi-yawin : Speed
 * megi-lei : Angle
 
 Repeated Particles
@@ -651,13 +651,13 @@ Repeated Particles
 The following particles may be repeated to achieve commmunicate that that particles is key.
 
 
-- {{qoth "mi li buna"}} I am good
-- {{qoth "mi li li"}} I AM.
+- {{qoth "bei li buna"}} I am good
+- {{qoth "bei li li"}} I AM.
 
-- {{qoth "mi lon man dis"}} I'm at this place
-- {{qoth "mi lon lon"}} I'm HERE
+- {{qoth "bei lon man dis"}} I'm at this place
+- {{qoth "bei lon lon"}} I'm HERE
 
-- {{qoth "mi wei wei"}} I'm DOING
+- {{qoth "bei wei wei"}} I'm DOING
 
 Pronouns
 ---------
