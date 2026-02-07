@@ -2,7 +2,7 @@
 {{@md}}
 
 {{@with_pics -}}
-o ubin buna da dugi -"belan"-. gi dugi belan
+o guma buna da dugi -"belan"-. gi dugi belan
 {{- /with_pics }}    
 Welcome to Dugi Belan, a language of Balance.
 
