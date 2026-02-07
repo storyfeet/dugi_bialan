@@ -68,30 +68,29 @@ Loan Words are underlined to show they are names, and are read using a phonetic 
 
 Consonants - Tall
 {{@qq }}
-* b#b : biawi
-* d#d : dan
-* g#g : giasi
-* l#l : luga
-* m#m : mi
-* v#v : vin
-* w#w : won
-* z#z : zan
+* B# b : biawi
+* D# d : dan
+* G# g : giasi
+* L# l : luga
+* M# m : mi
+* V# v : vin
+* W# w : won
+* Z# z : zi
 {{/qq}}
 
 Finals - High up. (Finals cannot start a word)
 {{@qq }}
-* n#n : enin - short on bottom
-* s#s : deso - line down for final
+* N# n : enin - short on bottom
+* S# s : deso - line down for final
 {{/qq}}
 
 Vowels - Low down
 {{@qq }}
-* E#e : edin    
-* Oi#oi : oiga    
-* Ia#ia : ziazon
-* U#u : una    
-* Ei#ei : wei    
-* O#o : vo    
-* A#a : ga    
-* I#i : i     
+* E# e : edin   
+* U# u : una    
+* Ei# ei : wei    
+* O# o : vo    
+* A# a : ga    
+* I# i : 
+* Y# y : yamon
 {{/qq}}
