@@ -1,1 +1,1 @@
-{{exec_stdin "zig/zig-out/bin/dugi_convert" $0}}{{first $1 "<br>"}}{{$0}}\
+<span class="script_dugi">{{exec_stdin "zig/zig-out/bin/dugi_convert" $0}}</span>{{first $1 "<br>"}}<span class="script_roman">{{$0}}</span>\

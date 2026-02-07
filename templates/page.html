@@ -4,6 +4,12 @@
 <head>
 <meta charset="utf-8">
 <title>{{first .title "Dugi Bialan"}}</title>
+{{let pallet_grey = "#a7ac93";
+    pallet_black = "#000000";
+    pallet_white = "#ffffff";
+    pallet_green = "#bcd35f";
+    pallet_opposite = "#ffb200";  
+}}
 <style>
 
 @font-face {
@@ -24,10 +30,19 @@ button {
 }
 
 .content{
-    width : 90%; 
-    margin : auto;
-    background-color:#bbbb88;
+    margin: 1vw;
+    font-size:180%;
+    background-color:{{$pallet_grey}};
     padding : 10px;
+}
+
+.content .script_dugi {
+    font-size: 150%;
+}
+
+.content .script_roman {
+    font-size: 90%;
+    font-style:italic;
 }
 
 
@@ -72,8 +87,7 @@ button {
     height: 50%;
     background: #bbbbbb;
 }
-.glyph-box text {
-}
+
 .word-list {
     display:flex;
     flex-wrap:wrap;
@@ -173,10 +187,33 @@ body{
     background-attachment: fixed;
 }
 
+.title_box{
+    margin: 0 1vw;
+    padding-left: 3vw;
+    background-color: {{$pallet_green}};
+
+}
+
+.title_box img{
+    width: 15vw;
+    float:right;
+}
+
+.title_box h1{
+    max-width: 50vw;
+    top:2vw;
+    margin-top:2vw;
+    padding-top:2vw;
+    font-size: 250%;
+}
+
+.page_inner{
+    background-color: {{$pallet_white}};
+}
+
 .wide_window .page_inner{
     margin-left: 10vw;
     margin-right: 10vw;
-    background-color: green;
 }
 
 .tall_window .page_inner{
@@ -209,9 +246,10 @@ body{
             <a href="/phonology">Phonology</a>
             <a href="/works">Works</a>
             <a href="/dictionary">Dictionary</a>
-        </div>
-        <h1 class="page-title">{{first .title "Dugi Bialan"}}</h1>
-        <div class="content">
+        </div><div class="title_box">
+            <img src="/pics/squares/dugibelan-1.svg">
+            <h1>{{first .title "Dugi Bialan"}}</h1>
+        </div><div class="content">
             {{$1}}
         </div>
     </div>
