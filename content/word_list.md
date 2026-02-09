@@ -12,8 +12,7 @@
 {{for k c in $cards}}
     <div class="word-box">
     <span style="font-weight:bold">{{$c.Name}}</span><br>
-    <span style="font-size:200%" >{{qq $c.Name}}</span><br>
-    <br>
+    <span style="font-size:120%" >{{qq $c.Name}}</span><br>
     {{for ww w in $c.en}}{{$w}} {{/for}}
     {{if $c.tags}}{{for ww w in $c.tags}}{{$w}} {{/for}}{{/if}}
     </div>
