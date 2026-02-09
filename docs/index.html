@@ -89,8 +89,8 @@ button {
 }
 .word-box {
     text-align:center;
-    height:140px;
-    width:90px;
+    height:210px;
+    width:120px;
     border:1px solid black;
     page-break-inside:avoid;
     overflow-y:hidden;
@@ -112,14 +112,29 @@ button {
     float:left;
     font-size:200%;
     text-align:center;
+    transition:top 2s;
     
 }
 
 
-.menu {
+#top_menu {
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+    left:10vw;
+}
+
+#top_menu.hide{
+    top:auto;
+    bottom:100vh;
+    position:fixed;
+}
+
+#top_menu.fix {
+    top:0;
+    bottom:auto;
+    position:fixed;
+
 }
 
 .menu a {
@@ -190,7 +205,7 @@ body{
 }
 
 .title_box img{
-    width: 15vw;
+    max-height: 100%;
     float:right;
 }
 
@@ -233,7 +248,7 @@ body{
 </head>
 <body id="doc_body">
     <div class="page_inner">
-        <div class="no-print menu">
+        <div id="top_menu" class="no-print menu">
             <a href="/">Home</a>
             <a href="/word_list">Word List</a>
             <a href="/grammar">Grammar</a>
@@ -250,8 +265,7 @@ body{
 Welcome to Dugi Belan, a language of Balance.</p>
 <p><span class="script_dugi">   </span><br><span class="script_roman">wei belan ei yasin gan-deni ei gein dugi dei</span><br />
 It balances minimalism, with the ability to say a lot.</p>
-<p> <a href="/from_toki_pona"></a><br />
-o ebin ei &quot;<a href="/from_toki_pona">dugi buna</a>&quot; deso, gein veli dugi-gudei.<br />
+<p><span class="script_dugi">  <a href="/from_toki_pona"></a></span><br><span class="script_roman">o ebin ei -&quot;<a href="/from_toki_pona">dugi buna </a>&quot;- deso, gein veli dugi-gudei.</span><br />
 Think <a href="/from_toki_pona">'Toki Pona'</a> but where you can actually communicate.</p>
 <p><span class="script_dugi">        </span><br><span class="script_roman">li dugi gein gin va-deso bo di-lo-lo enon.  vin wei gein ugin wei gein gudei ei li wei dugi lon dis</span><br />
 It is a capable language, with only about 200 words. You can watch and hear it being spoken here:</p>
@@ -277,7 +291,37 @@ function setWideMode(){
 }
 window.onresize = setWideMode;
 
+function showHideMenu_(){
+    let lastY = 0;
+    return ()=>{
+        let menu = document.getElementById('top_menu');
+        if (window.scrollY < 200){
+            console.log('Menu - inline');
+            menu.classList.remove("fix","hide");
+        }else if (window.scrollY > lastY){
+            console.log('menu - hide');
+            menu.classList.remove("fix");
+            menu.classList.add("hide");
+        } else{
+            console.log('menu - fix');
+            menu.classList.add("fix");
+            menu.classList.remove("hide");
+        }
+        console.log("last,current",lastY,window.scrollY );
+
+        lastY = window.scrollY;
+    }
+}
+
+function setShowButtons(event){
+    let body = document.getElementById('doc_body');
+    show
+}
+
+window.onscroll = showHideMenu_();
+
 setWideMode();
+showHideMenu_()();
 
 </script>
 
