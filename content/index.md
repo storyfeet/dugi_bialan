@@ -9,10 +9,9 @@ Welcome to Dugi Belan, a language of Balance.
 {{with_pics "wei belan ei yasin gan-deni ei gein dugi dei"}}    
 It balances minimalism, with the ability to say a lot.
 
-{{@qq -}} 
-o ebin ei -"[dugi buna]#(/from_toki_pona)#"- deso, gein veli dugi-gudei.
-{{- /qq}}    
-o ebin ei "[dugi buna](/from_toki_pona)" deso, gein veli dugi-gudei.    
+{{@with_pics -}} 
+o ebin ei -"<a href="/from_toki_pona">dugi buna </a>"- deso, gein veli dugi-gudei.
+{{- /with_pics}}      
 Think ['Toki Pona'](/from_toki_pona) but where you can actually communicate.
 
 
