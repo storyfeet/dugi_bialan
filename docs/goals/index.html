@@ -4,6 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>Goals for Dugi Bialan - A language of Balance</title>
+
 <style>
 
 @font-face {
@@ -13,6 +14,7 @@
 body {
     background-color:#aaaa77;
     font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
+    margin:0px;
 }
 
 button {
@@ -23,10 +25,19 @@ button {
 }
 
 .content{
-    width : 90%; 
-    margin : auto;
-    background-color:#bbbb88;
+    margin: 1vw;
+    font-size:180%;
+    background-color:#a7ac93;
     padding : 10px;
+}
+
+.content .script_dugi {
+    font-size: 150%;
+}
+
+.content .script_roman {
+    font-size: 90%;
+    font-style:italic;
 }
 
 
@@ -71,8 +82,7 @@ button {
     height: 50%;
     background: #bbbbbb;
 }
-.glyph-box text {
-}
+
 .word-list {
     display:flex;
     flex-wrap:wrap;
@@ -129,21 +139,113 @@ button {
 
 
 
+body{
+    background-image: url('/pics/squares/bas.svg'),
+        url('/pics/squares/belan.svg'),  
+        url('/pics/squares/dedi.svg'),
+        url('/pics/squares/bena.svg'),
+        url('/pics/squares/belin.svg'),
+        url('/pics/squares/bunei.svg'),
+        url('/pics/squares/busi.svg'),
+        url('/pics/squares/ugin.svg'),
+        url('/pics/squares/egon-2.svg'),
+        url('/pics/squares/elena-3.svg'),
+
+        url('/pics/squares/dugi.svg'),
+        url('/pics/squares/gedin.svg'),
+        url('/pics/squares/geva.svg'),
+        url('/pics/squares/vegi.svg'),
+        url('/pics/squares/undi.svg'),
+        url('/pics/squares/wuwi.svg'),
+        url('/pics/squares/wa.svg'),
+        url('/pics/squares/belan.svg'),
+        url('/pics/squares/bengo.svg'),
+        url('/pics/squares/yovi.svg');
+
+
+    background-size: 10vw 10vw;
+}
+.wide_window {
+    background-position: 0 0, 0 10vw, 0 20vw, 0 30vw,0 40vw, 0 50vw, 0 60vw, 0 70vw, 0 80vw, 0 90vw,
+        90vw 0, 90vw 10vw, 90vw 20vw, 90vw 30vw,90vw 40vw, 90vw 50vw, 90vw 60vw, 90vw 70vw, 90vw 80vw, 90vw 90vw;
+
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,
+                    no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,
+                    no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,
+                    no-repeat, no-repeat,no-repeat,no-repeat,no-repeat;
+    background-attachment: fixed;
+}
+
+.tall_window {
+    background-position:  0 0, 10vw 0,20vw 0, 30vw 0, 40vw 0, 50vw 0, 60vw 0, 70vw 0, 80vw 0, 90vw 0; 
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+    background-attachment: fixed;
+}
+
+.title_box{
+    margin: 0 1vw;
+    padding-left: 3vw;
+    background-color: #bcd35f;
+
+}
+
+.title_box img{
+    width: 15vw;
+    float:right;
+}
+
+.title_box h1{
+    max-width: 50vw;
+    top:2vw;
+    margin-top:2vw;
+    padding-top:2vw;
+    font-size: 250%;
+}
+
+.page_inner{
+    background-color: #ffffff;
+}
+
+.wide_window .page_inner{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.tall_window .page_inner{
+    margin-top: 10vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.tall_window .squares img {
+    float:none;
+    margin:0px;
+    width:10vw;
+}
+
+.squares {
+    font-size:0;
+}
+
+
+
 </style>
 </head>
-<body>
-    <div class="no-print menu">
-        <a href="/">Home</a>
-        <a href="/word_list">Word List</a>
-        <a href="/grammar">Grammar</a>
-        <a href="/grammar_faq">Grammar Faq</a>
-        <a href="/phonology">Phonology</a>
-        <a href="/works">Works</a>
-        <a href="/dictionary">Dictionary</a>
-    </div>
-    <h1>Goals for Dugi Bialan - A language of Balance</h1>
-    <div class="content">
-        
+<body id="doc_body">
+    <div class="page_inner">
+        <div class="no-print menu">
+            <a href="/">Home</a>
+            <a href="/word_list">Word List</a>
+            <a href="/grammar">Grammar</a>
+            <a href="/grammar_faq">Grammar Faq</a>
+            <a href="/phonology">Phonology</a>
+            <a href="/works">Works</a>
+            <a href="/dictionary">Dictionary</a>
+        </div><div class="title_box">
+            <img src="/pics/squares/dugibelan-1.svg">
+            <h1>Goals for Dugi Bialan - A language of Balance</h1>
+        </div><div class="content">
+            
 <h2>Reason To Exist</h2>
 <p>I have created this language as a response to my experience learning Toki Pona, with the intent to find a place of balance between minimalism and successful communication.</p>
 <p>Toki pona is a great language for minimalist communication, and since learning it with my children we have had a lot of fun, however, in my experience, while Toki Pona is easy to speak, it is not easy to understand.</p>
@@ -222,6 +324,27 @@ pairs of words not meaning a specific english word, but communicating their own 
 </li>
 </ul>
 
+        </div>
     </div>
+
 </body>
+
+<script type="module">
+
+function setWideMode(){
+    let body = document.getElementById('doc_body');
+    if (window.innerHeight > window.innerWidth){
+        body.classList.add('tall_window');
+        body.classList.remove('wide_window');
+    } else{
+        body.classList.add('wide_window');
+        body.classList.remove('tall_window');
+    }
+}
+window.onresize = setWideMode;
+
+setWideMode();
+
+</script>
+
 </html>
