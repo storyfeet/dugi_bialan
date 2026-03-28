@@ -27,82 +27,33 @@
             <h1>Write Dugi Bialan Script</h1>
         </div><div class="content">
             
+
+<p><span class="script_dugi">     </span><br><span class="script_roman">o vedin Loman lon man dis, da wei endi da vedin bi dugi belan</span><br />
+Type Roman letters in this box to see to dugi belan script</p>
+
 <textarea id="roman">
 </textarea>
 <div id="dugi"><div>
 
 <script type="module">
+	import {fontMap,letterMap} from "/js/jsfontmapper.js";
+	import * as TD from "/js/type_dugi.js" ;
 
-	function showDugi(s,len){
-		let s2 = decodeString(s,len);
+
+	console.log('Prop ');
+
+	let convert =  (event)=>{
+		console.log("roman change");
+		let converter = new TD.Converter(fontMap, letterMap);
+		let s2 = converter.convert(event.target.value);
 	    let op = document.getElementById("dugi");
 		op.innerText = s2;
-	}
-
-	function whenReady(){
-		let tx = document.getElementById("roman");
-		tx.addEventListener("input",(ob)=>{
-			let s = ob.target.value;
-			if (s==""){
-				let op = document.getElementById("dugi");
-				op.innerText = "";
-				return;
-			}
-			//console.log("Input:",s);
-			let sdat = encodeString(s);
-			w_dugi.exports.convert(sdat.s,sdat.l);
-		});
-	}
-
-
-	var memory = new WebAssembly.Memory({
-		initial:2,
-		maximum:100,
-	});
-	let forImport = {
-		dugi:{
-	//		qlog:(s,len)=>console.log(arg),
-			show_dugi:showDugi
-		},
-		env: {
-			memory:memory,
-		}
 	};
 
-	(async ()=>{
-		let response = await fetch("wasm/dugi.wasm");
-		let buf	= await response.arrayBuffer();
-		let ob = await WebAssembly.instantiate(buf,forImport);
-		window.w_dugi = ob.instance; 
-		w_dugi.exports.init();
-		whenReady();
-	})();
-
-
-
-	const decodeString = (pointer, length) => {
-	  const slice = new Uint8Array(
-		w_dugi.exports.memory.buffer, // memory exported from Zig
-		pointer,
-		length
-	  );
-	  return new TextDecoder().decode(slice);
-	};
-
-	const encodeString = (string) => {
-	  const buffer = new TextEncoder().encode(string);
-	  const pointer = w_dugi.exports.allocUint8(buffer.length + 1); // ask Zig to allocate memory
-	  //console.log("Pre Slice");
-	  const slice = new Uint8Array(
-		w_dugi.exports.memory.buffer, // memory exported from Zig
-		pointer,
-		buffer.length + 1
-	  );
-	  //console.log("post slice");
-	  slice.set(buffer);
-	  slice[buffer.length] = 0; // null byte to null-terminate the string
-	  return {s:pointer,l:buffer.length};
-	};
+	let roman = document.getElementById("roman");
+	roman.onkeyup = convert;
+	roman.onpropertychange = convert;
+	roman.onpaste = convert;
 
 </script>
 

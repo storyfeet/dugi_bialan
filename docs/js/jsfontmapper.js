@@ -220,6 +220,8 @@ export const letterMap = {
 	"_comma":"\u{e0f8}",
 	"_open":"\u{e0f9}",
 	"_close":"\u{e0fa}",
+	"-'":"\u{e0f9}",
+	"'-":"\u{e0fa}",
 	"a":"\u{e111}",
 	"A":"\u{e111}",
 	"b":"\u{e112}",
