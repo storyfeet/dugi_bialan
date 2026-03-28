@@ -16,6 +16,8 @@ export class Converter {
 		return res;
 
 	}
+
+	
 	convertSub(s) {
 		let lmap = this.lmap;
 		let wmap = this.wmap;
@@ -26,24 +28,25 @@ export class Converter {
 			return wmap[s];
 		}
 		let res = "";
-		let skip = false;
-		for (let c in s) {
-			if (skip) {
-				skip = false;
-				continue;
+		let p = 0;
+		outer: while (p < s.length){
+			for (let look = s.length - p; look > 0 ; look --){
+				let curr = s.slice(p,p + look);
+				if (lmap[curr]){
+					res += lmap[curr];
+					p += curr.length;	
+					continue outer;
+				}
+				if (wmap[curr]){
+					res += wmap[curr];
+					p += curr.length;
+					continue outer;
+				}
 			}
-			if (c + 1 < lmap.length && lmap[s[c] + s[c + 1]]) {
-				res += lmap[s[c] + s[c + 1]];
-				skip = true;
-				continue;
-			}
-
-			if (lmap[s[c]]) {
-				res += lmap[s[c]];
-				continue;
-			}
-			res += s[c];
+			res += s[p];
+			p+=1;
 		}
+
 		return res;
 	}
 }
