@@ -2,44 +2,50 @@
 
 {{@md}}{{@qq }}
 
-veso-mengi i vo-gudei munin # : (The Tortoise and the Hare)
+ye veso-mengi ye vo-gudei munin # : (The Tortoise and the Hare)
 #===========
 
-vo-gudei munin li dei gein giawin dan vo-zo muli bi man giasi. deso la, wei dei zon ei dis. 
+vo-gudei munin li dei gein yawin dan vo-zo muli bi man wa-gelin. deso la, wei dei zon ei dis. 
 
-muli begin esuno la, wei bo ei vo-zo mugi go, "o dei deni giawin gin mi". va-won wei belin dei deni giawin gin is-gudei.
+muli begin eno la, wei bo ei dis das vo-zo go, -"o dei deni yawin gin bei"-. va-gi wei belin dei deni yawin gin dis.
 
-muli don bi i vo-zo wei gelubi dugi la vo-gudei munin lon dis, go "o dei deni. o dei deni"
+muli don bi ye vo-zo wei gelubi dugi la vo-gudei munin lon dis go -"o dei deni. o dei deni"-
 
-dis wei egi-ezan ei muli vo-zo.
+dis dugi wei egi-ezan ei muli vo-zo.
 
-won esuno deso la, dan ezan, i veso-egon go "mi wei dei deni giawin ei vin".
+gi eno deso la, dan ezan, ye veso-egon go -"bei wei dei deni yawin ei vin"-.
 
-vo-gudei go "vin ... vin wei dei deni ei mi. eniasa."
+vo-gudei go -"vin ... vin wei dei deni ei bei. enyasa."-
 
-go "dan vami va-wei. vin wei va-wei belin ei dei deni"
+go -"dan vemi va-wei. vin wei va-wei belin ei dei deni"-
 
-go "deso va-gin vin. vin li deni megi-giawin dan muli" 
+go -"deso va-gin vin. vin li deni megi-yawin dan muli"- 
 
-go "mi wei uwein dugi"
+go -"bei wei uwein veli"-
 
-va-zan wei gein egon biagei ei uwein dugi veso-mengi. dan dis la, is-di li giawin wei dei deni.
+muli wei zon ei ye veso mengi wei uwein veli la, va-gi wei gein egon bega.
 
-vo-muli wei gelubi lon man begin. vo-begin go "begin".
+dis la, dis-di li yawin dei deni.
 
-is-di wei giawin giawin, lon iasin wei dei giawin, dan egsegi udiala giawin giawin.  dis li dugi ei vo-gudei wei giawin egin dis. veso-mengi deso wei giawin, deso da wei lugin, i zan o lugin lugin lugin da wei zon veli.
+vo-muli wei gelubi lon man begin. vo-begin go -"begin"-.
 
-don leli la vo-gudei li dei wega dan vo-muli, wei lugin meni va-wei lugin ei vo-zo, wei ebin ei wei gein elo ei liabei uwein.
+dis-di wei yawin yawin, lon yasin wei dei yawin dan esegi mela bi yawin yawin.  
 
-wei beni ei guli-lugin da don leli. ubin la, wei lugin meni, va-wei gein lugin ei vo-zo, wei ebin go "gein la, da beni "
+ba ye vo-gudei munin wei dis yawin. ye veso-mengi wei yawin, deso dan wei ugin la, va wei gein zon veli.
 
-wei giawin, deso, beni lon lugin la, wei gein lugin ei vo-muli lon man beni.  veso-mengi da lena, lon don leli.
+don deni la, vo-gudei li dei wega dan vo-muli, wei meni ugin deso va-wei ugin ei vo-zo, wei ebin gein elo ei uwein unis.
 
-vo-gudei wei giawin, giawin gin giawin begi muli, deso la, is-gudei va-la, veso-mengi wei munin ei lena.
+lon uga bi wa-zewi wei gan-gugo ei yawa, wei deni lebi
 
-go "vin gin vemi wei dei won ei mi"
+ugin ubin la, wei meni ugin, va-wei gein ugin ei vo-zo, wei ebin go -"ba o da beni"-
 
-go "mi va wei biagei"
+wei yawin unis, deso, beni lon ugin la, wei gein ugin ei vo-muli lon man beni.  veso-mengi lon megi-bo deni dan lena beni, wei yawin lesi.
+
+vo-gudei wei yawin, yawin gin yawin dis muli, deso la, dis va-li belas. veso-mengi wei velo ei lena.
+
+vo-gudei go -"vin dan vemi wei dei yawin ei bei"-
+
+vo-mengi go -"bei va-wei bega"-
 
 
 
