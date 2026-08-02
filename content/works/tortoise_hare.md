@@ -7,17 +7,17 @@ ye veso-mengi ye vo-gudei munin # : (The Tortoise and the Hare)
 
 vo-gudei munin li dei gein yawin dan muli vo-zo bi man wa-gelin. deso la, wei dei zon ei dis. 
 
-muli begin eno la, wei bo ei dis das vo-zo go, -"o dei deni yawin gin bei"-. va-gi wei belin dei deni yawin gin dis.
+muli begin eno la, wei bo ei dis das vo-zo go, -"o zeli yawin gin bei"-. va-gi wei belin zeli yawin gin dis.
 
-muli don bi ye vo-zo wei gelubi dugi la vo-gudei munin lon dis go -"o dei deni yawin. o dei deni yawin"-
+muli don bi ye vo-zo wei gelubi dugi la vo-gudei munin lon dis go -"o zeli yawin. o zeli yawin"-
 
 dis dugi wei egi-ezan ei muli vo-zo.
 
-gi eno deso la, dan belin ezan, ye veso-mengi go -"bei wei dei deni yawin ei vin"-.
+gi eno deso la, dan belin ezan, ye veso-mengi go -"bei wei zeli yawin ei vin"-.
 
-vo-gudei go -"vin ... vin wei dei deni ei bei. enyasa."-
+vo-gudei go -"vin ... vin wei zeli ei bei. enyasa."-
 
-go -"dan vemi va-wei. vin wei va-wei belin ei dei deni"-
+go -"dan vemi va-wei. vin wei va-wei belin ei zeli"-
 
 go -"deso va-gin vin. vin li deni megi-yawin dan muli"- 
 
@@ -25,7 +25,7 @@ go -"bei wei uwein veli"-
 
 muli wei zon ei ye veso-mengi wei uwein veli la, va-gi wei gein egon bega.
 
-dis la, dis-di li yawin dei deni yawin.
+dis la, dis-di li yawin zeli yawin.
 
 vo-muli wei gelubi lon man begin. vo-begin go -"begin"-.
 
