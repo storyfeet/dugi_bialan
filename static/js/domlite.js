@@ -9,7 +9,8 @@ export function tag(name,props = {},children = []){
 		res.classList.add(props.className);
 	}
 	if (typeof children[Symbol.iterator] === 'function'){
-		res.append(...children);	
+			
+		res.append(...(children.filter((x)=> x)));	
 	}else {
 		res.append(children);
 	}

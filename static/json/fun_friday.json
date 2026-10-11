@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Marker Particles",
+        "examples":[
+            {"dugi":"wei","en":"before a verb (DO)"},
+            {"dugi":"ei","en":"before the object of a verb"},
+            {"dugi":"li","en":"Used like 'is', but not a verb"},
+            {"dugi":"ye","en":"before a subject (mid sentence)"}
+        ]
+    },
+    {
+        "title": "Q1: Sentence Structure",
+        "examples":[
+            {"dugi":"bei wei mugo", "en":"I eat"},
+            {"dugi":"dis li mugo", "en":"This is food"}
+        ] ,
+        "quiz":{
+            "dugi":"bei wei mugo ei dis mugo", "en":"I eat this food"
+        }
+    },
+    {
+        "title": "Q2: Yes no questions",
+        "examples":[
+            {"dugi":"vin wei va wei mugo", "en":"do/will you eat"},
+            {"dugi":"dis li va li deni", "en":"Is this small"},
+            {"dugi":"di zan lon mengi mugo", "en":"two people (are) at the/a restaurant"}
+        ] ,
+        "quiz":{
+            "dugi":"vin lon va lon mengi mugo", "en":"are you at the restaurant"
+        }
+    },
+    
+    {
+        "title":"Q3: To and from",
+        "examples":[
+            {"dugi": "dis wei leban ei mugo", "en":"this (he/she/it) takes food"},
+            {"dugi":"bei wei bena da vin ei dis", "en":"I give to you this"},
+            {"dugi":"dis bena li dan lin bei", "en":"This gift is from my heart"}
+        ] ,
+        "quiz":{
+            "dugi":"vin wei leban ei dis dan bei", "en":"You take this from me"
+        }
+    },
+    {
+        "title":"Q4: In order to",
+        "examples":[
+            {"dugi":"bei wei buli ei dis da wei bena da vin", "en":"I make this to give to you"},
+            {"dugi":"dis zan wei mugo dan li vas mugo", "en":"he/she eats because they are hungry"}
+        ] ,
+        "quiz":{
+            "dugi":"bei wei buli mugo da wei mugo", "en":"I cook to eat"
+        }
+    },
+    {
+        "title":"Q5: Questions - What where",
+        "examples":[
+            {"dugi":"vin wei vemi", "en":"What are you doing"},
+            {"dugi":"dei vin da vemi", "en":"Y'all to where (Where are you all going)"}
+        ] ,
+        "quiz":{
+            "dugi":"dei bei wei mugo ei vemi", "en":"what are we eating"
+        }
+    },
+    {
+        "title":"Q6: Why/Because",
+        "examples":[
+            {"dugi":"vin dan wei vemi wei egon ei bei", "en":"Why do/did you hit me"},
+            {"dugi":"dan ye wei egon ei bei", "en":"Because you hit me"}
+        ] ,
+        "quiz":{
+            "dugi":"dis da wei vemi wei bena ei mugo da bei", "en":"Why is this giving me food"
+        }
+    },
+    {
+        "title":"Q7: Possesives",
+        "examples":[
+            {"dugi":"zan wei din ei mugo bei", "en":"he/she cut my food"},
+            {"dugi":"o mugo ei din mugo vin", "en":"(imperative) Eat your food"}
+        ] ,
+        "quiz":{
+            "dugi":"va o mugo ei mugo bei", "en":"Don't eat my food"
+        }
+    },
+    {
+        "title":"Q8: Not But - Only",
+        "examples":[
+            {"dugi":"vo-dezi va wei deso deni mugo", "en":"The cow only eats a little"},
+            {"dugi":"gela-zo va li deso mugo", "en":"(The) fish is only food"}
+        ] ,
+        "quiz":{
+            "dugi":"bei wei mugo va ei deso gela-zo", "en":"I eat only fish"
+        }
+    },
+    {
+        "title":"Q9: Big puzzle FROM dugi",
+        "quiz":{
+            "dugi":"dis zan dan wei vemi wei mugo ei di din vo-dezi, deso bei va-wei deso mugo ei deni din gela-zo", 
+            "en":"Why does this person eat two cuts of cow but I only have a little fish"
+        }
+    },
+    {
+        "title":"Q10 INTO dugi",
+        "quiz":{
+            "from":"en","to":"dugi",
+            "dugi":"Who did you give my food to?", "en":"vin wei bena da vemi zan ei mugo bei"
+        }
+    }
+]
