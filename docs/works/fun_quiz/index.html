@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>fun_quiz</title>
+
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<style>
+
+
+#answers .roman{
+	font-size:300%;
+	text-align:center;
+}
+
+#answers .dugi {
+	font-size:400%;
+	text-align:center;
+}
+
+#answers .en{
+	font-size:250%;
+	text-align:center;
+}
+
+
+</style>
+
+</head>
+<body id="doc_body">
+    <div class="page_inner">
+        <div id="top_menu" class="no-print menu">
+            <a href="/">Home</a>
+            <a href="/word_list">Word List</a>
+            <a href="/grammar">Grammar</a>
+            <a href="/grammar_faq">Grammar Faq</a>
+            <a href="/phonology">Phonology</a>
+            <a href="/works">Works</a>
+            <a href="/dictionary">Dictionary</a>
+        </div><div class="title_box">
+            <img src="/pics/squares/dugibelan-1.svg">
+            <h1>fun_quiz</h1>
+        </div><div class="content">
+            
+
+
+<h1>Fun Friday Quiz</h1>
+
+<div id="quiz_area"></div>
+
+
+<script type="module">
+import {items} from "/js/items.js";
+import {fontMap,letterMap} from "/js/jsfontmapper.js";
+import * as DL from "/js/domlite.js";
+
+import * as TD from "/js/type_dugi.js" ;
+
+let converter = new TD.Converter(fontMap,letterMap);
+
+
+function title(s){
+    return DL.tag("h2",{},[s]);
+}
+
+let dom = {
+    quiz_area : document.getElementById("quiz_area");
+}
+
+	dom.quiz_area.innerHTML = "";
+	dom.qDiv.append(title("QUESTION ONE"));
+
+
+</script>
+        </div>
+    </div>
+
+</body>
+
+<script type="module">
+
+function setWideMode(){
+    let body = document.getElementById('doc_body');
+    if (window.innerHeight > window.innerWidth){
+        body.classList.add('tall_window');
+        body.classList.remove('wide_window');
+    } else{
+        body.classList.add('wide_window');
+        body.classList.remove('tall_window');
+    }
+}
+window.onresize = setWideMode;
+
+function showHideMenu_(){
+    let lastY = 0;
+    return ()=>{
+        let menu = document.getElementById('top_menu');
+        if (window.scrollY < 200){
+            console.log('Menu - inline');
+            menu.classList.remove("fix","hide");
+        }else if (window.scrollY > lastY){
+            console.log('menu - hide');
+            menu.classList.remove("fix");
+            menu.classList.add("hide");
+        } else{
+            console.log('menu - fix');
+            menu.classList.add("fix");
+            menu.classList.remove("hide");
+        }
+        console.log("last,current",lastY,window.scrollY );
+
+        lastY = window.scrollY;
+    }
+}
+
+function setShowButtons(event){
+    let body = document.getElementById('doc_body');
+    show
+}
+
+window.onscroll = showHideMenu_();
+
+setWideMode();
+showHideMenu_()();
+
+</script>
+
+</html>

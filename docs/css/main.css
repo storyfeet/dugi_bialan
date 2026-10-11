@@ -5,7 +5,7 @@
   src: url(/fonts/dugi2.ttf);
 }
 body {
-    background-color:#aaaa77;
+    /*background-color:#aaaa77;*/
     font-family: dugi_bialan ,Arial ,  Helvetica, sans-serif;
     margin:0px;
 }
