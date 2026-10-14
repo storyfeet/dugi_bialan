@@ -30,6 +30,7 @@ button {
     font-size:180%;
     background-color:{{$pallet_grey}};
     padding : 10px;
+    min-height: 90vh;
 }
 
 .content .script_dugi {

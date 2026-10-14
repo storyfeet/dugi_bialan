@@ -1,6 +1,39 @@
 {{export title="Friday Fun Quiz"}}
 {{@export style}}
 
+.eg_table td {
+	padding: 6px 20px;
+}
+
+.eg_dugi {
+	text-align:center;
+}
+
+.eg_en {
+	text-align:start;
+	vertical-align: bottom;
+}
+.eg_logo {
+	text-justify:inter-character;
+}
+
+.eg_table tr {
+	border:1px solid black;
+	margin:3px;
+}
+
+.q_table td {
+	padding: 6px 20px;
+	min-height: 100px;
+}
+
+.q_table td:first-child{
+	vertical-align:top;
+}
+
+
+
+
 #answers .roman{
 	font-size:300%;
 	text-align:center;
@@ -19,12 +52,11 @@
 {{/export}}
 
 
-<div id="quiz_area"></div>
 <div id="quiz_menu">
 	<button id="btn_prev">Previous</button>
-	<button id="btn_reveal">Reveal</button>
 	<button id="btn_next">Next</button>
 </div>
+<div id="quiz_area"></div>
 
 <script type="module">
 import {items} from "/js/items.js";
@@ -41,9 +73,10 @@ function title(s){
 }
 
 function dugi_text(tx){
-	let dugi = converter.convert(tx);
+	let de_dash = tx.replace(/-/g,' ');
+	let dugi = converter.convert(de_dash);
 	return DL.tag('div',{},[
-		DL.tx(dugi),
+		DL.span(dugi,{className: "eg_logo"}),
 		DL.br(),
 		DL.tx(tx),
 		
@@ -52,14 +85,14 @@ function dugi_text(tx){
 
 function example(ex_ob){
 	return DL.tr({},[
-		DL.td({},dugi_text(ex_ob.dugi)),
-		DL.td({},DL.tx(ex_ob.en))
+		DL.td({className:"eg_dugi"},dugi_text(ex_ob.dugi)),
+		DL.td({className:"eg_en"},DL.tx(ex_ob.en))
 	]);
 }
 
 function examples(ex_ar){
 	if (!ex_ar) return null;
-	return DL.tag("table",{},ex_ar.map(example));
+	return DL.tag("table",{className:"eg_table"},ex_ar.map(example));
 }
 
 function question_text(tx, mode){
@@ -77,8 +110,22 @@ function question(question,reveal){
 
 	return DL.tag("div",{},[
 		DL.tag("h3",{},["Your turn"]),
-		question_text(from,question.from ?? "dugi"),
-		reveal && question_text(to,question.to),
+		DL.tag("table", {className:"q_table"},[
+			DL.tag("tr",{},[
+				DL.tag("td",{},[
+					DL.tag("button",{onclick:reveal_answer},[
+						"Reveal"
+					])
+				]),
+				DL.tag("td",{},[
+
+					question_text(from,question.from ?? "dugi"),
+					reveal && question_text(to,question.to),
+				])
+
+			])
+
+		])
 		
 	]);
 
@@ -86,6 +133,7 @@ function question(question,reveal){
 
 function page(question_data,reveal){
 	return DL.tag("div",{},[
+		DL.tag("h3",{},[question_data.title]),
 		examples(question_data.examples),
 		question(question_data.quiz,reveal),
 	])
@@ -103,7 +151,7 @@ btn_next.onclick = ()=>{
 	next_question();
 };
 
-btn_reveal.onclick = () => {
+function reveal_answer() {
 	state.reveal = !state.reveal;
 	draw_page();
 }
