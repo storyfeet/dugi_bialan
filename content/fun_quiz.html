@@ -105,8 +105,8 @@ function question_text(tx, mode){
 function question(question,reveal){
 	if (!question) return null;
 
-	let from = question[question.from ?? "dugi"];
-	let to = question[question.to ?? "en"];
+	let from = question.from ?? "dugi";
+	let to = question.to ?? "en";
 
 	return DL.tag("div",{},[
 		DL.tag("h3",{},["Your turn"]),
@@ -119,8 +119,8 @@ function question(question,reveal){
 				]),
 				DL.tag("td",{},[
 
-					question_text(from,question.from ?? "dugi"),
-					reveal && question_text(to,question.to),
+					question_text(question[from],from ),
+					reveal && question_text(question[to],to),
 				])
 
 			])
