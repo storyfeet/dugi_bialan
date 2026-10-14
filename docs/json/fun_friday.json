@@ -102,7 +102,7 @@
         "title":"Q10 INTO dugi",
         "quiz":{
             "from":"en","to":"dugi",
-            "dugi":"Who did you give my food to?", "en":"vin wei bena da vemi zan ei mugo bei"
+            "dugi":"vin wei bena da vemi zan ei mugo bei", "en":"Who did you give my food to?"
         }
     }
 ]
