@@ -22,6 +22,7 @@ button {
     font-size:180%;
     background-color:#a7ac93;
     padding : 10px;
+    min-height: 90vh;
 }
 
 .content .script_dugi {

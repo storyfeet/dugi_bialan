@@ -21,12 +21,12 @@
     {
         "title": "Q2: Yes no questions",
         "examples":[
-            {"dugi":"vin wei va wei mugo", "en":"do/will you eat"},
-            {"dugi":"dis li va li deni", "en":"Is this small"},
+            {"dugi":"vin wei va-wei mugo", "en":"do/will you eat"},
+            {"dugi":"dis li va-li deni", "en":"Is this small"},
             {"dugi":"di zan lon mengi mugo", "en":"two people (are) at the/a restaurant"}
         ] ,
         "quiz":{
-            "dugi":"vin lon va lon mengi mugo", "en":"are you at the restaurant"
+            "dugi":"vin lon va-lon mengi mugo", "en":"are you at the restaurant"
         }
     },
     
