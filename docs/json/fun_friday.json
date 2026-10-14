@@ -65,7 +65,7 @@
         "title":"Q6: Why/Because",
         "examples":[
             {"dugi":"vin dan wei vemi wei egon ei bei", "en":"Why do/did you hit me"},
-            {"dugi":"dan ye wei egon ei bei", "en":"Because you hit me"}
+            {"dugi":"dan ye vin wei egon ei bei", "en":"Because you hit me"}
         ] ,
         "quiz":{
             "dugi":"dis da wei vemi wei bena ei mugo da bei", "en":"Why is this giving me food"
