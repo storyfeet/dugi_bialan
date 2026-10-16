@@ -75,7 +75,7 @@
         "title":"Q7: Possesives",
         "examples":[
             {"dugi":"zan wei din ei mugo bei", "en":"he/she cut my food"},
-            {"dugi":"o mugo ei din mugo vin", "en":"(imperative) Eat your food"}
+            {"dugi":"o mugo ei din mugo vin", "en":"(imperative) Eat your cut/piece of food"}
         ] ,
         "quiz":{
             "dugi":"va o mugo ei mugo bei", "en":"Don't eat my food"
