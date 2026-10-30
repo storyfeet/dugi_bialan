@@ -1,15 +1,21 @@
 const std = @import("std");
-const GPAlloc = std.heap.GeneralPurposeAllocator(.{});
 const cv = @import("converter.zig");
 
-var gpa = GPAlloc{};
+pub fn main(init: std.process.Init) !void {
+    var inbuf: [2000]u8 = std.mem.zeroes([2000]u8);
 
-pub fn main() !void {
-    var alloc = gpa.allocator();
+    var stdinob = std.Io.File.stdin().reader(init.io, &inbuf);
+    var stdin = &stdinob.interface;
+    var in_str = std.ArrayList(u8).empty;
+    try stdin.appendRemaining(init.gpa, &in_str, .limited(100_000));
 
-    var stdin = std.io.getStdIn();
-    const in_str = try stdin.readToEndAlloc(alloc, 100_000);
-    defer alloc.free(in_str);
+    //    const in_str = try stdin.allocRemaining(init.gpa, .limited(100_000));
+    defer in_str.deinit(init.gpa);
 
-    try cv.Converter(std.fs.File.Writer).convert(in_str, std.io.getStdOut().writer());
+    var outbuf: [2000]u8 = undefined;
+    var stdoutob = std.Io.File.stdout().writer(init.io, &outbuf);
+    var stdout = &stdoutob.interface;
+
+    try cv.Converter().convert(init.gpa, in_str.items, stdout);
+    try stdout.flush();
 }

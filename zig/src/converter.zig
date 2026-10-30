@@ -2,24 +2,21 @@ const std = @import("std");
 const token = @import("token.zig");
 const fmap = @import("fontmap.zig");
 
-const GPAlloc = std.heap.GeneralPurposeAllocator(.{ .safety = false });
 const TType = token.TokenType;
 const WType = fmap.WordType;
-var gpa = GPAlloc{};
 
 const LOWER_SET = "abdeghilmnosuvwy";
 
-pub fn Converter(comptime tp: type) type {
+pub fn Converter() type {
     return struct {
         words: fmap.FontMap,
         letters: fmap.FontMap,
         s: []const u8,
-        w: tp,
+        w: *std.Io.Writer,
         prev: WType,
 
         ///Does not take ownership of string
-        pub fn convert(s: []const u8, w: tp) !void {
-            const alloc = gpa.allocator();
+        pub fn convert(alloc: std.mem.Allocator, s: []const u8, w: *std.Io.Writer) !void {
             var self = @This(){
                 .words = try fmap.fontMap(alloc),
                 .letters = try fmap.letterMap(alloc),
@@ -27,14 +24,14 @@ pub fn Converter(comptime tp: type) type {
                 .w = w,
                 .prev = WType.Norm,
             };
-            //defer self.free();
+            defer self.free();
             var tk = token.Tokenizer.init(self.s);
             while (try tk.nextToken()) |t| {
                 try self.writeSymbol(t);
             }
         }
 
-        pub fn convertWith(s: []const u8, w: tp, words: fmap.FontMap, letters: fmap.FontMap) !void {
+        pub fn convertWith(s: []const u8, w: *std.Io.Writer, words: fmap.FontMap, letters: fmap.FontMap) !void {
             var self = @This(){
                 .words = words,
                 .letters = letters,
@@ -48,7 +45,7 @@ pub fn Converter(comptime tp: type) type {
             }
         }
 
-        pub fn free(self: @This()) void {
+        pub fn free(self: *@This()) void {
             self.words.clearAndFree();
             self.letters.clearAndFree();
         }
