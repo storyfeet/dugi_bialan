@@ -8,34 +8,29 @@ pub fn main(init: std.process.Init) !void {
 
     const cwd = std.Io.Dir.cwd();
 
-    var wordf = cwd.openFile(init.io, "../util/word_list.crd", .{}) catch |e| {
-        try stdout.print("Error opening file {}\n", .{e});
+    const words = cwd.readFileAlloc(init.io, "../util/word_list.crd", init.gpa, .limited(100_000)) catch |e| {
+        try stdout.print("Error opening word_list file {}\n", .{e});
         return e;
     };
-    var buf: [1000]u8 = undefined;
-    var word_reader = wordf.reader(init.io, &buf);
-    const words = try word_reader.interface.readAlloc(init.gpa, 100_000);
+    defer init.gpa.free(words);
 
-    //.readToEndAlloc(init.gpa, 100_000);
-    wordf.close(init.io);
-
-    var letterf = cwd.openFile(init.io, "../util/letter_list.crd", .{}) catch |e| {
-        try stdout.print("Error opening file {}\n", .{e});
+    const letters = cwd.readFileAlloc(init.io, "../util/letter_list.crd", init.gpa, .limited(10_000)) catch |e| {
+        try stdout.print("Error opening letter_list file {}\n", .{e});
         return e;
     };
-    var letter_reader = letterf.reader(init.io, &buf);
-    const letters = try letter_reader.interface.readAlloc(init.gpa, 10_000);
-    letterf.close(init.io);
+    defer init.gpa.free(letters);
 
     var fontOut = try cwd.createFile(init.io, "src/gen/words.zig", .{ .truncate = true });
     defer fontOut.close(init.io);
 
+    var buf: [1000]u8 = undefined;
     var font_writer = fontOut.writer(init.io, &buf);
     _ = try font_writer.interface.write(FMapStart);
     try genUnicodeRows(init.gpa, stdout, words, &font_writer.interface, zigMapRow);
     _ = try font_writer.interface.write(FMapMid);
     try genUnicodeRows(init.gpa, stdout, letters, &font_writer.interface, zigLetterRow);
     _ = try font_writer.interface.write(FMapFin);
+    try font_writer.interface.flush();
 
     var jsFontOut = try cwd.createFile(init.io, "../static/js/jsfontmapper.js", .{ .truncate = true });
     defer jsFontOut.close(init.io);
@@ -46,12 +41,14 @@ pub fn main(init: std.process.Init) !void {
     _ = try js_font_writer.interface.write(JMapMid);
     try genUnicodeRows(init.gpa, stdout, letters, &js_font_writer.interface, jsMapRow);
     _ = try js_font_writer.interface.write(JMapFin);
+    try js_font_writer.interface.flush();
 
     var humanOut = try cwd.createFile(init.io, "../static/gen/human_dict.md", .{ .truncate = true });
     defer humanOut.close(init.io);
     var humanWriter = humanOut.writer(init.io, &buf);
 
     try genHumanDict(init.gpa, stdout, words, &humanWriter.interface);
+    try humanWriter.interface.flush();
 }
 
 const RowWriter = fn (w: *std.Io.Writer, []const u8, []const u8, []const u8) anyerror!void;
