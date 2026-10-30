@@ -1,58 +1,70 @@
 const std = @import("std");
-var AL = std.heap.GeneralPurposeAllocator(.{}){};
-var al = AL.allocator();
 
 const crd = @import("card_format");
 
-pub fn main() !void {
-    const stdout = std.io.getStdOut().writer();
-    var wordf = std.fs.cwd().openFile("../util/word_list.crd", .{}) catch |e| {
+pub fn main(init: std.process.Init) !void {
+    var stdoutob = std.Io.File.stdout().writer(init.io, &.{});
+    var stdout = &(stdoutob.interface);
+
+    const cwd = std.Io.Dir.cwd();
+
+    var wordf = cwd.openFile(init.io, "../util/word_list.crd", .{}) catch |e| {
         try stdout.print("Error opening file {}\n", .{e});
         return e;
     };
-    const words = try wordf.readToEndAlloc(al, 100_000);
-    wordf.close();
+    var buf: [1000]u8 = undefined;
+    var word_reader = wordf.reader(init.io, &buf);
+    const words = try word_reader.interface.readAlloc(init.gpa, 100_000);
 
-    var letterf = std.fs.cwd().openFile("../util/letter_list.crd", .{}) catch |e| {
+    //.readToEndAlloc(init.gpa, 100_000);
+    wordf.close(init.io);
+
+    var letterf = cwd.openFile(init.io, "../util/letter_list.crd", .{}) catch |e| {
         try stdout.print("Error opening file {}\n", .{e});
         return e;
     };
-    const letters = try letterf.readToEndAlloc(al, 10_000);
-    wordf.close();
+    var letter_reader = letterf.reader(init.io, &buf);
+    const letters = try letter_reader.interface.readAlloc(init.gpa, 10_000);
+    letterf.close(init.io);
 
-    var fontOut = try std.fs.cwd().createFile("src/gen/words.zig", .{ .truncate = true });
-    defer fontOut.close();
+    var fontOut = try cwd.createFile(init.io, "src/gen/words.zig", .{ .truncate = true });
+    defer fontOut.close(init.io);
 
-    _ = try fontOut.write(FMapStart);
-    try genUnicodeRows(words, fontOut.writer(), zigMapRow);
-    _ = try fontOut.write(FMapMid);
-    try genUnicodeRows(letters, fontOut.writer(), zigLetterRow);
-    _ = try fontOut.write(FMapFin);
+    var font_writer = fontOut.writer(init.io, &buf);
+    _ = try font_writer.interface.write(FMapStart);
+    try genUnicodeRows(init.gpa, stdout, words, &font_writer.interface, zigMapRow);
+    _ = try font_writer.interface.write(FMapMid);
+    try genUnicodeRows(init.gpa, stdout, letters, &font_writer.interface, zigLetterRow);
+    _ = try font_writer.interface.write(FMapFin);
 
-    var jsFontOut = try std.fs.cwd().createFile("../static/js/jsfontmapper.js", .{ .truncate = true });
-    _ = try jsFontOut.write(JMapStart);
-    try genUnicodeRows(words, jsFontOut.writer(), jsMapRow);
-    _ = try jsFontOut.write(JMapMid);
-    try genUnicodeRows(letters, jsFontOut.writer(), jsMapRow);
-    _ = try jsFontOut.write(JMapFin);
+    var jsFontOut = try cwd.createFile(init.io, "../static/js/jsfontmapper.js", .{ .truncate = true });
+    defer jsFontOut.close(init.io);
 
-    var humanOut = try std.fs.cwd().createFile("../static/gen/human_dict.md", .{ .truncate = true });
-    defer humanOut.close();
+    var js_font_writer = jsFontOut.writer(init.io, &buf);
+    _ = try js_font_writer.interface.write(JMapStart);
+    try genUnicodeRows(init.gpa, stdout, words, &js_font_writer.interface, jsMapRow);
+    _ = try js_font_writer.interface.write(JMapMid);
+    try genUnicodeRows(init.gpa, stdout, letters, &js_font_writer.interface, jsMapRow);
+    _ = try js_font_writer.interface.write(JMapFin);
 
-    try genHumanDict(words, humanOut.writer());
+    var humanOut = try cwd.createFile(init.io, "../static/gen/human_dict.md", .{ .truncate = true });
+    defer humanOut.close(init.io);
+    var humanWriter = humanOut.writer(init.io, &buf);
+
+    try genHumanDict(init.gpa, stdout, words, &humanWriter.interface);
 }
 
-const RowWriter = fn (anytype, []const u8, []const u8, []const u8) anyerror!void;
+const RowWriter = fn (w: *std.Io.Writer, []const u8, []const u8, []const u8) anyerror!void;
 
-fn zigMapRow(w: anytype, name: []const u8, ucode: []const u8, wtype: []const u8) anyerror!void {
+fn zigMapRow(w: *std.Io.Writer, name: []const u8, ucode: []const u8, wtype: []const u8) anyerror!void {
     try w.print("\ttry m.put_{s}(\"{s}\",0x{s});\n", .{ wtype, name, ucode });
 }
 
-fn zigLetterRow(w: anytype, name: []const u8, ucode: []const u8, _: []const u8) anyerror!void {
+fn zigLetterRow(w: *std.Io.Writer, name: []const u8, ucode: []const u8, _: []const u8) anyerror!void {
     try w.print("\ttry m.put_pre(\"{s}\",0x{s});\n", .{ name, ucode });
 }
 
-fn jsMapRow(w: anytype, name: []const u8, ucode: []const u8, _: []const u8) anyerror!void {
+fn jsMapRow(w: *std.Io.Writer, name: []const u8, ucode: []const u8, _: []const u8) anyerror!void {
     try w.print("\t\"{s}\":\"\\u{{{s}}}\",\n", .{
         name,
         ucode,
@@ -60,12 +72,12 @@ fn jsMapRow(w: anytype, name: []const u8, ucode: []const u8, _: []const u8) anye
 }
 
 pub fn genUnicodeRows(
+    al: std.mem.Allocator,
+    stdout: *std.Io.Writer,
     s: []const u8,
-    fout: anytype,
+    fout: *std.Io.Writer,
     rowFn: RowWriter,
 ) !void {
-    const stdout = std.io.getStdOut().writer();
-
     var p = try crd.Parser.init(s, al);
     defer p.deinit();
     var name: []const u8 = try al.dupe(u8, "NOTHING");
@@ -115,9 +127,7 @@ pub fn genUnicodeRows(
     }
 }
 
-pub fn genHumanDict(s: []const u8, fout: anytype) !void {
-    const stdout = std.io.getStdOut().writer();
-
+pub fn genHumanDict(al: std.mem.Allocator, stdout: *std.Io.Writer, s: []const u8, fout: *std.Io.Writer) !void {
     var p = try crd.Parser.init(s, al);
     defer p.deinit();
 
