@@ -122,6 +122,8 @@ pub fn genUnicodeRows(
             },
         }
     }
+
+    al.free(name);
 }
 
 pub fn genHumanDict(al: std.mem.Allocator, stdout: *std.Io.Writer, s: []const u8, fout: *std.Io.Writer) !void {
