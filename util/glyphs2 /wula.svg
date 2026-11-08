@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="wula.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#e4e4e4"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#a3a3a3"
+     inkscape:document-units="mm"
+     inkscape:zoom="7.4835468"
+     inkscape:cx="23.651887"
+     inkscape:cy="43.963111"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="120"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 18.214158,10.986852 c 0,0 -2.744379,-0.03852 -9.7262076,0 -8.39597952,0.04633 -8.63898652,6.521515 0,6.583125"
+       id="path14"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;paint-order:stroke fill markers"
+       d="m 1.7920986,7.551141 c 0,0 2.7443791,0.034138 9.7262074,0 8.395979,-0.041053 8.638986,-5.7793817 0,-5.8339808"
+       id="path14-3"
+       sodipodi:nodetypes="csc" />
+  </g>
+</svg>

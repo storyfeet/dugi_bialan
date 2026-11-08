@@ -1,8 +1,8 @@
 @param dugi note
 abandon ["wega uwein", "wega"]
-ability [gein,lebuni]
+ability [gein]
 able [gein]
-"about .." ["lon dugi bi .."]
+"about .." ["lon dugi bi ..","lon bo ..", "lon man .."]
 "above .." ["lon munin", "lon zewi","lon zugi"]
 abroad ["lon man liawa endei","lon munin delo","lon wega"]
 absence ["wega"]
@@ -49,7 +49,7 @@ actress ["min bi musi zan"]
 actual [veli]
 actually [veli]
 adapt ["endei buna","endei da guvi"]
-adaptation ["endei buna", "endei", "lebuni"]
+adaptation ["endei gein", "endei","gein endei" ]
 add ["bena", "gin", "mudei"]
 added ["gin","bi bena","bena"]
 addiction ["belin va-gein biagei"]
@@ -79,7 +79,7 @@ the ["dis","das"]
 of ["bi","wi"]
 and ["gin","(reuse marker particle)" ]
 to ["da"]
-a ["won"]
+a ["gi"]
 in ["lon","lon ensa"]
 for ["da","da wei"]
 is ["li"]
@@ -8092,7 +8092,7 @@ fairy
 builds
 contacted
 shaft
-lean
+lean ["bo bo"]
 bye
 cdt
 recorders
@@ -9480,4 +9480,4 @@ arbor
 mediawiki
 configurations
 poison
-
+wobble ["bo bo"]
